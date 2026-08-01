@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1903446329877233956",
+    "created_at": "2025-03-22T15:27:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-22T16:27:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903468663539413266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1757652601427099648",
+          "start": 0,
+          "username": "chaohuakuy7423"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903468663539413266",
+    "in_reply_to_user_id": "1757652601427099648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903466112651776010",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chaohuakuy7423 没错。还好我矜持捏。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1903446329877233956",
+        "created_at": "2025-03-22T15:27:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T16:27:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903468663539413266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1757652601427099648",
+              "start": 0,
+              "username": "chaohuakuy7423"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903468663539413266",
+        "in_reply_to_user_id": "1757652601427099648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903466112651776010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chaohuakuy7423 没错。还好我矜持捏。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757652601427099648",
+        "conversation_id": "1903446329877233956",
+        "created_at": "2025-03-22T15:17:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T16:17:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903466112651776010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1726051028112744448",
+              "start": 0,
+              "username": "Dream_xyuuup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903466112651776010",
+        "in_reply_to_user_id": "1726051028112744448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903446329877233956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dream_xyuuup 又是指南的小把戏（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "喜欢你૮ •𖥦• აᐝ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dreamxy_uuup",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dreamxy_uuup",
+                "start": 0,
+                "url": "https://t.co/V4QSiptbnl"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠ltnh",
+        "pinned_tweet_id": "1898320029139214432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896250221824520192/PpwkphAn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 205,
+          "like_count": 1329,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 671
+        },
+        "url": "https://t.co/V4QSiptbnl",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T06:27:00.000Z",
+        "description": "🌈 一般路过普通男高（",
+        "id": "1757652601427099648",
+        "name": "昭华Ky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776483836471459840/tkwUxzvF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 461,
+          "like_count": 1059,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 178
+        },
+        "username": "chaohuakuy7423",
+        "verified": false
+      }
+    ]
+  }
+}

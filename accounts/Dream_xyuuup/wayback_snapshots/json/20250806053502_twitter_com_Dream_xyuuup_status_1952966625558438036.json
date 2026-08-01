@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1952772961250717780",
+    "created_at": "2025-08-06T05:35:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T06:35:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952966625558438036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1845491203124441093",
+          "start": 0,
+          "username": "yu_huacs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952966625558438036",
+    "in_reply_to_user_id": "1845491203124441093",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952772961250717780",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yu_huacs 哈基米"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30063,
+        "height": 1280,
+        "media_key": "7_1952772744619171841",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1952772744619171841/pu/img/2ePxTe4VRshdFtdy.jpg",
+        "public_metrics": {
+          "view_count": 34
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1952772744619171841/pu/vid/avc1/320x568/6mQNdxTfq7Ujj1-I.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1952772744619171841/pu/vid/avc1/480x852/HHh53ilzJ9nCHw73.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1952772744619171841/pu/vid/avc1/720x1280/w6zW9ZpvFqXUfmSV.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1952772744619171841/pu/pl/0ffmi3SNDFYyHEJ4.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1952772961250717780",
+        "created_at": "2025-08-06T05:35:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T06:35:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952966625558438036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1845491203124441093",
+              "start": 0,
+              "username": "yu_huacs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952966625558438036",
+        "in_reply_to_user_id": "1845491203124441093",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952772961250717780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yu_huacs 哈基米"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1952772744619171841"
+          ]
+        },
+        "author_id": "1845491203124441093",
+        "conversation_id": "1952772961250717780",
+        "created_at": "2025-08-05T16:45:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T17:45:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952772961250717780"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ncSu6bQgaK",
+              "end": 23,
+              "expanded_url": "https://x.com/yu_huacs/status/1952772961250717780/video/1",
+              "media_key": "7_1952772744619171841",
+              "start": 0,
+              "url": "https://t.co/ncSu6bQgaK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952772961250717780",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 140,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ncSu6bQgaK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "yì jīu｜不知道什么圈子，谢谢你的喜欢我也喜欢你喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 539,
+          "like_count": 6677,
+          "listed_count": 0,
+          "media_count": 383,
+          "tweet_count": 3366
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T15:46:25.000Z",
+        "description": "余华 单车佬  宅 双 抽象 我的世界  闪电S WROKS VENGE Allez sprint tfsa jhf06 OCR5500 Lain Overdoes 双相情感障碍治疗中\n\n第二人格 @yuhuacs5570\n最好の兄弟@Lizzy6315",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 99,
+                "username": "yuhuacs5570"
+              },
+              {
+                "end": 127,
+                "start": 117,
+                "username": "Lizzy6315"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yu_huacs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yu_huacs",
+                "start": 0,
+                "url": "https://t.co/fGARwmdWCT"
+              }
+            ]
+          }
+        },
+        "id": "1845491203124441093",
+        "location": "shanghai",
+        "name": "余華誠霜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922978167616143360/O6HKnIve_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 938,
+          "following_count": 979,
+          "like_count": 78958,
+          "listed_count": 9,
+          "media_count": 1574,
+          "tweet_count": 13527
+        },
+        "url": "https://t.co/fGARwmdWCT",
+        "username": "yu_huacs",
+        "verified": false
+      }
+    ]
+  }
+}

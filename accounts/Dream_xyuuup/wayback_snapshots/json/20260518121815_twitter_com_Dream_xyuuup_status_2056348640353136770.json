@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "2056348640353136770",
+    "created_at": "2026-05-18T12:18:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T13:18:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056348640353136770"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hanlianyi331/s…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/hanlianyi331/status/2056059073683218888",
+          "start": 8,
+          "url": "https://t.co/xbaNI2Ekoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056348640353136770",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056059073683218888",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看得有点绝望了 https://t.co/xbaNI2Ekoo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "2056348640353136770",
+        "created_at": "2026-05-18T12:18:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T13:18:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056348640353136770"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hanlianyi331/s…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/hanlianyi331/status/2056059073683218888",
+              "start": 8,
+              "url": "https://t.co/xbaNI2Ekoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056348640353136770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056059073683218888",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看得有点绝望了 https://t.co/xbaNI2Ekoo"
+      },
+      {
+        "article": {
+          "title": "中国跨性别群体生存困境概括"
+        },
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2056059073683218888",
+        "created_at": "2026-05-17T17:07:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T18:07:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056059073683218888"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2056…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2056054882550050816",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2056054882550050816",
+              "url": "https://t.co/s7TA2UyY2F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056059073683218888",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 19669,
+          "like_count": 225,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/s7TA2UyY2F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "mtx,her/they,hrt260307\n*・x・*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "弈鸠",
+        "pinned_tweet_id": "2055264508608970925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052421075716505600/5gcoclAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 528,
+          "following_count": 631,
+          "like_count": 8348,
+          "listed_count": 0,
+          "media_count": 596,
+          "tweet_count": 5957
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCojENt｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 24,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 99,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 76,
+                "url": "https://t.co/DPmfCojENt"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41607,
+          "following_count": 3751,
+          "like_count": 1642,
+          "listed_count": 73,
+          "media_count": 390,
+          "tweet_count": 2865
+        },
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

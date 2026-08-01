@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1924511394671821139",
+    "created_at": "2025-05-20T04:12:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-20T05:12:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924679612833136959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1529654419213541376",
+          "start": 0,
+          "username": "3LifeStrongWine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924679612833136959",
+    "in_reply_to_user_id": "1529654419213541376",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924511394671821139",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3LifeStrongWine 勿念"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 783,
+        "media_key": "3_1924511387231133696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrU86QIbIAAbIX8.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1924511394671821139",
+        "created_at": "2025-05-20T04:12:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T05:12:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924679612833136959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924679612833136959",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924511394671821139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 勿念"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924511387231133696"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "conversation_id": "1924511394671821139",
+        "created_at": "2025-05-19T17:04:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T18:04:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924511394671821139"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wXyl3uoUl4",
+              "end": 23,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1924511394671821139/photo/1",
+              "media_key": "3_1924511387231133696",
+              "start": 0,
+              "url": "https://t.co/wXyl3uoUl4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924511394671821139",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2672,
+          "like_count": 35,
+          "quote_count": 3,
+          "reply_count": 41,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/wXyl3uoUl4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "废话多｜对所有人友好除了现生｜最可爱的小宝宝@QLing61007 😽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1917423348302467396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924678380655673348/VxgKyXwf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 428,
+          "like_count": 4401,
+          "listed_count": 1,
+          "media_count": 206,
+          "tweet_count": 1938
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "闻有三山不知处，茂陵松柏满西风",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912318298353487872/R3xfbIV4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1518,
+          "following_count": 234,
+          "like_count": 7403,
+          "listed_count": 11,
+          "media_count": 2652,
+          "tweet_count": 10762
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

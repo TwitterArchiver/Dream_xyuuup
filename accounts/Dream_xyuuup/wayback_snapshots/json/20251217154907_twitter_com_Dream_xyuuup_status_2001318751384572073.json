@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "2001162404588347672",
+    "created_at": "2025-12-17T15:49:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T16:49:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001318751384572073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1912916776519954432",
+          "start": 0,
+          "username": "liu_lu43456"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001318751384572073",
+    "in_reply_to_user_id": "1912916776519954432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001162404588347672",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liu_lu43456 睿鹤牛逼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2001162394685595653",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8WOmGka4AUG8jt.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "2001162404588347672",
+        "created_at": "2025-12-17T15:49:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T16:49:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001318751384572073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1912916776519954432",
+              "start": 0,
+              "username": "liu_lu43456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001318751384572073",
+        "in_reply_to_user_id": "1912916776519954432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001162404588347672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liu_lu43456 睿鹤牛逼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001162394685595653"
+          ]
+        },
+        "author_id": "1912916776519954432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2001162404588347672",
+        "created_at": "2025-12-17T05:27:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T06:27:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001162404588347672"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RU6XOwoOvW",
+              "end": 33,
+              "expanded_url": "https://x.com/liu_lu43456/status/2001162404588347672/photo/1",
+              "media_key": "3_2001162394685595653",
+              "start": 10,
+              "url": "https://t.co/RU6XOwoOvW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001162404588347672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 153,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃下这一瓶，会爽飞 https://t.co/RU6XOwoOvW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "你能想到的坏习惯我都有",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998066182315020289/_eUXKzgo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 597,
+          "like_count": 7936,
+          "listed_count": 1,
+          "media_count": 475,
+          "tweet_count": 4343
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-17T17:11:35.000Z",
+        "description": "🟪MBTI:INTP-T🟣/5w4🧬/处女座♍/无性别🏳️‍⚧️\n/🚪💰25 52 520 1314/禁止🚫政治讨论吵架✟昇天✟平易近人/当我的好友吧💗/聊天易消失/难主动/✨Gyouboshi 行星小鹿，游荡宇宙/",
+        "id": "1912916776519954432",
+        "location": "石家庄市",
+        "name": "Gyouboshi小鹿＃毕宿五",
+        "pinned_tweet_id": "1998167749814628446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997874617831358464/DcafvHkA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 125,
+          "like_count": 365,
+          "listed_count": 3,
+          "media_count": 187,
+          "tweet_count": 1289
+        },
+        "username": "liu_lu43456",
+        "verified": false
+      }
+    ]
+  }
+}

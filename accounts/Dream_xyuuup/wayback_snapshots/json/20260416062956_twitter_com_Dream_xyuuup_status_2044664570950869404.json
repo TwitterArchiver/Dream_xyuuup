@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2044608482993934337"
+      ],
+      "media_source_tweet_id": [
+        "2044608566334742882"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "2044664570950869404",
+    "created_at": "2026-04-16T06:29:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T07:29:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044664570950869404"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CLUEK16A5T",
+          "end": 28,
+          "expanded_url": "https://x.com/quarktalksss/status/2044608566334742882/video/1",
+          "media_key": "7_2044608482993934337",
+          "start": 5,
+          "url": "https://t.co/CLUEK16A5T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044664570950869404",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "笑死我了 https://t.co/CLUEK16A5T"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 42585,
+        "height": 1024,
+        "media_key": "7_2044608482993934337",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2044608482993934337/pu/img/k_ZaQvJeHGx9O-aN.jpg",
+        "public_metrics": {
+          "view_count": 31065
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2044608482993934337/pu/vid/avc1/320x568/4GoxxnUQtzUhgxQ6.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2044608482993934337/pu/vid/avc1/480x852/2RpjaO05eqjQlcHk.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2044608482993934337/pu/vid/avc1/576x1024/0qD4plnM9RncjtfV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2044608482993934337/pu/pl/AGb1cnJTb94JOkyZ.m3u8?v=c15"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2044608482993934337"
+          ],
+          "media_source_tweet_id": [
+            "2044608566334742882"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "2044664570950869404",
+        "created_at": "2026-04-16T06:29:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T07:29:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044664570950869404"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CLUEK16A5T",
+              "end": 28,
+              "expanded_url": "https://x.com/quarktalksss/status/2044608566334742882/video/1",
+              "media_key": "7_2044608482993934337",
+              "start": 5,
+              "url": "https://t.co/CLUEK16A5T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044664570950869404",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "笑死我了 https://t.co/CLUEK16A5T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "enby,her/they,Kpop,激女粉红点进就死\n*・x・*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041811823687823360/QQkkR0z6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 614,
+          "like_count": 8022,
+          "listed_count": 1,
+          "media_count": 503,
+          "tweet_count": 4921
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      }
+    ]
+  }
+}

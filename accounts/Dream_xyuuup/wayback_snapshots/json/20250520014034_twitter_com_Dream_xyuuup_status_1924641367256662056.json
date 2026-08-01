@@ -1,0 +1,925 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1924225462714195968"
+      ],
+      "media_source_tweet_id": [
+        "1924225469949300971"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1138142402802143232",
+          "name": "Jang Wonyoung"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1458459580900335616",
+          "name": "IVE"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1465984223882268677",
+          "name": "Leeseo"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1138142402802143232",
+          "name": "Jang Wonyoung"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1458459580900335616",
+          "name": "IVE"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1465984223882268677",
+          "name": "Leeseo"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1138142402802143232",
+          "name": "Jang Wonyoung"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1458459580900335616",
+          "name": "IVE"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1465984223882268677",
+          "name": "Leeseo"
+        }
+      }
+    ],
+    "conversation_id": "1924641367256662056",
+    "created_at": "2025-05-20T01:40:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-20T02:40:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924641367256662056"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 37,
+          "normalized_text": "Princesses",
+          "probability": 0.5837,
+          "start": 28,
+          "type": "Person"
+        },
+        {
+          "end": 47,
+          "normalized_text": "#장원영",
+          "probability": 0.6488,
+          "start": 44,
+          "type": "Person"
+        },
+        {
+          "end": 61,
+          "normalized_text": "JANGWONYOUNG",
+          "probability": 0.9521,
+          "start": 50,
+          "type": "Person"
+        },
+        {
+          "end": 74,
+          "normalized_text": "LEESEO",
+          "probability": 0.8866,
+          "start": 69,
+          "type": "Person"
+        },
+        {
+          "end": 79,
+          "normalized_text": "IVE",
+          "probability": 0.3334,
+          "start": 77,
+          "type": "Organization"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 48,
+          "start": 44,
+          "tag": "장원영"
+        },
+        {
+          "end": 62,
+          "start": 49,
+          "tag": "JANGWONYOUNG"
+        },
+        {
+          "end": 67,
+          "start": 64,
+          "tag": "이서"
+        },
+        {
+          "end": 75,
+          "start": 68,
+          "tag": "LEESEO"
+        },
+        {
+          "end": 80,
+          "start": 76,
+          "tag": "IVE"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1782096708966436864",
+          "start": 3,
+          "username": "wonyoungdollz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Nvjevr7X9c",
+          "end": 104,
+          "expanded_url": "https://x.com/wonyoungdollz/status/1924225469949300971/photo/1",
+          "media_key": "3_1924225462714195968",
+          "start": 81,
+          "url": "https://t.co/Nvjevr7X9c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924641367256662056",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 277
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924225469949300971",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wonyoungdollz: 240519 | Princesses 👸🏻 \n\n#장원영 #JANGWONYOUNG \n#이서 #LEESEO #IVE https://t.co/Nvjevr7X9c"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2880,
+        "media_key": "3_1924225462714195968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrQ43QTXYAAzMWM.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924225462714195968"
+          ],
+          "media_source_tweet_id": [
+            "1924225469949300971"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1138142402802143232",
+              "name": "Jang Wonyoung"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1458459580900335616",
+              "name": "IVE"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1465984223882268677",
+              "name": "Leeseo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1138142402802143232",
+              "name": "Jang Wonyoung"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1458459580900335616",
+              "name": "IVE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1465984223882268677",
+              "name": "Leeseo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1138142402802143232",
+              "name": "Jang Wonyoung"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1458459580900335616",
+              "name": "IVE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1465984223882268677",
+              "name": "Leeseo"
+            }
+          }
+        ],
+        "conversation_id": "1924641367256662056",
+        "created_at": "2025-05-20T01:40:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T02:40:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924641367256662056"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 37,
+              "normalized_text": "Princesses",
+              "probability": 0.5837,
+              "start": 28,
+              "type": "Person"
+            },
+            {
+              "end": 47,
+              "normalized_text": "#장원영",
+              "probability": 0.6488,
+              "start": 44,
+              "type": "Person"
+            },
+            {
+              "end": 61,
+              "normalized_text": "JANGWONYOUNG",
+              "probability": 0.9521,
+              "start": 50,
+              "type": "Person"
+            },
+            {
+              "end": 74,
+              "normalized_text": "LEESEO",
+              "probability": 0.8866,
+              "start": 69,
+              "type": "Person"
+            },
+            {
+              "end": 79,
+              "normalized_text": "IVE",
+              "probability": 0.3334,
+              "start": 77,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 44,
+              "tag": "장원영"
+            },
+            {
+              "end": 62,
+              "start": 49,
+              "tag": "JANGWONYOUNG"
+            },
+            {
+              "end": 67,
+              "start": 64,
+              "tag": "이서"
+            },
+            {
+              "end": 75,
+              "start": 68,
+              "tag": "LEESEO"
+            },
+            {
+              "end": 80,
+              "start": 76,
+              "tag": "IVE"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1782096708966436864",
+              "start": 3,
+              "username": "wonyoungdollz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nvjevr7X9c",
+              "end": 104,
+              "expanded_url": "https://x.com/wonyoungdollz/status/1924225469949300971/photo/1",
+              "media_key": "3_1924225462714195968",
+              "start": 81,
+              "url": "https://t.co/Nvjevr7X9c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924641367256662056",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 277
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924225469949300971",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wonyoungdollz: 240519 | Princesses 👸🏻 \n\n#장원영 #JANGWONYOUNG \n#이서 #LEESEO #IVE https://t.co/Nvjevr7X9c"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924225462714195968"
+          ]
+        },
+        "author_id": "1782096708966436864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1138142402802143232",
+              "name": "Jang Wonyoung"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1458459580900335616",
+              "name": "IVE"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1465984223882268677",
+              "name": "Leeseo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1138142402802143232",
+              "name": "Jang Wonyoung"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1458459580900335616",
+              "name": "IVE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1465984223882268677",
+              "name": "Leeseo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1138142402802143232",
+              "name": "Jang Wonyoung"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1458459580900335616",
+              "name": "IVE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1465984223882268677",
+              "name": "Leeseo"
+            }
+          }
+        ],
+        "conversation_id": "1924225469949300971",
+        "created_at": "2025-05-18T22:07:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T23:07:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924225469949300971"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "Princesses",
+              "probability": 0.7227,
+              "start": 9,
+              "type": "Person"
+            },
+            {
+              "end": 28,
+              "normalized_text": "#장원영",
+              "probability": 0.6546,
+              "start": 25,
+              "type": "Person"
+            },
+            {
+              "end": 42,
+              "normalized_text": "JANGWONYOUNG",
+              "probability": 0.9492,
+              "start": 31,
+              "type": "Person"
+            },
+            {
+              "end": 55,
+              "normalized_text": "LEESEO",
+              "probability": 0.882,
+              "start": 50,
+              "type": "Person"
+            },
+            {
+              "end": 60,
+              "normalized_text": "IVE",
+              "probability": 0.4805,
+              "start": 58,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 25,
+              "tag": "장원영"
+            },
+            {
+              "end": 43,
+              "start": 30,
+              "tag": "JANGWONYOUNG"
+            },
+            {
+              "end": 48,
+              "start": 45,
+              "tag": "이서"
+            },
+            {
+              "end": 56,
+              "start": 49,
+              "tag": "LEESEO"
+            },
+            {
+              "end": 61,
+              "start": 57,
+              "tag": "IVE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nvjevr7X9c",
+              "end": 85,
+              "expanded_url": "https://x.com/wonyoungdollz/status/1924225469949300971/photo/1",
+              "media_key": "3_1924225462714195968",
+              "start": 62,
+              "url": "https://t.co/Nvjevr7X9c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924225469949300971",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 324,
+          "impression_count": 108872,
+          "like_count": 5278,
+          "quote_count": 11,
+          "reply_count": 1,
+          "retweet_count": 277
+        },
+        "reply_settings": "everyone",
+        "text": "240519 | Princesses 👸🏻 \n\n#장원영 #JANGWONYOUNG \n#이서 #LEESEO #IVE https://t.co/Nvjevr7X9c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "废话多｜对所有人友好除了现生｜最可爱的小宝宝@QLing61007 😽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1917423348302467396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905913123158298624/ClLLrGxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 426,
+          "like_count": 4375,
+          "listed_count": 1,
+          "media_count": 204,
+          "tweet_count": 1929
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-21T17:19:12.000Z",
+        "description": "– for IVE's #장원영 🐰. Forever with IVE OT6 🫂💕. #INHYEONGZ Are My Absolutely Weakness 🩷. Upscaling Pics to 4K 📸. All WY Duos are Love ❤️.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 16,
+                "start": 12,
+                "tag": "장원영"
+              },
+              {
+                "end": 55,
+                "start": 45,
+                "tag": "INHYEONGZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/wonyoungdollz",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/wonyoungdollz",
+                "start": 0,
+                "url": "https://t.co/W3nAV6gpPk"
+              }
+            ]
+          }
+        },
+        "id": "1782096708966436864",
+        "location": "Wonyoungism ✨",
+        "name": "ᥫ᭡ 🪽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908083939828178944/uLc7Ymae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29696,
+          "following_count": 246,
+          "like_count": 27934,
+          "listed_count": 137,
+          "media_count": 10492,
+          "tweet_count": 20000
+        },
+        "url": "https://t.co/W3nAV6gpPk",
+        "username": "wonyoungdollz",
+        "verified": true
+      }
+    ]
+  }
+}

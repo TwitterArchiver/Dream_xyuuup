@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "2054509400208105551",
+    "created_at": "2026-05-13T10:38:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T11:38:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054511669062275344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1724632804141785088",
+          "start": 0,
+          "username": "wdswbb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054511669062275344",
+    "in_reply_to_user_id": "1724632804141785088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054509400208105551",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wdswbb 是你生物爹妈的错"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "2054509400208105551",
+        "created_at": "2026-05-13T10:38:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T11:38:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054511669062275344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1724632804141785088",
+              "start": 0,
+              "username": "wdswbb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054511669062275344",
+        "in_reply_to_user_id": "1724632804141785088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054509400208105551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wdswbb 是你生物爹妈的错"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1724632804141785088",
+        "conversation_id": "2054509400208105551",
+        "created_at": "2026-05-13T10:29:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T11:29:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054509400208105551"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wdswbb/status/…",
+              "end": 139,
+              "expanded_url": "https://twitter.com/wdswbb/status/2054481755353264318",
+              "start": 116,
+              "url": "https://t.co/2KRz5gWLWL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054509400208105551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054481755353264318",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我14岁的时候跟爸妈去爬山，他们一直说我没有笑，一直说我摆脸色给他们看，然后我就很难过我就不爬了，他们就走了留我一个人在后面，我就对着山壁边下跪磕头边哭，把后面一对路人吓到了以为见鬼了。我现在都不知道我当时为什么要这样做，很搞笑吧 https://t.co/2KRz5gWLWL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "弈鸠，是谁？\nmtx,her/they,激女粉红点进就死\n*・x・*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "脚踩你爷爷登顶称王",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052421075716505600/5gcoclAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 517,
+          "following_count": 630,
+          "like_count": 8344,
+          "listed_count": 0,
+          "media_count": 589,
+          "tweet_count": 5849
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-15T03:38:05.000Z",
+        "description": "",
+        "id": "1724632804141785088",
+        "name": "LC",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787033321375145984/K8Xfgv2K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1138,
+          "following_count": 137,
+          "like_count": 2687,
+          "listed_count": 4,
+          "media_count": 163,
+          "tweet_count": 1109
+        },
+        "username": "wdswbb",
+        "verified": true
+      }
+    ]
+  }
+}

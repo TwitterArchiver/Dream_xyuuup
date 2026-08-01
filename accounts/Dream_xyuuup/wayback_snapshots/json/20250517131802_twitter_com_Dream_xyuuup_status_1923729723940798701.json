@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1923728257532428486",
+    "created_at": "2025-05-17T13:18:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-17T14:18:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923729723940798701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1883047762729820160",
+          "start": 0,
+          "username": "tidy_fun8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923729723940798701",
+    "in_reply_to_user_id": "1883047762729820160",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923728257532428486",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tidy_fun8964 大神"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19101,
+        "height": 1280,
+        "media_key": "7_1923728106310823938",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1923728106310823938/pu/img/C-Y2tj9e1aKSitWG.jpg",
+        "public_metrics": {
+          "view_count": 6
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1923728106310823938/pu/vid/avc1/320x568/ArhkcYfMCi1opE8o.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1923728106310823938/pu/vid/avc1/480x852/PJ-zGdSU8rw-wkQH.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1923728106310823938/pu/vid/avc1/720x1280/xaM1Y5lG3cgiaMfz.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1923728106310823938/pu/pl/ZzfzldFlgkIMf3jq.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1923728257532428486",
+        "created_at": "2025-05-17T13:18:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T14:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923729723940798701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1883047762729820160",
+              "start": 0,
+              "username": "tidy_fun8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923729723940798701",
+        "in_reply_to_user_id": "1883047762729820160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923728257532428486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tidy_fun8964 大神"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1923728106310823938"
+          ]
+        },
+        "author_id": "1883047762729820160",
+        "conversation_id": "1923728257532428486",
+        "created_at": "2025-05-17T13:12:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T14:12:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923728257532428486"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/urMf48VSLs",
+              "end": 29,
+              "expanded_url": "https://x.com/tidy_fun8964/status/1923728257532428486/video/1",
+              "media_key": "7_1923728106310823938",
+              "start": 6,
+              "url": "https://t.co/urMf48VSLs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923728257532428486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就这样玩 https://t.co/urMf48VSLs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "废话多｜对所有人友好除了现生｜最可爱的小宝宝@QLing61007 😽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠（反酒精）",
+        "pinned_tweet_id": "1917423348302467396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905913123158298624/ClLLrGxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 428,
+          "like_count": 4290,
+          "listed_count": 1,
+          "media_count": 199,
+          "tweet_count": 1897
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T07:02:44.000Z",
+        "description": "ENFP-A 10年学生 169cm|48kg 万用人 包容所有人 中文|English RFS IF SFS 关注@LiuSuK7777喵 关注@JyushitiYizuka喵谢谢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 58,
+                "username": "LiuSuK7777"
+              },
+              {
+                "end": 88,
+                "start": 73,
+                "username": "JyushitiYizuka"
+              }
+            ]
+          }
+        },
+        "id": "1883047762729820160",
+        "location": "别tmd把我的id发墙内去了啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊",
+        "name": "泉こなたOffical",
+        "pinned_tweet_id": "1917836494699380850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908488824067371008/B9gnjeKB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 1335,
+          "like_count": 5079,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 2832
+        },
+        "username": "tidy_fun8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "2048955391011402007",
+    "created_at": "2026-04-28T02:50:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T03:50:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048957939273081242"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2033556052650975232",
+          "start": 0,
+          "username": "NBabysitte65342"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048957939273081242",
+    "in_reply_to_user_id": "2033556052650975232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048955391011402007",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NBabysitte65342 还好我是台电"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "2048955391011402007",
+        "created_at": "2026-04-28T02:50:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T03:50:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048957939273081242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2033556052650975232",
+              "start": 0,
+              "username": "NBabysitte65342"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048957939273081242",
+        "in_reply_to_user_id": "2033556052650975232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048955391011402007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NBabysitte65342 还好我是台电"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033556052650975232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          }
+        ],
+        "conversation_id": "2048955391011402007",
+        "created_at": "2026-04-28T02:40:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T03:40:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048955391011402007"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048955391011402007",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "总说安卓人安卓电脑我看见苹果手机➕笔电我怎么更害怕呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "弈鸠，是谁？\nenby,her/they,kpop,激女粉红点进就死\n*・x・*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "脚踩你爷爷登顶称王",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041811823687823360/QQkkR0z6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 482,
+          "following_count": 612,
+          "like_count": 8191,
+          "listed_count": 1,
+          "media_count": 532,
+          "tweet_count": 5207
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-16T14:48:51.000Z",
+        "description": "",
+        "id": "2033556052650975232",
+        "name": "一般路过stewie幸怒",
+        "pinned_tweet_id": "2048356236962488597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044690706405744640/gWgtiurn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 95,
+          "like_count": 18204,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 2844
+        },
+        "username": "NBabysitte65342",
+        "verified": false
+      }
+    ]
+  }
+}

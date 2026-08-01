@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1937441243719696426",
+    "created_at": "2025-06-24T09:40:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T10:40:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937445775405122010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1918895283234017280",
+          "start": 0,
+          "username": "xiokorrr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937445775405122010",
+    "in_reply_to_user_id": "1918895283234017280",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937445704500424965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiokorrr 搞搞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1937441243719696426",
+        "created_at": "2025-06-24T09:40:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T10:40:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937445775405122010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1918895283234017280",
+              "start": 0,
+              "username": "xiokorrr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937445775405122010",
+        "in_reply_to_user_id": "1918895283234017280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937445704500424965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiokorrr 搞搞"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918895283234017280",
+        "conversation_id": "1937441243719696426",
+        "created_at": "2025-06-24T09:40:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T10:40:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937445704500424965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1726051028112744448",
+              "start": 0,
+              "username": "Dream_xyuuup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937445704500424965",
+        "in_reply_to_user_id": "1726051028112744448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937445376786858326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dream_xyuuup 小鸠鸠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "那丑咋了？我不光长丑还没文化，不光没文化，我还没钱，我原生家庭还有问题，导致我人格上有缺陷，而且我老感觉到有一种不安全感。我感觉空气里边有一种焦虑的因素，我一呼一吸之间仿佛把地球上边污秽的东西全都吸到我的身体里边去了，我全给吸收了，我就这么蠢，我就这么笨，那咋了？对不对？我就感觉到吧，活着没啥意思。但是我老爱幻想，我幻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933432998864826371/0SiPerD5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 489,
+          "like_count": 5929,
+          "listed_count": 0,
+          "media_count": 308,
+          "tweet_count": 2764
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T05:07:56.000Z",
+        "description": "🧬🧬三代目重生版｜苦逼准高二生｜可以叫我Kurisu/ののちやん～｜斯普拉遁🦑😙/東方/音游♪/Gal…｜𓆩 永遠に紅い幼き月𓆪 ｜☆@Baiguan_☆我最喜欢的小狗勾🥺｜友🏳️‍⚧️｜负能致歉😥｜无🚪赞赏随意喵｜上推观察人类👁️｜互fo没回请私信🤗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "Baiguan_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiokorrr",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiokorrr",
+                "start": 0,
+                "url": "https://t.co/F9JA98XDni"
+              }
+            ]
+          }
+        },
+        "id": "1918895283234017280",
+        "location": "よろしくお願いします～🥰",
+        "name": "「りそな」👾8964防盗👿",
+        "pinned_tweet_id": "1926288756971012336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923309192577966080/MgpJfrKP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1444,
+          "following_count": 331,
+          "like_count": 931,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 538
+        },
+        "url": "https://t.co/F9JA98XDni",
+        "username": "xiokorrr",
+        "verified": false
+      }
+    ]
+  }
+}

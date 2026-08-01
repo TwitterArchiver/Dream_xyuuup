@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1938568043116069275",
+    "created_at": "2025-06-27T12:07:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T13:07:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938569938941489616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1719787399545532416",
+          "start": 0,
+          "username": "uriisin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938569938941489616",
+    "in_reply_to_user_id": "1719787399545532416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938568043116069275",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uriisin 我操，这个真的很美观了，我收到的都是黑森林还好小，"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1512,
+        "media_key": "3_1938568032898727936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuctWt3bQAAsk2k.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1938568043116069275",
+        "created_at": "2025-06-27T12:07:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T13:07:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938569938941489616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1719787399545532416",
+              "start": 0,
+              "username": "uriisin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938569938941489616",
+        "in_reply_to_user_id": "1719787399545532416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938568043116069275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uriisin 我操，这个真的很美观了，我收到的都是黑森林还好小，"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938568032898727936"
+          ]
+        },
+        "author_id": "1719787399545532416",
+        "conversation_id": "1938568043116069275",
+        "created_at": "2025-06-27T12:00:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T13:00:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938568043116069275"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6ooX276AUF",
+              "end": 40,
+              "expanded_url": "https://x.com/uriisin/status/1938568043116069275/photo/1",
+              "media_key": "3_1938568032898727936",
+              "start": 17,
+              "url": "https://t.co/6ooX276AUF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938568043116069275",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "纪念我私信收到的第一个吊，像猪屎 https://t.co/6ooX276AUF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "淡推三天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "重生在中考考场汗流浃背，数学满分，考上高中的弈鸠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933432998864826371/0SiPerD5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 491,
+          "like_count": 5945,
+          "listed_count": 0,
+          "media_count": 309,
+          "tweet_count": 2777
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-01T18:44:19.000Z",
+        "description": "精神疾患持ちですが、日々自分を大切にしながら生きてます。 コスメ・映画・アニメが好き。美味しいものと可愛いものが元気の源。 無理せず、ゆるく繋がれたら嬉しいです💚💚",
+        "id": "1719787399545532416",
+        "name": "🍋‍🟩ジンリアン🍋‍🟩",
+        "pinned_tweet_id": "1896921535161815140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935382623800442880/Lqo-BAJu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 481,
+          "like_count": 8212,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 2467
+        },
+        "username": "uriisin",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2005329560272011265"
+      ],
+      "media_source_tweet_id": [
+        "2005329628215513478"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "2005644890601046066",
+    "created_at": "2025-12-29T14:19:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T15:19:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005644890601046066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1600287222183661568",
+          "start": 3,
+          "username": "502_8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VQRfrorKCx",
+          "end": 45,
+          "expanded_url": "https://x.com/502_8964/status/2005329628215513478/video/1",
+          "media_key": "13_2005329560272011265",
+          "start": 22,
+          "url": "https://t.co/VQRfrorKCx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005644890601046066",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 153
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005329628215513478",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @502_8964: 我的抗抑郁神器 https://t.co/VQRfrorKCx"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30000,
+        "height": 1280,
+        "media_key": "13_2005329560272011265",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2005329560272011265/img/GsUdzmIxLe_QzPbc.jpg",
+        "public_metrics": {
+          "view_count": 68671
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2005329560272011265/vid/avc1/320x690/wblZGo_FM0y32miG.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2005329560272011265/vid/avc1/480x1036/sIQKwtar4aYSVqNw.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2005329560272011265/vid/avc1/592x1280/3tZ8XCPw5aUsAX_D.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2005329560272011265/pl/ZJ2P2vTKv17JN-vK.m3u8?v=cfc"
+          }
+        ],
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2005329560272011265"
+          ],
+          "media_source_tweet_id": [
+            "2005329628215513478"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "2005644890601046066",
+        "created_at": "2025-12-29T14:19:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T15:19:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005644890601046066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1600287222183661568",
+              "start": 3,
+              "username": "502_8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VQRfrorKCx",
+              "end": 45,
+              "expanded_url": "https://x.com/502_8964/status/2005329628215513478/video/1",
+              "media_key": "13_2005329560272011265",
+              "start": 22,
+              "url": "https://t.co/VQRfrorKCx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005644890601046066",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 153
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005329628215513478",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @502_8964: 我的抗抑郁神器 https://t.co/VQRfrorKCx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2005329560272011265"
+          ]
+        },
+        "author_id": "1600287222183661568",
+        "conversation_id": "2005329628215513478",
+        "created_at": "2025-12-28T17:26:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T18:26:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005329628215513478"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VQRfrorKCx",
+              "end": 31,
+              "expanded_url": "https://x.com/502_8964/status/2005329628215513478/video/1",
+              "media_key": "13_2005329560272011265",
+              "start": 8,
+              "url": "https://t.co/VQRfrorKCx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005329628215513478",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 455,
+          "impression_count": 162004,
+          "like_count": 1532,
+          "quote_count": 28,
+          "reply_count": 93,
+          "retweet_count": 153
+        },
+        "reply_settings": "everyone",
+        "text": "我的抗抑郁神器 https://t.co/VQRfrorKCx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "你能想到的坏习惯我都有",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998066182315020289/_eUXKzgo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 601,
+          "like_count": 8023,
+          "listed_count": 1,
+          "media_count": 473,
+          "tweet_count": 4390
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-07T00:33:14.000Z",
+        "description": "=雨森落松/雨森蓝丨朝比奈まふゆ全肯定❄️丨非单 我很爱我的对象丨看我不爽你就自杀",
+        "id": "1600287222183661568",
+        "name": "藍",
+        "pinned_tweet_id": "1993481341468656119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005238271962697728/d9ffzDE1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5788,
+          "following_count": 366,
+          "like_count": 14375,
+          "listed_count": 13,
+          "media_count": 629,
+          "tweet_count": 3687
+        },
+        "username": "502_8964",
+        "verified": false
+      }
+    ]
+  }
+}

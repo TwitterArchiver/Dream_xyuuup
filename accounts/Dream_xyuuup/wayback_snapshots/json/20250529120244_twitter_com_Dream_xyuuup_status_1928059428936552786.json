@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1928059428936552786",
+    "created_at": "2025-05-29T12:02:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-29T13:02:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1928059428936552786"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kidnappcd/stat…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/kidnappcd/status/1927820666725601570",
+          "start": 3,
+          "url": "https://t.co/FiglaMKw12"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928059428936552786",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927820666725601570",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想谈 https://t.co/FiglaMKw12"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1170,
+        "media_key": "3_1927820662267080704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsD-raUWcAATyyb.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1928059428936552786",
+        "created_at": "2025-05-29T12:02:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T13:02:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928059428936552786"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kidnappcd/stat…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/kidnappcd/status/1927820666725601570",
+              "start": 3,
+              "url": "https://t.co/FiglaMKw12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928059428936552786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927820666725601570",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想谈 https://t.co/FiglaMKw12"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927820662267080704"
+          ]
+        },
+        "author_id": "1760468755019137024",
+        "conversation_id": "1927820666725601570",
+        "created_at": "2025-05-28T20:13:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T21:13:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927820666725601570"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Buide1cLeo",
+              "end": 23,
+              "expanded_url": "https://x.com/kidnappcd/status/1927820666725601570/photo/1",
+              "media_key": "3_1927820662267080704",
+              "start": 0,
+              "url": "https://t.co/Buide1cLeo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927820666725601570",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 108,
+          "impression_count": 14185,
+          "like_count": 1048,
+          "quote_count": 14,
+          "reply_count": 1,
+          "retweet_count": 126
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/Buide1cLeo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "偏远乡村学校在读 我应该不会再影响别人了 接下来有一个event 成分复杂 对所有人友好除了现生 最可爱的小宝宝@QLing61007 😽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 56,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1917423348302467396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924678380655673348/VxgKyXwf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 439,
+          "like_count": 4758,
+          "listed_count": 1,
+          "media_count": 221,
+          "tweet_count": 2082
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-22T00:57:24.000Z",
+        "description": "Я ИдиоТ hehehehahwhaheh a stupid girl 🍭🪖⚒️𐂯 ( ◠‿◠ )",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kidnappcd.straw.page",
+                "end": 23,
+                "expanded_url": "https://kidnappcd.straw.page",
+                "start": 0,
+                "url": "https://t.co/Fk16jwJZTA"
+              }
+            ]
+          }
+        },
+        "id": "1760468755019137024",
+        "name": "ел",
+        "pinned_tweet_id": "1922467095813484914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898908714259611648/T7RXn7c__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 666,
+          "following_count": 142,
+          "like_count": 9739,
+          "listed_count": 4,
+          "media_count": 285,
+          "tweet_count": 4246
+        },
+        "url": "https://t.co/Fk16jwJZTA",
+        "username": "kidnappcd",
+        "verified": false
+      }
+    ]
+  }
+}

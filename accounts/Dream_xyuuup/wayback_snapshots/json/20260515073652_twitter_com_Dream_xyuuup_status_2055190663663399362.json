@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "2055184720934416818",
+    "created_at": "2026-05-15T07:36:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T08:36:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055190663663399362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2033556052650975232",
+          "start": 0,
+          "username": "Ride_8964"
+        },
+        {
+          "end": 25,
+          "id": "1741807657110147073",
+          "start": 11,
+          "username": "yan_huan92807"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055190663663399362",
+    "in_reply_to_user_id": "2033556052650975232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055190257352773935",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ride_8964 @yan_huan92807 我昨天打饮料忙到打柠檬水忘加糖浆他喝到了一杯超酸冰水"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "2055184720934416818",
+        "created_at": "2026-05-15T07:36:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T08:36:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055190663663399362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2033556052650975232",
+              "start": 0,
+              "username": "Ride_8964"
+            },
+            {
+              "end": 25,
+              "id": "1741807657110147073",
+              "start": 11,
+              "username": "yan_huan92807"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055190663663399362",
+        "in_reply_to_user_id": "2033556052650975232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055190257352773935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ride_8964 @yan_huan92807 我昨天打饮料忙到打柠檬水忘加糖浆他喝到了一杯超酸冰水"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033556052650975232",
+        "conversation_id": "2055184720934416818",
+        "created_at": "2026-05-15T07:35:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T08:35:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055190257352773935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1726051028112744448",
+              "start": 0,
+              "username": "Dream_xyuuup"
+            },
+            {
+              "end": 28,
+              "id": "1741807657110147073",
+              "start": 14,
+              "username": "yan_huan92807"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055190257352773935",
+        "in_reply_to_user_id": "1726051028112744448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055189884575629581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dream_xyuuup @yan_huan92807 好好笑。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "弈鸠，是谁？\nmtx,her/they,激女粉红点进就死\n*・x・*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "脚踩你爷爷登顶称王",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052421075716505600/5gcoclAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 631,
+          "like_count": 8346,
+          "listed_count": 0,
+          "media_count": 589,
+          "tweet_count": 5867
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-16T14:48:51.000Z",
+        "description": "",
+        "id": "2033556052650975232",
+        "name": "National Anthem",
+        "pinned_tweet_id": "2053130909818482849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054892475215749120/E3G8nEsa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 80,
+          "like_count": 26602,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 6030
+        },
+        "username": "Ride_8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n我的后世https://t.co/wDxQJbCEPA any pronouns\nenby，ftx🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/查成分互fo喵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 32,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 9,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "小利亚是鳄鱼🐊人妖之首人妖魅力力量释放展现在法国新浪潮结构主义黑泽明静静的决斗卡尔维诺",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043343874119307264/3Tdu7r0M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 228,
+          "like_count": 4940,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 2290
+        },
+        "username": "yan_huan92807",
+        "verified": false
+      }
+    ]
+  }
+}

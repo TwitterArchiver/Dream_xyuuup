@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059231938993598464",
+        "3_2059231938947461122"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2059231958027370734",
+    "created_at": "2026-05-26T11:15:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T12:15:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059231958027370734"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TwlUygEcc1",
+          "end": 77,
+          "expanded_url": "https://x.com/Dream_xyuuup/status/2059231958027370734/photo/1",
+          "media_key": "3_2059231938993598464",
+          "start": 54,
+          "url": "https://t.co/TwlUygEcc1"
+        },
+        {
+          "display_url": "pic.x.com/TwlUygEcc1",
+          "end": 77,
+          "expanded_url": "https://x.com/Dream_xyuuup/status/2059231958027370734/photo/1",
+          "media_key": "3_2059231938947461122",
+          "start": 54,
+          "url": "https://t.co/TwlUygEcc1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059231958027370734",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我他妈真的，我被绊了一下没拿稳鸡蛋碎了，我挑出来两颗结果又碰一下又碎一个，我活着就是给这个添乱的，。对不起 https://t.co/TwlUygEcc1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059231938993598464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJPcicnaMAADEqg.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2059231938947461122",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJPciccaMAIauhU.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059231938993598464",
+            "3_2059231938947461122"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2059231958027370734",
+        "created_at": "2026-05-26T11:15:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T12:15:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059231958027370734"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TwlUygEcc1",
+              "end": 77,
+              "expanded_url": "https://x.com/Dream_xyuuup/status/2059231958027370734/photo/1",
+              "media_key": "3_2059231938993598464",
+              "start": 54,
+              "url": "https://t.co/TwlUygEcc1"
+            },
+            {
+              "display_url": "pic.x.com/TwlUygEcc1",
+              "end": 77,
+              "expanded_url": "https://x.com/Dream_xyuuup/status/2059231958027370734/photo/1",
+              "media_key": "3_2059231938947461122",
+              "start": 54,
+              "url": "https://t.co/TwlUygEcc1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059231958027370734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我他妈真的，我被绊了一下没拿稳鸡蛋碎了，我挑出来两颗结果又碰一下又碎一个，我活着就是给这个添乱的，。对不起 https://t.co/TwlUygEcc1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "mtx,her/they\n我太傻了不会说话抱歉\n*・x・*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "弈鸠",
+        "pinned_tweet_id": "2055264508608970925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057786684050485248/tEN-twO6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 631,
+          "like_count": 8396,
+          "listed_count": 0,
+          "media_count": 618,
+          "tweet_count": 6179
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      }
+    ]
+  }
+}

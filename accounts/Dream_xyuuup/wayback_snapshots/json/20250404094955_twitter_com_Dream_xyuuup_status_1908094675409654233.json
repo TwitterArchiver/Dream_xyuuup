@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1908093042218999808"
+      ],
+      "media_source_tweet_id": [
+        "1908093051987525962"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "1908094675409654233",
+    "created_at": "2025-04-04T09:49:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-04T10:49:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908094675409654233"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1726051028112744448",
+          "start": 3,
+          "username": "Dream_xyuuup"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/R1k3j2yKaz",
+          "end": 69,
+          "expanded_url": "https://x.com/Dream_xyuuup/status/1908093051987525962/photo/1",
+          "media_key": "3_1908093042218999808",
+          "start": 46,
+          "url": "https://t.co/R1k3j2yKaz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908094675409654233",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908093051987525962",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dream_xyuuup: 谢谢大家。我200fo了。\n点赞抄id。快来陪我T T https://t.co/R1k3j2yKaz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1090,
+        "media_key": "3_1908093042218999808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnrogyvboAAxWpG.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908093042218999808"
+          ],
+          "media_source_tweet_id": [
+            "1908093051987525962"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "1908094675409654233",
+        "created_at": "2025-04-04T09:49:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T10:49:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908094675409654233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1726051028112744448",
+              "start": 3,
+              "username": "Dream_xyuuup"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/R1k3j2yKaz",
+              "end": 69,
+              "expanded_url": "https://x.com/Dream_xyuuup/status/1908093051987525962/photo/1",
+              "media_key": "3_1908093042218999808",
+              "start": 46,
+              "url": "https://t.co/R1k3j2yKaz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908094675409654233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908093051987525962",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Dream_xyuuup: 谢谢大家。我200fo了。\n点赞抄id。快来陪我T T https://t.co/R1k3j2yKaz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908093042218999808"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "1908093051987525962",
+        "created_at": "2025-04-04T09:43:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T10:43:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908093051987525962"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R1k3j2yKaz",
+              "end": 51,
+              "expanded_url": "https://x.com/Dream_xyuuup/status/1908093051987525962/photo/1",
+              "media_key": "3_1908093042218999808",
+              "start": 28,
+              "url": "https://t.co/R1k3j2yKaz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908093051987525962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢大家。我200fo了。\n点赞抄id。快来陪我T T https://t.co/R1k3j2yKaz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "对所有人温良除了现生",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dreamxy_uuup",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dreamxy_uuup",
+                "start": 0,
+                "url": "https://t.co/V4QSiptJcT"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠ltnh（未来最厉害的数学家数学满分版😋）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905913123158298624/ClLLrGxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 292,
+          "like_count": 2742,
+          "listed_count": 2,
+          "media_count": 141,
+          "tweet_count": 1172
+        },
+        "url": "https://t.co/V4QSiptJcT",
+        "username": "Dream_xyuuup",
+        "verified": false
+      }
+    ]
+  }
+}

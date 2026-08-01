@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1917211247826854220",
+    "created_at": "2025-04-29T13:50:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-29T14:50:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917214807943782868"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1647182072723959808",
+          "start": 0,
+          "username": "s3450924340204"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917214807943782868",
+    "in_reply_to_user_id": "1647182072723959808",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917211247826854220",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@s3450924340204 ？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14266,
+        "height": 1280,
+        "media_key": "7_1917211049121722368",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1917211049121722368/pu/img/x1nYxwtLDoqq2fQ8.jpg",
+        "public_metrics": {
+          "view_count": 17
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1917211049121722368/pu/vid/avc1/320x568/dmuKsRLKEJOprgKW.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1917211049121722368/pu/vid/avc1/480x852/PMCMahZCqJX0Ryyd.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1917211049121722368/pu/vid/avc1/720x1280/UeBt0YmEDRNMr4dS.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1917211049121722368/pu/pl/awNaK0EYWwKQ9Uyx.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1917211247826854220",
+        "created_at": "2025-04-29T13:50:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T14:50:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917214807943782868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1647182072723959808",
+              "start": 0,
+              "username": "s3450924340204"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917214807943782868",
+        "in_reply_to_user_id": "1647182072723959808",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917211247826854220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@s3450924340204 ？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1917211049121722368"
+          ]
+        },
+        "author_id": "1647182072723959808",
+        "conversation_id": "1917211247826854220",
+        "created_at": "2025-04-29T13:35:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T14:35:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917211247826854220"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E65lW5h4eH",
+              "end": 29,
+              "expanded_url": "https://x.com/s3450924340204/status/1917211247826854220/video/1",
+              "media_key": "7_1917211049121722368",
+              "start": 6,
+              "url": "https://t.co/E65lW5h4eH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917211247826854220",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "白鹿太棒了 https://t.co/E65lW5h4eH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "废话多 随机掉落负能量｜最近在偷偷幸福😼我成分复杂请慢慢研究我｜对所有人友善除了现生。｜最可爱的小宝宝@QLing61007 😽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 51,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠ltnh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905913123158298624/ClLLrGxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 400,
+          "like_count": 3769,
+          "listed_count": 1,
+          "media_count": 189,
+          "tweet_count": 1685
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T10:16:32.000Z",
+        "description": "留下了zZ zZ zZ",
+        "id": "1647182072723959808",
+        "name": "缓缓睡",
+        "pinned_tweet_id": "1841792332691083412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908541967350587392/cwYnJKuw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 836,
+          "following_count": 802,
+          "like_count": 150921,
+          "listed_count": 4,
+          "media_count": 76,
+          "tweet_count": 4532
+        },
+        "username": "s3450924340204",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,417 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049821198826278912",
+        "3_2049821198843027456",
+        "3_2049821198847283200",
+        "3_2049821198838906880"
+      ],
+      "media_source_tweet_id": [
+        "2049821207286194350",
+        "2049821207286194350",
+        "2049821207286194350",
+        "2049821207286194350"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2049830171977625697",
+    "created_at": "2026-04-30T12:36:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T13:36:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049830171977625697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "866092386694217728",
+          "start": 3,
+          "username": "dungeon_lab_toy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Nc9CNCgWoj",
+          "end": 114,
+          "expanded_url": "https://x.com/dungeon_lab_toy/status/2049821207286194350/photo/1",
+          "media_key": "3_2049821198826278912",
+          "start": 91,
+          "url": "https://t.co/Nc9CNCgWoj"
+        },
+        {
+          "display_url": "pic.x.com/Nc9CNCgWoj",
+          "end": 114,
+          "expanded_url": "https://x.com/dungeon_lab_toy/status/2049821207286194350/photo/1",
+          "media_key": "3_2049821198843027456",
+          "start": 91,
+          "url": "https://t.co/Nc9CNCgWoj"
+        },
+        {
+          "display_url": "pic.x.com/Nc9CNCgWoj",
+          "end": 114,
+          "expanded_url": "https://x.com/dungeon_lab_toy/status/2049821207286194350/photo/1",
+          "media_key": "3_2049821198847283200",
+          "start": 91,
+          "url": "https://t.co/Nc9CNCgWoj"
+        },
+        {
+          "display_url": "pic.x.com/Nc9CNCgWoj",
+          "end": 114,
+          "expanded_url": "https://x.com/dungeon_lab_toy/status/2049821207286194350/photo/1",
+          "media_key": "3_2049821198838906880",
+          "start": 91,
+          "url": "https://t.co/Nc9CNCgWoj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049830171977625697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049821207286194350",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dungeon_lab_toy: 💕HI，DG-LAB的玩家们晚上好💕\n此前内测时备受关注的「导电硅胶肛塞」，现已正式上线啦，欢迎大家前往TB店铺「地牢实验室」了解详情~… https://t.co/Nc9CNCgWoj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2049821198826278912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHJthRkbEAA4d-A.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2049821198843027456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHJthRoaoAAFyTn.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2049821198847283200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHJthRpbkAAsLp4.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2049821198838906880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHJthRnbwAAXvB7.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049821198826278912",
+            "3_2049821198843027456",
+            "3_2049821198847283200",
+            "3_2049821198838906880"
+          ],
+          "media_source_tweet_id": [
+            "2049821207286194350",
+            "2049821207286194350",
+            "2049821207286194350",
+            "2049821207286194350"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049830171977625697",
+        "created_at": "2026-04-30T12:36:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T13:36:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049830171977625697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "866092386694217728",
+              "start": 3,
+              "username": "dungeon_lab_toy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nc9CNCgWoj",
+              "end": 114,
+              "expanded_url": "https://x.com/dungeon_lab_toy/status/2049821207286194350/photo/1",
+              "media_key": "3_2049821198826278912",
+              "start": 91,
+              "url": "https://t.co/Nc9CNCgWoj"
+            },
+            {
+              "display_url": "pic.x.com/Nc9CNCgWoj",
+              "end": 114,
+              "expanded_url": "https://x.com/dungeon_lab_toy/status/2049821207286194350/photo/1",
+              "media_key": "3_2049821198843027456",
+              "start": 91,
+              "url": "https://t.co/Nc9CNCgWoj"
+            },
+            {
+              "display_url": "pic.x.com/Nc9CNCgWoj",
+              "end": 114,
+              "expanded_url": "https://x.com/dungeon_lab_toy/status/2049821207286194350/photo/1",
+              "media_key": "3_2049821198847283200",
+              "start": 91,
+              "url": "https://t.co/Nc9CNCgWoj"
+            },
+            {
+              "display_url": "pic.x.com/Nc9CNCgWoj",
+              "end": 114,
+              "expanded_url": "https://x.com/dungeon_lab_toy/status/2049821207286194350/photo/1",
+              "media_key": "3_2049821198838906880",
+              "start": 91,
+              "url": "https://t.co/Nc9CNCgWoj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049830171977625697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049821207286194350",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dungeon_lab_toy: 💕HI，DG-LAB的玩家们晚上好💕\n此前内测时备受关注的「导电硅胶肛塞」，现已正式上线啦，欢迎大家前往TB店铺「地牢实验室」了解详情~… https://t.co/Nc9CNCgWoj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049821198826278912",
+            "3_2049821198843027456",
+            "3_2049821198847283200",
+            "3_2049821198838906880"
+          ]
+        },
+        "author_id": "866092386694217728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049821207286194350",
+        "created_at": "2026-04-30T12:00:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T13:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049821207286194350"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nc9CNCgWoj",
+              "end": 92,
+              "expanded_url": "https://x.com/dungeon_lab_toy/status/2049821207286194350/photo/1",
+              "media_key": "3_2049821198826278912",
+              "start": 69,
+              "url": "https://t.co/Nc9CNCgWoj"
+            },
+            {
+              "display_url": "pic.x.com/Nc9CNCgWoj",
+              "end": 92,
+              "expanded_url": "https://x.com/dungeon_lab_toy/status/2049821207286194350/photo/1",
+              "media_key": "3_2049821198843027456",
+              "start": 69,
+              "url": "https://t.co/Nc9CNCgWoj"
+            },
+            {
+              "display_url": "pic.x.com/Nc9CNCgWoj",
+              "end": 92,
+              "expanded_url": "https://x.com/dungeon_lab_toy/status/2049821207286194350/photo/1",
+              "media_key": "3_2049821198847283200",
+              "start": 69,
+              "url": "https://t.co/Nc9CNCgWoj"
+            },
+            {
+              "display_url": "pic.x.com/Nc9CNCgWoj",
+              "end": 92,
+              "expanded_url": "https://x.com/dungeon_lab_toy/status/2049821207286194350/photo/1",
+              "media_key": "3_2049821198838906880",
+              "start": 69,
+              "url": "https://t.co/Nc9CNCgWoj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049821207286194350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "💕HI，DG-LAB的玩家们晚上好💕\n此前内测时备受关注的「导电硅胶肛塞」，现已正式上线啦，欢迎大家前往TB店铺「地牢实验室」了解详情~\n\n针对部分玩家反馈的金属肛塞初始时刺激性较强的问题，新款肛塞做了全面优化。将电阻很低的金属材质替换为电阻更高的导电硅胶材质，起步更柔和，体感更温和无痛，强度可调节的范围更广；导电硅胶的材质比较柔软，重量也更轻，久戴更舒适无负担。\n\n除此之外，新款导电硅胶肛塞改为体内双电极设计，避开了括约肌区域；并新增了细头导入区和防脱落设计，更适配新手以及有外出play穿戴需求的玩家。\n\n🎁🎁🎁今天也为大家准备了新品首发福利，转发+点赞此条推文，我们将从中抽取5位幸运玩家，送出新款导电硅胶肛塞，欢迎大家参与~"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 622,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "💕HI，DG-LAB的玩家们晚上好💕\n此前内测时备受关注的「导电硅胶肛塞」，现已正式上线啦，欢迎大家前往TB店铺「地牢实验室」了解详情~ https://t.co/Nc9CNCgWoj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "弈鸠，是谁？\nenby,her/they,kpop,激女粉红点进就死\n*・x・*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "脚踩你爷爷登顶称王",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041811823687823360/QQkkR0z6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 618,
+          "like_count": 8238,
+          "listed_count": 1,
+          "media_count": 539,
+          "tweet_count": 5279
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-21T00:44:51.000Z",
+        "description": "Realise your wildest fantasies Contact Email：service@dungeon-lab.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dungeon-lab.com",
+                "end": 23,
+                "expanded_url": "http://dungeon-lab.com",
+                "start": 0,
+                "url": "https://t.co/iTHP4GErdz"
+              }
+            ]
+          }
+        },
+        "id": "866092386694217728",
+        "name": "DG-LAB 地牢实验室",
+        "pinned_tweet_id": "2026136106752962950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1271694986044518403/z3pTfOsh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22175,
+          "following_count": 160,
+          "like_count": 50,
+          "listed_count": 27,
+          "media_count": 41,
+          "tweet_count": 449
+        },
+        "url": "https://t.co/iTHP4GErdz",
+        "username": "dungeon_lab_toy",
+        "verified": true
+      }
+    ]
+  }
+}

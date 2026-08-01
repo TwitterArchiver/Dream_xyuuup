@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1916785169941336121",
+    "created_at": "2025-04-28T09:38:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-28T10:38:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916789096598429941"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1916789096598429941",
+    "in_reply_to_user_id": "1726051028112744448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916785169941336121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "很一般般的质量。全专最爱now playing，第二喜欢freestyle。照迷你二辑感觉差了点味道，我觉得主要是主打的问题，没有达到我的期望，我真的觉得有点模板，一上来的大旋律我就不喜欢，这让后面没有什么听感了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1916785169941336121",
+        "created_at": "2025-04-28T09:38:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T10:38:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916789096598429941"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1916789096598429941",
+        "in_reply_to_user_id": "1726051028112744448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916785169941336121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很一般般的质量。全专最爱now playing，第二喜欢freestyle。照迷你二辑感觉差了点味道，我觉得主要是主打的问题，没有达到我的期望，我真的觉得有点模板，一上来的大旋律我就不喜欢，这让后面没有什么听感了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1916785169941336121",
+        "created_at": "2025-04-28T09:22:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T10:22:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916785169941336121"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1916785169941336121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "re一下吐司迷你三辑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "废话多 随机掉落负能量｜最近在偷偷幸福😼我成分复杂请慢慢研究我｜对所有人友善除了现生。｜最可爱的小宝宝@QLing61007 😽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 51,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠ltnh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905913123158298624/ClLLrGxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 388,
+          "like_count": 3680,
+          "listed_count": 1,
+          "media_count": 183,
+          "tweet_count": 1616
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1908009070851948829",
+    "created_at": "2025-04-04T04:15:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-04T05:15:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908010568314929316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1822922661174910976",
+          "start": 0,
+          "username": "kongjingxiao94"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908010568314929316",
+    "in_reply_to_user_id": "1822922661174910976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908009070851948829",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kongjingxiao94 农村人很缺钱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1908009070851948829",
+        "created_at": "2025-04-04T04:15:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T05:15:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908010568314929316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1822922661174910976",
+              "start": 0,
+              "username": "kongjingxiao94"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908010568314929316",
+        "in_reply_to_user_id": "1822922661174910976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908009070851948829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kongjingxiao94 农村人很缺钱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1822922661174910976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1908009070851948829",
+        "created_at": "2025-04-04T04:09:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T05:09:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908009070851948829"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/just480574/sta…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/just480574/status/1907062229708788156",
+              "start": 18,
+              "url": "https://t.co/Zv4snESHmn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908009070851948829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907062229708788156",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "要不我带你下村看看农村过得怎么样？ https://t.co/Zv4snESHmn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "数学满分是假的，数学家也是假的，我的一切都是假的，我有很多幅面孔，你们都被我骗了。碎碎念垃圾场｜过着一个你一点都不会羡慕的人生｜礼3芙4是我最爱的人🤍｜音游｜内蒙古偏僻农村人我很脆弱不要欺负我｜梦想是消除城乡差距｜无论你是谁我都喜欢你｜如果消失就是穷到梯都养不起了 对所有人温良 可不可以不要讨厌我就算讨厌我也不要骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dreamxy_uuup",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dreamxy_uuup",
+                "start": 0,
+                "url": "https://t.co/V4QSiptJcT"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠ltnh（未来最厉害的数学家数学满分版😋）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905913123158298624/ClLLrGxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 288,
+          "like_count": 2667,
+          "listed_count": 2,
+          "media_count": 137,
+          "tweet_count": 1131
+        },
+        "url": "https://t.co/V4QSiptJcT",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-12T09:07:00.000Z",
+        "description": "丨拒极端粉红丨理性看待一切事物，细致分析问题。国家需采取强硬措施改变现状\n查成分💯回fo                   淡推中\n礼貌互挂@LiciiQAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 71,
+                "username": "LiciiQAQ"
+              }
+            ]
+          }
+        },
+        "id": "1822922661174910976",
+        "location": "雪国",
+        "name": "古関ウイ🇭🇰🇲🇴🇯🇵🇩🇪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884912807071895552/GNmJGAiW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 598,
+          "like_count": 5836,
+          "listed_count": 1,
+          "media_count": 142,
+          "tweet_count": 1773
+        },
+        "username": "kongjingxiao94",
+        "verified": false
+      }
+    ]
+  }
+}

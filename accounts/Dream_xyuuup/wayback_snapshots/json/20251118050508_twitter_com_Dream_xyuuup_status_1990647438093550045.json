@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1989827028648853504"
+      ],
+      "media_source_tweet_id": [
+        "1989827084332499363"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "1990647438093550045",
+    "created_at": "2025-11-18T05:05:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T06:05:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990647438093550045"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 18,
+          "normalized_text": "Lain",
+          "probability": 0.6206,
+          "start": 15,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1238520105841168386",
+          "start": 3,
+          "username": "de4dlov2r"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iHbvKkKDrv",
+          "end": 50,
+          "expanded_url": "https://x.com/de4dlov2r/status/1989827084332499363/video/1",
+          "media_key": "13_1989827028648853504",
+          "start": 27,
+          "url": "https://t.co/iHbvKkKDrv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990647438093550045",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5989
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989827084332499363",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @de4dlov2r: Lain (1998) https://t.co/iHbvKkKDrv"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18249,
+        "height": 720,
+        "media_key": "13_1989827028648853504",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1989827028648853504/img/QOnXa9NLAB6EQBfY.jpg",
+        "public_metrics": {
+          "view_count": 315782
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1989827028648853504/vid/avc1/348x270/uGaFNQtrXn_HMLjA.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1989827028648853504/vid/avc1/464x360/C-fgSnSGDRLNjUz9.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1989827028648853504/vid/avc1/930x720/O-VpERonXb1_7_du.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1989827028648853504/pl/mbHiHSN_AZuSsbgu.m3u8?v=cfc"
+          }
+        ],
+        "width": 930
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1989827028648853504"
+          ],
+          "media_source_tweet_id": [
+            "1989827084332499363"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "1990647438093550045",
+        "created_at": "2025-11-18T05:05:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T06:05:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990647438093550045"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "Lain",
+              "probability": 0.6206,
+              "start": 15,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1238520105841168386",
+              "start": 3,
+              "username": "de4dlov2r"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iHbvKkKDrv",
+              "end": 50,
+              "expanded_url": "https://x.com/de4dlov2r/status/1989827084332499363/video/1",
+              "media_key": "13_1989827028648853504",
+              "start": 27,
+              "url": "https://t.co/iHbvKkKDrv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990647438093550045",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5989
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989827084332499363",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @de4dlov2r: Lain (1998) https://t.co/iHbvKkKDrv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1989827028648853504"
+          ]
+        },
+        "author_id": "1238520105841168386",
+        "conversation_id": "1989827084332499363",
+        "created_at": "2025-11-15T22:45:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T23:45:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989827084332499363"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "Lain",
+              "probability": 0.5533,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iHbvKkKDrv",
+              "end": 35,
+              "expanded_url": "https://x.com/de4dlov2r/status/1989827084332499363/video/1",
+              "media_key": "13_1989827028648853504",
+              "start": 12,
+              "url": "https://t.co/iHbvKkKDrv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989827084332499363",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4391,
+          "impression_count": 572988,
+          "like_count": 31991,
+          "quote_count": 292,
+          "reply_count": 103,
+          "retweet_count": 5989
+        },
+        "reply_settings": "everyone",
+        "text": "Lain (1998) https://t.co/iHbvKkKDrv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "没法活了，一切都是男的骗我，女的欠我，老的冤枉我，小的欺负我，中国的压迫我，外国的引诱我，身边的霸凌我，网上的取笑我，你们全都对不起我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1985535613857382587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 595,
+          "like_count": 7554,
+          "listed_count": 1,
+          "media_count": 463,
+          "tweet_count": 4158
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-13T17:40:00.000Z",
+        "description": "music/anime/games/nostalgia",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/de4dlov2r",
+                "end": 23,
+                "expanded_url": "https://instagram.com/de4dlov2r",
+                "start": 0,
+                "url": "https://t.co/Mpo9WthM9B"
+              }
+            ]
+          }
+        },
+        "id": "1238520105841168386",
+        "location": "online 2006",
+        "name": "h e a r t",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976536961700556800/WXjzy07r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16841,
+          "following_count": 2,
+          "like_count": 101,
+          "listed_count": 28,
+          "media_count": 112,
+          "tweet_count": 112
+        },
+        "url": "https://t.co/Mpo9WthM9B",
+        "username": "de4dlov2r",
+        "verified": true
+      }
+    ]
+  }
+}

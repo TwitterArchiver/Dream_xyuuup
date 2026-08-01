@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "2049004506294432194",
+    "created_at": "2026-04-28T06:28:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T07:28:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049012820113604726"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1907759499232030722",
+          "start": 0,
+          "username": "succinumpluvia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049012820113604726",
+    "in_reply_to_user_id": "1907759499232030722",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049004506294432194",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@succinumpluvia 自己舒服最重要"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "2049004506294432194",
+        "created_at": "2026-04-28T06:28:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T07:28:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049012820113604726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1907759499232030722",
+              "start": 0,
+              "username": "succinumpluvia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049012820113604726",
+        "in_reply_to_user_id": "1907759499232030722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049004506294432194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@succinumpluvia 自己舒服最重要"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907759499232030722",
+        "conversation_id": "2049004506294432194",
+        "created_at": "2026-04-28T05:55:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T06:55:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049004506294432194"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049004506294432194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "朋友们你们说我请个两天的病假咋样 说我感冒了 睡两天 周四晚上走"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "弈鸠，是谁？\nenby,her/they,kpop,激女粉红点进就死\n*・x・*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "脚踩你爷爷登顶称王",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041811823687823360/QQkkR0z6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 482,
+          "following_count": 613,
+          "like_count": 8213,
+          "listed_count": 1,
+          "media_count": 532,
+          "tweet_count": 5217
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-03T11:38:18.000Z",
+        "description": "视奸我的是给",
+        "id": "1907759499232030722",
+        "location": "天國",
+        "name": "琥珀",
+        "pinned_tweet_id": "1961319050698789209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907760340143882240/ds_nzbEK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 54,
+          "like_count": 1034,
+          "listed_count": 1,
+          "media_count": 115,
+          "tweet_count": 769
+        },
+        "username": "succinumpluvia",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1957930630379085824"
+      ],
+      "media_source_tweet_id": [
+        "1957930634078556221"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "1957939881839325624",
+    "created_at": "2025-08-19T22:56:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T23:56:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957939881839325624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "622036546",
+          "start": 3,
+          "username": "oder_666"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/U3OpiofFVF",
+          "end": 46,
+          "expanded_url": "https://x.com/oder_666/status/1957930634078556221/photo/1",
+          "media_key": "3_1957930630379085824",
+          "start": 23,
+          "url": "https://t.co/U3OpiofFVF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957939881839325624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957930634078556221",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oder_666: 挂一个置顶自介条 https://t.co/U3OpiofFVF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1410,
+        "media_key": "3_1957930630379085824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gyv3iOaaIAAD0zZ.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957930630379085824"
+          ],
+          "media_source_tweet_id": [
+            "1957930634078556221"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "1957939881839325624",
+        "created_at": "2025-08-19T22:56:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T23:56:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957939881839325624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "622036546",
+              "start": 3,
+              "username": "oder_666"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U3OpiofFVF",
+              "end": 46,
+              "expanded_url": "https://x.com/oder_666/status/1957930634078556221/photo/1",
+              "media_key": "3_1957930630379085824",
+              "start": 23,
+              "url": "https://t.co/U3OpiofFVF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957939881839325624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957930634078556221",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oder_666: 挂一个置顶自介条 https://t.co/U3OpiofFVF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957930630379085824"
+          ]
+        },
+        "author_id": "622036546",
+        "conversation_id": "1957930634078556221",
+        "created_at": "2025-08-19T22:20:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T23:20:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957930634078556221"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U3OpiofFVF",
+              "end": 32,
+              "expanded_url": "https://x.com/oder_666/status/1957930634078556221/photo/1",
+              "media_key": "3_1957930630379085824",
+              "start": 9,
+              "url": "https://t.co/U3OpiofFVF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957930634078556221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "挂一个置顶自介条 https://t.co/U3OpiofFVF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "yì jīu｜🏳️‍🌈｜谢谢你喜欢我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1953828269977219114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 549,
+          "like_count": 6662,
+          "listed_count": 0,
+          "media_count": 397,
+          "tweet_count": 3471
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-29T16:18:50.000Z",
+        "description": "09|负能|自伤|od|非二元|精神病|欢迎互fo| 可以叫我Munou|中文名是無能🥰 我的互关可以找我扩列",
+        "id": "622036546",
+        "location": "精神病院",
+        "name": "むのう",
+        "pinned_tweet_id": "1957930634078556221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953135385317449728/x6Sb1ZoT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 140,
+          "like_count": 4856,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 1073
+        },
+        "username": "oder_666",
+        "verified": false
+      }
+    ]
+  }
+}

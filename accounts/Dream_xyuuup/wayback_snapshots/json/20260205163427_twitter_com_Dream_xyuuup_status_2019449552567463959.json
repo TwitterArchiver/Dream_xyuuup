@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "2019332111975768276",
+    "created_at": "2026-02-05T16:34:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T17:34:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019449552567463959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1879566226693001216",
+          "start": 0,
+          "username": "maomao_king0129"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019449552567463959",
+    "in_reply_to_user_id": "1879566226693001216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019332111975768276",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maomao_king0129 小狗不要再割了😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2019332109375270915",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAYb2sbacAM_QDX.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "2019332111975768276",
+        "created_at": "2026-02-05T16:34:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T17:34:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019449552567463959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1879566226693001216",
+              "start": 0,
+              "username": "maomao_king0129"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019449552567463959",
+        "in_reply_to_user_id": "1879566226693001216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019332111975768276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maomao_king0129 小狗不要再割了😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019332109375270915"
+          ]
+        },
+        "author_id": "1879566226693001216",
+        "conversation_id": "2019332111975768276",
+        "created_at": "2026-02-05T08:47:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T09:47:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019332111975768276"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DlvS62RFAZ",
+              "end": 28,
+              "expanded_url": "https://x.com/maomao_king0129/status/2019332111975768276/photo/1",
+              "media_key": "3_2019332109375270915",
+              "start": 5,
+              "url": "https://t.co/DlvS62RFAZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019332111975768276",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "快要脂肪 https://t.co/DlvS62RFAZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "有负面💊，歌品感人只是一个爱听kpop/cpop/edm的可怜人，性取向你猜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016795361961230336/4zuFQCyR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 601,
+          "like_count": 7988,
+          "listed_count": 1,
+          "media_count": 480,
+          "tweet_count": 4526
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-15T16:28:30.000Z",
+        "description": "they/them | 戀人⭐ | 双向/焦虑 | 想成为一只黄金猎犬 \n@O_R_JAM0604 無妄君\n@ash_theicecream 兔大王\n@catbythwindow 小貓大王\n\nhttps://t.co/sZAv0udCnV←匿名",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "O_R_JAM0604"
+              },
+              {
+                "end": 70,
+                "start": 54,
+                "username": "ash_theicecream"
+              },
+              {
+                "end": 89,
+                "start": 75,
+                "username": "catbythwindow"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/520._.love.s",
+                "end": 119,
+                "expanded_url": "https://ngl.link/520._.love.s",
+                "start": 96,
+                "url": "https://t.co/sZAv0udCnV"
+              }
+            ]
+          }
+        },
+        "id": "1879566226693001216",
+        "name": "⭐門邊的小狗大王⭐",
+        "pinned_tweet_id": "1974869382179463671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892602807557206016/WPCQHbtO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 198,
+          "like_count": 3365,
+          "listed_count": 1,
+          "media_count": 140,
+          "tweet_count": 915
+        },
+        "username": "maomao_king0129",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980672722871930886"
+      ],
+      "media_source_tweet_id": [
+        "1980672733831942264"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1980955348719853706",
+    "created_at": "2025-10-22T11:12:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T12:12:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980955348719853706"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1590939682568736769",
+          "start": 3,
+          "username": "ColesPerson"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Dt4atNNNUW",
+          "end": 47,
+          "expanded_url": "https://x.com/ColesPerson/status/1980672733831942264/photo/1",
+          "media_key": "3_1980672722871930886",
+          "start": 24,
+          "url": "https://t.co/Dt4atNNNUW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980955348719853706",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980672733831942264",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ColesPerson: 跪下！颤抖！ https://t.co/Dt4atNNNUW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1706,
+        "media_key": "3_1980672722871930886",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3zDWO8WUAYSX_B.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980672722871930886"
+          ],
+          "media_source_tweet_id": [
+            "1980672733831942264"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1980955348719853706",
+        "created_at": "2025-10-22T11:12:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T12:12:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980955348719853706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1590939682568736769",
+              "start": 3,
+              "username": "ColesPerson"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dt4atNNNUW",
+              "end": 47,
+              "expanded_url": "https://x.com/ColesPerson/status/1980672733831942264/photo/1",
+              "media_key": "3_1980672722871930886",
+              "start": 24,
+              "url": "https://t.co/Dt4atNNNUW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980955348719853706",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980672733831942264",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ColesPerson: 跪下！颤抖！ https://t.co/Dt4atNNNUW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980672722871930886"
+          ]
+        },
+        "author_id": "1590939682568736769",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1980672733831942264",
+        "created_at": "2025-10-21T16:29:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T17:29:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980672733831942264"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dt4atNNNUW",
+              "end": 30,
+              "expanded_url": "https://x.com/ColesPerson/status/1980672733831942264/photo/1",
+              "media_key": "3_1980672722871930886",
+              "start": 7,
+              "url": "https://t.co/Dt4atNNNUW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980672733831942264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 470,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "跪下！颤抖！ https://t.co/Dt4atNNNUW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "我自私，病态，阴暗，偏执。所有大度、不在乎都是我的伪装。我窥探你的生活，揣测你的文案，解读你分享的一切，观察你身边的人，盯着你的照片妄想找到蛛丝马迹。我敏感，善变多疑，斤斤计较你多看别人的一眼。我爱你，你本来就应该乖乖待在我身边。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1953828269977219114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 580,
+          "like_count": 7232,
+          "listed_count": 1,
+          "media_count": 443,
+          "tweet_count": 3973
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-11T05:29:24.000Z",
+        "description": "啥意思",
+        "id": "1590939682568736769",
+        "location": "Manhattan, NY",
+        "name": "4000年难遇的老实人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966324061379899395/5ckbxTzV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1491,
+          "following_count": 1397,
+          "like_count": 26253,
+          "listed_count": 3,
+          "media_count": 850,
+          "tweet_count": 9474
+        },
+        "username": "ColesPerson",
+        "verified": false
+      }
+    ]
+  }
+}

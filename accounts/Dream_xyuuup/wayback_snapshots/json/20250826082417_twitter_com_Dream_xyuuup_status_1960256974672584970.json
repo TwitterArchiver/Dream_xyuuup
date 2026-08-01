@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1960050312926101504"
+      ],
+      "media_source_tweet_id": [
+        "1960050321390288946"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "1960256974672584970",
+    "created_at": "2025-08-26T08:24:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T09:24:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960256974672584970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2596381225",
+          "start": 3,
+          "username": "vir_coconut"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zcGVEwpaYm",
+          "end": 47,
+          "expanded_url": "https://x.com/vir_coconut/status/1960050321390288946/photo/1",
+          "media_key": "3_1960050312926101504",
+          "start": 24,
+          "url": "https://t.co/zcGVEwpaYm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960256974672584970",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960050321390288946",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vir_coconut: 亲亲这个椰椰 https://t.co/zcGVEwpaYm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1960050312926101504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzN_X_PagAAEzy7.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960050312926101504"
+          ],
+          "media_source_tweet_id": [
+            "1960050321390288946"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "1960256974672584970",
+        "created_at": "2025-08-26T08:24:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T09:24:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960256974672584970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2596381225",
+              "start": 3,
+              "username": "vir_coconut"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zcGVEwpaYm",
+              "end": 47,
+              "expanded_url": "https://x.com/vir_coconut/status/1960050321390288946/photo/1",
+              "media_key": "3_1960050312926101504",
+              "start": 24,
+              "url": "https://t.co/zcGVEwpaYm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960256974672584970",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960050321390288946",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @vir_coconut: 亲亲这个椰椰 https://t.co/zcGVEwpaYm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960050312926101504"
+          ]
+        },
+        "author_id": "2596381225",
+        "conversation_id": "1960050321390288946",
+        "created_at": "2025-08-25T18:43:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T19:43:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960050321390288946"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zcGVEwpaYm",
+              "end": 30,
+              "expanded_url": "https://x.com/vir_coconut/status/1960050321390288946/photo/1",
+              "media_key": "3_1960050312926101504",
+              "start": 7,
+              "url": "https://t.co/zcGVEwpaYm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960050321390288946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 6750,
+          "like_count": 250,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "亲亲这个椰椰 https://t.co/zcGVEwpaYm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "yì jīu｜谢谢你喜欢我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1953828269977219114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 554,
+          "like_count": 6807,
+          "listed_count": 1,
+          "media_count": 410,
+          "tweet_count": 3617
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2014-06-30T13:25:34.000Z",
+        "description": "推广自辨 线下过门私信@tekam_anjali",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "tekam_anjali"
+              }
+            ]
+          }
+        },
+        "id": "2596381225",
+        "location": "🚪288/520/1314",
+        "name": "椰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935822540745621504/7MgRct0X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32769,
+          "following_count": 290,
+          "like_count": 3159,
+          "listed_count": 68,
+          "media_count": 15,
+          "tweet_count": 26
+        },
+        "username": "vir_coconut",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060751822688833537"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2060688708756808145",
+    "created_at": "2026-05-30T15:54:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T16:54:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060751834676179342"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2051007254774808576",
+          "start": 0,
+          "username": "Puyuma2778"
+        },
+        {
+          "end": 22,
+          "id": "2033556052650975232",
+          "start": 12,
+          "username": "Ride_8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CcRujQ3G6z",
+          "end": 86,
+          "expanded_url": "https://x.com/Dream_xyuuup/status/2060751834676179342/photo/1",
+          "media_key": "3_2060751822688833537",
+          "start": 63,
+          "url": "https://t.co/CcRujQ3G6z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060751834676179342",
+    "in_reply_to_user_id": "2051007254774808576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060750158313541821",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Puyuma2778 @Ride_8964 很乱很随性，看到核酸码就说明我这个习惯有很久了，我每天基本就只经常点开几个软件 https://t.co/CcRujQ3G6z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060751822688833537",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJlC3UmbUAEo3xd.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060751822688833537"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2060688708756808145",
+        "created_at": "2026-05-30T15:54:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T16:54:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060751834676179342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2051007254774808576",
+              "start": 0,
+              "username": "Puyuma2778"
+            },
+            {
+              "end": 22,
+              "id": "2033556052650975232",
+              "start": 12,
+              "username": "Ride_8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CcRujQ3G6z",
+              "end": 86,
+              "expanded_url": "https://x.com/Dream_xyuuup/status/2060751834676179342/photo/1",
+              "media_key": "3_2060751822688833537",
+              "start": 63,
+              "url": "https://t.co/CcRujQ3G6z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060751834676179342",
+        "in_reply_to_user_id": "2051007254774808576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060750158313541821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Puyuma2778 @Ride_8964 很乱很随性，看到核酸码就说明我这个习惯有很久了，我每天基本就只经常点开几个软件 https://t.co/CcRujQ3G6z"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051007254774808576",
+        "conversation_id": "2060688708756808145",
+        "created_at": "2026-05-30T15:48:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T16:48:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060750158313541821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1726051028112744448",
+              "start": 0,
+              "username": "Dream_xyuuup"
+            },
+            {
+              "end": 24,
+              "id": "2033556052650975232",
+              "start": 14,
+              "username": "Ride_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060750158313541821",
+        "in_reply_to_user_id": "1726051028112744448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060746139385962765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dream_xyuuup @Ride_8964 我学习一下！我也打算这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "mtx,her/they\n我很蠢你们要理解我\n*・x・*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "弈鸠",
+        "pinned_tweet_id": "2055264508608970925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059924129340592128/ItWjnHnF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 534,
+          "following_count": 633,
+          "like_count": 8413,
+          "listed_count": 0,
+          "media_count": 638,
+          "tweet_count": 6299
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-03T18:34:04.000Z",
+        "description": "",
+        "id": "2051007254774808576",
+        "name": "Puyuma",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051157179856805891/EiSqauu6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 118,
+          "like_count": 2889,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 985
+        },
+        "username": "Puyuma2778",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-16T14:48:51.000Z",
+        "description": "",
+        "id": "2033556052650975232",
+        "name": "雷妈妈舒肤佳独生女",
+        "pinned_tweet_id": "2057485048388243570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060339815493902336/Mhpge-Qm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 154,
+          "like_count": 35748,
+          "listed_count": 0,
+          "media_count": 193,
+          "tweet_count": 7940
+        },
+        "username": "Ride_8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1953771876204835097",
+    "created_at": "2025-08-08T14:02:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T15:02:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953819230106681673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "622036546",
+          "start": 0,
+          "username": "oder_666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953819230106681673",
+    "in_reply_to_user_id": "622036546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953771876204835097",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oder_666 一群傻逼 偶滴是什么潮流吗 爱嗑药磕点美金刚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1953771876204835097",
+        "created_at": "2025-08-08T14:02:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T15:02:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953819230106681673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "622036546",
+              "start": 0,
+              "username": "oder_666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953819230106681673",
+        "in_reply_to_user_id": "622036546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953771876204835097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oder_666 一群傻逼 偶滴是什么潮流吗 爱嗑药磕点美金刚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "622036546",
+        "conversation_id": "1953771876204835097",
+        "created_at": "2025-08-08T10:54:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T11:54:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953771876204835097"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1953771876204835097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抖音这架势 愈美迟早被禁 被你们这群傻逼吃禁完了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "yì jīu｜不知道什么圈子，谢谢你的喜欢我也喜欢你喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 543,
+          "like_count": 6683,
+          "listed_count": 0,
+          "media_count": 386,
+          "tweet_count": 3394
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-29T16:18:50.000Z",
+        "description": "09|负能|自伤|od|非二元|欢迎互fo| 可以叫我Munou|中文名是無能🥰 我的互关可以找我扩列",
+        "id": "622036546",
+        "location": "精神病院",
+        "name": "むのう",
+        "pinned_tweet_id": "1943307259796459789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953135385317449728/x6Sb1ZoT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 98,
+          "like_count": 3838,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 795
+        },
+        "username": "oder_666",
+        "verified": false
+      }
+    ]
+  }
+}

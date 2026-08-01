@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1937079393509351787",
+    "created_at": "2025-06-23T13:10:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T14:10:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937136221542912107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1918895283234017280",
+          "start": 0,
+          "username": "xiokorrr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937136221542912107",
+    "in_reply_to_user_id": "1918895283234017280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937079393509351787",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiokorrr 没有啊 还是那么萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "16_1937079362525818880",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GuHjaskXcAALYtB.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GuHjaskXcAALYtB.mp4"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1937079393509351787",
+        "created_at": "2025-06-23T13:10:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T14:10:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937136221542912107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1918895283234017280",
+              "start": 0,
+              "username": "xiokorrr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937136221542912107",
+        "in_reply_to_user_id": "1918895283234017280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937079393509351787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiokorrr 没有啊 还是那么萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1937079362525818880"
+          ]
+        },
+        "author_id": "1918895283234017280",
+        "conversation_id": "1937079393509351787",
+        "created_at": "2025-06-23T09:24:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T10:24:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937079393509351787"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ov3lvzlXmC",
+              "end": 28,
+              "expanded_url": "https://x.com/xiokorrr/status/1937079393509351787/photo/1",
+              "media_key": "16_1937079362525818880",
+              "start": 5,
+              "url": "https://t.co/Ov3lvzlXmC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937079393509351787",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 210,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "舞萌去了 https://t.co/Ov3lvzlXmC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "【拼多多】获得8元现金券。因购买的喜思平 普瑞巴林胶囊 75mg…可能存在配送延迟，我们赠送您一张现金券以表歉意",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1931176332370813214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933432998864826371/0SiPerD5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 487,
+          "like_count": 5903,
+          "listed_count": 0,
+          "media_count": 301,
+          "tweet_count": 2725
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T05:07:56.000Z",
+        "description": "🧬🧬三代目重生版｜苦逼准高二生｜可以叫我Kurisu/ののちやん～｜斯普拉遁🦑😙/東方/音游♪/Gal…｜𓆩 永遠に紅い幼き月𓆪 ｜☆@Baiguan_☆我最喜欢的小狗勾🥺｜友🏳️‍⚧️｜负能致歉😥｜无🚪赞赏随意喵｜互fo没回请私信🤗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "Baiguan_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiokorrr",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiokorrr",
+                "start": 0,
+                "url": "https://t.co/F9JA98XDni"
+              }
+            ]
+          }
+        },
+        "id": "1918895283234017280",
+        "location": "よろしくお願いします～🥰",
+        "name": "「りそな」👾8964防盗👿",
+        "pinned_tweet_id": "1926288756971012336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923309192577966080/MgpJfrKP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1409,
+          "following_count": 320,
+          "like_count": 890,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 519
+        },
+        "url": "https://t.co/F9JA98XDni",
+        "username": "xiokorrr",
+        "verified": false
+      }
+    ]
+  }
+}

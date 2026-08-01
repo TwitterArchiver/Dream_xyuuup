@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1959584586712965154",
+    "created_at": "2025-08-24T12:02:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T13:02:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959587085884801230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1595050187529285632",
+          "start": 0,
+          "username": "aliii67285114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959587085884801230",
+    "in_reply_to_user_id": "1595050187529285632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959584586712965154",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aliii67285114 跟我初中校服一样"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1959584576139108352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzHXyigbIAAIkTX.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1959584576269160448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzHXyi_bkAANCRj.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1959584586712965154",
+        "created_at": "2025-08-24T12:02:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T13:02:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959587085884801230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1595050187529285632",
+              "start": 0,
+              "username": "aliii67285114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959587085884801230",
+        "in_reply_to_user_id": "1595050187529285632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959584586712965154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aliii67285114 跟我初中校服一样"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959584576139108352",
+            "3_1959584576269160448"
+          ]
+        },
+        "author_id": "1595050187529285632",
+        "conversation_id": "1959584586712965154",
+        "created_at": "2025-08-24T11:52:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T12:52:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959584586712965154"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PSQP1mLvVO",
+              "end": 42,
+              "expanded_url": "https://x.com/aliii67285114/status/1959584586712965154/photo/1",
+              "media_key": "3_1959584576139108352",
+              "start": 19,
+              "url": "https://t.co/PSQP1mLvVO"
+            },
+            {
+              "display_url": "pic.x.com/PSQP1mLvVO",
+              "end": 42,
+              "expanded_url": "https://x.com/aliii67285114/status/1959584586712965154/photo/1",
+              "media_key": "3_1959584576269160448",
+              "start": 19,
+              "url": "https://t.co/PSQP1mLvVO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959584586712965154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你好我們校服很好看。\n（裡頭那個不是 https://t.co/PSQP1mLvVO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "yì jīu｜谢谢你喜欢我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1953828269977219114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 552,
+          "like_count": 6788,
+          "listed_count": 0,
+          "media_count": 409,
+          "tweet_count": 3600
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-22T13:43:02.000Z",
+        "description": "置顶外烟价格表 欢迎随时私讯购买|书信明信片便宜代写代寄 多种字体多种文字皆可选用🏳️‍🌈|有愛多樣性的靈魂，會比較愛說方言『我是字符詞句信徒，筆尖紙墨情感的傳達人；文華與愛傳道者，母語跟自由捍衛者，心智未成的不穩定體』💐09生/晉東巫女/正體字/張家口下花園語|里推&負面&造語&鍵政推下方",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/shaashvatameie…",
+                "end": 23,
+                "expanded_url": "https://x.com/shaashvatameien?t=D7bbI0rJE660eraGi8FbGA&s=05",
+                "start": 0,
+                "url": "https://t.co/1e8FLJWkuV"
+              }
+            ]
+          }
+        },
+        "id": "1595050187529285632",
+        "location": "Hualien County, Taiwan",
+        "name": "明喵（呼市版/外烟纸烟代/书信賀卡代写/签名设计）ᠴᠠᠩ ᠮᠢᠩ/ꡑꡃꡚꡏꡞꡃ/छाङ्मीङ्",
+        "pinned_tweet_id": "1954773947444273522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817238063262625792/eqkzuE86_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2954,
+          "following_count": 2330,
+          "like_count": 76795,
+          "listed_count": 4,
+          "media_count": 955,
+          "tweet_count": 15763
+        },
+        "url": "https://t.co/1e8FLJWkuV",
+        "username": "aliii67285114",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1938848051767984128",
+        "3_1938848051830960128"
+      ],
+      "media_source_tweet_id": [
+        "1938848065605312583",
+        "1938848065605312583"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "1939091605241385174",
+    "created_at": "2025-06-28T22:40:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T23:40:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939091605241385174"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 34,
+          "start": 21,
+          "tag": "HAPPYRIKUDAY"
+        },
+        {
+          "end": 46,
+          "start": 38,
+          "tag": "NCTWISH"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1704058948914163712",
+          "start": 3,
+          "username": "nctwishofficial"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SR9Vau0mWh",
+          "end": 70,
+          "expanded_url": "https://x.com/nctwishofficial/status/1938848065605312583/photo/1",
+          "media_key": "3_1938848051767984128",
+          "start": 47,
+          "url": "https://t.co/SR9Vau0mWh"
+        },
+        {
+          "display_url": "pic.x.com/SR9Vau0mWh",
+          "end": 70,
+          "expanded_url": "https://x.com/nctwishofficial/status/1938848065605312583/photo/1",
+          "media_key": "3_1938848051830960128",
+          "start": 47,
+          "url": "https://t.co/SR9Vau0mWh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939091605241385174",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17915
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938848065605312583",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nctwishofficial: #HAPPYRIKUDAY 🎉🎂 #NCTWISH https://t.co/SR9Vau0mWh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3909,
+        "media_key": "3_1938848051767984128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GugsB9cWwAAuBtQ.jpg",
+        "width": 2932
+      },
+      {
+        "height": 3673,
+        "media_key": "3_1938848051830960128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GugsB9rXsAAx7tP.jpg",
+        "width": 2938
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938848051767984128",
+            "3_1938848051830960128"
+          ],
+          "media_source_tweet_id": [
+            "1938848065605312583",
+            "1938848065605312583"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "1939091605241385174",
+        "created_at": "2025-06-28T22:40:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T23:40:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939091605241385174"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 21,
+              "tag": "HAPPYRIKUDAY"
+            },
+            {
+              "end": 46,
+              "start": 38,
+              "tag": "NCTWISH"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1704058948914163712",
+              "start": 3,
+              "username": "nctwishofficial"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SR9Vau0mWh",
+              "end": 70,
+              "expanded_url": "https://x.com/nctwishofficial/status/1938848065605312583/photo/1",
+              "media_key": "3_1938848051767984128",
+              "start": 47,
+              "url": "https://t.co/SR9Vau0mWh"
+            },
+            {
+              "display_url": "pic.x.com/SR9Vau0mWh",
+              "end": 70,
+              "expanded_url": "https://x.com/nctwishofficial/status/1938848065605312583/photo/1",
+              "media_key": "3_1938848051830960128",
+              "start": 47,
+              "url": "https://t.co/SR9Vau0mWh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939091605241385174",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17915
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938848065605312583",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nctwishofficial: #HAPPYRIKUDAY 🎉🎂 #NCTWISH https://t.co/SR9Vau0mWh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938848051767984128",
+            "3_1938848051830960128"
+          ]
+        },
+        "author_id": "1704058948914163712",
+        "conversation_id": "1938848065605312583",
+        "created_at": "2025-06-28T06:32:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T07:32:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938848065605312583"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 0,
+              "tag": "HAPPYRIKUDAY"
+            },
+            {
+              "end": 25,
+              "start": 17,
+              "tag": "NCTWISH"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SR9Vau0mWh",
+              "end": 49,
+              "expanded_url": "https://x.com/nctwishofficial/status/1938848065605312583/photo/1",
+              "media_key": "3_1938848051767984128",
+              "start": 26,
+              "url": "https://t.co/SR9Vau0mWh"
+            },
+            {
+              "display_url": "pic.x.com/SR9Vau0mWh",
+              "end": 49,
+              "expanded_url": "https://x.com/nctwishofficial/status/1938848065605312583/photo/1",
+              "media_key": "3_1938848051830960128",
+              "start": 26,
+              "url": "https://t.co/SR9Vau0mWh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938848065605312583",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1618,
+          "impression_count": 1518890,
+          "like_count": 54721,
+          "quote_count": 4312,
+          "reply_count": 414,
+          "retweet_count": 17915
+        },
+        "reply_settings": "everyone",
+        "text": "#HAPPYRIKUDAY 🎉🎂 #NCTWISH https://t.co/SR9Vau0mWh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "喜欢做梦｜我觉得我很温柔。｜可爱的人@QLing61007",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933432998864826371/0SiPerD5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 495,
+          "like_count": 5985,
+          "listed_count": 0,
+          "media_count": 311,
+          "tweet_count": 2784
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-19T09:05:03.000Z",
+        "description": "NCT WISH 【poppop - The 2nd Mini Album】 ➫ 2025.04.14 6PM (KST)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "NCTWISH.lnk.to/poppop",
+                "end": 23,
+                "expanded_url": "https://NCTWISH.lnk.to/poppop",
+                "start": 0,
+                "url": "https://t.co/hmGmSmYrIi"
+              }
+            ]
+          }
+        },
+        "id": "1704058948914163712",
+        "name": "NCT WISH",
+        "pinned_tweet_id": "1911706114884014276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907085583157211136/--jBa4SN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 725573,
+          "following_count": 6,
+          "like_count": 0,
+          "listed_count": 1252,
+          "media_count": 2897,
+          "tweet_count": 3940
+        },
+        "url": "https://t.co/hmGmSmYrIi",
+        "username": "nctwishofficial",
+        "verified": true
+      }
+    ]
+  }
+}

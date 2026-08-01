@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1992615679267418113"
+      ],
+      "media_source_tweet_id": [
+        "1992615746535575782"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "1993094606624637096",
+    "created_at": "2025-11-24T23:09:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T00:09:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993094606624637096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1644336219751583747",
+          "start": 3,
+          "username": "banban4444886"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RHGaYCBm1k",
+          "end": 42,
+          "expanded_url": "https://x.com/banban4444886/status/1992615746535575782/video/1",
+          "media_key": "13_1992615679267418113",
+          "start": 19,
+          "url": "https://t.co/RHGaYCBm1k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993094606624637096",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 49
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992615746535575782",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @banban4444886: https://t.co/RHGaYCBm1k"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17438,
+        "height": 1280,
+        "media_key": "13_1992615679267418113",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1992615679267418113/img/rOdlaYia0RRuDryf.jpg",
+        "public_metrics": {
+          "view_count": 1795
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1992615679267418113/vid/avc1/320x568/YqCy8eWm7z2s4HgM.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1992615679267418113/vid/avc1/480x852/ek4mxvvVMHU10muR.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1992615679267418113/vid/avc1/720x1280/zdb1IhDlwTm54o11.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1992615679267418113/pl/EucXmHXzNJBrA8n4.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1992615679267418113"
+          ],
+          "media_source_tweet_id": [
+            "1992615746535575782"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "1993094606624637096",
+        "created_at": "2025-11-24T23:09:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T00:09:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993094606624637096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1644336219751583747",
+              "start": 3,
+              "username": "banban4444886"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RHGaYCBm1k",
+              "end": 42,
+              "expanded_url": "https://x.com/banban4444886/status/1992615746535575782/video/1",
+              "media_key": "13_1992615679267418113",
+              "start": 19,
+              "url": "https://t.co/RHGaYCBm1k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993094606624637096",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 49
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992615746535575782",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @banban4444886: https://t.co/RHGaYCBm1k"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1992615679267418113"
+          ]
+        },
+        "author_id": "1644336219751583747",
+        "conversation_id": "1992615746535575782",
+        "created_at": "2025-11-23T15:26:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T16:26:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992615746535575782"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RHGaYCBm1k",
+              "end": 23,
+              "expanded_url": "https://x.com/banban4444886/status/1992615746535575782/video/1",
+              "media_key": "13_1992615679267418113",
+              "start": 0,
+              "url": "https://t.co/RHGaYCBm1k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992615746535575782",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 2626,
+          "like_count": 471,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/RHGaYCBm1k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "你能想到的坏习惯我都有",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 600,
+          "like_count": 7813,
+          "listed_count": 1,
+          "media_count": 466,
+          "tweet_count": 4240
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-07T13:48:14.000Z",
+        "description": "",
+        "id": "1644336219751583747",
+        "name": "VON",
+        "pinned_tweet_id": "1971462857641578844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960982728590950400/-cT_tdyp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 803,
+          "following_count": 92,
+          "like_count": 878,
+          "listed_count": 2,
+          "media_count": 78,
+          "tweet_count": 642
+        },
+        "username": "banban4444886",
+        "verified": false
+      }
+    ]
+  }
+}

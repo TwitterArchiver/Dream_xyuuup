@@ -1,0 +1,391 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1935241918432092160"
+      ],
+      "media_source_tweet_id": [
+        "1935366909698129955"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1935668322311569470",
+    "created_at": "2025-06-19T11:57:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T12:57:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935668322311569470"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "62546031",
+          "start": 3,
+          "username": "CurseForge"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/g69SFZL7NE",
+          "end": 41,
+          "expanded_url": "https://x.com/CurseForge/status/1935366909698129955/video/1",
+          "media_key": "13_1935241918432092160",
+          "start": 18,
+          "url": "https://t.co/g69SFZL7NE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935668322311569470",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3675
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935366909698129955",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CurseForge: 😊 https://t.co/g69SFZL7NE"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 33669,
+        "height": 1080,
+        "media_key": "13_1935241918432092160",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1935241918432092160/img/Vd8_3D01Y8bZnq2G.jpg",
+        "public_metrics": {
+          "view_count": 2820666
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1935241918432092160/vid/avc1/540x540/vE1lOtIF73oQKpQC.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1935241918432092160/pl/7g9HY1CPF0gxG5AE.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1935241918432092160/vid/avc1/1080x1080/rV1200bc9SiH4XDY.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1935241918432092160/vid/avc1/720x720/mzgAIHw_Zy8jhcwc.mp4"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1935241918432092160/vid/avc1/320x320/Ig3rAAKIpzBDqHRa.mp4"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "duration_ms": 33669,
+        "height": 1080,
+        "media_key": "13_1935241918432092160",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1935241918432092160/img/Vd8_3D01Y8bZnq2G.jpg",
+        "public_metrics": {
+          "view_count": 2812370
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1935241918432092160/vid/avc1/540x540/vE1lOtIF73oQKpQC.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1935241918432092160/pl/7g9HY1CPF0gxG5AE.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1935241918432092160/vid/avc1/1080x1080/rV1200bc9SiH4XDY.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1935241918432092160/vid/avc1/720x720/mzgAIHw_Zy8jhcwc.mp4"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1935241918432092160/vid/avc1/320x320/Ig3rAAKIpzBDqHRa.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1935241918432092160"
+          ],
+          "media_source_tweet_id": [
+            "1935366909698129955"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1935668322311569470",
+        "created_at": "2025-06-19T11:57:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T12:57:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935668322311569470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "62546031",
+              "start": 3,
+              "username": "CurseForge"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g69SFZL7NE",
+              "end": 41,
+              "expanded_url": "https://x.com/CurseForge/status/1935366909698129955/video/1",
+              "media_key": "13_1935241918432092160",
+              "start": 18,
+              "url": "https://t.co/g69SFZL7NE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935668322311569470",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3675
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935366909698129955",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CurseForge: 😊 https://t.co/g69SFZL7NE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1935241918432092160"
+          ]
+        },
+        "author_id": "62546031",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1935366909698129955",
+        "created_at": "2025-06-18T16:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T17:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935366909698129955"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g69SFZL7NE",
+              "end": 25,
+              "expanded_url": "https://x.com/CurseForge/status/1935366909698129955/video/1",
+              "media_key": "13_1935241918432092160",
+              "start": 2,
+              "url": "https://t.co/g69SFZL7NE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935366909698129955",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19996,
+          "impression_count": 7111615,
+          "like_count": 60918,
+          "quote_count": 1558,
+          "reply_count": 1137,
+          "retweet_count": 3675
+        },
+        "reply_settings": "everyone",
+        "text": "😊 https://t.co/g69SFZL7NE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "在下弈鸠 只有几天时间就中考(我还挺期待的) 成分复杂爱看棒子 偶尔发血图吓唬你 想出国 对所有人友好 我想交朋友求你们来找我玩🥹下面的链接是赞赏码 最可爱的小宝宝@QLing61007 😽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 82,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1931176332370813214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933432998864826371/0SiPerD5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 482,
+          "like_count": 5739,
+          "listed_count": 0,
+          "media_count": 278,
+          "tweet_count": 2535
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2009-08-03T15:56:21.000Z",
+        "description": "Your home for legendary mods. \nJoin our community: https://t.co/MjUqhhXCn1",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/curseforge",
+                "end": 74,
+                "expanded_url": "http://discord.gg/curseforge",
+                "start": 51,
+                "url": "https://t.co/MjUqhhXCn1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "curseforge.com",
+                "end": 23,
+                "expanded_url": "http://www.curseforge.com",
+                "start": 0,
+                "url": "https://t.co/RKu9UTFKWm"
+              }
+            ]
+          }
+        },
+        "id": "62546031",
+        "name": "CurseForge",
+        "pinned_tweet_id": "1933193043911295306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739930019546165248/5KvWmfLN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93214,
+          "following_count": 301,
+          "like_count": 7079,
+          "listed_count": 144,
+          "media_count": 1511,
+          "tweet_count": 3890
+        },
+        "url": "https://t.co/RKu9UTFKWm",
+        "username": "CurseForge",
+        "verified": true
+      }
+    ]
+  }
+}

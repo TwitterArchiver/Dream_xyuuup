@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "2055932475483074990",
+    "created_at": "2026-05-18T08:06:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T09:06:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056285163014013279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "202930555",
+          "start": 0,
+          "username": "Sattakom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056285163014013279",
+    "in_reply_to_user_id": "202930555",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055932475483074990",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sattakom 是啊，吃什么"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1518,
+        "media_key": "3_2055932472349872128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIgjsNia0AA_Rf0.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "2055932475483074990",
+        "created_at": "2026-05-18T08:06:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T09:06:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056285163014013279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "202930555",
+              "start": 0,
+              "username": "Sattakom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056285163014013279",
+        "in_reply_to_user_id": "202930555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055932475483074990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sattakom 是啊，吃什么"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055932472349872128"
+          ]
+        },
+        "author_id": "202930555",
+        "conversation_id": "2055932475483074990",
+        "created_at": "2026-05-17T08:44:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T09:44:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055932475483074990"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/psPq2PDCF9",
+              "end": 35,
+              "expanded_url": "https://x.com/Sattakom/status/2055932475483074990/photo/1",
+              "media_key": "3_2055932472349872128",
+              "start": 12,
+              "url": "https://t.co/psPq2PDCF9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055932475483074990",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2768,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你禁售了，我们吃什么？ https://t.co/psPq2PDCF9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "弈鸠，是谁？\n每天分享在某汀支那汉堡店打工日常\nmtx,her/they,激女粉红点进就死\n*・x・*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "在塔斯汀打工天天好累想炸掉汉堡店的弈鸠",
+        "pinned_tweet_id": "2055264508608970925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052421075716505600/5gcoclAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 528,
+          "following_count": 631,
+          "like_count": 8347,
+          "listed_count": 0,
+          "media_count": 595,
+          "tweet_count": 5944
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2010-10-15T03:53:21.000Z",
+        "description": "叫我xiaosong",
+        "id": "202930555",
+        "name": "Librium",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043410568820973568/N_9Ii6h6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 126,
+          "like_count": 2663,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 130
+        },
+        "username": "Sattakom",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1908533787958665221"
+      ],
+      "media_source_tweet_id": [
+        "1908533805390168101"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "1908555627418525983",
+    "created_at": "2025-04-05T16:21:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T17:21:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908555627418525983"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 27,
+          "tag": "郊狼"
+        },
+        {
+          "end": 34,
+          "start": 31,
+          "tag": "薄肌"
+        },
+        {
+          "end": 38,
+          "start": 35,
+          "tag": "少年"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1710885709643689984",
+          "start": 3,
+          "username": "wu7739303190335"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qopGGQEzt2",
+          "end": 62,
+          "expanded_url": "https://x.com/wu7739303190335/status/1908533805390168101/photo/1",
+          "media_key": "3_1908533787958665221",
+          "start": 39,
+          "url": "https://t.co/qopGGQEzt2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908555627418525983",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908533805390168101",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wu7739303190335: 宝宝，涩吗？#郊狼 #薄肌 #少年 https://t.co/qopGGQEzt2"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1908555627418525983].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1908555627418525983",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1908555627418525983"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1993,
+        "media_key": "3_1908533787958665221",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gnx5XkkbYAUNvhW.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908533787958665221"
+          ]
+        },
+        "author_id": "1710885709643689984",
+        "conversation_id": "1908533805390168101",
+        "created_at": "2025-04-05T14:54:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T15:54:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908533805390168101"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 6,
+              "tag": "郊狼"
+            },
+            {
+              "end": 13,
+              "start": 10,
+              "tag": "薄肌"
+            },
+            {
+              "end": 17,
+              "start": 14,
+              "tag": "少年"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qopGGQEzt2",
+              "end": 41,
+              "expanded_url": "https://x.com/wu7739303190335/status/1908533805390168101/photo/1",
+              "media_key": "3_1908533787958665221",
+              "start": 18,
+              "url": "https://t.co/qopGGQEzt2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908533805390168101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 520,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝，涩吗？#郊狼 #薄肌 #少年 https://t.co/qopGGQEzt2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "数学满分是假的数学家也是假的数学没及格过最近一次考试32/100嗯你们不要接了 积极宣扬负能量 对所有人温良除了现生",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠ltnh（未来最厉害的数学家数学满分版😋）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905913123158298624/ClLLrGxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 335,
+          "like_count": 3082,
+          "listed_count": 1,
+          "media_count": 151,
+          "tweet_count": 1289
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-08T05:12:05.000Z",
+        "description": "欢迎来找我互关扩列聊天！🥹",
+        "id": "1710885709643689984",
+        "location": "china",
+        "name": "zz",
+        "pinned_tweet_id": "1908533805390168101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903350451569037315/x9pEKJwQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 721,
+          "like_count": 1327,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 293
+        },
+        "username": "wu7739303190335",
+        "verified": false
+      }
+    ]
+  }
+}

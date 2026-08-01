@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1955265298904322190",
+    "created_at": "2025-08-12T14:28:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T15:28:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955275113693139145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1805850159538225152",
+          "start": 0,
+          "username": "EzOVVFRNNF98776"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955275113693139145",
+    "in_reply_to_user_id": "1805850159538225152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955271454791963089",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EzOVVFRNNF98776 你说话真吓人，我马上关了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1955265298904322190",
+        "created_at": "2025-08-12T14:28:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T15:28:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955275113693139145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1805850159538225152",
+              "start": 0,
+              "username": "EzOVVFRNNF98776"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955275113693139145",
+        "in_reply_to_user_id": "1805850159538225152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955271454791963089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EzOVVFRNNF98776 你说话真吓人，我马上关了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805850159538225152",
+        "conversation_id": "1955265298904322190",
+        "created_at": "2025-08-12T14:13:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T15:13:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955271454791963089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1726051028112744448",
+              "start": 0,
+              "username": "Dream_xyuuup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955271454791963089",
+        "in_reply_to_user_id": "1726051028112744448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955265298904322190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dream_xyuuup 别用支付宝了，这个东西靠自己，他掌握你的数据，你放心吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "yì jīu｜🏳️‍🌈｜谢谢你喜欢我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1953828269977219114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 546,
+          "like_count": 6670,
+          "listed_count": 0,
+          "media_count": 393,
+          "tweet_count": 3433
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-26T06:27:03.000Z",
+        "description": "上班牛马下班才是自己",
+        "id": "1805850159538225152",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "琉璃小喵🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836294728100589568/1e3NtG2E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 499,
+          "like_count": 905,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 434
+        },
+        "username": "EzOVVFRNNF98776",
+        "verified": false
+      }
+    ]
+  }
+}

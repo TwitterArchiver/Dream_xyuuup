@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1975124161170452915",
+    "created_at": "2025-10-06T09:01:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T10:01:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1975124161170452915"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/57crz3oa/statu…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/57crz3oa/status/1974819592162930826",
+          "start": 4,
+          "url": "https://t.co/tmxiaMnWiE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975124161170452915",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974819592162930826",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "意满离 https://t.co/tmxiaMnWiE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 760,
+        "media_key": "3_1974819589906460672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2f39DfbcAAkB9h.jpg",
+        "width": 610
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1975124161170452915",
+        "created_at": "2025-10-06T09:01:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T10:01:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975124161170452915"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/57crz3oa/statu…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/57crz3oa/status/1974819592162930826",
+              "start": 4,
+              "url": "https://t.co/tmxiaMnWiE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975124161170452915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974819592162930826",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "意满离 https://t.co/tmxiaMnWiE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974819589906460672"
+          ]
+        },
+        "author_id": "1494669485214633984",
+        "conversation_id": "1974759186341969988",
+        "created_at": "2025-10-05T12:50:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T13:50:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974819592162930826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1481172876589821952",
+              "start": 0,
+              "username": "pyke2076"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/B4cXwMmNV1",
+              "end": 33,
+              "expanded_url": "https://x.com/57crz3oA/status/1974819592162930826/photo/1",
+              "media_key": "3_1974819589906460672",
+              "start": 10,
+              "url": "https://t.co/B4cXwMmNV1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974819592162930826",
+        "in_reply_to_user_id": "1481172876589821952",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2727,
+          "like_count": 78,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974759186341969988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pyke2076 https://t.co/B4cXwMmNV1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "我自私，病态，阴暗，偏执。所有大度、不在乎都是我的伪装。我窥探你的生活，揣测你的文案，解读你分享的一切，观察你身边的人，盯着你的照片妄想找到蛛丝马迹。我敏感，善变多疑，斤斤计较你多看别人的一眼。我爱你，你本来就应该乖乖待在我身边。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1953828269977219114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 566,
+          "like_count": 7034,
+          "listed_count": 1,
+          "media_count": 431,
+          "tweet_count": 3863
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "ad astra per aspera",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/stcr2304",
+                "end": 23,
+                "expanded_url": "https://ngl.link/stcr2304",
+                "start": 0,
+                "url": "https://t.co/u1lxDXQeX0"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "name": "s2R2304",
+        "pinned_tweet_id": "1931931078182547903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935336561887076352/EYsfHVDn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 1100,
+          "like_count": 50982,
+          "listed_count": 3,
+          "media_count": 246,
+          "tweet_count": 2616
+        },
+        "url": "https://t.co/u1lxDXQeX0",
+        "username": "57crz3oA",
+        "verified": false
+      }
+    ]
+  }
+}

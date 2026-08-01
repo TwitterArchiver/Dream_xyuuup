@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1974566047383736320"
+      ],
+      "media_source_tweet_id": [
+        "1974566056825156014"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "1975120686785138812",
+    "created_at": "2025-10-06T08:47:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T09:47:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975120686785138812"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1346351674030497792",
+          "start": 3,
+          "username": "Futa_LemonTea"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/g9vcJPiUUh",
+          "end": 48,
+          "expanded_url": "https://x.com/Futa_LemonTea/status/1974566056825156014/photo/1",
+          "media_key": "3_1974566047383736320",
+          "start": 25,
+          "url": "https://t.co/g9vcJPiUUh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975120686785138812",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974566056825156014",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Futa_LemonTea: 我有阴郁症 https://t.co/g9vcJPiUUh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1974566047383736320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2cRW7_a0AAL0zi.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974566047383736320"
+          ],
+          "media_source_tweet_id": [
+            "1974566056825156014"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "1975120686785138812",
+        "created_at": "2025-10-06T08:47:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T09:47:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975120686785138812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1346351674030497792",
+              "start": 3,
+              "username": "Futa_LemonTea"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g9vcJPiUUh",
+              "end": 48,
+              "expanded_url": "https://x.com/Futa_LemonTea/status/1974566056825156014/photo/1",
+              "media_key": "3_1974566047383736320",
+              "start": 25,
+              "url": "https://t.co/g9vcJPiUUh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975120686785138812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974566056825156014",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Futa_LemonTea: 我有阴郁症 https://t.co/g9vcJPiUUh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974566047383736320"
+          ]
+        },
+        "author_id": "1346351674030497792",
+        "conversation_id": "1974566056825156014",
+        "created_at": "2025-10-04T20:03:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T21:03:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974566056825156014"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g9vcJPiUUh",
+              "end": 29,
+              "expanded_url": "https://x.com/Futa_LemonTea/status/1974566056825156014/photo/1",
+              "media_key": "3_1974566047383736320",
+              "start": 6,
+              "url": "https://t.co/g9vcJPiUUh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974566056825156014",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 77,
+          "impression_count": 59911,
+          "like_count": 1083,
+          "quote_count": 0,
+          "reply_count": 39,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "我有阴郁症 https://t.co/g9vcJPiUUh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "我自私，病态，阴暗，偏执。所有大度、不在乎都是我的伪装。我窥探你的生活，揣测你的文案，解读你分享的一切，观察你身边的人，盯着你的照片妄想找到蛛丝马迹。我敏感，善变多疑，斤斤计较你多看别人的一眼。我爱你，你本来就应该乖乖待在我身边。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1953828269977219114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 566,
+          "like_count": 7030,
+          "listed_count": 1,
+          "media_count": 431,
+          "tweet_count": 3860
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-05T07:03:58.000Z",
+        "description": "不許喜歡🙅‍♀️",
+        "id": "1346351674030497792",
+        "location": "花崗岩",
+        "name": "樹之嵐",
+        "pinned_tweet_id": "1888628396898369782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970538623629152256/zbpK6G4d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4519,
+          "following_count": 604,
+          "like_count": 2318,
+          "listed_count": 19,
+          "media_count": 14,
+          "tweet_count": 218
+        },
+        "username": "Futa_LemonTea",
+        "verified": false
+      }
+    ]
+  }
+}

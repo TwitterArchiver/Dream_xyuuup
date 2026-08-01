@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1975243600280621056"
+      ],
+      "media_source_tweet_id": [
+        "1975243684221259798"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "1976155776269025755",
+    "created_at": "2025-10-09T05:20:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T06:20:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976155776269025755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1837857896022900736",
+          "start": 3,
+          "username": "likeafantasy__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zv3ryVeLT1",
+          "end": 43,
+          "expanded_url": "https://x.com/likeafantasy__/status/1975243684221259798/video/1",
+          "media_key": "13_1975243600280621056",
+          "start": 20,
+          "url": "https://t.co/zv3ryVeLT1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976155776269025755",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2621
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975243684221259798",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @likeafantasy__: https://t.co/zv3ryVeLT1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9961,
+        "height": 1178,
+        "media_key": "13_1975243600280621056",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1975243600280621056/img/xOogJJeDRBudXHJt.jpg",
+        "public_metrics": {
+          "view_count": 60432
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1975243600280621056/vid/avc1/320x522/_qnjIj0I7XzN0zuf.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1975243600280621056/vid/avc1/480x784/w_4HjXyqeoezMkFm.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1975243600280621056/vid/avc1/720x1178/xgrm2ijPmjGgG7t6.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1975243600280621056/pl/VabuAeh_FV16FJKR.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1975243600280621056"
+          ],
+          "media_source_tweet_id": [
+            "1975243684221259798"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "1976155776269025755",
+        "created_at": "2025-10-09T05:20:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T06:20:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976155776269025755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1837857896022900736",
+              "start": 3,
+              "username": "likeafantasy__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zv3ryVeLT1",
+              "end": 43,
+              "expanded_url": "https://x.com/likeafantasy__/status/1975243684221259798/video/1",
+              "media_key": "13_1975243600280621056",
+              "start": 20,
+              "url": "https://t.co/zv3ryVeLT1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976155776269025755",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2621
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975243684221259798",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @likeafantasy__: https://t.co/zv3ryVeLT1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1975243600280621056"
+          ]
+        },
+        "author_id": "1837857896022900736",
+        "conversation_id": "1975243684221259798",
+        "created_at": "2025-10-06T16:56:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T17:56:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975243684221259798"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zv3ryVeLT1",
+              "end": 23,
+              "expanded_url": "https://x.com/likeafantasy__/status/1975243684221259798/video/1",
+              "media_key": "13_1975243600280621056",
+              "start": 0,
+              "url": "https://t.co/zv3ryVeLT1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975243684221259798",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 959,
+          "impression_count": 193917,
+          "like_count": 9841,
+          "quote_count": 360,
+          "reply_count": 4,
+          "retweet_count": 2621
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/zv3ryVeLT1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "我自私，病态，阴暗，偏执。所有大度、不在乎都是我的伪装。我窥探你的生活，揣测你的文案，解读你分享的一切，观察你身边的人，盯着你的照片妄想找到蛛丝马迹。我敏感，善变多疑，斤斤计较你多看别人的一眼。我爱你，你本来就应该乖乖待在我身边。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1953828269977219114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 573,
+          "like_count": 7101,
+          "listed_count": 1,
+          "media_count": 439,
+          "tweet_count": 3906
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-22T14:14:37.000Z",
+        "description": "𐙚 illit ult / matching (?) with @kkurallit / free them all 🇵🇸🇸🇩🇨🇩🇪🇹🇭🇹🇱🇧 / pro boycott ꨄ︎ priv: @almondillit",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 32,
+                "username": "kkurallit"
+              },
+              {
+                "end": 107,
+                "start": 95,
+                "username": "almondillit"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/opolivebranch",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/opolivebranch",
+                "start": 0,
+                "url": "https://t.co/rwYwYWQecr"
+              }
+            ]
+          }
+        },
+        "id": "1837857896022900736",
+        "location": "#smgc (she/her)",
+        "name": "ꨄ︎ ✧･ﾟ* ✧",
+        "pinned_tweet_id": "1854606546304471099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971321799271964672/8PMId_x7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2202,
+          "following_count": 609,
+          "like_count": 99485,
+          "listed_count": 9,
+          "media_count": 5546,
+          "tweet_count": 25855
+        },
+        "url": "https://t.co/rwYwYWQecr",
+        "username": "likeafantasy__",
+        "verified": false
+      }
+    ]
+  }
+}

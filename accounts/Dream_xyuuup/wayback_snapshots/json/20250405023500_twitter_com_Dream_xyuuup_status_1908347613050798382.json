@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1908234408307363840"
+      ],
+      "media_source_tweet_id": [
+        "1908234464586584302"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1908347613050798382",
+    "created_at": "2025-04-05T02:35:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T03:35:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908347613050798382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1798745027213987840",
+          "start": 3,
+          "username": "princessgllit"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/l526tbINvI",
+          "end": 42,
+          "expanded_url": "https://x.com/princessgllit/status/1908234464586584302/video/1",
+          "media_key": "13_1908234408307363840",
+          "start": 19,
+          "url": "https://t.co/l526tbINvI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908347613050798382",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908234464586584302",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @princessgllit: https://t.co/l526tbINvI"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15904,
+        "height": 720,
+        "media_key": "13_1908234408307363840",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1908234408307363840/img/Jko355Y0qFl5xwJr.jpg",
+        "public_metrics": {
+          "view_count": 228
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1908234408307363840/vid/avc1/360x270/25U_T22xkWxSHtCB.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1908234408307363840/vid/avc1/480x360/PBhwuT3HYo7vTJmY.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1908234408307363840/vid/avc1/960x720/-C4XH-if6vkQaGNz.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1908234408307363840/pl/s6S6KFbNM6xg5op3.m3u8?tag=14"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1908234408307363840"
+          ],
+          "media_source_tweet_id": [
+            "1908234464586584302"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1908347613050798382",
+        "created_at": "2025-04-05T02:35:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T03:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908347613050798382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1798745027213987840",
+              "start": 3,
+              "username": "princessgllit"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l526tbINvI",
+              "end": 42,
+              "expanded_url": "https://x.com/princessgllit/status/1908234464586584302/video/1",
+              "media_key": "13_1908234408307363840",
+              "start": 19,
+              "url": "https://t.co/l526tbINvI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908347613050798382",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908234464586584302",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @princessgllit: https://t.co/l526tbINvI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1908234408307363840"
+          ]
+        },
+        "author_id": "1798745027213987840",
+        "conversation_id": "1908234464586584302",
+        "created_at": "2025-04-04T19:05:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T20:05:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908234464586584302"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l526tbINvI",
+              "end": 23,
+              "expanded_url": "https://x.com/princessgllit/status/1908234464586584302/video/1",
+              "media_key": "13_1908234408307363840",
+              "start": 0,
+              "url": "https://t.co/l526tbINvI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908234464586584302",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 723,
+          "like_count": 84,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/l526tbINvI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "对所有人温良除了现生",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dreamxy_uuup",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dreamxy_uuup",
+                "start": 0,
+                "url": "https://t.co/V4QSiptJcT"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠ltnh（未来最厉害的数学家数学满分版😋）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905913123158298624/ClLLrGxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 321,
+          "like_count": 2896,
+          "listed_count": 2,
+          "media_count": 145,
+          "tweet_count": 1216
+        },
+        "url": "https://t.co/V4QSiptJcT",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-06T15:53:43.000Z",
+        "description": "For the five magical girls of #아일릿 ★",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 34,
+                "start": 30,
+                "tag": "아일릿"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "princessgllit.carrd.co",
+                "end": 23,
+                "expanded_url": "https://princessgllit.carrd.co/",
+                "start": 0,
+                "url": "https://t.co/hmAi0HDaC5"
+              }
+            ]
+          }
+        },
+        "id": "1798745027213987840",
+        "name": "‎ 𝒥𝒾𝒶‎ ‎𐙚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890471276268879872/k96sHY47_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2290,
+          "following_count": 616,
+          "like_count": 13863,
+          "listed_count": 4,
+          "media_count": 491,
+          "tweet_count": 796
+        },
+        "url": "https://t.co/hmAi0HDaC5",
+        "username": "princessgllit",
+        "verified": false
+      }
+    ]
+  }
+}

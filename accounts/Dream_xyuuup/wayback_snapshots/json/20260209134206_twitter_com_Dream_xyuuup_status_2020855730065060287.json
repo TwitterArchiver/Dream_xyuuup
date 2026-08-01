@@ -1,0 +1,667 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1458459580900335616",
+          "name": "IVE"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1458459580900335616",
+          "name": "IVE"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1458459580900335616",
+          "name": "IVE"
+        }
+      }
+    ],
+    "conversation_id": "2020855730065060287",
+    "created_at": "2026-02-09T13:42:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T14:42:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020855730065060287"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 64,
+          "normalized_text": "BANG BANG",
+          "probability": 0.9293,
+          "start": 56,
+          "type": "Other"
+        },
+        {
+          "end": 99,
+          "normalized_text": "IVE",
+          "probability": 0.4375,
+          "start": 97,
+          "type": "Organization"
+        },
+        {
+          "end": 118,
+          "normalized_text": "REVIVE_PLUS",
+          "probability": 0.7334,
+          "start": 108,
+          "type": "Organization"
+        },
+        {
+          "end": 143,
+          "normalized_text": "IVE_BANGBANG",
+          "probability": 0.6399,
+          "start": 132,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 100,
+          "start": 96,
+          "tag": "IVE"
+        },
+        {
+          "end": 105,
+          "start": 101,
+          "tag": "아이브"
+        },
+        {
+          "end": 119,
+          "start": 107,
+          "tag": "REVIVE_PLUS"
+        },
+        {
+          "end": 130,
+          "start": 121,
+          "tag": "BANGBANG"
+        },
+        {
+          "end": 144,
+          "start": 131,
+          "tag": "IVE_BANGBANG"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1402182579265048598",
+          "start": 3,
+          "username": "IVEstarship"
+        }
+      ],
+      "urls": [
+        {
+          "description": "STARSHIP SQUARE (Domestic) : https://bit.ly/3HtQ7GFSTARSHIP SQUARE (Global) : https://bit.ly/4i5Dl1gIVE US EXCLUSIVE STORE : https://shop.ive-starship.com/ ...",
+          "display_url": "youtu.be/9qkpcLK422o",
+          "end": 94,
+          "expanded_url": "https://youtu.be/9qkpcLK422o",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/2020784956415303682/14jNMOLx?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2020784956415303682/14jNMOLx?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 71,
+          "status": 200,
+          "title": "IVE 아이브 'BANG BANG' MV",
+          "unwound_url": "https://www.youtube.com/watch?v=9qkpcLK422o&feature=youtu.be",
+          "url": "https://t.co/0g8a4rY6V1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020855730065060287",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8253
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020785068613284071",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IVEstarship: IVE \nTHE 2ND ALBUM \n&lt;REVIVE+&gt; \n\n'BANG BANG' MV\n\nhttps://t.co/0g8a4rY6V1\n\n#IVE #아이브 \n#REVIVE_PLUS \n#BANGBANG #IVE_BANGBANG…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 60060,
+        "height": 1080,
+        "media_key": "13_2020764266723483648",
+        "preview_image_url": "https://pbs.twimg.com/media/HAsyii6bMAITW9l.jpg",
+        "public_metrics": {
+          "view_count": 177832
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2020764266723483648/pl/LPqcA4PoEiO4vfao.m3u8?v=236"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020764266723483648/vid/avc1/418x270/I4UbNgD35ZNWTDaA.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020764266723483648/vid/avc1/1674x1080/4WpXHEXhDqSeUFfr.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020764266723483648/vid/avc1/558x360/o7-UtSL0up2HxjV0.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020764266723483648/vid/avc1/3350x2160/12e7NW3Kw0gJT1__.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020764266723483648/vid/avc1/1116x720/W8u3g58-TvgCTDyo.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1458459580900335616",
+              "name": "IVE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1458459580900335616",
+              "name": "IVE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1458459580900335616",
+              "name": "IVE"
+            }
+          }
+        ],
+        "conversation_id": "2020855730065060287",
+        "created_at": "2026-02-09T13:42:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T14:42:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020855730065060287"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 64,
+              "normalized_text": "BANG BANG",
+              "probability": 0.9293,
+              "start": 56,
+              "type": "Other"
+            },
+            {
+              "end": 99,
+              "normalized_text": "IVE",
+              "probability": 0.4375,
+              "start": 97,
+              "type": "Organization"
+            },
+            {
+              "end": 118,
+              "normalized_text": "REVIVE_PLUS",
+              "probability": 0.7334,
+              "start": 108,
+              "type": "Organization"
+            },
+            {
+              "end": 143,
+              "normalized_text": "IVE_BANGBANG",
+              "probability": 0.6399,
+              "start": 132,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 100,
+              "start": 96,
+              "tag": "IVE"
+            },
+            {
+              "end": 105,
+              "start": 101,
+              "tag": "아이브"
+            },
+            {
+              "end": 119,
+              "start": 107,
+              "tag": "REVIVE_PLUS"
+            },
+            {
+              "end": 130,
+              "start": 121,
+              "tag": "BANGBANG"
+            },
+            {
+              "end": 144,
+              "start": 131,
+              "tag": "IVE_BANGBANG"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1402182579265048598",
+              "start": 3,
+              "username": "IVEstarship"
+            }
+          ],
+          "urls": [
+            {
+              "description": "STARSHIP SQUARE (Domestic) : https://bit.ly/3HtQ7GFSTARSHIP SQUARE (Global) : https://bit.ly/4i5Dl1gIVE US EXCLUSIVE STORE : https://shop.ive-starship.com/ ...",
+              "display_url": "youtu.be/9qkpcLK422o",
+              "end": 94,
+              "expanded_url": "https://youtu.be/9qkpcLK422o",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2020784956415303682/14jNMOLx?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2020784956415303682/14jNMOLx?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 71,
+              "status": 200,
+              "title": "IVE 아이브 'BANG BANG' MV",
+              "unwound_url": "https://www.youtube.com/watch?v=9qkpcLK422o&feature=youtu.be",
+              "url": "https://t.co/0g8a4rY6V1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020855730065060287",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8253
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020785068613284071",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IVEstarship: IVE \nTHE 2ND ALBUM \n&lt;REVIVE+&gt; \n\n'BANG BANG' MV\n\nhttps://t.co/0g8a4rY6V1\n\n#IVE #아이브 \n#REVIVE_PLUS \n#BANGBANG #IVE_BANGBANG…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2020764266723483648"
+          ]
+        },
+        "author_id": "1402182579265048598",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1458459580900335616",
+              "name": "IVE"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1458459580900335616",
+              "name": "IVE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1458459580900335616",
+              "name": "IVE"
+            }
+          }
+        ],
+        "conversation_id": "2020785068613284071",
+        "created_at": "2026-02-09T09:01:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T10:01:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020785068613284071"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 47,
+              "normalized_text": "BANG BANG",
+              "probability": 0.9345,
+              "start": 39,
+              "type": "Other"
+            },
+            {
+              "end": 82,
+              "normalized_text": "IVE",
+              "probability": 0.3553,
+              "start": 80,
+              "type": "Organization"
+            },
+            {
+              "end": 87,
+              "normalized_text": "아이브",
+              "probability": 0.4247,
+              "start": 85,
+              "type": "Person"
+            },
+            {
+              "end": 101,
+              "normalized_text": "REVIVE_PLUS",
+              "probability": 0.765,
+              "start": 91,
+              "type": "Organization"
+            },
+            {
+              "end": 126,
+              "normalized_text": "IVE_BANGBANG",
+              "probability": 0.6763,
+              "start": 115,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 83,
+              "start": 79,
+              "tag": "IVE"
+            },
+            {
+              "end": 88,
+              "start": 84,
+              "tag": "아이브"
+            },
+            {
+              "end": 102,
+              "start": 90,
+              "tag": "REVIVE_PLUS"
+            },
+            {
+              "end": 113,
+              "start": 104,
+              "tag": "BANGBANG"
+            },
+            {
+              "end": 127,
+              "start": 114,
+              "tag": "IVE_BANGBANG"
+            }
+          ],
+          "urls": [
+            {
+              "description": "STARSHIP SQUARE (Domestic) : https://bit.ly/3HtQ7GFSTARSHIP SQUARE (Global) : https://bit.ly/4i5Dl1gIVE US EXCLUSIVE STORE : https://shop.ive-starship.com/ ...",
+              "display_url": "youtu.be/9qkpcLK422o",
+              "end": 77,
+              "expanded_url": "https://youtu.be/9qkpcLK422o",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2020784956415303682/14jNMOLx?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2020784956415303682/14jNMOLx?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 54,
+              "status": 200,
+              "title": "IVE 아이브 'BANG BANG' MV",
+              "unwound_url": "https://www.youtube.com/watch?v=9qkpcLK422o&feature=youtu.be",
+              "url": "https://t.co/0g8a4rY6V1"
+            },
+            {
+              "display_url": "pic.x.com/iRkY7eSRno",
+              "end": 151,
+              "expanded_url": "https://x.com/IVEstarship/status/2020785068613284071/video/1",
+              "media_key": "13_2020764266723483648",
+              "start": 128,
+              "url": "https://t.co/iRkY7eSRno"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020785068613284071",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 760,
+          "impression_count": 552914,
+          "like_count": 17351,
+          "quote_count": 1787,
+          "reply_count": 311,
+          "retweet_count": 8253
+        },
+        "reply_settings": "everyone",
+        "text": "IVE \nTHE 2ND ALBUM \n&lt;REVIVE+&gt; \n\n'BANG BANG' MV\n\nhttps://t.co/0g8a4rY6V1\n\n#IVE #아이브 \n#REVIVE_PLUS \n#BANGBANG #IVE_BANGBANG https://t.co/iRkY7eSRno"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "有负面💊，歌品感人只是一个爱听kpop/cpop/edm的可怜人，性取向你猜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016795361961230336/4zuFQCyR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 602,
+          "like_count": 8002,
+          "listed_count": 1,
+          "media_count": 482,
+          "tweet_count": 4546
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-08T08:36:06.000Z",
+        "description": "IVE OFFICIAL X (TWITTER)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "orcd.co/revive",
+                "end": 23,
+                "expanded_url": "http://orcd.co/revive",
+                "start": 0,
+                "url": "https://t.co/ThJwJH47t0"
+              }
+            ]
+          }
+        },
+        "id": "1402182579265048598",
+        "name": "IVE OFFICIAL",
+        "pinned_tweet_id": "2020785068613284071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013627769549160448/cInBlFTh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1546461,
+          "following_count": 6,
+          "like_count": 4106,
+          "listed_count": 5462,
+          "media_count": 4065,
+          "tweet_count": 13248
+        },
+        "url": "https://t.co/ThJwJH47t0",
+        "username": "IVEstarship",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1899104304579170524",
+    "created_at": "2025-03-10T14:41:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-10T15:41:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899108467908243754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1816888370041356288",
+          "start": 0,
+          "username": "Jinxuan5201314"
+        },
+        {
+          "end": 30,
+          "id": "1886976625868464129",
+          "start": 16,
+          "username": "Happyhjd07924"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899108467908243754",
+    "in_reply_to_user_id": "1816888370041356288",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899108262227660984",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jinxuan5201314 @Happyhjd07924 👀👀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1899104304579170524",
+        "created_at": "2025-03-10T14:41:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T15:41:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899108467908243754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1816888370041356288",
+              "start": 0,
+              "username": "Jinxuan5201314"
+            },
+            {
+              "end": 30,
+              "id": "1886976625868464129",
+              "start": 16,
+              "username": "Happyhjd07924"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899108467908243754",
+        "in_reply_to_user_id": "1816888370041356288",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899108262227660984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jinxuan5201314 @Happyhjd07924 👀👀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1816888370041356288",
+        "conversation_id": "1899104304579170524",
+        "created_at": "2025-03-10T14:41:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T15:41:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899108262227660984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1726051028112744448",
+              "start": 0,
+              "username": "Dream_xyuuup"
+            },
+            {
+              "end": 28,
+              "id": "1886976625868464129",
+              "start": 14,
+              "username": "Happyhjd07924"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899108262227660984",
+        "in_reply_to_user_id": "1726051028112744448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899108093834998250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dream_xyuuup @Happyhjd07924 在学校宿舍翻墙？想吃红豆了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "这是一本日记 喜欢视奸 互fo请赞自介条",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dreamxy_uuup",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dreamxy_uuup",
+                "start": 0,
+                "url": "https://t.co/V4QSiptJcT"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠ltnh",
+        "pinned_tweet_id": "1898320029139214432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896250221824520192/PpwkphAn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 123,
+          "like_count": 624,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 341
+        },
+        "url": "https://t.co/V4QSiptJcT",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-26T17:28:48.000Z",
+        "description": "世界和平，天下大同。",
+        "id": "1816888370041356288",
+        "location": "桃園縣, 台灣",
+        "name": "晨曦半夏",
+        "pinned_tweet_id": "1898455621495873910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898391119097937920/qxML6oma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 77,
+          "like_count": 279,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 245
+        },
+        "username": "Jinxuan5201314",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-05T03:14:29.000Z",
+        "description": "男生：）高中，可以叫我俊達😉，游戏玩农mc，emmm喜欢跑步和打打球，对很多东西不了解（如果我有不好的言论十分抱歉），日语自学ing，别的emmmm好像暂时没啥了qwq，总之很高兴认识你~o(〃'▽'〃)o",
+        "id": "1886976625868464129",
+        "location": "广东",
+        "name": "SO EASY の達",
+        "pinned_tweet_id": "1894259569486172277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894979471662555141/VEmVUXmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 41,
+          "like_count": 642,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 600
+        },
+        "username": "Happyhjd07924",
+        "verified": false
+      }
+    ]
+  }
+}

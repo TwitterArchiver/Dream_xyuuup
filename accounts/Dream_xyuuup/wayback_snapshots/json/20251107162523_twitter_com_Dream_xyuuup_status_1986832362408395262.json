@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1986832362408395262",
+    "created_at": "2025-11-07T16:25:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T17:25:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986832362408395262"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/knd_8964/statu…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/knd_8964/status/1986751191821451499",
+          "start": 8,
+          "url": "https://t.co/qs2Shf5Ekq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986832362408395262",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986751191821451499",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "全体出动草泥马 https://t.co/qs2Shf5Ekq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1605,
+        "media_key": "3_1986751188839391232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5JbrhPbYAAqVSy.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1986832362408395262",
+        "created_at": "2025-11-07T16:25:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T17:25:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986832362408395262"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/knd_8964/statu…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/knd_8964/status/1986751191821451499",
+              "start": 8,
+              "url": "https://t.co/qs2Shf5Ekq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986832362408395262",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986751191821451499",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "全体出动草泥马 https://t.co/qs2Shf5Ekq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986751188839391232"
+          ]
+        },
+        "author_id": "1602663153623388161",
+        "conversation_id": "1986751191821451499",
+        "created_at": "2025-11-07T11:02:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T12:02:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986751191821451499"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ka39PWB42q",
+              "end": 23,
+              "expanded_url": "https://x.com/knd_8964/status/1986751191821451499/photo/1",
+              "media_key": "3_1986751188839391232",
+              "start": 0,
+              "url": "https://t.co/Ka39PWB42q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986751191821451499",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 18633,
+          "like_count": 598,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Ka39PWB42q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "没法活了，一切都是男的骗我，女的欠我，老的冤枉我，小的欺负我，中国的压迫我，外国的引诱我，身边的霸凌我，网上的取笑我，你们全都对不起我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1985535613857382587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 592,
+          "like_count": 7466,
+          "listed_count": 1,
+          "media_count": 457,
+          "tweet_count": 4109
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-13T13:54:21.000Z",
+        "description": "周而复始，即为历史",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/kanade…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/kanade-8964.bsky.social",
+                "start": 0,
+                "url": "https://t.co/Czvo6RndGT"
+              }
+            ]
+          }
+        },
+        "id": "1602663153623388161",
+        "location": "导流槽雅座",
+        "name": "超级泡面高手小气走",
+        "pinned_tweet_id": "1741502377004576895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907138834435096576/jxo8AWHo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4056,
+          "following_count": 4404,
+          "like_count": 90068,
+          "listed_count": 13,
+          "media_count": 4256,
+          "tweet_count": 12312
+        },
+        "url": "https://t.co/Czvo6RndGT",
+        "username": "knd_8964",
+        "verified": false
+      }
+    ]
+  }
+}

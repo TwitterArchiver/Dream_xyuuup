@@ -1,0 +1,661 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2044381245619265536"
+      ],
+      "media_source_tweet_id": [
+        "2044382121838702950"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+          "id": "1093271119849635840",
+          "name": "Honkai series"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+          "id": "1093271119849635840",
+          "name": "Honkai series"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1541880308336713728",
+          "name": "Action games"
+        }
+      }
+    ],
+    "conversation_id": "2044739848599470462",
+    "created_at": "2026-04-16T11:29:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T12:29:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044739848599470462"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 44,
+          "start": 38,
+          "tag": "Robin"
+        },
+        {
+          "end": 60,
+          "start": 45,
+          "tag": "HonkaiStarRail"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1407647696014303237",
+          "start": 3,
+          "username": "liulangapan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/b9bQyHMVHy",
+          "end": 84,
+          "expanded_url": "https://x.com/liulangapan/status/2044382121838702950/video/1",
+          "media_key": "13_2044381245619265536",
+          "start": 61,
+          "url": "https://t.co/b9bQyHMVHy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044739848599470462",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 333
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044382121838702950",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @liulangapan: What a bouncy Robin.\n#Robin #HonkaiStarRail https://t.co/b9bQyHMVHy"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10216,
+        "height": 3840,
+        "media_key": "13_2044381245619265536",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2044381245619265536/img/zvBLHaI-9FaGu1WN.jpg",
+        "public_metrics": {
+          "view_count": 1471670
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044381245619265536/vid/avc1/720x1280/rzl7nmlU9q0v6-j9.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044381245619265536/vid/avc1/480x852/-wf15DOaOsdCgkeK.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044381245619265536/vid/avc1/1080x1920/Yi5Vp8UFSEpQxW5-.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044381245619265536/vid/avc1/320x568/6E2MPnRRcyimuhZP.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044381245619265536/vid/avc1/2160x3840/jlTbKQLxwIwHJeqM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2044381245619265536/pl/0Pd_UfzkxpDwbOKF.m3u8?v=cfc"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2044381245619265536"
+          ],
+          "media_source_tweet_id": [
+            "2044382121838702950"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1093271119849635840",
+              "name": "Honkai series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1093271119849635840",
+              "name": "Honkai series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "2044739848599470462",
+        "created_at": "2026-04-16T11:29:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T12:29:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044739848599470462"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 44,
+              "start": 38,
+              "tag": "Robin"
+            },
+            {
+              "end": 60,
+              "start": 45,
+              "tag": "HonkaiStarRail"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1407647696014303237",
+              "start": 3,
+              "username": "liulangapan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/b9bQyHMVHy",
+              "end": 84,
+              "expanded_url": "https://x.com/liulangapan/status/2044382121838702950/video/1",
+              "media_key": "13_2044381245619265536",
+              "start": 61,
+              "url": "https://t.co/b9bQyHMVHy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044739848599470462",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 333
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044382121838702950",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @liulangapan: What a bouncy Robin.\n#Robin #HonkaiStarRail https://t.co/b9bQyHMVHy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2044381245619265536"
+          ]
+        },
+        "author_id": "1407647696014303237",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1093271119849635840",
+              "name": "Honkai series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1093271119849635840",
+              "name": "Honkai series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "2044382121838702950",
+        "created_at": "2026-04-15T11:47:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T12:47:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044382121838702950"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 21,
+              "tag": "Robin"
+            },
+            {
+              "end": 43,
+              "start": 28,
+              "tag": "HonkaiStarRail"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/b9bQyHMVHy",
+              "end": 67,
+              "expanded_url": "https://x.com/liulangapan/status/2044382121838702950/video/1",
+              "media_key": "13_2044381245619265536",
+              "start": 44,
+              "url": "https://t.co/b9bQyHMVHy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044382121838702950",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3126,
+          "impression_count": 3222917,
+          "like_count": 7290,
+          "quote_count": 31,
+          "reply_count": 74,
+          "retweet_count": 333
+        },
+        "reply_settings": "everyone",
+        "text": "What a bouncy Robin.\n#Robin #HonkaiStarRail https://t.co/b9bQyHMVHy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "mtx,her/they,kpop,激女粉红点进就死\n*・x・*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "弈鸠",
+        "pinned_tweet_id": "2044724475846115481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041811823687823360/QQkkR0z6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 618,
+          "like_count": 8044,
+          "listed_count": 1,
+          "media_count": 506,
+          "tweet_count": 4948
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-23T10:32:25.000Z",
+        "description": "Drift board on huge body(anime/game)\nI will try my best to make more interesting videos\n\npoly:https://t.co/qmtLgwp0FT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "polymarket.com/?r=InzektorFir…",
+                "end": 117,
+                "expanded_url": "https://polymarket.com/?r=InzektorFirefly",
+                "start": 94,
+                "url": "https://t.co/qmtLgwp0FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/LIULANGAPAN2",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/LIULANGAPAN2",
+                "start": 0,
+                "url": "https://t.co/CmwHV5pHFg"
+              }
+            ]
+          }
+        },
+        "id": "1407647696014303237",
+        "name": "LIULANGAPAN",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932059530948657152/7xd_GM3-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 371,
+          "like_count": 314,
+          "listed_count": 4,
+          "media_count": 30,
+          "tweet_count": 425
+        },
+        "url": "https://t.co/CmwHV5pHFg",
+        "username": "liulangapan",
+        "verified": true
+      }
+    ]
+  }
+}

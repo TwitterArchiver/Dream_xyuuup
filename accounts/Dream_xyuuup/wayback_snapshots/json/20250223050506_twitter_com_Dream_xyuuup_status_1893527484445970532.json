@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1893527473012281344"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "1893527484445970532",
+    "created_at": "2025-02-23T05:05:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-23T06:05:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1893527484445970532"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mbz4wNBh6B",
+          "end": 59,
+          "expanded_url": "https://x.com/Dream_xyuuup/status/1893527484445970532/photo/1",
+          "media_key": "3_1893527473012281344",
+          "start": 36,
+          "url": "https://t.co/mbz4wNBh6B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893527484445970532",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我觉得这种字体好恐怖。。不像一个人类可以写出来的，我无法理解这美观在哪 https://t.co/mbz4wNBh6B"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1893527484445970532].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1893527484445970532",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1893527484445970532"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1458,
+        "media_key": "3_1893527473012281344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkcpNFFXEAAS4bu.jpg",
+        "width": 1091
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "这是一本日记 可以把我视为现充 喜欢视奸#喵斯#有三次偶像#ISFP#0.5",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dreamxy_uuup",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dreamxy_uuup",
+                "start": 0,
+                "url": "https://t.co/V4QSiptbnl"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠ltnh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892121675938004992/fWCivcy4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 77,
+          "like_count": 215,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 107
+        },
+        "url": "https://t.co/V4QSiptbnl",
+        "username": "Dream_xyuuup",
+        "verified": false
+      }
+    ]
+  }
+}

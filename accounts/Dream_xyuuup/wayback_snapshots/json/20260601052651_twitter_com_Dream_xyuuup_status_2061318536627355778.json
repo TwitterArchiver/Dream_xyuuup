@@ -1,0 +1,404 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "2061318536627355778",
+    "created_at": "2026-06-01T05:26:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T06:26:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061318536627355778"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1624393872037265413",
+          "start": 3,
+          "username": "Cassiuskassik"
+        },
+        {
+          "end": 32,
+          "id": "1599708309824897025",
+          "start": 19,
+          "username": "HoshiHiiragi"
+        },
+        {
+          "end": 45,
+          "id": "1978032792383709184",
+          "start": 33,
+          "username": "Sabrina8964"
+        },
+        {
+          "end": 62,
+          "id": "1798483411453255680",
+          "start": 46,
+          "username": "AriputhWeisennn"
+        },
+        {
+          "end": 77,
+          "id": "1463858044282933254",
+          "start": 63,
+          "username": "NiiNa_Sakura_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061318536627355778",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061287364316774541",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cassiuskassik: @HoshiHiiragi @Sabrina8964 @AriputhWeisennn @NiiNa_Sakura_ 我受不了了，交傲月来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "2061318536627355778",
+        "created_at": "2026-06-01T05:26:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T06:26:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061318536627355778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1624393872037265413",
+              "start": 3,
+              "username": "Cassiuskassik"
+            },
+            {
+              "end": 32,
+              "id": "1599708309824897025",
+              "start": 19,
+              "username": "HoshiHiiragi"
+            },
+            {
+              "end": 45,
+              "id": "1978032792383709184",
+              "start": 33,
+              "username": "Sabrina8964"
+            },
+            {
+              "end": 62,
+              "id": "1798483411453255680",
+              "start": 46,
+              "username": "AriputhWeisennn"
+            },
+            {
+              "end": 77,
+              "id": "1463858044282933254",
+              "start": 63,
+              "username": "NiiNa_Sakura_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061318536627355778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061287364316774541",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cassiuskassik: @HoshiHiiragi @Sabrina8964 @AriputhWeisennn @NiiNa_Sakura_ 我受不了了，交傲月来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1624393872037265413",
+        "conversation_id": "2061277192215306653",
+        "created_at": "2026-06-01T03:22:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T04:22:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061287364316774541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1599708309824897025",
+              "start": 0,
+              "username": "HoshiHiiragi"
+            },
+            {
+              "end": 26,
+              "id": "1978032792383709184",
+              "start": 14,
+              "username": "Sabrina8964"
+            },
+            {
+              "end": 43,
+              "id": "1798483411453255680",
+              "start": 27,
+              "username": "AriputhWeisennn"
+            },
+            {
+              "end": 58,
+              "id": "1463858044282933254",
+              "start": 44,
+              "username": "NiiNa_Sakura_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061287364316774541",
+        "in_reply_to_user_id": "1599708309824897025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061277192215306653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HoshiHiiragi @Sabrina8964 @AriputhWeisennn @NiiNa_Sakura_ 我受不了了，交傲月来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "mtx,her/they\n我很蠢你们要理解我\n*・x・*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "弈鸠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059924129340592128/ItWjnHnF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 637,
+          "like_count": 8398,
+          "listed_count": 0,
+          "media_count": 642,
+          "tweet_count": 6328
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-11T13:04:23.000Z",
+        "description": "高敏感人群，无力，more negative emotion",
+        "id": "1624393872037265413",
+        "name": "东半球酒水研究部及ssri药物试验者",
+        "pinned_tweet_id": "2061192161622958335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061213364785942529/Vq3wxXGL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 634,
+          "following_count": 840,
+          "like_count": 12795,
+          "listed_count": 3,
+          "media_count": 2717,
+          "tweet_count": 17677
+        },
+        "username": "Cassiuskassik",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-05T10:12:46.000Z",
+        "description": "—一一—“希望，我的存在能够一直让你幸福。”—一一—\n柊 星:“我们电波系有自己的存活方式，我可能比较不正常一些。”——INTJ-06-中国/双鱼/中-日推-男同/电波/英专/番剧/音游/ボカロ/欧美猪圈/乐队/神椿/25時/不常键政/和有梗或有趣的人唠嗑-——“我有梦想，努力有没有用之后再想。”—私信已关—LINE↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/6ntM5aBnfa",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/6ntM5aBnfa",
+                "start": 0,
+                "url": "https://t.co/z6vqyGfKGb"
+              }
+            ]
+          }
+        },
+        "id": "1599708309824897025",
+        "location": "河北省废物保护协会  ‖   ヰ世界情緒ノ箱庭 ",
+        "name": "'柊 ほし.＇",
+        "pinned_tweet_id": "1972578310497636457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053031301733638147/1hnlCxj6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 745,
+          "following_count": 91,
+          "like_count": 8724,
+          "listed_count": 2,
+          "media_count": 2049,
+          "tweet_count": 7506
+        },
+        "url": "https://t.co/z6vqyGfKGb",
+        "username": "HoshiHiiragi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-14T09:39:22.000Z",
+        "description": "拿去吧！ 由於不是出自真心，話就說得格外動聽！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "girledm.com",
+                "end": 23,
+                "expanded_url": "https://girledm.com",
+                "start": 0,
+                "url": "https://t.co/Wbnd5PNLGq"
+              }
+            ]
+          }
+        },
+        "id": "1978032792383709184",
+        "location": "我要让所有虚伪的人都看清自己",
+        "name": "Heaven or Las Vegas",
+        "pinned_tweet_id": "2060029359701033379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061284990198099968/D_pFjkGY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 662,
+          "following_count": 359,
+          "like_count": 20982,
+          "listed_count": 2,
+          "media_count": 123,
+          "tweet_count": 3868
+        },
+        "url": "https://t.co/Wbnd5PNLGq",
+        "username": "Sabrina8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-05T22:34:10.000Z",
+        "description": "無畏",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/charlielhg",
+                "end": 23,
+                "expanded_url": "https://ngl.link/charlielhg",
+                "start": 0,
+                "url": "https://t.co/XWNUOfzo4B"
+              }
+            ]
+          }
+        },
+        "id": "1798483411453255680",
+        "location": "万达广场太低端了我在万象城（",
+        "name": "𝑪𝒉𝒂𝒓𝒍𝒊𝒆!🔜南沙",
+        "pinned_tweet_id": "2030273894154993952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037493236520943616/Nq3ZrNhQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 187,
+          "like_count": 3496,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 1955
+        },
+        "url": "https://t.co/XWNUOfzo4B",
+        "username": "AriputhWeisennn",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-25T13:12:17.000Z",
+        "description": "Watch me Chantepleure→@1e_chaechae",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "1e_chaechae"
+              }
+            ]
+          }
+        },
+        "id": "1463858044282933254",
+        "location": "0.1km",
+        "name": "Chantepleure",
+        "pinned_tweet_id": "1887434291271069881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052050032988467200/njaKi1Bb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 324,
+          "like_count": 63914,
+          "listed_count": 1,
+          "media_count": 1245,
+          "tweet_count": 25585
+        },
+        "username": "NiiNa_Sakura_",
+        "verified": false
+      }
+    ]
+  }
+}

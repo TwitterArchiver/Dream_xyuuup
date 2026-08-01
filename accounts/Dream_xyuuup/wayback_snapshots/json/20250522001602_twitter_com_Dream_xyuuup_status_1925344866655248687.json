@@ -1,0 +1,118 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1925344852503666689"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "1925344866655248687",
+    "created_at": "2025-05-22T00:16:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-22T01:16:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1925344866655248687"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uU2M2C1hl1",
+          "end": 23,
+          "expanded_url": "https://x.com/Dream_xyuuup/status/1925344866655248687/photo/1",
+          "media_key": "3_1925344852503666689",
+          "start": 0,
+          "url": "https://t.co/uU2M2C1hl1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925344866655248687",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/uU2M2C1hl1"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1925344866655248687].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1925344866655248687",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1925344866655248687"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1925344852503666689",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Grgy8UOboAEcUht.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "废话多｜对所有人友好除了现生｜最可爱的小宝宝@QLing61007 😽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1917423348302467396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924678380655673348/VxgKyXwf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 429,
+          "like_count": 4565,
+          "listed_count": 1,
+          "media_count": 214,
+          "tweet_count": 2004
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      }
+    ]
+  }
+}

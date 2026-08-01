@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1953412152204951553"
+      ],
+      "media_source_tweet_id": [
+        "1953412260610867306"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "1953439949824344371",
+    "created_at": "2025-08-07T12:55:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T13:55:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953439949824344371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1842268081567272960",
+          "start": 3,
+          "username": "BrittanyBe89332"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GoBe9A78Hq",
+          "end": 44,
+          "expanded_url": "https://x.com/BrittanyBe89332/status/1953412260610867306/video/1",
+          "media_key": "13_1953412152204951553",
+          "start": 21,
+          "url": "https://t.co/GoBe9A78Hq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953439949824344371",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953412260610867306",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BrittanyBe89332: https://t.co/GoBe9A78Hq"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2883,
+        "height": 960,
+        "media_key": "13_1953412152204951553",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1953412152204951553/img/QGYQsTqQICd4gd6s.jpg",
+        "public_metrics": {
+          "view_count": 784
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1953412152204951553/vid/avc1/320x426/m_dFBIp-RadjyrF5.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1953412152204951553/vid/avc1/480x640/basCL2heGH4WsFBP.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1953412152204951553/vid/avc1/720x960/C0i_sptCVgosEubj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1953412152204951553/pl/q1g_KuUMCGIhhsZZ.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1953412152204951553"
+          ],
+          "media_source_tweet_id": [
+            "1953412260610867306"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "1953439949824344371",
+        "created_at": "2025-08-07T12:55:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T13:55:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953439949824344371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1842268081567272960",
+              "start": 3,
+              "username": "BrittanyBe89332"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GoBe9A78Hq",
+              "end": 44,
+              "expanded_url": "https://x.com/BrittanyBe89332/status/1953412260610867306/video/1",
+              "media_key": "13_1953412152204951553",
+              "start": 21,
+              "url": "https://t.co/GoBe9A78Hq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953439949824344371",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953412260610867306",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BrittanyBe89332: https://t.co/GoBe9A78Hq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1953412152204951553"
+          ]
+        },
+        "author_id": "1842268081567272960",
+        "conversation_id": "1953412260610867306",
+        "created_at": "2025-08-07T11:05:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T12:05:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953412260610867306"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GoBe9A78Hq",
+              "end": 23,
+              "expanded_url": "https://x.com/BrittanyBe89332/status/1953412260610867306/video/1",
+              "media_key": "13_1953412152204951553",
+              "start": 0,
+              "url": "https://t.co/GoBe9A78Hq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953412260610867306",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 3131,
+          "like_count": 189,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/GoBe9A78Hq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "yì jīu｜不知道什么圈子，谢谢你的喜欢我也喜欢你喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 540,
+          "like_count": 6678,
+          "listed_count": 0,
+          "media_count": 385,
+          "tweet_count": 3372
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-04T18:18:45.000Z",
+        "description": "新秩序 @Deehoo0203 |自用达蒙VPN⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "Deehoo0203"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "a1.达蒙.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://a1.xn--hv1a41u.com/#/register?code=ALC5uYJZ",
+                "start": 0,
+                "url": "https://t.co/1oSRglgdq7"
+              }
+            ]
+          }
+        },
+        "id": "1842268081567272960",
+        "location": "🚪520/1314",
+        "name": "neworder",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953348112279543808/jnehDjVC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33247,
+          "following_count": 211,
+          "like_count": 520,
+          "listed_count": 63,
+          "media_count": 163,
+          "tweet_count": 840
+        },
+        "url": "https://t.co/1oSRglgdq7",
+        "username": "BrittanyBe89332",
+        "verified": false
+      }
+    ]
+  }
+}

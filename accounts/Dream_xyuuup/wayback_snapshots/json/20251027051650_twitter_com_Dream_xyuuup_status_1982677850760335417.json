@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1982417276922925056"
+      ],
+      "media_source_tweet_id": [
+        "1982417357504192934"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1982677850760335417",
+    "created_at": "2025-10-27T05:16:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T06:16:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982677850760335417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1943241288821936129",
+          "start": 3,
+          "username": "mongny4"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/L9SzaQKvS7",
+          "end": 49,
+          "expanded_url": "https://x.com/mongny4/status/1982417357504192934/video/1",
+          "media_key": "13_1982417276922925056",
+          "start": 26,
+          "url": "https://t.co/L9SzaQKvS7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982677850760335417",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 95
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982417357504192934",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mongny4: 마이마이가 갓겜인 이유 https://t.co/L9SzaQKvS7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22213,
+        "height": 1116,
+        "media_key": "13_1982417276922925056",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1982417276922925056/img/xcJjU97bqGuIHUMc.jpg",
+        "public_metrics": {
+          "view_count": 9062
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1982417276922925056/vid/avc1/320x496/uUAkWn4xnWfavE_K.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1982417276922925056/vid/avc1/480x744/CYjMawo7abLTywy9.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1982417276922925056/vid/avc1/720x1116/XACF-MNN72rcjz61.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1982417276922925056/pl/5xmK8zSllp7FgYt5.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1982417276922925056"
+          ],
+          "media_source_tweet_id": [
+            "1982417357504192934"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1982677850760335417",
+        "created_at": "2025-10-27T05:16:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T06:16:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982677850760335417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1943241288821936129",
+              "start": 3,
+              "username": "mongny4"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/L9SzaQKvS7",
+              "end": 49,
+              "expanded_url": "https://x.com/mongny4/status/1982417357504192934/video/1",
+              "media_key": "13_1982417276922925056",
+              "start": 26,
+              "url": "https://t.co/L9SzaQKvS7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982677850760335417",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 95
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982417357504192934",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mongny4: 마이마이가 갓겜인 이유 https://t.co/L9SzaQKvS7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1982417276922925056"
+          ]
+        },
+        "author_id": "1943241288821936129",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1982417357504192934",
+        "created_at": "2025-10-26T12:01:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T13:01:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982417357504192934"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L9SzaQKvS7",
+              "end": 36,
+              "expanded_url": "https://x.com/mongny4/status/1982417357504192934/video/1",
+              "media_key": "13_1982417276922925056",
+              "start": 13,
+              "url": "https://t.co/L9SzaQKvS7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982417357504192934",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 91,
+          "impression_count": 33670,
+          "like_count": 473,
+          "quote_count": 64,
+          "reply_count": 8,
+          "retweet_count": 95
+        },
+        "reply_settings": "everyone",
+        "text": "마이마이가 갓겜인 이유 https://t.co/L9SzaQKvS7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "我自私，病态，阴暗，偏执。所有大度、不在乎都是我的伪装。我窥探你的生活，揣测你的文案，解读你分享的一切，观察你身边的人，盯着你的照片妄想找到蛛丝马迹。我敏感，善变多疑，斤斤计较你多看别人的一眼。我爱你，你本来就应该乖乖待在我身边。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1953828269977219114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 582,
+          "like_count": 7285,
+          "listed_count": 1,
+          "media_count": 448,
+          "tweet_count": 4021
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-10T09:30:21.000Z",
+        "description": "",
+        "id": "1943241288821936129",
+        "location": "ずんだ",
+        "name": "もん",
+        "pinned_tweet_id": "1975789301612093797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971818512994709504/f_XpC9aa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 75,
+          "like_count": 1532,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 539
+        },
+        "username": "mongny4",
+        "verified": false
+      }
+    ]
+  }
+}

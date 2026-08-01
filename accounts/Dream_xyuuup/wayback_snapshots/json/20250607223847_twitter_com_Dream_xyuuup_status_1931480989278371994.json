@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1931480989278371994",
+    "created_at": "2025-06-07T22:38:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T23:38:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1931480989278371994"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dewrioe/status…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/dewrioe/status/1931345992521289835",
+          "start": 16,
+          "url": "https://t.co/dIZZRCcDLW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931480989278371994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931345992521289835",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "卧槽，这个好有感觉！你们谁懂？ https://t.co/dIZZRCcDLW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_1931345972476719104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs2E7ePbMAAcyTU.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1931480989278371994",
+        "created_at": "2025-06-07T22:38:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T23:38:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931480989278371994"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dewrioe/status…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/dewrioe/status/1931345992521289835",
+              "start": 16,
+              "url": "https://t.co/dIZZRCcDLW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931480989278371994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931345992521289835",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卧槽，这个好有感觉！你们谁懂？ https://t.co/dIZZRCcDLW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931345972476719104"
+          ]
+        },
+        "author_id": "1834118293017559040",
+        "conversation_id": "1931345992521289835",
+        "created_at": "2025-06-07T13:42:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T14:42:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931345992521289835"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 7,
+              "tag": "ILLIT"
+            },
+            {
+              "end": 18,
+              "start": 14,
+              "tag": "아일릿"
+            },
+            {
+              "end": 22,
+              "start": 19,
+              "tag": "민주"
+            },
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "모카"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xykbNoFW8C",
+              "end": 50,
+              "expanded_url": "https://x.com/dewrioe/status/1931345992521289835/photo/1",
+              "media_key": "3_1931345972476719104",
+              "start": 27,
+              "url": "https://t.co/xykbNoFW8C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931345992521289835",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 284,
+          "impression_count": 60575,
+          "like_count": 3346,
+          "quote_count": 89,
+          "reply_count": 0,
+          "retweet_count": 889
+        },
+        "reply_settings": "everyone",
+        "text": "250607\n#ILLIT #아일릿 #민주 #모카 https://t.co/xykbNoFW8C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "偏远乡村学校在读 我应该不会再影响别人了 接下来有一个event 成分复杂 对所有人友好除了现生 最可爱的小宝宝@QLing61007 😽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 56,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "想回到家乡，我不要在这个冰冷无情的医院里了，我是健全的弈鸠",
+        "pinned_tweet_id": "1931176332370813214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924678380655673348/VxgKyXwf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 457,
+          "like_count": 5050,
+          "listed_count": 0,
+          "media_count": 245,
+          "tweet_count": 2259
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-12T06:34:36.000Z",
+        "description": "",
+        "id": "1834118293017559040",
+        "name": "DEW",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872622139104464896/jlIFJPSp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 0,
+          "like_count": 39,
+          "listed_count": 2,
+          "media_count": 20,
+          "tweet_count": 24
+        },
+        "username": "dewrioe",
+        "verified": false
+      }
+    ]
+  }
+}

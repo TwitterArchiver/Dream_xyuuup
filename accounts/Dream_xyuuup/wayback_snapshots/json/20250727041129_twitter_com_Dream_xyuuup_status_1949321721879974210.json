@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1949281855339159883",
+    "created_at": "2025-07-27T04:11:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T05:11:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949321721879974210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1555695367152631808",
+          "start": 0,
+          "username": "PEBTRAM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949321721879974210",
+    "in_reply_to_user_id": "1555695367152631808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949296590726070644",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PEBTRAM 宝贝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1949281855339159883",
+        "created_at": "2025-07-27T04:11:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T05:11:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949321721879974210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1555695367152631808",
+              "start": 0,
+              "username": "PEBTRAM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949321721879974210",
+        "in_reply_to_user_id": "1555695367152631808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949296590726070644",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PEBTRAM 宝贝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1555695367152631808",
+        "conversation_id": "1949281855339159883",
+        "created_at": "2025-07-27T02:31:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T03:31:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949296590726070644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1726051028112744448",
+              "start": 0,
+              "username": "Dream_xyuuup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949296590726070644",
+        "in_reply_to_user_id": "1726051028112744448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949281855339159883",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dream_xyuuup 想抱紧你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "yì jīu｜不知道自己是不是个有趣的人｜你们可以找我玩😽｜会有负能｜我不知道什么是好什么是坏，因为我只是什么圈子都想混｜最喜欢的事是在开着空调的天气喝一瓶强爽幸福地睡觉｜我喜欢长发男｜音游phi milthm maimai｜kpop礼芙我爱你们｜求你们接待，我喜欢所有人喵｜可爱的人@QLing61007",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 142,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933432998864826371/0SiPerD5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 533,
+          "like_count": 6542,
+          "listed_count": 0,
+          "media_count": 353,
+          "tweet_count": 3176
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-05T23:21:16.000Z",
+        "description": "“我要一张端正些的脸和体贴的个性，健康的精神状态和正常的生活，还有情投意合的朋友和会为孩子负责的父母。另外，请给我一个令人羡慕的才能；以及，我希望我可以爱上别人。” ｜ 异族：@PEBmuxiangjihua ｜ 亦足：@Ryouhachisaki ｜ 易卒：@blueicesama @ForsakenDreamm",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 88,
+                "username": "PEBmuxiangjihua"
+              },
+              {
+                "end": 124,
+                "start": 110,
+                "username": "Ryouhachisaki"
+              },
+              {
+                "end": 142,
+                "start": 130,
+                "username": "blueicesama"
+              },
+              {
+                "end": 158,
+                "start": 143,
+                "username": "ForsakenDreamm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+MrzQPpI4VV1kY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+MrzQPpI4VV1kY2Y9",
+                "start": 0,
+                "url": "https://t.co/ReCBmLTyxr"
+              }
+            ]
+          }
+        },
+        "id": "1555695367152631808",
+        "location": "烟国万山自治区鹿洲市六柴县南园路一号芣苢园",
+        "name": "神代虎雨",
+        "pinned_tweet_id": "1933905184318759360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902306217592303616/BZ5nV4Mz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 602,
+          "like_count": 3702,
+          "listed_count": 2,
+          "media_count": 242,
+          "tweet_count": 7682
+        },
+        "url": "https://t.co/ReCBmLTyxr",
+        "username": "PEBTRAM",
+        "verified": false
+      }
+    ]
+  }
+}

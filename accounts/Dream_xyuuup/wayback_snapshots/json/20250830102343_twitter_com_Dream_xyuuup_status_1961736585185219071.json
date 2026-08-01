@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1961736585185219071",
+    "created_at": "2025-08-30T10:23:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T11:23:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1961736585185219071"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/phigros_pgs_jp…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/phigros_pgs_jp/status/1961428637795979465",
+          "start": 4,
+          "url": "https://t.co/TaN41gGQpb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961736585185219071",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961428637795979465",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "吓哭了 https://t.co/TaN41gGQpb"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 69433,
+        "height": 1080,
+        "media_key": "13_1961373338162622464",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1961373338162622464/img/fpQUYDtdSH4lnOD0.jpg",
+        "public_metrics": {
+          "view_count": 61871
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1961373338162622464/vid/avc1/480x270/IsYErGL0PvaJx-v7.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1961373338162622464/vid/avc1/640x360/93nC-OK5reGSq028.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1961373338162622464/vid/avc1/1280x720/GSvQUwQN906f2exc.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1961373338162622464/pl/6It1cYp_Lfjtwb_C.m3u8?tag=14&v=664"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1961736585185219071",
+        "created_at": "2025-08-30T10:23:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T11:23:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961736585185219071"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/phigros_pgs_jp…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/phigros_pgs_jp/status/1961428637795979465",
+              "start": 4,
+              "url": "https://t.co/TaN41gGQpb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961736585185219071",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961428637795979465",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "吓哭了 https://t.co/TaN41gGQpb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1961373338162622464"
+          ]
+        },
+        "author_id": "1579831749650968577",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1961428637795979465",
+        "created_at": "2025-08-29T14:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T15:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961428637795979465"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 29,
+              "normalized_text": "Phigros × maimai",
+              "probability": 0.3475,
+              "start": 14,
+              "type": "Other"
+            },
+            {
+              "end": 84,
+              "normalized_text": "相沢",
+              "probability": 0.7531,
+              "start": 83,
+              "type": "Person"
+            },
+            {
+              "end": 102,
+              "normalized_text": "雄之助",
+              "probability": 0.7096,
+              "start": 100,
+              "type": "Person"
+            },
+            {
+              "end": 116,
+              "normalized_text": "Sennzai",
+              "probability": 0.4927,
+              "start": 110,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 183,
+              "start": 175,
+              "tag": "Phigros"
+            },
+            {
+              "end": 197,
+              "start": 184,
+              "tag": "Pigeon_Games"
+            },
+            {
+              "end": 205,
+              "start": 198,
+              "tag": "maimai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/m1mlDYbtm8",
+              "end": 229,
+              "expanded_url": "https://x.com/Phigros_PGS_JP/status/1961428637795979465/video/1",
+              "media_key": "13_1961373338162622464",
+              "start": 206,
+              "url": "https://t.co/m1mlDYbtm8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961428637795979465",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 212,
+          "impression_count": 327503,
+          "like_count": 4397,
+          "quote_count": 563,
+          "reply_count": 56,
+          "retweet_count": 1841
+        },
+        "reply_settings": "everyone",
+        "text": "【アップデート予告PV】\n「Phigros × maimai」コラボアップデートは9月19日に配信されます！\n\n追加される楽曲は：\n・「アンビバレンス」by すりぃ×相沢\n・「Komplexe」by 雄之助 feat. Sennzai\n・「sølips」by rintaro soma\n・「QZKago Requiem」by t+pazolite\n\n#Phigros #Pigeon_Games #maimai https://t.co/m1mlDYbtm8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "yì jīu｜谢谢你喜欢我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1953828269977219114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 554,
+          "like_count": 6844,
+          "listed_count": 1,
+          "media_count": 415,
+          "tweet_count": 3664
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-11T13:50:47.000Z",
+        "description": "ぽっぽ🕊🕊🕊 音楽ゲーム『Phigros』『Rizline』の制作チーム『Pigeon Games』の日本語公式アカウント。@Phigros_PGS 【お問い合わせは下記のメールにて】 【Discord → https://t.co/3fCWE7aee3】 #Phigros #Phigros_art",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 137,
+                "start": 129,
+                "tag": "Phigros"
+              },
+              {
+                "end": 150,
+                "start": 138,
+                "tag": "Phigros_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "Phigros_PGS"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "discord.gg/KtVUgvHAmB",
+                "end": 127,
+                "expanded_url": "http://discord.gg/KtVUgvHAmB",
+                "start": 104,
+                "url": "https://t.co/3fCWE7aee3"
+              }
+            ]
+          }
+        },
+        "id": "1579831749650968577",
+        "location": "phigros.pgs.jp@gmail.com",
+        "name": "Phigros公式 @ Pigeon Games",
+        "pinned_tweet_id": "1961428637795979465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1649284031366971393/kqZ4vlD4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37747,
+          "following_count": 155,
+          "like_count": 93,
+          "listed_count": 107,
+          "media_count": 117,
+          "tweet_count": 292
+        },
+        "username": "Phigros_PGS_JP",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1982673571588796789",
+    "created_at": "2025-10-27T14:06:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T15:06:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982811180973367623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1552918719440924672",
+          "start": 0,
+          "username": "LumiCatRoll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982811180973367623",
+    "in_reply_to_user_id": "1552918719440924672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982673571588796789",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LumiCatRoll 啊啊啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6941,
+        "height": 848,
+        "media_key": "7_1982673550755422208",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1982673550755422208/pu/img/n21bg5dovR2eRnmn.jpg",
+        "public_metrics": {
+          "view_count": 1673
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1982673550755422208/pu/vid/avc1/320x434/db730pjJXKCFj1nN.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1982673550755422208/pu/vid/avc1/480x652/Olsh69XWkE_C8D2N.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1982673550755422208/pu/vid/avc1/624x848/I190gV5nXvzEGGq3.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1982673550755422208/pu/pl/C_KCk485cSULjQUd.m3u8?tag=12"
+          }
+        ],
+        "width": 624
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1982673571588796789",
+        "created_at": "2025-10-27T14:06:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T15:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982811180973367623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "LumiCatRoll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982811180973367623",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982673571588796789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LumiCatRoll 啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1982673550755422208"
+          ]
+        },
+        "author_id": "1552918719440924672",
+        "conversation_id": "1982673571588796789",
+        "created_at": "2025-10-27T04:59:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T05:59:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982673571588796789"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IRxDAhjlfd",
+              "end": 71,
+              "expanded_url": "https://x.com/LumiCatRoll/status/1982673571588796789/video/1",
+              "media_key": "7_1982673550755422208",
+              "start": 48,
+              "url": "https://t.co/IRxDAhjlfd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982673571588796789",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 4164,
+          "like_count": 75,
+          "quote_count": 2,
+          "reply_count": 27,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "《恭喜发财》 - 池鱼 (吴相泽self cover alternative version) https://t.co/IRxDAhjlfd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "我自私，病态，阴暗，偏执。所有大度、不在乎都是我的伪装。我窥探你的生活，揣测你的文案，解读你分享的一切，观察你身边的人，盯着你的照片妄想找到蛛丝马迹。我敏感，善变多疑，斤斤计较你多看别人的一眼。我爱你，你本来就应该乖乖待在我身边。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1953828269977219114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 584,
+          "like_count": 7313,
+          "listed_count": 1,
+          "media_count": 449,
+          "tweet_count": 4033
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "诉求：@Chiyuyu520 唯一解决方式是自己联系羽毛归还19535元 联系猫卷归还555元。| 长居新加坡, PhD @NTUsg, 休学度假中 | 拥有tu5jp4但一周修一次车的法系车主 | HRT药物请私信 日雌380泰补190诺80 包邮",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "Chiyuyu520"
+              },
+              {
+                "end": 67,
+                "start": 61,
+                "username": "NTUsg"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "name": "Lumi & 猫卷 Co. (日雌泰补诺",
+        "pinned_tweet_id": "1982121107500175769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981599824827838464/S98pBSrV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2000,
+          "following_count": 773,
+          "like_count": 608,
+          "listed_count": 2,
+          "media_count": 128,
+          "tweet_count": 1678
+        },
+        "username": "LumiCatRoll",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1994361390035820979",
+    "created_at": "2025-11-28T16:57:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T17:57:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994450566261444640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "973118976728453122",
+          "start": 0,
+          "username": "DoesXiStepDown"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994450566261444640",
+    "in_reply_to_user_id": "973118976728453122",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994361390035820979",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DoesXiStepDown 通过"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1994361390035820979",
+        "created_at": "2025-11-28T16:57:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T17:57:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994450566261444640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "973118976728453122",
+              "start": 0,
+              "username": "DoesXiStepDown"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994450566261444640",
+        "in_reply_to_user_id": "973118976728453122",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994361390035820979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DoesXiStepDown 通过"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "973118976728453122",
+        "conversation_id": "1994361390035820979",
+        "created_at": "2025-11-28T11:03:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T12:03:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994361390035820979"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994361390035820979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 27936,
+          "like_count": 202,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "没有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "你能想到的坏习惯我都有",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 606,
+          "like_count": 7866,
+          "listed_count": 1,
+          "media_count": 468,
+          "tweet_count": 4265
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-12T08:50:18.000Z",
+        "description": "",
+        "id": "973118976728453122",
+        "name": "习近平今天下台了吗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790711645611667456/wIDwdes__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12269,
+          "following_count": 7,
+          "like_count": 15,
+          "listed_count": 19,
+          "media_count": 2,
+          "tweet_count": 2750
+        },
+        "username": "DoesXiStepDown",
+        "verified": false
+      }
+    ]
+  }
+}

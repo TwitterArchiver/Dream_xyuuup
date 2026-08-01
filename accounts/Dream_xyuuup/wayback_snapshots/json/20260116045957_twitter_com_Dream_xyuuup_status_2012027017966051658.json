@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2011892663180804098"
+      ],
+      "media_source_tweet_id": [
+        "2011893314501689407"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2012027017966051658",
+    "created_at": "2026-01-16T04:59:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T05:59:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012027017966051658"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1635122207876608001",
+          "start": 3,
+          "username": "StarRailOOC"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1f1m3vMRJt",
+          "end": 59,
+          "expanded_url": "https://x.com/bieatilla/status/2011893314501689407/video/1",
+          "media_key": "13_2011892663180804098",
+          "start": 36,
+          "url": "https://t.co/1f1m3vMRJt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012027017966051658",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 935
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011932060819075443",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @StarRailOOC: i have a question\n\nhttps://t.co/1f1m3vMRJt"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 206000,
+        "height": 1080,
+        "media_key": "13_2011892663180804098",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2011892663180804098/img/-hERW5tib2ZYKU6v.jpg",
+        "public_metrics": {
+          "view_count": 327884
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2011892663180804098/vid/avc1/480x270/Crrnwb6xd8FyK6xw.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2011892663180804098/vid/avc1/640x360/JB4mtoQ9JnSnHuyg.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2011892663180804098/vid/avc1/1280x720/8jNbRr8px0JlheoI.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2011892663180804098/pl/9TLCdbHxlL2DkNbg.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2011892663180804098"
+          ],
+          "media_source_tweet_id": [
+            "2011893314501689407"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2012027017966051658",
+        "created_at": "2026-01-16T04:59:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T05:59:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012027017966051658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1635122207876608001",
+              "start": 3,
+              "username": "StarRailOOC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1f1m3vMRJt",
+              "end": 59,
+              "expanded_url": "https://x.com/bieatilla/status/2011893314501689407/video/1",
+              "media_key": "13_2011892663180804098",
+              "start": 36,
+              "url": "https://t.co/1f1m3vMRJt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012027017966051658",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 935
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011932060819075443",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @StarRailOOC: i have a question\n\nhttps://t.co/1f1m3vMRJt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2011892663180804098"
+          ],
+          "media_source_tweet_id": [
+            "2011893314501689407"
+          ]
+        },
+        "author_id": "1635122207876608001",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2011932060819075443",
+        "created_at": "2026-01-15T22:42:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T23:42:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011932060819075443"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1f1m3vMRJt",
+              "end": 42,
+              "expanded_url": "https://x.com/bieatilla/status/2011893314501689407/video/1",
+              "media_key": "13_2011892663180804098",
+              "start": 19,
+              "url": "https://t.co/1f1m3vMRJt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011932060819075443",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3811,
+          "impression_count": 307612,
+          "like_count": 13896,
+          "quote_count": 343,
+          "reply_count": 147,
+          "retweet_count": 935
+        },
+        "reply_settings": "everyone",
+        "text": "i have a question\n\nhttps://t.co/1f1m3vMRJt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "成分复杂，歌品感人，爱听跳楼机离别开出花，最喜欢的歌手是海来阿木，二次元赛高，最喜欢的番是蓝色监狱中二病，最喜欢的角色是三玖神里绫华猫羽雫，号主皮下165cm100kg，自带防弹衣捅一刀发现还没穿过脂肪层，出原味，出带着我后代的卫生纸，🚪8964，纯绿0721",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010631486530322432/50V-akck_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 601,
+          "like_count": 8000,
+          "listed_count": 1,
+          "media_count": 477,
+          "tweet_count": 4462
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-13T03:36:21.000Z",
+        "description": "pasando cosas fuera de contexto memes\nMis Redes: https://t.co/pxvdTuvRpj\nfoto de perfil: @nuii5D\nfoto de banner: @cyrenesita",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 89,
+                "username": "nuii5D"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "cyrenesita"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "linktr.ee/StarRailOOC",
+                "end": 72,
+                "expanded_url": "http://linktr.ee/StarRailOOC",
+                "start": 49,
+                "url": "https://t.co/pxvdTuvRpj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lootbar.gg/es/top-up/honk…",
+                "end": 23,
+                "expanded_url": "https://lootbar.gg/es/top-up/honkai-star-rail?aff_short=StarrailOOC",
+                "start": 0,
+                "url": "https://t.co/61Q0WkoIPc"
+              }
+            ]
+          }
+        },
+        "id": "1635122207876608001",
+        "location": "compra jades más baratos ↓→",
+        "name": "STAR RAIL OUT OF CONTEXT",
+        "pinned_tweet_id": "2011927146151698626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941309865894297600/5iRLzytB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4843,
+          "following_count": 646,
+          "like_count": 20907,
+          "listed_count": 6,
+          "media_count": 2841,
+          "tweet_count": 6485
+        },
+        "url": "https://t.co/61Q0WkoIPc",
+        "username": "StarRailOOC",
+        "verified": false
+      }
+    ]
+  }
+}

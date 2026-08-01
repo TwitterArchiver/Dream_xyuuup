@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1950906318627446784"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "1950906329230393736",
+    "created_at": "2025-07-31T13:08:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T14:08:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1950906329230393736"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nNdeEV00pY",
+          "end": 35,
+          "expanded_url": "https://x.com/Dream_xyuuup/status/1950906329230393736/photo/1",
+          "media_key": "3_1950906318627446784",
+          "start": 12,
+          "url": "https://t.co/nNdeEV00pY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950906329230393736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "什么时候可以变成健全逼 https://t.co/nNdeEV00pY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1950906318627446784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxMC9d_aoAAbjZz.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950906318627446784"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "1950906329230393736",
+        "created_at": "2025-07-31T13:08:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T14:08:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950906329230393736"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nNdeEV00pY",
+              "end": 35,
+              "expanded_url": "https://x.com/Dream_xyuuup/status/1950906329230393736/photo/1",
+              "media_key": "3_1950906318627446784",
+              "start": 12,
+              "url": "https://t.co/nNdeEV00pY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950906329230393736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么时候可以变成健全逼 https://t.co/nNdeEV00pY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "yì jīu｜不知道什么圈子，谢谢你的喜欢我也喜欢你喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 540,
+          "like_count": 6563,
+          "listed_count": 0,
+          "media_count": 359,
+          "tweet_count": 3216
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      }
+    ]
+  }
+}

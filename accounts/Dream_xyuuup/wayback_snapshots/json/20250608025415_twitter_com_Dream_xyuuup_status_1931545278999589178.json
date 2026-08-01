@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1931298216982851742",
+    "created_at": "2025-06-08T02:54:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T03:54:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931545278999589178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1825878217183633408",
+          "start": 0,
+          "username": "QLing61007"
+        },
+        {
+          "end": 24,
+          "id": "1848384613401649152",
+          "start": 12,
+          "username": "an_lin42374"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931545278999589178",
+    "in_reply_to_user_id": "1825878217183633408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931541518264991865",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QLing61007 @an_lin42374 不学习抽死你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1931298216982851742",
+        "created_at": "2025-06-08T02:54:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T03:54:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931545278999589178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1825878217183633408",
+              "start": 0,
+              "username": "QLing61007"
+            },
+            {
+              "end": 24,
+              "id": "1848384613401649152",
+              "start": 12,
+              "username": "an_lin42374"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931545278999589178",
+        "in_reply_to_user_id": "1825878217183633408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931541518264991865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QLing61007 @an_lin42374 不学习抽死你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1825878217183633408",
+        "conversation_id": "1931298216982851742",
+        "created_at": "2025-06-08T02:39:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T03:39:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931541518264991865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1848384613401649152",
+              "start": 0,
+              "username": "an_lin42374"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931541518264991865",
+        "in_reply_to_user_id": "1848384613401649152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931298216982851742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@an_lin42374 这个我也要 谁能拿着鞭子逼我学习啊 学不进去就抽我😿）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "偏远乡村学校在读 我应该不会再影响别人了 接下来有一个event 成分复杂 对所有人友好除了现生 最可爱的小宝宝@QLing61007 😽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 56,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "想回到家乡，我不要在这个冰冷无情的医院里了，我是健全的弈鸠",
+        "pinned_tweet_id": "1931176332370813214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924678380655673348/VxgKyXwf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 459,
+          "like_count": 5057,
+          "listed_count": 0,
+          "media_count": 246,
+          "tweet_count": 2267
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-20T12:51:26.000Z",
+        "description": "隔绝了脉搏 安静的犯错丨★@Dream_xyuuup",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 13,
+                "username": "Dream_xyuuup"
+              }
+            ]
+          }
+        },
+        "id": "1825878217183633408",
+        "name": "虾滑_7ing",
+        "pinned_tweet_id": "1928813283743514734",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903651960697593856/RFLnfeKg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 173,
+          "like_count": 1073,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 269
+        },
+        "username": "QLing61007",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-21T15:23:54.000Z",
+        "description": "推油叫我心安就好★会发画（约稿和自己的摸鱼）和碎碎念，偶尔发自拍\n双，叫宝宝纯口癖，有时候只是习惯性说烧话\n匿名信箱https://t.co/GKkZ1BsJUL\n可以私信找我玩",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/an_lin42374",
+                "end": 81,
+                "expanded_url": "https://ngl.link/an_lin42374",
+                "start": 58,
+                "url": "https://t.co/GKkZ1BsJUL"
+              }
+            ]
+          }
+        },
+        "id": "1848384613401649152",
+        "location": "🚪88/188纯绿",
+        "name": "此心安处（复健版",
+        "pinned_tweet_id": "1918763185198207026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904938008631271426/aIBQksUU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 90,
+          "like_count": 392,
+          "listed_count": 1,
+          "media_count": 217,
+          "tweet_count": 1510
+        },
+        "username": "an_lin42374",
+        "verified": false
+      }
+    ]
+  }
+}

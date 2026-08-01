@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1990423526784827827",
+    "created_at": "2025-11-17T14:15:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T15:15:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990423526784827827"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/meowllit/statu…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/meowllit/status/1989880125437948017",
+          "start": 8,
+          "url": "https://t.co/BV35sQPnuB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990423526784827827",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989880125437948017",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我和我的姐妹： https://t.co/BV35sQPnuB"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2556,
+        "height": 720,
+        "media_key": "13_1989591922391035904",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1989591922391035904/img/U-XuxMyio6YdJ8W4.jpg",
+        "public_metrics": {
+          "view_count": 20111
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1989591922391035904/vid/avc1/464x270/y0YOHfYNuBrttOeq.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1989591922391035904/vid/avc1/620x360/TNjgXXSogBZ2mEPA.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1989591922391035904/vid/avc1/1240x720/KFc9ftNMRBKguTyP.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1989591922391035904/pl/RHz46kNbUh3GFtRq.m3u8"
+          }
+        ],
+        "width": 1240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1990423526784827827",
+        "created_at": "2025-11-17T14:15:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T15:15:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990423526784827827"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/meowllit/statu…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/meowllit/status/1989880125437948017",
+              "start": 8,
+              "url": "https://t.co/BV35sQPnuB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990423526784827827",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989880125437948017",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我和我的姐妹： https://t.co/BV35sQPnuB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1989591922391035904"
+          ],
+          "media_source_tweet_id": [
+            "1989591980289261883"
+          ]
+        },
+        "author_id": "1937287119900196864",
+        "conversation_id": "1989880125437948017",
+        "created_at": "2025-11-16T02:16:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T03:16:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989880125437948017"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eeXRVIpSA6",
+              "end": 61,
+              "expanded_url": "https://x.com/rohzanim/status/1989591980289261883/video/1",
+              "media_key": "13_1989591922391035904",
+              "start": 38,
+              "url": "https://t.co/eeXRVIpSA6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989880125437948017",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 99,
+          "impression_count": 18900,
+          "like_count": 2019,
+          "quote_count": 9,
+          "reply_count": 0,
+          "retweet_count": 394
+        },
+        "reply_settings": "everyone",
+        "text": "‧₊˚♪   let’s go  .ᐟ.ᐟ  ⸜(｡˃ ᵕ ˂ )⸝♡\n\n https://t.co/eeXRVIpSA6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "没法活了，一切都是男的骗我，女的欠我，老的冤枉我，小的欺负我，中国的压迫我，外国的引诱我，身边的霸凌我，网上的取笑我，你们全都对不起我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1985535613857382587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 595,
+          "like_count": 7539,
+          "listed_count": 1,
+          "media_count": 462,
+          "tweet_count": 4149
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-23T23:10:29.000Z",
+        "description": "⠀⠀⠀ ੭୧ ⠀⠀⠀ ׂ ⠀⠀⠀ ⠀Chᥱrish Y᥆u ⠀⠀ ⠀⠀⠀ ੭ ⠀⠀ ⠀𓈒⠀⠀ ⠀⠀⠀",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ILL.IT",
+                "end": 23,
+                "expanded_url": "http://ILL.IT/",
+                "start": 0,
+                "url": "https://t.co/jTeEAn4QQu"
+              }
+            ]
+          }
+        },
+        "id": "1937287119900196864",
+        "location": "23",
+        "name": "ؘ",
+        "pinned_tweet_id": "1988403603099578455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987956249489534976/sKh-6QRm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1479,
+          "following_count": 475,
+          "like_count": 15496,
+          "listed_count": 8,
+          "media_count": 904,
+          "tweet_count": 2508
+        },
+        "url": "https://t.co/jTeEAn4QQu",
+        "username": "meowllit",
+        "verified": false
+      }
+    ]
+  }
+}

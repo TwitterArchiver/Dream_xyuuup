@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "2007518038145572896",
+    "created_at": "2026-01-03T18:22:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T19:22:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007518038145572896"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/2hoschi6l45421…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/2hoschi6l45421/status/2007044886756020397",
+          "start": 4,
+          "url": "https://t.co/G6ZzaHczd9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007518038145572896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007044886756020397",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我目标 https://t.co/G6ZzaHczd9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1163,
+        "media_key": "3_2007044881039183872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9p0r36bUAAtvzy.jpg",
+        "width": 1731
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "2007518038145572896",
+        "created_at": "2026-01-03T18:22:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T19:22:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007518038145572896"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/2hoschi6l45421…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/2hoschi6l45421/status/2007044886756020397",
+              "start": 4,
+              "url": "https://t.co/G6ZzaHczd9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007518038145572896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007044886756020397",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我目标 https://t.co/G6ZzaHczd9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007044881039183872"
+          ]
+        },
+        "author_id": "1773241315830214656",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2007044886756020397",
+        "created_at": "2026-01-02T11:02:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T12:02:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007044886756020397"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1DWM4ZApsF",
+              "end": 29,
+              "expanded_url": "https://x.com/2hoSChi6l45421/status/2007044886756020397/photo/1",
+              "media_key": "3_2007044881039183872",
+              "start": 6,
+              "url": "https://t.co/1DWM4ZApsF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007044886756020397",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 232,
+          "impression_count": 66991,
+          "like_count": 3119,
+          "quote_count": 55,
+          "reply_count": 58,
+          "retweet_count": 134
+        },
+        "reply_settings": "everyone",
+        "text": "166cm https://t.co/1DWM4ZApsF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "你能想到的坏习惯我都有",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998066182315020289/_eUXKzgo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 597,
+          "like_count": 7967,
+          "listed_count": 1,
+          "media_count": 475,
+          "tweet_count": 4409
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-28T06:51:00.000Z",
+        "description": "➰18 ♡ おともだちください dm ◎",
+        "id": "1773241315830214656",
+        "name": "こちゃん",
+        "pinned_tweet_id": "1962100214069887126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932763307284574209/XRiQEC72_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7695,
+          "following_count": 117,
+          "like_count": 1221,
+          "listed_count": 21,
+          "media_count": 155,
+          "tweet_count": 1739
+        },
+        "username": "2hoSChi6l45421",
+        "verified": false
+      }
+    ]
+  }
+}

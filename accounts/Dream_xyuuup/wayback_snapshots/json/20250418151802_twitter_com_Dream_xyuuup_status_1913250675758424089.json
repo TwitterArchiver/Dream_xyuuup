@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1913248921096487135",
+    "created_at": "2025-04-18T15:18:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-18T16:18:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913250675758424089"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1711288768043634688",
+          "start": 0,
+          "username": "bitng35546"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913250675758424089",
+    "in_reply_to_user_id": "1711288768043634688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913248921096487135",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bitng35546 周末开心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1913248921096487135",
+        "created_at": "2025-04-18T15:18:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T16:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913250675758424089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1711288768043634688",
+              "start": 0,
+              "username": "bitng35546"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913250675758424089",
+        "in_reply_to_user_id": "1711288768043634688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913248921096487135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bitng35546 周末开心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1711288768043634688",
+        "conversation_id": "1913248921096487135",
+        "created_at": "2025-04-18T15:11:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T16:11:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913248921096487135"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1913248921096487135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "周末快乐哦😆，又到了两天小假期❛‿˂̵✧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "负能多废话多，对所有人友善除了现生。｜最可爱的小宝宝@QLing61007 😽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠ltnh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905913123158298624/ClLLrGxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 378,
+          "like_count": 3503,
+          "listed_count": 1,
+          "media_count": 174,
+          "tweet_count": 1529
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-09T07:53:42.000Z",
+        "description": "临期大学生，爱好是画画（但不会画😭）偶尔打打王者但比较菜，玩玩光遇以及一些音游，欢迎互fo/i人一只情绪稳定，希望有人来找我聊天找我玩😃求扩列Ｏ(≧∇≦)Ｏ",
+        "id": "1711288768043634688",
+        "name": "白糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1714921812134682624/rBfT2eor_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 74,
+          "like_count": 313,
+          "listed_count": 3,
+          "media_count": 8,
+          "tweet_count": 1073
+        },
+        "username": "bitng35546",
+        "verified": false
+      }
+    ]
+  }
+}

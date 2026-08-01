@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060945761509212160"
+      ],
+      "media_source_tweet_id": [
+        "2060945815578005655"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "2061036692409307197",
+    "created_at": "2026-05-31T10:46:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T11:46:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061036692409307197"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 15,
+          "tag": "习近平出柜"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1751497892001685504",
+          "start": 3,
+          "username": "45_206MHz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/i5IIkD9hNK",
+          "end": 45,
+          "expanded_url": "https://x.com/45_206MHz/status/2060945815578005655/photo/1",
+          "media_key": "3_2060945761509212160",
+          "start": 22,
+          "url": "https://t.co/i5IIkD9hNK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061036692409307197",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060945815578005655",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @45_206MHz: #习近平出柜 https://t.co/i5IIkD9hNK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1087,
+        "media_key": "3_2060945761509212160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJnzQDAagAAEyPl.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060945761509212160"
+          ],
+          "media_source_tweet_id": [
+            "2060945815578005655"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "2061036692409307197",
+        "created_at": "2026-05-31T10:46:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T11:46:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061036692409307197"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 15,
+              "tag": "习近平出柜"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751497892001685504",
+              "start": 3,
+              "username": "45_206MHz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/i5IIkD9hNK",
+              "end": 45,
+              "expanded_url": "https://x.com/45_206MHz/status/2060945815578005655/photo/1",
+              "media_key": "3_2060945761509212160",
+              "start": 22,
+              "url": "https://t.co/i5IIkD9hNK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061036692409307197",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060945815578005655",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @45_206MHz: #习近平出柜 https://t.co/i5IIkD9hNK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060945761509212160"
+          ]
+        },
+        "author_id": "1751497892001685504",
+        "conversation_id": "2060945815578005655",
+        "created_at": "2026-05-31T04:45:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T05:45:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060945815578005655"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "习近平出柜"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/i5IIkD9hNK",
+              "end": 30,
+              "expanded_url": "https://x.com/45_206MHz/status/2060945815578005655/photo/1",
+              "media_key": "3_2060945761509212160",
+              "start": 7,
+              "url": "https://t.co/i5IIkD9hNK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060945815578005655",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 30593,
+          "like_count": 343,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "#习近平出柜 https://t.co/i5IIkD9hNK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "mtx,her/they\n我很蠢你们要理解我\n*・x・*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "弈鸠",
+        "pinned_tweet_id": "2055264508608970925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059924129340592128/ItWjnHnF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 634,
+          "like_count": 8388,
+          "listed_count": 0,
+          "media_count": 641,
+          "tweet_count": 6310
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-28T06:50:23.000Z",
+        "description": "zh-CN / en-NZ\nany pronoun\n叫我 45 就好啦\ngender apathetic\n里推: @45_206io | ⭐😡: @MomoseReina\nBluesky同名\n提问箱：https://t.co/68frWGl4xj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 57,
+                "username": "45_206io"
+              },
+              {
+                "end": 85,
+                "start": 73,
+                "username": "MomoseReina"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/45.206mhz",
+                "end": 123,
+                "expanded_url": "https://ngl.link/45.206mhz",
+                "start": 100,
+                "url": "https://t.co/68frWGl4xj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/45.206mhz",
+                "end": 23,
+                "expanded_url": "https://ngl.link/45.206mhz",
+                "start": 0,
+                "url": "https://t.co/68frWGl4xj"
+              }
+            ]
+          }
+        },
+        "id": "1751497892001685504",
+        "location": "maimai DX Circle (Int’l)",
+        "name": "45.206 MHᴢ 🇳🇿",
+        "pinned_tweet_id": "2055643018267684993",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039289556911194112/f7iNbdDq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2757,
+          "following_count": 498,
+          "like_count": 35539,
+          "listed_count": 1,
+          "media_count": 793,
+          "tweet_count": 4372
+        },
+        "url": "https://t.co/68frWGl4xj",
+        "username": "45_206MHz",
+        "verified": true
+      }
+    ]
+  }
+}

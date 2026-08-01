@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "2027482676652085425",
+    "created_at": "2026-02-28T05:05:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T06:05:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027611022845227463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1790448736629301248",
+          "start": 0,
+          "username": "xijinping_bot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027611022845227463",
+    "in_reply_to_user_id": "1790448736629301248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027482676652085425",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xijinping_bot 要出来了…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1597,
+        "media_key": "3_2027482661502189568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCMQvRMaAAAS5Gc.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "2027482676652085425",
+        "created_at": "2026-02-28T05:05:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T06:05:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027611022845227463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1790448736629301248",
+              "start": 0,
+              "username": "xijinping_bot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027611022845227463",
+        "in_reply_to_user_id": "1790448736629301248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027482676652085425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xijinping_bot 要出来了…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027482661502189568"
+          ]
+        },
+        "author_id": "1790448736629301248",
+        "conversation_id": "2027482676652085425",
+        "created_at": "2026-02-27T20:35:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T21:35:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027482676652085425"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NvCJHsmVhp",
+              "end": 32,
+              "expanded_url": "https://x.com/xijinping_bot/status/2027482676652085425/photo/1",
+              "media_key": "3_2027482661502189568",
+              "start": 9,
+              "url": "https://t.co/NvCJHsmVhp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027482676652085425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 128,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "青年毛泽东这一块 https://t.co/NvCJHsmVhp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "有负面💊，歌品感人只是一个爱听kpop/cpop/edm的可怜人，性取向你猜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016795361961230336/4zuFQCyR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 612,
+          "like_count": 7887,
+          "listed_count": 1,
+          "media_count": 485,
+          "tweet_count": 4623
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T18:27:07.000Z",
+        "description": "朝闻道，夕死可矣/@mzd1966 @mizuki_bot/就读于古拉格大学夹边沟分学院梁家河校区/大年初一，理科区佛教区全价暴毙/本账所有负面言论由葱娘酱和猫在雷指使、发布，本人毫不知情/激化矛盾全面加速，拥抱阳光拥抱文明/预制论/顶峰论/雪海论/反马反苏，保卫毛主席",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 9,
+                "username": "mzd1966"
+              },
+              {
+                "end": 29,
+                "start": 18,
+                "username": "mizuki_bot"
+              }
+            ]
+          }
+        },
+        "id": "1790448736629301248",
+        "location": "毛主席纪念堂",
+        "name": "羽泽东——苏系基本盘 延安炕日精神发扬者",
+        "pinned_tweet_id": "2027086629463363982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015813151938187264/abAUkSW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1647,
+          "following_count": 1383,
+          "like_count": 14839,
+          "listed_count": 8,
+          "media_count": 631,
+          "tweet_count": 13169
+        },
+        "username": "xijinping_bot",
+        "verified": false
+      }
+    ]
+  }
+}

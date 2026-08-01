@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1908338863514542226",
+    "created_at": "2025-04-05T02:00:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T03:00:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1908338863514542226"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1908338863514542226",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我每次打开前置摄像头就开始哭我都没办法直视我的脸了下半边脸全是痘估计有上百个好恶心鼻子上也有好多黑头现生他们也说过我脸全是痘草莓什么的哎呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1908338863514542226",
+        "created_at": "2025-04-05T02:00:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T03:00:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908338863514542226"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1908338863514542226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我每次打开前置摄像头就开始哭我都没办法直视我的脸了下半边脸全是痘估计有上百个好恶心鼻子上也有好多黑头现生他们也说过我脸全是痘草莓什么的哎呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "对所有人温良除了现生",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dreamxy_uuup",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dreamxy_uuup",
+                "start": 0,
+                "url": "https://t.co/V4QSiptJcT"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠ltnh（未来最厉害的数学家数学满分版😋）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905913123158298624/ClLLrGxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 321,
+          "like_count": 2893,
+          "listed_count": 2,
+          "media_count": 145,
+          "tweet_count": 1212
+        },
+        "url": "https://t.co/V4QSiptJcT",
+        "username": "Dream_xyuuup",
+        "verified": false
+      }
+    ]
+  }
+}

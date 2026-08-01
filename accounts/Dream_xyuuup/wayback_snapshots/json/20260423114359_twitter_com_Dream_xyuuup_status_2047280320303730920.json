@@ -1,0 +1,510 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1960958780935446528",
+          "name": "ILLIT"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1960958780935446528",
+          "name": "ILLIT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1960958780935446528",
+          "name": "ILLIT"
+        }
+      }
+    ],
+    "conversation_id": "2047280320303730920",
+    "created_at": "2026-04-23T11:43:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T12:43:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047280320303730920"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/theillitnews_/…",
+          "end": 97,
+          "expanded_url": "https://twitter.com/theillitnews_/status/2047270069567467894",
+          "start": 74,
+          "url": "https://t.co/YorPCzY8cR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047280320303730920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047270069567467894",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "来支持了💅\n你们嘲什么嘲blft照顾我们这些小众逼容易吗\n什么时候4.30我现在不敢多听我浑身好痒\n境萌花可以抠我吗短发妈妈中性妈妈\n完全酷儿概念 https://t.co/YorPCzY8cR"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 125893,
+        "height": 720,
+        "media_key": "7_2047269993814056961",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2047269993814056961/pu/img/NHUdRLT-uUDU_m_9.jpg",
+        "public_metrics": {
+          "view_count": 6734
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2047269993814056961/pu/vid/avc1/404x270/74SlYzSeGD40rYVo.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2047269993814056961/pu/vid/avc1/540x360/G1iA-zX0kNVh39Jv.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2047269993814056961/pu/vid/avc1/1080x720/S6gZGnM1sWvd6lXy.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2047269993814056961/pu/pl/yggJ7HBHY8lXoyI2.m3u8"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1960958780935446528",
+              "name": "ILLIT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1960958780935446528",
+              "name": "ILLIT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1960958780935446528",
+              "name": "ILLIT"
+            }
+          }
+        ],
+        "conversation_id": "2047280320303730920",
+        "created_at": "2026-04-23T11:43:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T12:43:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047280320303730920"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/theillitnews_/…",
+              "end": 97,
+              "expanded_url": "https://twitter.com/theillitnews_/status/2047270069567467894",
+              "start": 74,
+              "url": "https://t.co/YorPCzY8cR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047280320303730920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047270069567467894",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "来支持了💅\n你们嘲什么嘲blft照顾我们这些小众逼容易吗\n什么时候4.30我现在不敢多听我浑身好痒\n境萌花可以抠我吗短发妈妈中性妈妈\n完全酷儿概念 https://t.co/YorPCzY8cR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2047269993814056961"
+          ]
+        },
+        "author_id": "1967518101005905920",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1960958780935446528",
+              "name": "ILLIT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1960958780935446528",
+              "name": "ILLIT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1960958780935446528",
+              "name": "ILLIT"
+            }
+          }
+        ],
+        "conversation_id": "2047270069567467894",
+        "created_at": "2026-04-23T11:03:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T12:03:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047270069567467894"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 73,
+              "start": 66,
+              "tag": "Its_Me"
+            },
+            {
+              "end": 91,
+              "start": 74,
+              "tag": "MAMIHLAPINATAPAI"
+            },
+            {
+              "end": 98,
+              "start": 92,
+              "tag": "ILLIT"
+            },
+            {
+              "end": 103,
+              "start": 99,
+              "tag": "아일릿"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/irjfi64q6c",
+              "end": 127,
+              "expanded_url": "https://x.com/theillitnews_/status/2047270069567467894/video/1",
+              "media_key": "7_2047269993814056961",
+              "start": 104,
+              "url": "https://t.co/irjfi64q6c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047270069567467894",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 136,
+          "impression_count": 25121,
+          "like_count": 1596,
+          "quote_count": 140,
+          "reply_count": 29,
+          "retweet_count": 436
+        },
+        "reply_settings": "everyone",
+        "text": "ILLIT unveils the campaign film for their title track \"It’s Me.\"\n\n#Its_Me #MAMIHLAPINATAPAI\n#ILLIT #아일릿 https://t.co/irjfi64q6c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "弈鸠，是谁？\nenby,her/they,kpop,激女粉红点进就死\n*・x・*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "脚踩你爷爷登顶称王",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041811823687823360/QQkkR0z6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 606,
+          "like_count": 8144,
+          "listed_count": 1,
+          "media_count": 526,
+          "tweet_count": 5123
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-15T09:18:04.000Z",
+        "description": "Dedicated ILLIT fanbase sharing updates, charts, awards, achievements & more. Connect with us @illitvotingteam, @thebaseillit_ & @illitonair!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 94,
+                "username": "illitvotingteam"
+              },
+              {
+                "end": 126,
+                "start": 112,
+                "username": "thebaseillit_"
+              },
+              {
+                "end": 140,
+                "start": 129,
+                "username": "illitonair"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "open.spotify.com/prerelease/3tC…",
+                "end": 23,
+                "expanded_url": "https://open.spotify.com/prerelease/3tCfAinmCQYnOgyqbSPXpk?si=wzRsFyZvSEyO3f6iAtsogQ",
+                "start": 0,
+                "url": "https://t.co/bNX9vVEmV5"
+              }
+            ]
+          }
+        },
+        "id": "1967518101005905920",
+        "location": "former ILLIT UNIVERSE ",
+        "name": "ILLIT NEWS",
+        "pinned_tweet_id": "2046545843520713109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038853996836966400/i-pbuIEZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13799,
+          "following_count": 57,
+          "like_count": 1989,
+          "listed_count": 49,
+          "media_count": 1498,
+          "tweet_count": 2314
+        },
+        "url": "https://t.co/bNX9vVEmV5",
+        "username": "theillitnews_",
+        "verified": true
+      }
+    ]
+  }
+}

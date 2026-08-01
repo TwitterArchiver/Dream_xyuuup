@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1952382197085913089"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "1952382207659561406",
+    "created_at": "2025-08-04T14:52:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T15:52:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1952382207659561406"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9eKZmuGyqR",
+          "end": 29,
+          "expanded_url": "https://x.com/Dream_xyuuup/status/1952382207659561406/photo/1",
+          "media_key": "3_1952382197085913089",
+          "start": 6,
+          "url": "https://t.co/9eKZmuGyqR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952382207659561406",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "对不起。。 https://t.co/9eKZmuGyqR"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1952382207659561406].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1952382207659561406",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1952382207659561406"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1952382197085913089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxhBQ5saQAEDTm5.jpg",
+        "width": 972
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "yì jīu｜不知道什么圈子，谢谢你的喜欢我也喜欢你喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 542,
+          "like_count": 6675,
+          "listed_count": 0,
+          "media_count": 381,
+          "tweet_count": 3352
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      }
+    ]
+  }
+}

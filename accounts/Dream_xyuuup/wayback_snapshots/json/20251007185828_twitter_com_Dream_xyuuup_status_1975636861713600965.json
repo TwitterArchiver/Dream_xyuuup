@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975433874571182080"
+      ],
+      "media_source_tweet_id": [
+        "1975433879667548188"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "1975636861713600965",
+    "created_at": "2025-10-07T18:58:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T19:58:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975636861713600965"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1878628404926545920",
+          "start": 3,
+          "username": "CoeL_Nov2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gDw4FrMYiG",
+          "end": 50,
+          "expanded_url": "https://x.com/CoeL_Nov2/status/1975433879667548188/photo/1",
+          "media_key": "3_1975433874571182080",
+          "start": 27,
+          "url": "https://t.co/gDw4FrMYiG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975636861713600965",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975433879667548188",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CoeL_Nov2: 开学暂停，老子要过节了 https://t.co/gDw4FrMYiG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 440,
+        "media_key": "3_1975433874571182080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2ompIMWwAA0NSv.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975433874571182080"
+          ],
+          "media_source_tweet_id": [
+            "1975433879667548188"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "1975636861713600965",
+        "created_at": "2025-10-07T18:58:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T19:58:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975636861713600965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1878628404926545920",
+              "start": 3,
+              "username": "CoeL_Nov2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gDw4FrMYiG",
+              "end": 50,
+              "expanded_url": "https://x.com/CoeL_Nov2/status/1975433879667548188/photo/1",
+              "media_key": "3_1975433874571182080",
+              "start": 27,
+              "url": "https://t.co/gDw4FrMYiG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975636861713600965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975433879667548188",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CoeL_Nov2: 开学暂停，老子要过节了 https://t.co/gDw4FrMYiG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975433874571182080"
+          ]
+        },
+        "author_id": "1878628404926545920",
+        "conversation_id": "1975433879667548188",
+        "created_at": "2025-10-07T05:31:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T06:31:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975433879667548188"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gDw4FrMYiG",
+              "end": 35,
+              "expanded_url": "https://x.com/CoeL_Nov2/status/1975433879667548188/photo/1",
+              "media_key": "3_1975433874571182080",
+              "start": 12,
+              "url": "https://t.co/gDw4FrMYiG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975433879667548188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1065,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "开学暂停，老子要过节了 https://t.co/gDw4FrMYiG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "我自私，病态，阴暗，偏执。所有大度、不在乎都是我的伪装。我窥探你的生活，揣测你的文案，解读你分享的一切，观察你身边的人，盯着你的照片妄想找到蛛丝马迹。我敏感，善变多疑，斤斤计较你多看别人的一眼。我爱你，你本来就应该乖乖待在我身边。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1953828269977219114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 444,
+          "following_count": 570,
+          "like_count": 7054,
+          "listed_count": 1,
+          "media_count": 432,
+          "tweet_count": 3877
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-13T02:21:41.000Z",
+        "description": "INFP🦋 射手座🏹 互fo请私信\n成分复杂    推止于推📱",
+        "id": "1878628404926545920",
+        "location": "Hong Kong ",
+        "name": "小皓很好🍀",
+        "pinned_tweet_id": "1899792847747916062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940975074183442432/RAMXQ1FD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 661,
+          "following_count": 737,
+          "like_count": 5873,
+          "listed_count": 1,
+          "media_count": 126,
+          "tweet_count": 957
+        },
+        "username": "CoeL_Nov2",
+        "verified": false
+      }
+    ]
+  }
+}

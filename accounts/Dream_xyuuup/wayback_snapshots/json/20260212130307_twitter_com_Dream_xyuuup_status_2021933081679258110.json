@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "2021808945741148419",
+    "created_at": "2026-02-12T13:03:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T14:03:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021933081679258110"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1875512847503073280",
+          "start": 0,
+          "username": "cinianxiaogou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021933081679258110",
+    "in_reply_to_user_id": "1875512847503073280",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021808945741148419",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cinianxiaogou 你好"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2021808929714601984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA7ognNaAAAUfvF.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "2021808945741148419",
+        "created_at": "2026-02-12T13:03:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T14:03:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021933081679258110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1875512847503073280",
+              "start": 0,
+              "username": "cinianxiaogou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021933081679258110",
+        "in_reply_to_user_id": "1875512847503073280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021808945741148419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cinianxiaogou 你好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021808929714601984"
+          ]
+        },
+        "author_id": "1875512847503073280",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2021808945741148419",
+        "created_at": "2026-02-12T04:49:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T05:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021808945741148419"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2020404285394284549/YfOMSTAT?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2020404285394284549/YfOMSTAT?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/CupjjfU5jB"
+            },
+            {
+              "display_url": "pic.x.com/UhMrsQD8Rd",
+              "end": 64,
+              "expanded_url": "https://x.com/cinianxiaogou/status/2021808945741148419/photo/1",
+              "media_key": "3_2021808929714601984",
+              "start": 41,
+              "url": "https://t.co/UhMrsQD8Rd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021808945741148419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/CupjjfU5jB https://t.co/UhMrsQD8Rd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "有负面💊，歌品感人只是一个爱听kpop/cpop/edm的可怜人，性取向你猜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016795361961230336/4zuFQCyR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 603,
+          "like_count": 8007,
+          "listed_count": 1,
+          "media_count": 482,
+          "tweet_count": 4550
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-04T12:01:37.000Z",
+        "description": "This is GaWenTruniK | NARCISSISTIC | side | INFP | Engilsh 한국어 Français | 即将变成合法少年 | 梦想是制药 希望能在制药领域留下自己的名称 爱人：@lemonmen0428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 110,
+                "username": "lemonmen0428"
+              }
+            ]
+          }
+        },
+        "id": "1875512847503073280",
+        "location": "距离你0.1km",
+        "name": "辞年",
+        "pinned_tweet_id": "1983575651165859907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888286884604051456/w8jlKkVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 756,
+          "following_count": 210,
+          "like_count": 5016,
+          "listed_count": 2,
+          "media_count": 177,
+          "tweet_count": 1168
+        },
+        "username": "cinianxiaogou",
+        "verified": false
+      }
+    ]
+  }
+}

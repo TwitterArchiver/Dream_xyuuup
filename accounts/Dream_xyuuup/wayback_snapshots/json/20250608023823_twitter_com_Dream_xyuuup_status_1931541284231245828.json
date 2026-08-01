@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1931305663080370413",
+    "created_at": "2025-06-08T02:38:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T03:38:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931541284231245828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1908810911705681920",
+          "start": 0,
+          "username": "D1o2ng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931541284231245828",
+    "in_reply_to_user_id": "1908810911705681920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931541142514086110",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@D1o2ng 不要，你是最帅的宝宝"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1931541142514086110].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1931541142514086110",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1931541142514086110"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1931305663080370413",
+        "created_at": "2025-06-08T02:38:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T03:38:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931541284231245828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1908810911705681920",
+              "start": 0,
+              "username": "D1o2ng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931541284231245828",
+        "in_reply_to_user_id": "1908810911705681920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931541142514086110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@D1o2ng 不要，你是最帅的宝宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "偏远乡村学校在读 我应该不会再影响别人了 接下来有一个event 成分复杂 对所有人友好除了现生 最可爱的小宝宝@QLing61007 😽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 56,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "想回到家乡，我不要在这个冰冷无情的医院里了，我是健全的弈鸠",
+        "pinned_tweet_id": "1931176332370813214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924678380655673348/VxgKyXwf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 459,
+          "like_count": 5051,
+          "listed_count": 0,
+          "media_count": 245,
+          "tweet_count": 2262
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-06T09:16:10.000Z",
+        "description": "Best Palestine 👊🇵🇸🔥",
+        "id": "1908810911705681920",
+        "name": "Dong🇺🇳",
+        "pinned_tweet_id": "1931344063648919612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908811082564841474/Tq8TMTCq_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 162,
+          "like_count": 396,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 202
+        },
+        "username": "D1o2ng",
+        "verified": false
+      }
+    ]
+  }
+}

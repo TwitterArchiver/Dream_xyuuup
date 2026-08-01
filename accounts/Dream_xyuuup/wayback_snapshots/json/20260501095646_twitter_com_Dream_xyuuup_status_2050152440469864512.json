@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "2050141386775867808",
+    "created_at": "2026-05-01T09:56:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T10:56:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050152440469864512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2033556052650975232",
+          "start": 0,
+          "username": "NBabysitte65342"
+        },
+        {
+          "end": 31,
+          "id": "1741807657110147073",
+          "start": 17,
+          "username": "yan_huan92807"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050152440469864512",
+    "in_reply_to_user_id": "2033556052650975232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050152325315211294",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NBabysitte65342 @yan_huan92807 我艾了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "2050141386775867808",
+        "created_at": "2026-05-01T09:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T10:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050152440469864512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2033556052650975232",
+              "start": 0,
+              "username": "NBabysitte65342"
+            },
+            {
+              "end": 31,
+              "id": "1741807657110147073",
+              "start": 17,
+              "username": "yan_huan92807"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050152440469864512",
+        "in_reply_to_user_id": "2033556052650975232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050152325315211294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NBabysitte65342 @yan_huan92807 我艾了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033556052650975232",
+        "conversation_id": "2050141386775867808",
+        "created_at": "2026-05-01T09:56:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T10:56:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050152325315211294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1726051028112744448",
+              "start": 0,
+              "username": "Dream_xyuuup"
+            },
+            {
+              "end": 28,
+              "id": "1741807657110147073",
+              "start": 14,
+              "username": "yan_huan92807"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050152325315211294",
+        "in_reply_to_user_id": "1726051028112744448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050152086256644286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dream_xyuuup @yan_huan92807 直男哥的阳角中和了我的精神病"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "弈鸠，是谁？\nenby,her/they,kpop,激女粉红点进就死\n*・x・*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "脚踩你爷爷登顶称王",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041811823687823360/QQkkR0z6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 615,
+          "like_count": 8240,
+          "listed_count": 1,
+          "media_count": 542,
+          "tweet_count": 5334
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-16T14:48:51.000Z",
+        "description": "",
+        "id": "2033556052650975232",
+        "name": "一般路过布莱恩",
+        "pinned_tweet_id": "2048356236962488597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049386856085921793/z60amxMZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 94,
+          "like_count": 19583,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 3451
+        },
+        "username": "NBabysitte65342",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \nany pronouns\n什么圈都搞/enby，ftx🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/查成分互fo喵\n老婆我最爱的母狗婊子宝贝https://t.co/ojLNRKtUJR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/gess828?s=21",
+                "end": 127,
+                "expanded_url": "https://x.com/gess828?s=21",
+                "start": 104,
+                "url": "https://t.co/ojLNRKtUJR"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "小利亚是鳄鱼🐊女权人妖美女骚鸡妓妖景观装置法国新浪潮存在主义黑泽明喜欢困苦的雾都孤儿（私处好痒）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043343874119307264/3Tdu7r0M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 205,
+          "like_count": 3908,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1512
+        },
+        "username": "yan_huan92807",
+        "verified": false
+      }
+    ]
+  }
+}

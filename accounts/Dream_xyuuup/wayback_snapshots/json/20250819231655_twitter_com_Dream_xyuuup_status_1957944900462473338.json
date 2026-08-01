@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1957944900462473338",
+    "created_at": "2025-08-19T23:16:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-20T00:16:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1957944900462473338"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mizuki_liang/s…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/mizuki_liang/status/1957857264221761782",
+          "start": 12,
+          "url": "https://t.co/cqwagpubAx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957944900462473338",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957857264221761782",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我定制v掉了你有头绪吗 https://t.co/cqwagpubAx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1957944900462473338",
+        "created_at": "2025-08-19T23:16:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T00:16:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957944900462473338"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mizuki_liang/s…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/mizuki_liang/status/1957857264221761782",
+              "start": 12,
+              "url": "https://t.co/cqwagpubAx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957944900462473338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957857264221761782",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我定制v掉了你有头绪吗 https://t.co/cqwagpubAx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688215989970968576",
+        "conversation_id": "1957857264221761782",
+        "created_at": "2025-08-19T17:28:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T18:28:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957857264221761782"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1957857264221761782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2086,
+          "like_count": 41,
+          "quote_count": 3,
+          "reply_count": 4,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "【中国网络故障提示】\n自北京时间 2025年8月20日0:36 开始，中国往海外方向的任何443端口流量被完全阻断（境外网站全部无法访问，就算没被墙），此阻断导致访问异常，由于不可抗力原因，此问题无法进行修复。\n目前此错误规则配置导致了包括苹果、微软等多个跨国公司网站出现影响"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "yì jīu｜🏳️‍🌈｜谢谢你喜欢我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1953828269977219114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 549,
+          "like_count": 6668,
+          "listed_count": 0,
+          "media_count": 397,
+          "tweet_count": 3476
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-06T15:50:37.000Z",
+        "description": "wmc | mtf🏳️‍⚧️ | 喜欢折腾(但是有时候也懒得折腾) | 喜欢发日常 | 极度缺乏安全感 | 欢迎互fo喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/liangowo",
+                "end": 23,
+                "expanded_url": "https://t.me/liangowo",
+                "start": 0,
+                "url": "https://t.co/6xL3ldqhNJ"
+              }
+            ]
+          }
+        },
+        "id": "1688215989970968576",
+        "location": "舞萌国",
+        "name": "凉老师不是娘老师",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955251749461344256/SXfHqMH2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686,
+          "following_count": 629,
+          "like_count": 2101,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1311
+        },
+        "url": "https://t.co/6xL3ldqhNJ",
+        "username": "mizuki_liang",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1910613198581137744",
+    "created_at": "2025-04-11T08:37:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-11T09:37:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1910613198581137744"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dream_xyuuup/s…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/dream_xyuuup/status/1908410416184922407",
+          "start": 14,
+          "url": "https://t.co/uOHpmMvJc3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910613198581137744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908410416184922407",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那些真祝福我的你们吓我一跳 https://t.co/uOHpmMvJc3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1910613198581137744",
+        "created_at": "2025-04-11T08:37:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-11T09:37:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1910613198581137744"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dream_xyuuup/s…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/dream_xyuuup/status/1908410416184922407",
+              "start": 14,
+              "url": "https://t.co/uOHpmMvJc3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910613198581137744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908410416184922407",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那些真祝福我的你们吓我一跳 https://t.co/uOHpmMvJc3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1908410416184922407",
+        "created_at": "2025-04-05T06:44:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T07:44:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908410416184922407"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1908410416184922407",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 30609,
+          "like_count": 158,
+          "quote_count": 4,
+          "reply_count": 17,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "退gay圈了不好意思。青春仿佛是个梦，梦醒了也该谢幕了，最近有喜欢的女孩了、男的都找我互取咯，我要做回直男，好好生活。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "数学满分是假的数学家也是假的数学没及格过最近一次考试32/100嗯你们不要接了 积极宣扬负能量 对所有人温良除了现生",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠ltnh（未来最厉害的数学家数学满分版😋）",
+        "pinned_tweet_id": "1908533384504041492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905913123158298624/ClLLrGxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 336,
+          "like_count": 3118,
+          "listed_count": 1,
+          "media_count": 152,
+          "tweet_count": 1324
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      }
+    ]
+  }
+}

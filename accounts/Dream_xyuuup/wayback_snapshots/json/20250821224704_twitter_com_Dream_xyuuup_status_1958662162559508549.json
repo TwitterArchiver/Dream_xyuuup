@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1942095379199119360"
+      ],
+      "media_source_tweet_id": [
+        "1942095448681955759"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "1958662162559508549",
+    "created_at": "2025-08-21T22:47:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T23:47:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958662162559508549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1783437897963556865",
+          "start": 3,
+          "username": "Sllivo307"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kodIAdxtVm",
+          "end": 53,
+          "expanded_url": "https://x.com/Sllivo307/status/1942095448681955759/video/1",
+          "media_key": "13_1942095379199119360",
+          "start": 30,
+          "url": "https://t.co/kodIAdxtVm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958662162559508549",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942095448681955759",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sllivo307: 你抱着我掉眼泪说这世界太复杂 https://t.co/kodIAdxtVm"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13752,
+        "height": 928,
+        "media_key": "13_1942095379199119360",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1942095379199119360/img/gbqe7LZ1y0QH0nsi.jpg",
+        "public_metrics": {
+          "view_count": 37
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1942095379199119360/vid/avc1/320x412/QhVkAba6BKz3QUH-.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1942095379199119360/vid/avc1/480x618/FeAWWqQy8Cg5Z1tV.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1942095379199119360/vid/avc1/720x928/GJlujna1Qqr4tlnt.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1942095379199119360/pl/EbiQmPYrIFG1t5CT.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1942095379199119360"
+          ],
+          "media_source_tweet_id": [
+            "1942095448681955759"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "1958662162559508549",
+        "created_at": "2025-08-21T22:47:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T23:47:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958662162559508549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1783437897963556865",
+              "start": 3,
+              "username": "Sllivo307"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kodIAdxtVm",
+              "end": 53,
+              "expanded_url": "https://x.com/Sllivo307/status/1942095448681955759/video/1",
+              "media_key": "13_1942095379199119360",
+              "start": 30,
+              "url": "https://t.co/kodIAdxtVm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958662162559508549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942095448681955759",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sllivo307: 你抱着我掉眼泪说这世界太复杂 https://t.co/kodIAdxtVm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1942095379199119360"
+          ]
+        },
+        "author_id": "1783437897963556865",
+        "conversation_id": "1942095448681955759",
+        "created_at": "2025-07-07T05:36:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T06:36:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942095448681955759"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kodIAdxtVm",
+              "end": 38,
+              "expanded_url": "https://x.com/Sllivo307/status/1942095448681955759/video/1",
+              "media_key": "13_1942095379199119360",
+              "start": 15,
+              "url": "https://t.co/kodIAdxtVm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942095448681955759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 215,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你抱着我掉眼泪说这世界太复杂 https://t.co/kodIAdxtVm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "yì jīu｜🏳️‍🌈｜谢谢你喜欢我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1953828269977219114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 549,
+          "like_count": 6716,
+          "listed_count": 0,
+          "media_count": 404,
+          "tweet_count": 3527
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-25T10:08:33.000Z",
+        "description": "智商有问题的别和我聊天我怕被传染成傻逼",
+        "id": "1783437897963556865",
+        "name": "你误会了我真的不是恋丑癖",
+        "pinned_tweet_id": "1783441692793635230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956342199442087936/hHYCMsx4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 18,
+          "like_count": 92,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 206
+        },
+        "username": "Sllivo307",
+        "verified": false
+      }
+    ]
+  }
+}

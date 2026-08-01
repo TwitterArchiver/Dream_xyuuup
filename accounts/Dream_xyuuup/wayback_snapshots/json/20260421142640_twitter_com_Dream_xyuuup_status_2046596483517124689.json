@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "2046596483517124689",
+    "created_at": "2026-04-21T14:26:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T15:26:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046596483517124689"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/snow_xue_/stat…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/snow_xue_/status/2031601916510441956",
+          "start": 30,
+          "url": "https://t.co/KAiI5k2ZKM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046596483517124689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031601916510441956",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "估计是只o了一个月还给自己吃一身瘾就被禁售然后没囤药气疯了 https://t.co/KAiI5k2ZKM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2031601907991719938",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDGzK-LaMAImsuK.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2031601907932999685",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDGzK99aMAUIrbU.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "2046596483517124689",
+        "created_at": "2026-04-21T14:26:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T15:26:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046596483517124689"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/snow_xue_/stat…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/snow_xue_/status/2031601916510441956",
+              "start": 30,
+              "url": "https://t.co/KAiI5k2ZKM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046596483517124689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031601916510441956",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "估计是只o了一个月还给自己吃一身瘾就被禁售然后没囤药气疯了 https://t.co/KAiI5k2ZKM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031601907991719938",
+            "3_2031601907932999685"
+          ]
+        },
+        "author_id": "1885154179922227200",
+        "conversation_id": "2031601916510441956",
+        "created_at": "2026-03-11T05:23:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T06:23:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031601916510441956"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mq4Id7QxTg",
+              "end": 50,
+              "expanded_url": "https://x.com/Snow_Xue_/status/2031601916510441956/photo/1",
+              "media_key": "3_2031601907991719938",
+              "start": 27,
+              "url": "https://t.co/mq4Id7QxTg"
+            },
+            {
+              "display_url": "pic.x.com/mq4Id7QxTg",
+              "end": 50,
+              "expanded_url": "https://x.com/Snow_Xue_/status/2031601916510441956/photo/1",
+              "media_key": "3_2031601907932999685",
+              "start": 27,
+              "url": "https://t.co/mq4Id7QxTg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031601916510441956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1073,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人生的第一盒pr！虽然快递那个包装有点雷霆就是了（） https://t.co/mq4Id7QxTg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "enby,her/they,kpop,激女粉红点进就死\n*・x・*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041811823687823360/QQkkR0z6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 607,
+          "like_count": 8118,
+          "listed_count": 1,
+          "media_count": 522,
+          "tweet_count": 5079
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-31T02:32:51.000Z",
+        "description": "| 普通的上海入 | hrt2025.11 🍥 | 生产日期 2010.3.16 | 家长不管党 → 家长党+od不管党 | 割过手，现在不割了 | o！长在春风中，活在药效里。这是最好的，也是唯一获得快乐的方式了 |",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/snow_xue_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/snow_xue_",
+                "start": 0,
+                "url": "https://t.co/UJzajXA6Cp"
+              }
+            ]
+          }
+        },
+        "id": "1885154179922227200",
+        "location": "上海",
+        "name": "雪🍥",
+        "pinned_tweet_id": "2042285525139357819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014003117520748544/Yng-qPnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2055,
+          "following_count": 1382,
+          "like_count": 48239,
+          "listed_count": 3,
+          "media_count": 714,
+          "tweet_count": 5088
+        },
+        "url": "https://t.co/UJzajXA6Cp",
+        "username": "Snow_Xue_",
+        "verified": false
+      }
+    ]
+  }
+}

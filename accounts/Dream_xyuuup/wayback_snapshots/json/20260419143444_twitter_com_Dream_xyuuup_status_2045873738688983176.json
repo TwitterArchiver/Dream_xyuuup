@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "2045766665711886696",
+    "created_at": "2026-04-19T14:34:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T15:34:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045873738688983176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1867567506581598208",
+          "start": 0,
+          "username": "freequan2025"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045873738688983176",
+    "in_reply_to_user_id": "1867567506581598208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045766665711886696",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@freequan2025 姐姐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045766651434389506",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGQF7jgWUAIJSV7.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "2045766665711886696",
+        "created_at": "2026-04-19T14:34:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T15:34:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045873738688983176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1867567506581598208",
+              "start": 0,
+              "username": "freequan2025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045873738688983176",
+        "in_reply_to_user_id": "1867567506581598208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045766665711886696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@freequan2025 姐姐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045766651434389506"
+          ]
+        },
+        "author_id": "1867567506581598208",
+        "conversation_id": "2045766665711886696",
+        "created_at": "2026-04-19T07:29:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T08:29:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045766665711886696"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IAu3208ic7",
+              "end": 45,
+              "expanded_url": "https://x.com/freequan2025/status/2045766665711886696/photo/1",
+              "media_key": "3_2045766651434389506",
+              "start": 22,
+              "url": "https://t.co/IAu3208ic7"
+            },
+            {
+              "display_url": "x.com/xuangu56983/st…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/xuangu56983/status/2045760141900009526",
+              "start": 46,
+              "url": "https://t.co/dBxZK8nWvr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045766665711886696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2548,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045760141900009526",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "单纯用抖音拍长这样🥺（感觉还是有点美颜了） https://t.co/IAu3208ic7 https://t.co/dBxZK8nWvr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "enby,her/they,kpop,激女粉红点进就死\n*・x・*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "弈鸠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041811823687823360/QQkkR0z6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 604,
+          "like_count": 8089,
+          "listed_count": 1,
+          "media_count": 515,
+          "tweet_count": 5014
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-13T13:49:36.000Z",
+        "description": "不建政！/16岁🥺/高中生/每天都很劳累🥲/友好交流哦🥺/欢迎交友/互fo查成分（正常账号和能友好交流的会fo\n我的猫猫🐱@vicoOci_Olvidar @mengqing5208",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 61,
+                "username": "vicoOci_Olvidar"
+              },
+              {
+                "end": 91,
+                "start": 78,
+                "username": "mengqing5208"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/freequan20252",
+                "end": 23,
+                "expanded_url": "https://ngl.link/freequan20252",
+                "start": 0,
+                "url": "https://t.co/aBNInYwL9K"
+              }
+            ]
+          }
+        },
+        "id": "1867567506581598208",
+        "location": "幸福之地",
+        "name": "自由的权😇🏳️‍⚧️",
+        "pinned_tweet_id": "1904145995153228009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923572385174765570/zUr7IrOv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1677,
+          "following_count": 1249,
+          "like_count": 8308,
+          "listed_count": 7,
+          "media_count": 162,
+          "tweet_count": 6871
+        },
+        "url": "https://t.co/aBNInYwL9K",
+        "username": "freequan2025",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "2008119283382210802",
+    "created_at": "2026-01-05T10:12:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T11:12:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008119283382210802"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/vodkakks/statu…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/vodkakks/status/2007852079675584999",
+          "start": 5,
+          "url": "https://t.co/cJte5dVabW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008119283382210802",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007852079675584999",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好想吃。 https://t.co/cJte5dVabW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2007852064915816449",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G91S0KLXgAEkNDs.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "2008119283382210802",
+        "created_at": "2026-01-05T10:12:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T11:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008119283382210802"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/vodkakks/statu…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/vodkakks/status/2007852079675584999",
+              "start": 5,
+              "url": "https://t.co/cJte5dVabW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008119283382210802",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007852079675584999",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好想吃。 https://t.co/cJte5dVabW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007852064915816449"
+          ]
+        },
+        "author_id": "1347596361953263616",
+        "conversation_id": "2007852079675584999",
+        "created_at": "2026-01-04T16:30:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T17:30:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007852079675584999"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zmvGG2UN4c",
+              "end": 26,
+              "expanded_url": "https://x.com/vodkakks/status/2007852079675584999/photo/1",
+              "media_key": "3_2007852064915816449",
+              "start": 3,
+              "url": "https://t.co/zmvGG2UN4c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007852079675584999",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 758,
+          "impression_count": 75205,
+          "like_count": 12526,
+          "quote_count": 37,
+          "reply_count": 46,
+          "retweet_count": 974
+        },
+        "reply_settings": "everyone",
+        "text": "舒服 https://t.co/zmvGG2UN4c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "你能想到的坏习惯我都有",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998066182315020289/_eUXKzgo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 600,
+          "like_count": 7971,
+          "listed_count": 1,
+          "media_count": 476,
+          "tweet_count": 4423
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-08T17:29:56.000Z",
+        "description": "我叫阿卡 不喜欢男的不喜欢女的喜欢钱",
+        "id": "1347596361953263616",
+        "location": "🚪288/520/1314/5200",
+        "name": "Mark of Cain",
+        "pinned_tweet_id": "2007754278417666470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776748368695300096/tiufKMSs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4472,
+          "following_count": 220,
+          "like_count": 272,
+          "listed_count": 2,
+          "media_count": 120,
+          "tweet_count": 523
+        },
+        "username": "vodkakks",
+        "verified": false
+      }
+    ]
+  }
+}

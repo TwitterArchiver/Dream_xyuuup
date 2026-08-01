@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1981965966839103619",
+    "created_at": "2025-10-25T09:24:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T10:24:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982015407755301210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1859486191281897477",
+          "start": 0,
+          "username": "liveDeath750122"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982015407755301210",
+    "in_reply_to_user_id": "1859486191281897477",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981965966839103619",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liveDeath750122 羡慕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 943,
+        "media_key": "3_1981965944239820800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Fbhn9WEAAJTta.jpg",
+        "width": 1260
+      },
+      {
+        "height": 701,
+        "media_key": "3_1981965944386711553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4FbhogXcAEfu81.jpg",
+        "width": 1260
+      },
+      {
+        "height": 705,
+        "media_key": "3_1981965944697020416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4FbhpqWYAAVugj.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1981965966839103619",
+        "created_at": "2025-10-25T09:24:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T10:24:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982015407755301210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1859486191281897477",
+              "start": 0,
+              "username": "liveDeath750122"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982015407755301210",
+        "in_reply_to_user_id": "1859486191281897477",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981965966839103619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liveDeath750122 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981965944239820800",
+            "3_1981965944386711553",
+            "3_1981965944697020416"
+          ]
+        },
+        "author_id": "1859486191281897477",
+        "conversation_id": "1981965966839103619",
+        "created_at": "2025-10-25T06:08:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T07:08:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981965966839103619"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FLhuRc5i72",
+              "end": 88,
+              "expanded_url": "https://x.com/liveDeath750122/status/1981965966839103619/photo/1",
+              "media_key": "3_1981965944239820800",
+              "start": 65,
+              "url": "https://t.co/FLhuRc5i72"
+            },
+            {
+              "display_url": "pic.x.com/FLhuRc5i72",
+              "end": 88,
+              "expanded_url": "https://x.com/liveDeath750122/status/1981965966839103619/photo/1",
+              "media_key": "3_1981965944386711553",
+              "start": 65,
+              "url": "https://t.co/FLhuRc5i72"
+            },
+            {
+              "display_url": "pic.x.com/FLhuRc5i72",
+              "end": 88,
+              "expanded_url": "https://x.com/liveDeath750122/status/1981965966839103619/photo/1",
+              "media_key": "3_1981965944697020416",
+              "start": 65,
+              "url": "https://t.co/FLhuRc5i72"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981965966839103619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 114,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小时候家里很穷\n经常去药店买最便宜的愈美片吃\n我经常吃的头昏脑胀\n也是因为这个原因使我后来很能嗑苦药\n我把这称为贫穷带给我的礼物 https://t.co/FLhuRc5i72"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "我自私，病态，阴暗，偏执。所有大度、不在乎都是我的伪装。我窥探你的生活，揣测你的文案，解读你分享的一切，观察你身边的人，盯着你的照片妄想找到蛛丝马迹。我敏感，善变多疑，斤斤计较你多看别人的一眼。我爱你，你本来就应该乖乖待在我身边。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1953828269977219114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 581,
+          "like_count": 7259,
+          "listed_count": 1,
+          "media_count": 447,
+          "tweet_count": 4004
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-21T06:37:55.000Z",
+        "description": "文章写尽太平事  不肯俯首见苍生\n小鱼小鱼快快游  四面八方皆牢笼\n.15岁的贱奴 男",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tardis.fandom.com/wiki/Doctor_Wh…",
+                "end": 23,
+                "expanded_url": "https://tardis.fandom.com/wiki/Doctor_Who_Wiki",
+                "start": 0,
+                "url": "https://t.co/rPBfjngqOq"
+              }
+            ]
+          }
+        },
+        "id": "1859486191281897477",
+        "location": "Unified Intelligence Taskforce",
+        "name": "livefodeath/杀了你们",
+        "pinned_tweet_id": "1944000381773918624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916008497835347971/uPSkMaTG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1807,
+          "following_count": 465,
+          "like_count": 19260,
+          "listed_count": 3,
+          "media_count": 670,
+          "tweet_count": 6604
+        },
+        "url": "https://t.co/rPBfjngqOq",
+        "username": "liveDeath750122",
+        "verified": false
+      }
+    ]
+  }
+}

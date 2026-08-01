@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1939977653852762401",
+    "created_at": "2025-07-02T02:48:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T03:48:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940241119297904833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1595110379851419648",
+          "start": 0,
+          "username": "XiaoBa1966"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940241119297904833",
+    "in_reply_to_user_id": "1595110379851419648",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939977653852762401",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaoBa1966 8964"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1939977332850073601",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuwvGxTWoAEjsaf.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1440,
+        "media_key": "3_1939977333244313600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuwvGyxWQAAVM17.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1939977653852762401",
+        "created_at": "2025-07-02T02:48:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T03:48:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940241119297904833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1595110379851419648",
+              "start": 0,
+              "username": "XiaoBa1966"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940241119297904833",
+        "in_reply_to_user_id": "1595110379851419648",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939977653852762401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoBa1966 8964"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939977332850073601",
+            "3_1939977333244313600"
+          ]
+        },
+        "author_id": "1595110379851419648",
+        "conversation_id": "1939977653852762401",
+        "created_at": "2025-07-01T09:21:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T10:21:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939977653852762401"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o4I8Xm0VEY",
+              "end": 23,
+              "expanded_url": "https://x.com/XiaoBa1966/status/1939977653852762401/photo/1",
+              "media_key": "3_1939977332850073601",
+              "start": 0,
+              "url": "https://t.co/o4I8Xm0VEY"
+            },
+            {
+              "display_url": "pic.x.com/o4I8Xm0VEY",
+              "end": 23,
+              "expanded_url": "https://x.com/XiaoBa1966/status/1939977653852762401/photo/1",
+              "media_key": "3_1939977333244313600",
+              "start": 0,
+              "url": "https://t.co/o4I8Xm0VEY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939977653852762401",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 45358,
+          "like_count": 370,
+          "quote_count": 7,
+          "reply_count": 54,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/o4I8Xm0VEY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "yì jīu｜喜欢做梦｜我觉得我很温柔。｜可爱的人@QLing61007",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933432998864826371/0SiPerD5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 502,
+          "like_count": 6047,
+          "listed_count": 0,
+          "media_count": 318,
+          "tweet_count": 2841
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-22T17:42:28.000Z",
+        "description": "彻底的唯物主义者是无所畏惧的。在科学上面是没有平坦的大路可走的，只有那在崎岖小路的攀登上不畏劳苦的人，有希望到达光辉的顶点。",
+        "id": "1595110379851419648",
+        "name": "RedEcho",
+        "pinned_tweet_id": "1920468658087698477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936473464333819904/l_tYvpvI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1741,
+          "following_count": 52,
+          "like_count": 2943,
+          "listed_count": 7,
+          "media_count": 461,
+          "tweet_count": 1689
+        },
+        "username": "XiaoBa1966",
+        "verified": false
+      }
+    ]
+  }
+}

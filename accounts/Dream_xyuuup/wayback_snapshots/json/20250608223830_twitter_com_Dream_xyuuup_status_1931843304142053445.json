@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1931791127256129619",
+    "created_at": "2025-06-08T22:38:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T23:38:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931843304142053445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1908668668919398400",
+          "start": 0,
+          "username": "HoshikawaNF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931843304142053445",
+    "in_reply_to_user_id": "1908668668919398400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931791127256129619",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HoshikawaNF 生日快乐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2796,
+        "media_key": "3_1931791114849374208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs8ZyKzaUAASijt.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1931791127256129619",
+        "created_at": "2025-06-08T22:38:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T23:38:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931843304142053445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1908668668919398400",
+              "start": 0,
+              "username": "HoshikawaNF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931843304142053445",
+        "in_reply_to_user_id": "1908668668919398400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931791127256129619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HoshikawaNF 生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931791114849374208"
+          ]
+        },
+        "author_id": "1908668668919398400",
+        "conversation_id": "1931791127256129619",
+        "created_at": "2025-06-08T19:11:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T20:11:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931791127256129619"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HrmPlhxvOQ",
+              "end": 23,
+              "expanded_url": "https://x.com/HoshikawaNF/status/1931791127256129619/photo/1",
+              "media_key": "3_1931791114849374208",
+              "start": 0,
+              "url": "https://t.co/HrmPlhxvOQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931791127256129619",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 127,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/HrmPlhxvOQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "偏远乡村学校在读 我应该不会再影响别人了 接下来有一个event 成分复杂 对所有人友好除了现生 最可爱的小宝宝@QLing61007 😽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 56,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "想回到家乡，我不要在这个冰冷无情的医院里了，我是健全的弈鸠",
+        "pinned_tweet_id": "1931176332370813214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924678380655673348/VxgKyXwf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 461,
+          "like_count": 5135,
+          "listed_count": 0,
+          "media_count": 253,
+          "tweet_count": 2303
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-05T23:50:54.000Z",
+        "description": "“必ず、生き返るだろう。”| カルト関係者(NHKも)🚫|🚹10代|‼️私の国籍は質問（推測）しないでください‼️|とても大切の人@chaox1220_2nd🥰|📬DMは相互フォロー/プレミアムアカウントのみが送信できます。#あつ森 #音ゲー #プロセカ🇺🇦 🇯🇵🤝🇨🇳",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 116,
+                "start": 112,
+                "tag": "あつ森"
+              },
+              {
+                "end": 121,
+                "start": 117,
+                "tag": "音ゲー"
+              },
+              {
+                "end": 127,
+                "start": 122,
+                "tag": "プロセカ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 79,
+                "start": 65,
+                "username": "chaox1220_2nd"
+              }
+            ]
+          }
+        },
+        "id": "1908668668919398400",
+        "name": "𝑯𝒐𝒔𝒉𝒊𝒌𝒂𝒘𝒂 𝑺.",
+        "pinned_tweet_id": "1918514527236440407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930054160352980994/HrCSu2b__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 1350,
+          "like_count": 468,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 1101
+        },
+        "username": "HoshikawaNF",
+        "verified": true
+      }
+    ]
+  }
+}

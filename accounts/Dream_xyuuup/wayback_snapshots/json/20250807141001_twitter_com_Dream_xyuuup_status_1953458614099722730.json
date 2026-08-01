@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1953384274763124930",
+    "created_at": "2025-08-07T14:10:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T15:10:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953458614099722730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1811057149805834241",
+          "start": 0,
+          "username": "Tarimarl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953458614099722730",
+    "in_reply_to_user_id": "1811057149805834241",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953384274763124930",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tarimarl 听歌"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1953384274763124930].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1953384274763124930",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1953384274763124930"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1953384274763124930",
+        "created_at": "2025-08-07T14:10:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T15:10:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953458614099722730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1811057149805834241",
+              "start": 0,
+              "username": "Tarimarl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953458614099722730",
+        "in_reply_to_user_id": "1811057149805834241",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953384274763124930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tarimarl 听歌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "yì jīu｜不知道什么圈子，谢谢你的喜欢我也喜欢你喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 541,
+          "like_count": 6683,
+          "listed_count": 0,
+          "media_count": 385,
+          "tweet_count": 3375
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T15:17:40.000Z",
+        "description": "一般高中生 | 性别是沃尔玛塑料袋 | 可以叫我小T/Ta一串字母巴拉巴拉 | 喜欢温柔聪明有趣的人 | 不吵架，不鉴证 | 什么都懂一点",
+        "id": "1811057149805834241",
+        "location": "✟​Heaven✟",
+        "name": "Tarimar",
+        "pinned_tweet_id": "1950150968143671410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949484166711771136/ud5gOPeC_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 518,
+          "like_count": 8037,
+          "listed_count": 1,
+          "media_count": 253,
+          "tweet_count": 2225
+        },
+        "username": "Tarimarl",
+        "verified": false
+      }
+    ]
+  }
+}

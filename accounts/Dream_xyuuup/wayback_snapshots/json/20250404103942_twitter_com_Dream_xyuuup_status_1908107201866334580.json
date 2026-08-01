@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1908107201866334580",
+    "created_at": "2025-04-04T10:39:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-04T11:39:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908107201866334580"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 14,
+          "tag": "推油情况通报"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1690570637499154432",
+          "start": 3,
+          "username": "saonanaa"
+        },
+        {
+          "end": 36,
+          "id": "1888192531277737984",
+          "start": 22,
+          "username": "small_fun8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908107201866334580",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908106399583805475",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @saonanaa: #推油情况通报\n@small_fun8964 账号被封"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [small_fun8964].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "small_fun8964",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "small_fun8964"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1908107201866334580",
+        "created_at": "2025-04-04T10:39:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T11:39:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908107201866334580"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 14,
+              "tag": "推油情况通报"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1690570637499154432",
+              "start": 3,
+              "username": "saonanaa"
+            },
+            {
+              "end": 36,
+              "id": "1888192531277737984",
+              "start": 22,
+              "username": "small_fun8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908107201866334580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908106399583805475",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @saonanaa: #推油情况通报\n@small_fun8964 账号被封"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690570637499154432",
+        "conversation_id": "1908106399583805475",
+        "created_at": "2025-04-04T10:36:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T11:36:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908106399583805475"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "推油情况通报"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 22,
+              "id": "1888192531277737984",
+              "start": 8,
+              "username": "small_fun8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908106399583805475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#推油情况通报\n@small_fun8964 账号被封"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "对所有人温良除了现生",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dreamxy_uuup",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dreamxy_uuup",
+                "start": 0,
+                "url": "https://t.co/V4QSiptJcT"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠ltnh（未来最厉害的数学家数学满分版😋）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905913123158298624/ClLLrGxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 296,
+          "like_count": 2758,
+          "listed_count": 2,
+          "media_count": 141,
+          "tweet_count": 1178
+        },
+        "url": "https://t.co/V4QSiptJcT",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T03:47:17.000Z",
+        "description": "Infinite Circle:个人账号，个人发推。",
+        "id": "1690570637499154432",
+        "location": "🌏 Chine",
+        "name": "Zhi Wei",
+        "pinned_tweet_id": "1907962129485066495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896199576690040832/gvpmueaX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2678,
+          "following_count": 312,
+          "like_count": 19117,
+          "listed_count": 14,
+          "media_count": 1081,
+          "tweet_count": 10256
+        },
+        "username": "saonanaa",
+        "verified": true
+      }
+    ]
+  }
+}

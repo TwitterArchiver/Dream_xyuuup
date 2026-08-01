@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1893241584994463794",
+    "created_at": "2025-02-22T10:09:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-22T11:09:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1893241584994463794"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Image DD84F3C0-5F97-40B3-BB18-E3553752CAC4 hosted in ImgBB",
+          "display_url": "ibb.co/CpHc1DCP",
+          "end": 42,
+          "expanded_url": "https://ibb.co/CpHc1DCP",
+          "start": 19,
+          "status": 200,
+          "title": "DD84F3C0-5F97-40B3-BB18-E3553752CAC4 hosted at ImgBB",
+          "unwound_url": "https://ibb.co/CpHc1DCP",
+          "url": "https://t.co/El6ub9MUBf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893241584994463794",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你们可以助力我买杂志哦我会叫你们妈妈\nhttps://t.co/El6ub9MUBf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1893241584994463794",
+        "created_at": "2025-02-22T10:09:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T11:09:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893241584994463794"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Image DD84F3C0-5F97-40B3-BB18-E3553752CAC4 hosted in ImgBB",
+              "display_url": "ibb.co/CpHc1DCP",
+              "end": 42,
+              "expanded_url": "https://ibb.co/CpHc1DCP",
+              "start": 19,
+              "status": 200,
+              "title": "DD84F3C0-5F97-40B3-BB18-E3553752CAC4 hosted at ImgBB",
+              "unwound_url": "https://ibb.co/CpHc1DCP",
+              "url": "https://t.co/El6ub9MUBf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893241584994463794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们可以助力我买杂志哦我会叫你们妈妈\nhttps://t.co/El6ub9MUBf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "这是一本日记 可以把我视为现充 喜欢视奸#喵斯#有三次偶像#ISFP#🏳️‍🌈0.5",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dreamxy_uuup",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dreamxy_uuup",
+                "start": 0,
+                "url": "https://t.co/V4QSiptJcT"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠ltnh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892121675938004992/fWCivcy4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 78,
+          "like_count": 184,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 85
+        },
+        "url": "https://t.co/V4QSiptJcT",
+        "username": "Dream_xyuuup",
+        "verified": false
+      }
+    ]
+  }
+}

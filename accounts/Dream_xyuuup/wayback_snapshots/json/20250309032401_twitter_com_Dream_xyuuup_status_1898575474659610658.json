@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1898571939213656568",
+    "created_at": "2025-03-09T03:24:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T04:24:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898575474659610658"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1751584887738716160",
+          "start": 0,
+          "username": "yekatinez"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898575474659610658",
+    "in_reply_to_user_id": "1751584887738716160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898571939213656568",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yekatinez 霸榜多少天了都，制作成本甚至比不上营销成本"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1898571939213656568",
+        "created_at": "2025-03-09T03:24:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T04:24:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898575474659610658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1751584887738716160",
+              "start": 0,
+              "username": "yekatinez"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898575474659610658",
+        "in_reply_to_user_id": "1751584887738716160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898571939213656568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yekatinez 霸榜多少天了都，制作成本甚至比不上营销成本"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751584887738716160",
+        "conversation_id": "1898571939213656568",
+        "created_at": "2025-03-09T03:09:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T04:09:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898571939213656568"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1898571939213656568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跳楼机排热门第一也是没话说了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "这是一本日记 喜欢视奸 互fo请赞自介条",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dreamxy_uuup",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dreamxy_uuup",
+                "start": 0,
+                "url": "https://t.co/V4QSiptJcT"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠ltnh",
+        "pinned_tweet_id": "1898320029139214432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896250221824520192/PpwkphAn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 120,
+          "like_count": 611,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 323
+        },
+        "url": "https://t.co/V4QSiptJcT",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-28T12:36:02.000Z",
+        "description": "可以叫我ee或小怜/普通死宅/初二在读/查成分回fo/互fo私信/眼熟可以加联络方式/任何极端NG/下方提问箱/逃生舱@emiri7_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 59,
+                "username": "emiri7_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/emiri94987",
+                "end": 23,
+                "expanded_url": "https://ngl.link/emiri94987",
+                "start": 0,
+                "url": "https://t.co/DgJxSjpQev"
+              }
+            ]
+          }
+        },
+        "id": "1751584887738716160",
+        "location": "Shanghai",
+        "name": "emrio",
+        "pinned_tweet_id": "1884115787520303208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888850145586077696/3vqPS32b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 275,
+          "like_count": 684,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 571
+        },
+        "url": "https://t.co/DgJxSjpQev",
+        "username": "yekatinez",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1932462953929871668",
+    "created_at": "2025-06-11T02:48:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T03:48:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932630878188154961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1705758552395255808",
+          "start": 0,
+          "username": "04lizzz1121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932630878188154961",
+    "in_reply_to_user_id": "1705758552395255808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932462953929871668",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@04lizzz1121 减少焦虑…."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 690,
+        "media_key": "3_1932462949253226497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtF80E_XoAE-PGI.jpg",
+        "width": 692
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1932462953929871668",
+        "created_at": "2025-06-11T02:48:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T03:48:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932630878188154961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1705758552395255808",
+              "start": 0,
+              "username": "04lizzz1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932630878188154961",
+        "in_reply_to_user_id": "1705758552395255808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932462953929871668",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@04lizzz1121 减少焦虑…."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932462949253226497"
+          ]
+        },
+        "author_id": "1705758552395255808",
+        "conversation_id": "1932462953929871668",
+        "created_at": "2025-06-10T15:40:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T16:40:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932462953929871668"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2SQUpDL5nH",
+              "end": 70,
+              "expanded_url": "https://x.com/04lizzz1121/status/1932462953929871668/photo/1",
+              "media_key": "3_1932462949253226497",
+              "start": 47,
+              "url": "https://t.co/2SQUpDL5nH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932462953929871668",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我喜欢一个人我都会感觉到尴尬 想自己长的丑 还有会感觉他身边人怎么想 我还是太把自己当个物了 https://t.co/2SQUpDL5nH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "偏远乡村学校在读 重抑中焦 偶尔od歌手 接下来有一个event 成分复杂爱看棒子 对所有人友好 最可爱的小宝宝@QLing61007 😽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 56,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1931176332370813214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932410719250808832/fkyl4o1f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 462,
+          "like_count": 5203,
+          "listed_count": 0,
+          "media_count": 258,
+          "tweet_count": 2354
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-24T01:38:32.000Z",
+        "description": "互fo置顶留言或者私信/我说的全是废话不要骂我啊！",
+        "id": "1705758552395255808",
+        "location": "wony✩oung",
+        "name": "sion",
+        "pinned_tweet_id": "1923782210135454043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932374847176245248/FyMqc677_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 416,
+          "like_count": 3702,
+          "listed_count": 0,
+          "media_count": 674,
+          "tweet_count": 4388
+        },
+        "username": "04lizzz1121",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1951638465075990784",
+    "created_at": "2025-08-02T13:37:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-02T14:37:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1951638465075990784"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dream_xyuuup/s…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/dream_xyuuup/status/1936272964829524349",
+          "start": 11,
+          "url": "https://t.co/YHlIgZsfMC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951638465075990784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936272964829524349",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我操宝宝你真是个骚逼 https://t.co/YHlIgZsfMC"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1936272964829524349].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1936272964829524349",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1936272964829524349"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1951638465075990784",
+        "created_at": "2025-08-02T13:37:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T14:37:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951638465075990784"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dream_xyuuup/s…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/dream_xyuuup/status/1936272964829524349",
+              "start": 11,
+              "url": "https://t.co/YHlIgZsfMC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951638465075990784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936272964829524349",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我操宝宝你真是个骚逼 https://t.co/YHlIgZsfMC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "yì jīu｜不知道什么圈子，谢谢你的喜欢我也喜欢你喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 543,
+          "like_count": 6653,
+          "listed_count": 0,
+          "media_count": 370,
+          "tweet_count": 3289
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      }
+    ]
+  }
+}

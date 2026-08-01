@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1960660946302722562",
+    "created_at": "2025-08-27T12:15:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T13:15:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960677664773304413"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1893332752000524290",
+          "start": 0,
+          "username": "StarryCloud1123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960677664773304413",
+    "in_reply_to_user_id": "1893332752000524290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960660946302722562",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@StarryCloud1123 还没上w6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1960660946302722562",
+        "created_at": "2025-08-27T12:15:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T13:15:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960677664773304413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1893332752000524290",
+              "start": 0,
+              "username": "StarryCloud1123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960677664773304413",
+        "in_reply_to_user_id": "1893332752000524290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960660946302722562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@StarryCloud1123 还没上w6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893332752000524290",
+        "conversation_id": "1960660946302722562",
+        "created_at": "2025-08-27T11:09:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T12:09:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960660946302722562"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1960660946302722562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 160,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "我怎么还不死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "yì jīu｜谢谢你喜欢我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1953828269977219114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 554,
+          "like_count": 6834,
+          "listed_count": 1,
+          "media_count": 413,
+          "tweet_count": 3632
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T16:11:34.000Z",
+        "description": "山高水长，愿你我共赴星辰大海/理科高三/辽宁沈阳/福瑞控/生理男取向男/舟/9/mai/arc/pjsk/不友跨/笨蛋@blueicesama/里推…？/生活碎片@ciallo11491",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 59,
+                "username": "blueicesama"
+              },
+              {
+                "end": 93,
+                "start": 81,
+                "username": "ciallo11491"
+              }
+            ]
+          }
+        },
+        "id": "1893332752000524290",
+        "name": "灿云SCloud🔜Sleeping",
+        "pinned_tweet_id": "1946153355644113174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949882186582413316/UL0iLfsa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3186,
+          "following_count": 1256,
+          "like_count": 24463,
+          "listed_count": 3,
+          "media_count": 103,
+          "tweet_count": 1434
+        },
+        "username": "StarryCloud1123",
+        "verified": false
+      }
+    ]
+  }
+}

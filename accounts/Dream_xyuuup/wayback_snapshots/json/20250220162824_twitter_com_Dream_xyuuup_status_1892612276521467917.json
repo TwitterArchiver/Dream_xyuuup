@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1892612265766944768"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "1892612276521467917",
+    "created_at": "2025-02-20T16:28:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-20T17:28:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1892612276521467917"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Hc752X8jVE",
+          "end": 31,
+          "expanded_url": "https://x.com/Dream_xyuuup/status/1892612276521467917/photo/1",
+          "media_key": "3_1892612265766944768",
+          "start": 8,
+          "url": "https://t.co/Hc752X8jVE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892612276521467917",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "只长了半边脸😌 https://t.co/Hc752X8jVE"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1892612276521467917].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1892612276521467917",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1892612276521467917"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1892612265766944768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkPo1AaWAAALTx3.jpg",
+        "width": 1538
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "这是一本日记 可以把我视为现充 喜欢视奸#喵斯#有三次偶像#INFP#🏳️‍🌈0.5",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dreamxy_uuup",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dreamxy_uuup",
+                "start": 0,
+                "url": "https://t.co/V4QSiptJcT"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠ltnh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892121675938004992/fWCivcy4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 57,
+          "like_count": 139,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 49
+        },
+        "url": "https://t.co/V4QSiptJcT",
+        "username": "Dream_xyuuup",
+        "verified": false
+      }
+    ]
+  }
+}

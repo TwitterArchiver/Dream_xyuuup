@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "2053344788917948894",
+    "created_at": "2026-05-10T05:22:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T06:22:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053344788917948894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1811265295849598976",
+          "start": 3,
+          "username": "KiraMyao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/article/2053…",
+          "end": 37,
+          "expanded_url": "http://x.com/i/article/2053197510462836736",
+          "start": 14,
+          "status": 500,
+          "unwound_url": "https://x.com/i/article/2053197510462836736",
+          "url": "https://t.co/uqLe9tVwdf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053344788917948894",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053226108011925788",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KiraMyao: https://t.co/uqLe9tVwdf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "2053344788917948894",
+        "created_at": "2026-05-10T05:22:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T06:22:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053344788917948894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1811265295849598976",
+              "start": 3,
+              "username": "KiraMyao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2053…",
+              "end": 37,
+              "expanded_url": "http://x.com/i/article/2053197510462836736",
+              "start": 14,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2053197510462836736",
+              "url": "https://t.co/uqLe9tVwdf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053344788917948894",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053226108011925788",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KiraMyao: https://t.co/uqLe9tVwdf"
+      },
+      {
+        "article": {
+          "title": "重生：一只猫的1岁生日"
+        },
+        "attachments": {},
+        "author_id": "1811265295849598976",
+        "conversation_id": "2053226108011925788",
+        "created_at": "2026-05-09T21:30:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T22:30:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053226108011925788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2053…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2053197510462836736",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2053197510462836736",
+              "url": "https://t.co/uqLe9tVwdf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053226108011925788",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 653,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/uqLe9tVwdf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "弈鸠，是谁？\nmtx,her/they,激女粉红点进就死\n*・x・*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "脚踩你爷爷登顶称王",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052421075716505600/5gcoclAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 629,
+          "like_count": 8315,
+          "listed_count": 1,
+          "media_count": 579,
+          "tweet_count": 5717
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-11T05:04:57.000Z",
+        "description": "KiraMyao🌎きらみゃお🌏星绮喵                                      \n  \nTech💾 meme👻 Equal❤️\n\nUnderstand risk. Move through it.😡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "equal.kiramayo.dpdns.org",
+                "end": 23,
+                "expanded_url": "https://equal.kiramayo.dpdns.org",
+                "start": 0,
+                "url": "https://t.co/HY2O2A4Kqa"
+              }
+            ]
+          }
+        },
+        "id": "1811265295849598976",
+        "location": "Japan",
+        "name": "KiraMyao🐱",
+        "pinned_tweet_id": "2043007235786445150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050442466428616704/Cd6JwXLB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1076,
+          "following_count": 355,
+          "like_count": 9590,
+          "listed_count": 3,
+          "media_count": 374,
+          "tweet_count": 1514
+        },
+        "url": "https://t.co/HY2O2A4Kqa",
+        "username": "KiraMyao",
+        "verified": true
+      }
+    ]
+  }
+}

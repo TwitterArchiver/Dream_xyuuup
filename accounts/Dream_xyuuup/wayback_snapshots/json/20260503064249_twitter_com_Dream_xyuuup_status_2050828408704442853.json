@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "2050827081190363562",
+    "created_at": "2026-05-03T06:42:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T07:42:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050828408704442853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1866050038088024064",
+          "start": 0,
+          "username": "123456wwerr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050828408704442853",
+    "in_reply_to_user_id": "1866050038088024064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050827081190363562",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@123456wwerr 借一下烟斗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050826884662140928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHYAL5QboAAmN00.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2050826893868621824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHYAMbjbYAA-rqP.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2050826893860155395",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHYAMbhaMAMaKQG.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2050826893868544002",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHYAMbjaMAIdqCQ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "2050827081190363562",
+        "created_at": "2026-05-03T06:42:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T07:42:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050828408704442853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1866050038088024064",
+              "start": 0,
+              "username": "123456wwerr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050828408704442853",
+        "in_reply_to_user_id": "1866050038088024064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050827081190363562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@123456wwerr 借一下烟斗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050826884662140928",
+            "3_2050826893868621824",
+            "3_2050826893860155395",
+            "3_2050826893868544002"
+          ]
+        },
+        "author_id": "1866050038088024064",
+        "conversation_id": "2050827081190363562",
+        "created_at": "2026-05-03T06:37:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T07:37:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050827081190363562"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zawjVJpCpd",
+              "end": 23,
+              "expanded_url": "https://x.com/123456wwerr/status/2050827081190363562/photo/1",
+              "media_key": "3_2050826884662140928",
+              "start": 0,
+              "url": "https://t.co/zawjVJpCpd"
+            },
+            {
+              "display_url": "pic.x.com/zawjVJpCpd",
+              "end": 23,
+              "expanded_url": "https://x.com/123456wwerr/status/2050827081190363562/photo/1",
+              "media_key": "3_2050826893868621824",
+              "start": 0,
+              "url": "https://t.co/zawjVJpCpd"
+            },
+            {
+              "display_url": "pic.x.com/zawjVJpCpd",
+              "end": 23,
+              "expanded_url": "https://x.com/123456wwerr/status/2050827081190363562/photo/1",
+              "media_key": "3_2050826893860155395",
+              "start": 0,
+              "url": "https://t.co/zawjVJpCpd"
+            },
+            {
+              "display_url": "pic.x.com/zawjVJpCpd",
+              "end": 23,
+              "expanded_url": "https://x.com/123456wwerr/status/2050827081190363562/photo/1",
+              "media_key": "3_2050826893868544002",
+              "start": 0,
+              "url": "https://t.co/zawjVJpCpd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050827081190363562",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/zawjVJpCpd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "弈鸠，是谁？\nenby,her/they,kpop,激女粉红点进就死\n*・x・*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "脚踩你爷爷登顶称王",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041811823687823360/QQkkR0z6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 615,
+          "like_count": 8248,
+          "listed_count": 1,
+          "media_count": 545,
+          "tweet_count": 5399
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-09T09:19:43.000Z",
+        "description": "悲观主义者，重度抑郁（非常严重），自闭症，中度焦虑，没有逻辑，没有情商和口才，高强度玩游戏看动漫小说脱离社会太久\n经常找我聊天的朋友@bazhuayu98808\n@ningmeng______",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 66,
+                "username": "bazhuayu98808"
+              },
+              {
+                "end": 96,
+                "start": 81,
+                "username": "ningmeng______"
+              }
+            ]
+          }
+        },
+        "id": "1866050038088024064",
+        "location": "Hokkaidō, Japan",
+        "name": "荻原沙优",
+        "pinned_tweet_id": "2007153346533306830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020775111813713921/6QpcftfD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 670,
+          "following_count": 416,
+          "like_count": 123547,
+          "listed_count": 3,
+          "media_count": 730,
+          "tweet_count": 18481
+        },
+        "username": "123456wwerr",
+        "verified": false
+      }
+    ]
+  }
+}

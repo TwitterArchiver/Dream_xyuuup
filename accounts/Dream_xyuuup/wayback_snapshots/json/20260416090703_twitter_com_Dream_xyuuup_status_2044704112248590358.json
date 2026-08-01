@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "2044704112248590358",
+    "created_at": "2026-04-16T09:07:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T10:07:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044704112248590358"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/doragakujp/sta…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/doragakujp/status/2044249365569778113",
+          "start": 26,
+          "url": "https://t.co/j5WKONZEG1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044704112248590358",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044249365569778113",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "卧槽有点恐怖，他咋知道我最近玩了龙卡给我推这个广子 https://t.co/j5WKONZEG1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2043894908239708160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF1flwvbgAAZQ_H.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2043894966192353280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF1fpIoasAAoEk8.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "2044704112248590358",
+        "created_at": "2026-04-16T09:07:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T10:07:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044704112248590358"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/doragakujp/sta…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/doragakujp/status/2044249365569778113",
+              "start": 26,
+              "url": "https://t.co/j5WKONZEG1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044704112248590358",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044249365569778113",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卧槽有点恐怖，他咋知道我最近玩了龙卡给我推这个广子 https://t.co/j5WKONZEG1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043894908239708160",
+            "3_2043894966192353280"
+          ]
+        },
+        "author_id": "1983367740468666368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2044249365569778113",
+        "created_at": "2026-04-15T03:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T04:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044249365569778113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A2xJW33VM6",
+              "end": 135,
+              "expanded_url": "https://x.com/DoragakuJP/status/2044249365569778113/photo/1",
+              "media_key": "3_2043894908239708160",
+              "start": 112,
+              "url": "https://t.co/A2xJW33VM6"
+            },
+            {
+              "display_url": "pic.x.com/A2xJW33VM6",
+              "end": 135,
+              "expanded_url": "https://x.com/DoragakuJP/status/2044249365569778113/photo/1",
+              "media_key": "3_2043894966192353280",
+              "start": 112,
+              "url": "https://t.co/A2xJW33VM6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044249365569778113",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 47470,
+          "like_count": 208,
+          "quote_count": 12,
+          "reply_count": 1,
+          "retweet_count": 72
+        },
+        "reply_settings": "everyone",
+        "text": "📁 カッセル学院ファイル｜プロフィール\n\n名前：チン・ボクドウ（ノノ）\nCV.鬼頭明里\n\n血統レベル：A級\n能力：優れたプロファイリングと射撃能力\n\n――――――――――\n\n「ねぇ、子分になるんでしょ？私が守ってあげる！」 https://t.co/A2xJW33VM6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "mtx,her/they,kpop,激女粉红点进就死\n*・x・*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041811823687823360/QQkkR0z6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 617,
+          "like_count": 8035,
+          "listed_count": 1,
+          "media_count": 505,
+          "tweet_count": 4937
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-29T02:58:24.000Z",
+        "description": "ドラブラ最新作！竜と戦う学院RPG『ドラゴンブラッド：スレイヤーズ学院』公式アカウントです。 \n事前登録受付中：https://t.co/B2I2kgvR6j\n#ドラガク",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 85,
+                "start": 80,
+                "tag": "ドラガク"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "doragaku.archosaur.com",
+                "end": 79,
+                "expanded_url": "https://doragaku.archosaur.com",
+                "start": 56,
+                "url": "https://t.co/B2I2kgvR6j"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/4c8hPKaktH",
+                "end": 23,
+                "expanded_url": "https://discord.gg/4c8hPKaktH",
+                "start": 0,
+                "url": "https://t.co/2lJdmWwTH0"
+              }
+            ]
+          }
+        },
+        "id": "1983367740468666368",
+        "location": "カッセル学院",
+        "name": "ドラゴンブラッド：スレイヤーズ学院 （ドラガク）",
+        "pinned_tweet_id": "2043524580887957864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028744782085042176/eZ-a7Pbf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14293,
+          "following_count": 9,
+          "like_count": 21,
+          "listed_count": 25,
+          "media_count": 40,
+          "tweet_count": 61
+        },
+        "url": "https://t.co/2lJdmWwTH0",
+        "username": "DoragakuJP",
+        "verified": true
+      }
+    ]
+  }
+}

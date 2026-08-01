@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "2007399998703665529",
+    "created_at": "2026-01-03T17:44:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T18:44:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007508288255209975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1697688562207166464",
+          "start": 0,
+          "username": "ZoeL1549168603"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007508288255209975",
+    "in_reply_to_user_id": "1697688562207166464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007399998703665529",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZoeL1549168603 @赵露思工作室 已取证"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "2007399998703665529",
+        "created_at": "2026-01-03T17:44:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T18:44:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007508288255209975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1697688562207166464",
+              "start": 0,
+              "username": "ZoeL1549168603"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007508288255209975",
+        "in_reply_to_user_id": "1697688562207166464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007399998703665529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZoeL1549168603 @赵露思工作室 已取证"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697688562207166464",
+        "conversation_id": "2007399998703665529",
+        "created_at": "2026-01-03T10:33:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T11:33:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007399998703665529"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007399998703665529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 24713,
+          "like_count": 389,
+          "quote_count": 1,
+          "reply_count": 20,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "非常非常讨厌赵露思，这样一个如此没文化没教养，表达能力堪比一根香蕉的人竟然会是一个公众人物，不论平台拉黑屏蔽多少次，依旧在推荐刷到，完全不想看到这种空洞的大脑驱使着四肢的蠢货"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "你能想到的坏习惯我都有",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998066182315020289/_eUXKzgo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 597,
+          "like_count": 7964,
+          "listed_count": 1,
+          "media_count": 475,
+          "tweet_count": 4408
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-01T19:11:23.000Z",
+        "description": "懒得",
+        "id": "1697688562207166464",
+        "location": "天花板",
+        "name": "ZoeL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935514039448166400/_NSE-yfO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4830,
+          "following_count": 32,
+          "like_count": 671,
+          "listed_count": 14,
+          "media_count": 210,
+          "tweet_count": 857
+        },
+        "username": "ZoeL1549168603",
+        "verified": false
+      }
+    ]
+  }
+}

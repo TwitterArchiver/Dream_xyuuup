@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1981272618616644061",
+    "created_at": "2025-10-23T08:12:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T09:12:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1981272618616644061"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xingyezuihaole…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/xingyezuihaole/status/1980598347863060529",
+          "start": 2,
+          "url": "https://t.co/x5guPUIN96"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981272618616644061",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980598347863060529",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "接 https://t.co/x5guPUIN96"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1980598343823679488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3x_szZWYAA1UWT.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1981272618616644061",
+        "created_at": "2025-10-23T08:12:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T09:12:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981272618616644061"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xingyezuihaole…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/xingyezuihaole/status/1980598347863060529",
+              "start": 2,
+              "url": "https://t.co/x5guPUIN96"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981272618616644061",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980598347863060529",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "接 https://t.co/x5guPUIN96"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980598343823679488"
+          ]
+        },
+        "author_id": "1871929297868611584",
+        "conversation_id": "1980598347863060529",
+        "created_at": "2025-10-21T11:33:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T12:33:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980598347863060529"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cFOlwwth2N",
+              "end": 26,
+              "expanded_url": "https://x.com/xingyezuihaole/status/1980598347863060529/photo/1",
+              "media_key": "3_1980598343823679488",
+              "start": 3,
+              "url": "https://t.co/cFOlwwth2N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980598347863060529",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 368,
+          "impression_count": 673776,
+          "like_count": 3232,
+          "quote_count": 11,
+          "reply_count": 140,
+          "retweet_count": 92
+        },
+        "reply_settings": "everyone",
+        "text": "（） https://t.co/cFOlwwth2N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "我自私，病态，阴暗，偏执。所有大度、不在乎都是我的伪装。我窥探你的生活，揣测你的文案，解读你分享的一切，观察你身边的人，盯着你的照片妄想找到蛛丝马迹。我敏感，善变多疑，斤斤计较你多看别人的一眼。我爱你，你本来就应该乖乖待在我身边。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1953828269977219114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 580,
+          "like_count": 7240,
+          "listed_count": 1,
+          "media_count": 445,
+          "tweet_count": 3988
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-25T14:41:46.000Z",
+        "description": "11年mtf，中考后再考虑🍥\n是一只isfp喜欢小猫🥰\n蔚蓝档案b服好友码:w6xl9y4\n八宝粥q区：小星野单推人\n来和我一起玩吧😭😭😭\nqq:3834762694 wx:xingye520QWQ来扩列口牙😋\n欢迎互fo哦~",
+        "id": "1871929297868611584",
+        "location": "阿拜多斯高等中学",
+        "name": "鸩羽幽梦 🏳‍⚧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962482164295176193/oyR4tQkz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 858,
+          "like_count": 775,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 171
+        },
+        "username": "xingyezuihaole",
+        "verified": false
+      }
+    ]
+  }
+}

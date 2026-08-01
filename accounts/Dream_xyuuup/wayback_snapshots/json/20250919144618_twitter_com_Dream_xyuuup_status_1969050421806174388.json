@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1969050421806174388",
+    "created_at": "2025-09-19T14:46:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T15:46:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969050421806174388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1705758552395255808",
+          "start": 3,
+          "username": "04lizzz1121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969050421806174388",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968801518733148229",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @04lizzz1121: 我要死了 我为啥上学"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1969050421806174388",
+        "created_at": "2025-09-19T14:46:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T15:46:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969050421806174388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1705758552395255808",
+              "start": 3,
+              "username": "04lizzz1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969050421806174388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968801518733148229",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @04lizzz1121: 我要死了 我为啥上学"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705758552395255808",
+        "conversation_id": "1968801518733148229",
+        "created_at": "2025-09-18T22:17:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T23:17:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968801518733148229"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1968801518733148229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 655,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我要死了 我为啥上学"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "yì jīu｜偏远地区高中生｜我正在努力变成你喜欢的样子…｜重抑治疗戒o割中｜我特别爱你们，爱你们，爱你们。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1953828269977219114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 555,
+          "like_count": 6967,
+          "listed_count": 1,
+          "media_count": 431,
+          "tweet_count": 3796
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-24T01:38:32.000Z",
+        "description": "自用蜂鸟VPN:https://t.co/AZIF9uapgO\n有🚪纯绿/可以互关",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register?cod…",
+                "end": 31,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=u1B1Yd4Q",
+                "start": 8,
+                "url": "https://t.co/AZIF9uapgO"
+              }
+            ]
+          }
+        },
+        "id": "1705758552395255808",
+        "location": "我不知道",
+        "name": "萌苺",
+        "pinned_tweet_id": "1946501770773184943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965427164368818176/8tJotjm6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1292,
+          "following_count": 1145,
+          "like_count": 9260,
+          "listed_count": 2,
+          "media_count": 1367,
+          "tweet_count": 13889
+        },
+        "username": "04lizzz1121",
+        "verified": false
+      }
+    ]
+  }
+}

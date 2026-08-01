@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1958662527023554618",
+    "created_at": "2025-08-21T22:48:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T23:48:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958662527023554618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1784597519688728576",
+          "start": 3,
+          "username": "mirufyu1917847"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958662527023554618",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878398887087821119",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mirufyu1917847: 你抱着我掉眼泪说这世界太复杂每当它伤你一次手腕就会长出花"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1958662527023554618",
+        "created_at": "2025-08-21T22:48:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T23:48:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958662527023554618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1784597519688728576",
+              "start": 3,
+              "username": "mirufyu1917847"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958662527023554618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878398887087821119",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mirufyu1917847: 你抱着我掉眼泪说这世界太复杂每当它伤你一次手腕就会长出花"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784597519688728576",
+        "conversation_id": "1878398887087821119",
+        "created_at": "2025-01-12T11:09:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-12T12:09:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1878398887087821119"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1878398887087821119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 111,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你抱着我掉眼泪说这世界太复杂每当它伤你一次手腕就会长出花"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "yì jīu｜🏳️‍🌈｜谢谢你喜欢我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1953828269977219114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 549,
+          "like_count": 6742,
+          "listed_count": 0,
+          "media_count": 404,
+          "tweet_count": 3554
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-28T14:56:41.000Z",
+        "description": "认识有🚪，除了入🚪不回男性消息，不线下不聊h",
+        "id": "1784597519688728576",
+        "location": "ルナ☆",
+        "name": "やっぱり天使なんていなかったね",
+        "pinned_tweet_id": "1895563269273985114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956002235823087621/tn8_jAdw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 70,
+          "like_count": 1560,
+          "listed_count": 1,
+          "media_count": 194,
+          "tweet_count": 961
+        },
+        "username": "mirufyu1917847",
+        "verified": false
+      }
+    ]
+  }
+}

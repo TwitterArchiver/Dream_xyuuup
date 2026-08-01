@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1893500568607367168"
+      ],
+      "media_source_tweet_id": [
+        "1893500571253928152"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "1893533983255810097",
+    "created_at": "2025-02-23T05:30:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-23T06:30:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893533983255810097"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 35,
+          "normalized_text": "Lightstick",
+          "probability": 0.7932,
+          "start": 26,
+          "type": "Other"
+        },
+        {
+          "end": 52,
+          "normalized_text": "ILLIT",
+          "probability": 0.4523,
+          "start": 48,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 53,
+          "start": 47,
+          "tag": "ILLIT"
+        },
+        {
+          "end": 58,
+          "start": 54,
+          "tag": "아일릿"
+        },
+        {
+          "end": 65,
+          "start": 59,
+          "tag": "アイリット"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1790935673999945728",
+          "start": 3,
+          "username": "ILLIT_UNIVERSE"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FDkhuc5NLd",
+          "end": 89,
+          "expanded_url": "https://x.com/ILLIT_UNIVERSE/status/1893500571253928152/photo/1",
+          "media_key": "3_1893500568607367168",
+          "start": 66,
+          "url": "https://t.co/FDkhuc5NLd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893533983255810097",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 134
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893500571253928152",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ILLIT_UNIVERSE: ILLIT Lightstick preview \n\n#ILLIT #아일릿 #アイリット https://t.co/FDkhuc5NLd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 595,
+        "media_key": "3_1893500568607367168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkcQvCXXoAApq_S.jpg",
+        "width": 842
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893500568607367168"
+          ],
+          "media_source_tweet_id": [
+            "1893500571253928152"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "1893533983255810097",
+        "created_at": "2025-02-23T05:30:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T06:30:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893533983255810097"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 35,
+              "normalized_text": "Lightstick",
+              "probability": 0.7932,
+              "start": 26,
+              "type": "Other"
+            },
+            {
+              "end": 52,
+              "normalized_text": "ILLIT",
+              "probability": 0.4523,
+              "start": 48,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 53,
+              "start": 47,
+              "tag": "ILLIT"
+            },
+            {
+              "end": 58,
+              "start": 54,
+              "tag": "아일릿"
+            },
+            {
+              "end": 65,
+              "start": 59,
+              "tag": "アイリット"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1790935673999945728",
+              "start": 3,
+              "username": "ILLIT_UNIVERSE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FDkhuc5NLd",
+              "end": 89,
+              "expanded_url": "https://x.com/ILLIT_UNIVERSE/status/1893500571253928152/photo/1",
+              "media_key": "3_1893500568607367168",
+              "start": 66,
+              "url": "https://t.co/FDkhuc5NLd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893533983255810097",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 134
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893500571253928152",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ILLIT_UNIVERSE: ILLIT Lightstick preview \n\n#ILLIT #아일릿 #アイリット https://t.co/FDkhuc5NLd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893500568607367168"
+          ]
+        },
+        "author_id": "1790935673999945728",
+        "conversation_id": "1893500571253928152",
+        "created_at": "2025-02-23T03:18:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T04:18:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893500571253928152"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "Lightstick",
+              "probability": 0.8601,
+              "start": 6,
+              "type": "Other"
+            },
+            {
+              "end": 32,
+              "normalized_text": "ILLIT",
+              "probability": 0.4567,
+              "start": 28,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 27,
+              "tag": "ILLIT"
+            },
+            {
+              "end": 38,
+              "start": 34,
+              "tag": "아일릿"
+            },
+            {
+              "end": 45,
+              "start": 39,
+              "tag": "アイリット"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FDkhuc5NLd",
+              "end": 69,
+              "expanded_url": "https://x.com/ILLIT_UNIVERSE/status/1893500571253928152/photo/1",
+              "media_key": "3_1893500568607367168",
+              "start": 46,
+              "url": "https://t.co/FDkhuc5NLd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893500571253928152",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 29395,
+          "like_count": 715,
+          "quote_count": 192,
+          "reply_count": 10,
+          "retweet_count": 134
+        },
+        "reply_settings": "everyone",
+        "text": "ILLIT Lightstick preview \n\n#ILLIT #아일릿 #アイリット https://t.co/FDkhuc5NLd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "这是一本日记 可以把我视为现充 喜欢视奸#喵斯#有三次偶像#ISFP#0.5",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dreamxy_uuup",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dreamxy_uuup",
+                "start": 0,
+                "url": "https://t.co/V4QSiptbnl"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠ltnh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892121675938004992/fWCivcy4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 77,
+          "like_count": 221,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 111
+        },
+        "url": "https://t.co/V4QSiptbnl",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-16T02:42:12.000Z",
+        "description": "A Fanbase For ILLIT\nand Your #1 Source of ILLIT's Daily News and Updates | Connect with us: @GLLIT_ST",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 92,
+                "username": "GLLIT_ST"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/qlgEadao-Sk?fe…",
+                "end": 23,
+                "expanded_url": "https://youtu.be/qlgEadao-Sk?feature=shared",
+                "start": 0,
+                "url": "https://t.co/0s4O79wch1"
+              }
+            ]
+          }
+        },
+        "id": "1790935673999945728",
+        "location": "Almond Chocolate out now!",
+        "name": "ILLIT UNIVERSE",
+        "pinned_tweet_id": "1890064296027333103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891303655258873856/5yYUW7Xf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10339,
+          "following_count": 82,
+          "like_count": 4487,
+          "listed_count": 68,
+          "media_count": 4080,
+          "tweet_count": 7979
+        },
+        "url": "https://t.co/0s4O79wch1",
+        "username": "ILLIT_UNIVERSE",
+        "verified": true
+      }
+    ]
+  }
+}

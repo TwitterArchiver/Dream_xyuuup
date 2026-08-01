@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1982482402246344858",
+    "created_at": "2025-10-26T16:20:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T17:20:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982482402246344858"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hgsbtin_nisaki…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/hgsbtin_nisaki/status/1981876768245182498",
+          "start": 8,
+          "url": "https://t.co/DcMk7zk4Cn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982482402246344858",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981876768245182498",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我他妈真是服了 https://t.co/DcMk7zk4Cn"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5316,
+        "height": 1280,
+        "media_key": "13_1981876700024619008",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1981876700024619008/img/y-U7zwLDAZ_AFc9D.jpg",
+        "public_metrics": {
+          "view_count": 196596
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1981876700024619008/vid/avc1/320x568/A6JeYllBjZF7CzjP.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1981876700024619008/vid/avc1/480x852/tvBv5y-3c8NHCDcC.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1981876700024619008/vid/avc1/720x1280/d8yMVLKx44q2IFLN.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1981876700024619008/pl/66UwwmVqESOm209k.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1982482402246344858",
+        "created_at": "2025-10-26T16:20:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T17:20:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982482402246344858"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hgsbtin_nisaki…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/hgsbtin_nisaki/status/1981876768245182498",
+              "start": 8,
+              "url": "https://t.co/DcMk7zk4Cn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982482402246344858",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981876768245182498",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我他妈真是服了 https://t.co/DcMk7zk4Cn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1981876700024619008"
+          ]
+        },
+        "author_id": "1606690184564985856",
+        "conversation_id": "1981876768245182498",
+        "created_at": "2025-10-25T00:13:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T01:13:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981876768245182498"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 23,
+              "tag": "xyn"
+            },
+            {
+              "end": 32,
+              "start": 28,
+              "tag": "mtf"
+            },
+            {
+              "end": 36,
+              "start": 33,
+              "tag": "药攻"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DLJ3Eye4UY",
+              "end": 60,
+              "expanded_url": "https://x.com/hgsbtin_nisaki/status/1981876768245182498/video/1",
+              "media_key": "13_1981876700024619008",
+              "start": 37,
+              "url": "https://t.co/DLJ3Eye4UY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981876768245182498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 171,
+          "impression_count": 215882,
+          "like_count": 955,
+          "quote_count": 2,
+          "reply_count": 55,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "就你睡了无数xyn是吧？没想到被药攻草了喵？\n#xyn #mtf #药攻 https://t.co/DLJ3Eye4UY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "我自私，病态，阴暗，偏执。所有大度、不在乎都是我的伪装。我窥探你的生活，揣测你的文案，解读你分享的一切，观察你身边的人，盯着你的照片妄想找到蛛丝马迹。我敏感，善变多疑，斤斤计较你多看别人的一眼。我爱你，你本来就应该乖乖待在我身边。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1953828269977219114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 580,
+          "like_count": 7284,
+          "listed_count": 1,
+          "media_count": 448,
+          "tweet_count": 4019
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-24T16:36:41.000Z",
+        "description": "07年无证含糖mtf🏳️‍⚧️｜INFP-T｜168 50｜xyn｜HRT 2025/2/17｜天赋党｜ 药攻｜N1考取中｜造t｜@WangPu90983 ｜妈妈@BloodCatOvO｜妹妹 @Littlecat111007 ｜@SAIONJIayase 的猫猫｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 65,
+                "username": "WangPu90983"
+              },
+              {
+                "end": 93,
+                "start": 81,
+                "username": "BloodCatOvO"
+              },
+              {
+                "end": 113,
+                "start": 97,
+                "username": "Littlecat111007"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "SAIONJIayase"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nyasaki",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nyasaki",
+                "start": 0,
+                "url": "https://t.co/N9KjiqMt6n"
+              }
+            ]
+          }
+        },
+        "id": "1606690184564985856",
+        "name": "東別院ニサキ🍥",
+        "pinned_tweet_id": "1933094187135877399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940624825866661888/Z1K21WQ2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1332,
+          "following_count": 620,
+          "like_count": 12600,
+          "listed_count": 4,
+          "media_count": 184,
+          "tweet_count": 1993
+        },
+        "url": "https://t.co/N9KjiqMt6n",
+        "username": "hgsbtin_nisaki",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1934462628879032770",
+    "created_at": "2025-06-16T11:28:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-16T12:28:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934573860969685115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1705758552395255808",
+          "start": 0,
+          "username": "04lizzz1121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934573860969685115",
+    "in_reply_to_user_id": "1705758552395255808",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934462628879032770",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@04lizzz1121 hi～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1934462624298893312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtiXgfCbAAAAapZ.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1934462628879032770",
+        "created_at": "2025-06-16T11:28:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T12:28:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934573860969685115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1705758552395255808",
+              "start": 0,
+              "username": "04lizzz1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934573860969685115",
+        "in_reply_to_user_id": "1705758552395255808",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934462628879032770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@04lizzz1121 hi～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934462624298893312"
+          ]
+        },
+        "author_id": "1705758552395255808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1934462628879032770",
+        "created_at": "2025-06-16T04:06:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T05:06:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934462628879032770"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinityweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1934202099073753088/SQcqXQHc?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1934202099073753088/SQcqXQHc?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/Oavzg4GCsh"
+            },
+            {
+              "display_url": "pic.x.com/FMtPxGUk5a",
+              "end": 64,
+              "expanded_url": "https://x.com/04lizzz1121/status/1934462628879032770/photo/1",
+              "media_key": "3_1934462624298893312",
+              "start": 41,
+              "url": "https://t.co/FMtPxGUk5a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934462628879032770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 151,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/Oavzg4GCsh https://t.co/FMtPxGUk5a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "在下弈鸠 只有几天时间就中考(我还挺期待的) 成分复杂爱看棒子 偶尔发血图吓唬你 想出国 对所有人友好 我想交朋友求你们来找我玩🥹下面的链接是赞赏码 最可爱的小宝宝@QLing61007 😽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 82,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1931176332370813214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933432998864826371/0SiPerD5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 479,
+          "like_count": 5592,
+          "listed_count": 0,
+          "media_count": 272,
+          "tweet_count": 2449
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-24T01:38:32.000Z",
+        "description": "互fo置顶留言或者私信/我说的全是废话不要骂我啊！",
+        "id": "1705758552395255808",
+        "location": "wony✩oung",
+        "name": "sion",
+        "pinned_tweet_id": "1934528672284770786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932374847176245248/FyMqc677_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 433,
+          "like_count": 3823,
+          "listed_count": 0,
+          "media_count": 693,
+          "tweet_count": 4525
+        },
+        "username": "04lizzz1121",
+        "verified": false
+      }
+    ]
+  }
+}

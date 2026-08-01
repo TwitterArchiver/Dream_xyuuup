@@ -1,0 +1,449 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1892227841099481088"
+      ],
+      "media_source_tweet_id": [
+        "1892228393011192000"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1892435591763054911",
+    "created_at": "2025-02-20T04:46:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-20T05:46:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892435591763054911"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 77,
+          "start": 71,
+          "tag": "ILLIT"
+        },
+        {
+          "end": 82,
+          "start": 78,
+          "tag": "아일릿"
+        },
+        {
+          "end": 93,
+          "start": 83,
+          "tag": "TICK_TACK"
+        },
+        {
+          "end": 108,
+          "start": 94,
+          "tag": "I_LL_LIKE_YOU"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1067368549205843969",
+          "start": 3,
+          "username": "DarnuPop"
+        },
+        {
+          "end": 50,
+          "id": "1692057485434347521",
+          "start": 40,
+          "username": "ILLIT_twt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/i0pqmNutJS",
+          "end": 132,
+          "expanded_url": "https://x.com/DarnuPop/status/1892228393011192000/video/1",
+          "media_key": "7_1892227841099481088",
+          "start": 109,
+          "url": "https://t.co/i0pqmNutJS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892435591763054911",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 94
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892228393011192000",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DarnuPop: 🎵 TICK TACK\n🎤 ILLIT 아일릿 ( @ILLIT_twt )\n🎮 Videogame Ver.\n\n#ILLIT #아일릿\n#TICK_TACK #I_LL_LIKE_YOU https://t.co/i0pqmNutJS"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 63999,
+        "height": 1080,
+        "media_key": "7_1892227841099481088",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1892227841099481088/pu/img/h-aFqhlAaqrxkZrC.jpg",
+        "public_metrics": {
+          "view_count": 1244
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1892227841099481088/pu/vid/avc1/480x270/WQEyewCGJIQqV9vX.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1892227841099481088/pu/vid/avc1/640x360/2-88isYO5yodlIID.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1892227841099481088/pu/vid/avc1/1280x720/kBmWWl0tFFo0pnNS.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1892227841099481088/pu/pl/-pyjkyvn1qT6AjOl.m3u8?tag=12"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1892227841099481088"
+          ],
+          "media_source_tweet_id": [
+            "1892228393011192000"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1892435591763054911",
+        "created_at": "2025-02-20T04:46:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T05:46:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892435591763054911"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 77,
+              "start": 71,
+              "tag": "ILLIT"
+            },
+            {
+              "end": 82,
+              "start": 78,
+              "tag": "아일릿"
+            },
+            {
+              "end": 93,
+              "start": 83,
+              "tag": "TICK_TACK"
+            },
+            {
+              "end": 108,
+              "start": 94,
+              "tag": "I_LL_LIKE_YOU"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1067368549205843969",
+              "start": 3,
+              "username": "DarnuPop"
+            },
+            {
+              "end": 50,
+              "id": "1692057485434347521",
+              "start": 40,
+              "username": "ILLIT_twt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/i0pqmNutJS",
+              "end": 132,
+              "expanded_url": "https://x.com/DarnuPop/status/1892228393011192000/video/1",
+              "media_key": "7_1892227841099481088",
+              "start": 109,
+              "url": "https://t.co/i0pqmNutJS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892435591763054911",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 94
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892228393011192000",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DarnuPop: 🎵 TICK TACK\n🎤 ILLIT 아일릿 ( @ILLIT_twt )\n🎮 Videogame Ver.\n\n#ILLIT #아일릿\n#TICK_TACK #I_LL_LIKE_YOU https://t.co/i0pqmNutJS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1892227841099481088"
+          ]
+        },
+        "author_id": "1067368549205843969",
+        "conversation_id": "1892228393011192000",
+        "created_at": "2025-02-19T15:02:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T16:02:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892228393011192000"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 63,
+              "start": 57,
+              "tag": "ILLIT"
+            },
+            {
+              "end": 68,
+              "start": 64,
+              "tag": "아일릿"
+            },
+            {
+              "end": 79,
+              "start": 69,
+              "tag": "TICK_TACK"
+            },
+            {
+              "end": 94,
+              "start": 80,
+              "tag": "I_LL_LIKE_YOU"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 36,
+              "id": "1692057485434347521",
+              "start": 26,
+              "username": "ILLIT_twt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/i0pqmNutJS",
+              "end": 118,
+              "expanded_url": "https://x.com/DarnuPop/status/1892228393011192000/video/1",
+              "media_key": "7_1892227841099481088",
+              "start": 95,
+              "url": "https://t.co/i0pqmNutJS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892228393011192000",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 4083,
+          "like_count": 277,
+          "quote_count": 4,
+          "reply_count": 0,
+          "retweet_count": 94
+        },
+        "reply_settings": "everyone",
+        "text": "🎵 TICK TACK\n🎤 ILLIT 아일릿 ( @ILLIT_twt )\n🎮 Videogame Ver.\n\n#ILLIT #아일릿\n#TICK_TACK #I_LL_LIKE_YOU https://t.co/i0pqmNutJS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "一个偏远内蒙厌学b 因为学不会理科所以经常哭泣 求互fo 可以把我视为现充#喵斯#有三次偶像#INFP#🏳️‍🌈0.5",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dreamxy_uuup",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dreamxy_uuup",
+                "start": 0,
+                "url": "https://t.co/V4QSiptJcT"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠ltnh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892121675938004992/fWCivcy4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 54,
+          "like_count": 134,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 41
+        },
+        "url": "https://t.co/V4QSiptJcT",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-27T10:44:27.000Z",
+        "description": "I transform 🎵 #kpop songs into 🎮 #videogames\n\n✉ darnupop@gmail.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 19,
+                "start": 14,
+                "tag": "kpop"
+              },
+              {
+                "end": 44,
+                "start": 33,
+                "tag": "videogames"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/DarnuPop",
+                "end": 23,
+                "expanded_url": "http://www.youtube.com/DarnuPop",
+                "start": 0,
+                "url": "https://t.co/KBUylxS3wi"
+              }
+            ]
+          }
+        },
+        "id": "1067368549205843969",
+        "location": "Secret level",
+        "name": "Darnu-Pop",
+        "pinned_tweet_id": "1889590572110737744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1642250081221967873/zYex8Uez_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1001,
+          "following_count": 109,
+          "like_count": 1183,
+          "listed_count": 5,
+          "media_count": 1018,
+          "tweet_count": 2659
+        },
+        "url": "https://t.co/KBUylxS3wi",
+        "username": "DarnuPop",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T06:15:43.000Z",
+        "description": "Hello! We are #ILLIT 안녕하세요 #아일릿 입니다",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 20,
+                "start": 14,
+                "tag": "ILLIT"
+              },
+              {
+                "end": 31,
+                "start": 27,
+                "tag": "아일릿"
+              }
+            ]
+          }
+        },
+        "id": "1692057485434347521",
+        "name": "ILLIT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839500290959216640/jCNduo2__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324166,
+          "following_count": 5,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 424,
+          "tweet_count": 883
+        },
+        "username": "ILLIT_twt",
+        "verified": true
+      }
+    ]
+  }
+}

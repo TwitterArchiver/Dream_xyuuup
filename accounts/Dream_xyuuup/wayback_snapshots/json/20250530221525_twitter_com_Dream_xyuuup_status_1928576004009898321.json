@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1928486686524113312",
+    "created_at": "2025-05-30T22:15:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-30T23:15:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928576004009898321"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1680113435239907329",
+          "start": 0,
+          "username": "HaoLeeSecret"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928576004009898321",
+    "in_reply_to_user_id": "1680113435239907329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928486686524113312",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HaoLeeSecret 生日快乐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1334,
+        "media_key": "3_1928486675954675714",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsNcagpaMAIvbXA.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1928486686524113312",
+        "created_at": "2025-05-30T22:15:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T23:15:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928576004009898321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1680113435239907329",
+              "start": 0,
+              "username": "HaoLeeSecret"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928576004009898321",
+        "in_reply_to_user_id": "1680113435239907329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928486686524113312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HaoLeeSecret 生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928486675954675714"
+          ]
+        },
+        "author_id": "1680113435239907329",
+        "conversation_id": "1928486686524113312",
+        "created_at": "2025-05-30T16:20:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T17:20:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928486686524113312"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FifnuGBdvm",
+              "end": 32,
+              "expanded_url": "https://x.com/HaoLeeSecret/status/1928486686524113312/photo/1",
+              "media_key": "3_1928486675954675714",
+              "start": 9,
+              "url": "https://t.co/FifnuGBdvm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928486686524113312",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 372,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Balloons https://t.co/FifnuGBdvm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "偏远乡村学校在读 我应该不会再影响别人了 接下来有一个event 成分复杂 对所有人友好除了现生 最可爱的小宝宝@QLing61007 😽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 56,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠（头疼腿疼）",
+        "pinned_tweet_id": "1917423348302467396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924678380655673348/VxgKyXwf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 441,
+          "like_count": 4815,
+          "listed_count": 1,
+          "media_count": 230,
+          "tweet_count": 2124
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-15T07:13:59.000Z",
+        "description": "Hao Lee 是小烧杯😋 小喃酮🏳️‍🌈 喜欢小男孩 是纯零 心理可能半男半女 MBTI:INFP-T 表推：@HaoLeeFirst 里推二：@HaoLeeEnhanced",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 57,
+                "username": "HaoLeeFirst"
+              },
+              {
+                "end": 89,
+                "start": 74,
+                "username": "HaoLeeEnhanced"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fansone.co/HaoLeeFirst",
+                "end": 23,
+                "expanded_url": "https://fansone.co/HaoLeeFirst",
+                "start": 0,
+                "url": "https://t.co/HuqvLkPq3e"
+              }
+            ]
+          }
+        },
+        "id": "1680113435239907329",
+        "location": "Nanking",
+        "name": "Hao Lee(Gen 1)",
+        "pinned_tweet_id": "1909618096383402415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857369239222706176/bzVCjENP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 883,
+          "following_count": 1850,
+          "like_count": 40722,
+          "listed_count": 0,
+          "media_count": 335,
+          "tweet_count": 5607
+        },
+        "url": "https://t.co/HuqvLkPq3e",
+        "username": "HaoLeeSecret",
+        "verified": false
+      }
+    ]
+  }
+}

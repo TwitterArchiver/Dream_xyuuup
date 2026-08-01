@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1944957991499014604",
+    "created_at": "2025-07-15T03:17:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T04:17:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944959435673362786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1878491143652139010",
+          "start": 0,
+          "username": "linglin_owo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944959435673362786",
+    "in_reply_to_user_id": "1878491143652139010",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944957991499014604",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linglin_owo 劳资也是，我戴耳机听日推刚要睡着"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1944957991499014604",
+        "created_at": "2025-07-15T03:17:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T04:17:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944959435673362786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1878491143652139010",
+              "start": 0,
+              "username": "linglin_owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944959435673362786",
+        "in_reply_to_user_id": "1878491143652139010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944957991499014604",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linglin_owo 劳资也是，我戴耳机听日推刚要睡着"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878491143652139010",
+        "conversation_id": "1944957991499014604",
+        "created_at": "2025-07-15T03:11:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T04:11:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944957991499014604"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Dream_xyuuup/s…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/Dream_xyuuup/status/1944781638371598551",
+              "start": 22,
+              "url": "https://t.co/pSuy1n48jF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944957991499014604",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944781638371598551",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑点解析之 之前睡觉随机到这首了。。。。。 https://t.co/pSuy1n48jF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "yì jīu｜这里全是负能量没有正能量｜可爱的人@QLing61007",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 24,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933432998864826371/0SiPerD5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 520,
+          "like_count": 6358,
+          "listed_count": 0,
+          "media_count": 344,
+          "tweet_count": 3030
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-12T17:16:35.000Z",
+        "description": "凌琳 | 日常推 看黄男滚蛋 | 不鉴证，也别跳脸在我帖子下面鉴证 | language：中文⭕ English⭕ | 臭学A-level的😭 | Emoji重度爱好者😋 | 性别男爱好男🏳️‍🌈 | 扩列私信 | 推止于推",
+        "id": "1878491143652139010",
+        "location": "炙热沙城2",
+        "name": "凌琳🔜阴雨霉湿之地",
+        "pinned_tweet_id": "1925934530289918364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915692209829273601/SA-_xZ26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 509,
+          "like_count": 167,
+          "listed_count": 2,
+          "media_count": 158,
+          "tweet_count": 891
+        },
+        "username": "linglin_owo",
+        "verified": false
+      }
+    ]
+  }
+}

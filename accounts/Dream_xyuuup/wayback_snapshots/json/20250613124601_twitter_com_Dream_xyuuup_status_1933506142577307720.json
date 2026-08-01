@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1933501700889059394",
+    "created_at": "2025-06-13T12:46:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-13T13:46:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933506142577307720"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1695622547940016128",
+          "start": 0,
+          "username": "JunLin64891"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933506142577307720",
+    "in_reply_to_user_id": "1695622547940016128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933501700889059394",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JunLin64891 请问年级？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 487,
+        "media_key": "3_1933501626998009864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtUtfFHbMAgSZe9.png",
+        "width": 504
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1933501700889059394",
+        "created_at": "2025-06-13T12:46:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T13:46:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933506142577307720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1695622547940016128",
+              "start": 0,
+              "username": "JunLin64891"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933506142577307720",
+        "in_reply_to_user_id": "1695622547940016128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933501700889059394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JunLin64891 请问年级？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933501626998009864"
+          ]
+        },
+        "author_id": "1695622547940016128",
+        "conversation_id": "1933501700889059394",
+        "created_at": "2025-06-13T12:28:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T13:28:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933501700889059394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9QmAJ2UzvX",
+              "end": 37,
+              "expanded_url": "https://x.com/JunLin64891/status/1933501700889059394/photo/1",
+              "media_key": "3_1933501626998009864",
+              "start": 14,
+              "url": "https://t.co/9QmAJ2UzvX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933501700889059394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "初中毕业主包能谈到一个吗？ https://t.co/9QmAJ2UzvX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "在下弈鸠 是个农村弟 只有几天时间就中考(说实话我还挺期待的) 成分复杂爱看棒子 偶尔发血图吓唬你 想出国 对所有人友好 我想交朋友求你们来找我玩🥹下面的链接是赞赏码 最可爱的小宝宝@QLing61007 😽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 91,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1931176332370813214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933432998864826371/0SiPerD5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 470,
+          "like_count": 5470,
+          "listed_count": 0,
+          "media_count": 269,
+          "tweet_count": 2419
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-27T02:21:40.000Z",
+        "description": "如果不小心死掉了的话...",
+        "id": "1695622547940016128",
+        "location": "？",
+        "name": "CuSO4",
+        "pinned_tweet_id": "1931121723094827333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930980088889397249/i-KgL4zJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 223,
+          "like_count": 223,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 113
+        },
+        "username": "JunLin64891",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1901303838734528512"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "1901303852068147495",
+    "created_at": "2025-03-16T16:05:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-16T17:05:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1901303852068147495"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/J3BqtPw9JS",
+          "end": 32,
+          "expanded_url": "https://x.com/Dream_xyuuup/status/1901303852068147495/photo/1",
+          "media_key": "3_1901303838734528512",
+          "start": 9,
+          "url": "https://t.co/J3BqtPw9JS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901303852068147495",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "老师，我要请假。 https://t.co/J3BqtPw9JS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1901303838734528512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmLJxI3bsAAinPZ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1901303838734528512"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "1901303852068147495",
+        "created_at": "2025-03-16T16:05:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T17:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901303852068147495"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J3BqtPw9JS",
+              "end": 32,
+              "expanded_url": "https://x.com/Dream_xyuuup/status/1901303852068147495/photo/1",
+              "media_key": "3_1901303838734528512",
+              "start": 9,
+              "url": "https://t.co/J3BqtPw9JS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901303852068147495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老师，我要请假。 https://t.co/J3BqtPw9JS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "这是一本日记 喜欢视奸 互fo请赞自介条",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dreamxy_uuup",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dreamxy_uuup",
+                "start": 0,
+                "url": "https://t.co/V4QSiptJcT"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠ltnh",
+        "pinned_tweet_id": "1898320029139214432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896250221824520192/PpwkphAn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 177,
+          "like_count": 973,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 527
+        },
+        "url": "https://t.co/V4QSiptJcT",
+        "username": "Dream_xyuuup",
+        "verified": false
+      }
+    ]
+  }
+}

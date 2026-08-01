@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1950574304325779557",
+    "created_at": "2025-07-30T15:16:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T16:16:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950576313968038349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1738538370857607168",
+          "start": 0,
+          "username": "RE13145821"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950576313968038349",
+    "in_reply_to_user_id": "1738538370857607168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950574304325779557",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RE13145821 好耶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1950574304325779557",
+        "created_at": "2025-07-30T15:16:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T16:16:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950576313968038349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1738538370857607168",
+              "start": 0,
+              "username": "RE13145821"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950576313968038349",
+        "in_reply_to_user_id": "1738538370857607168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950574304325779557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RE13145821 好耶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738538370857607168",
+        "conversation_id": "1950574304325779557",
+        "created_at": "2025-07-30T15:08:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T16:08:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950574304325779557"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1950574304325779557",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发•证•活（发个帖证明自己还活着）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "yì jīu｜不知道什么圈子，谢谢你的喜欢我也喜欢你喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933432998864826371/0SiPerD5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411,
+          "following_count": 539,
+          "like_count": 6559,
+          "listed_count": 0,
+          "media_count": 356,
+          "tweet_count": 3208
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-23T12:33:52.000Z",
+        "description": "叫我大米粥就好     树海@huajuanshiwo\n        时锺@HY_SundiFavor              \n一碗平平无奇的大米粥/男/09年/取向男/初三牲/轻微社恐/十几岁来着？/TDM控+Furry控/偶尔发癫/欢迎互fo喵/❌坚决不参与任何有关政治的讨论❌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "huajuanshiwo"
+              },
+              {
+                "end": 52,
+                "start": 38,
+                "username": "HY_SundiFavor"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/re13145821",
+                "end": 23,
+                "expanded_url": "https://ngl.link/re13145821",
+                "start": 0,
+                "url": "https://t.co/TNZVqkwMhV"
+              }
+            ]
+          }
+        },
+        "id": "1738538370857607168",
+        "location": "快来fo窝！！！",
+        "name": "大米粥RE（放假ing）",
+        "pinned_tweet_id": "1895114802235662786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913874379005689856/4ngOxJP7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 361,
+          "like_count": 2463,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 764
+        },
+        "url": "https://t.co/TNZVqkwMhV",
+        "username": "RE13145821",
+        "verified": false
+      }
+    ]
+  }
+}

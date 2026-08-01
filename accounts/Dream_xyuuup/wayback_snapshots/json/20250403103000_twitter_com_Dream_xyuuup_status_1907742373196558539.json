@@ -1,0 +1,389 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1560343340867932160",
+          "name": "IShowSpeed"
+        }
+      },
+      {
+        "domain": {
+          "description": "Influencers who create content on digital platforms",
+          "id": "120",
+          "name": "Digital Creator"
+        },
+        "entity": {
+          "id": "1560343340867932160",
+          "name": "IShowSpeed"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543456678596608",
+          "name": "Digital creators"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293615037932646400",
+          "name": "YouTubers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1560343340867932160",
+          "name": "IShowSpeed"
+        }
+      }
+    ],
+    "conversation_id": "1907742373196558539",
+    "created_at": "2025-04-03T10:30:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T11:30:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907742373196558539"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1690570637499154432",
+          "start": 3,
+          "username": "saonanaa"
+        },
+        {
+          "end": 27,
+          "id": "1726051028112744448",
+          "start": 14,
+          "username": "Dream_xyuuup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907742373196558539",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907742222554136976",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @saonanaa: @Dream_xyuuup 材料分析题（15分）\n阅读下列材料，回答问题：\n\n材料一\n\"甲亢哥（IShowSpeed）2025年中国行，不仅是一次网红个人旅行，更是中国软实力全球传播的里程碑事件。他的直播打破了西方长期对中国的刻板印象，让全球数千万网…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1560343340867932160",
+              "name": "IShowSpeed"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1560343340867932160",
+              "name": "IShowSpeed"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1560343340867932160",
+              "name": "IShowSpeed"
+            }
+          }
+        ],
+        "conversation_id": "1907742373196558539",
+        "created_at": "2025-04-03T10:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T11:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907742373196558539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1690570637499154432",
+              "start": 3,
+              "username": "saonanaa"
+            },
+            {
+              "end": 27,
+              "id": "1726051028112744448",
+              "start": 14,
+              "username": "Dream_xyuuup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907742373196558539",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907742222554136976",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @saonanaa: @Dream_xyuuup 材料分析题（15分）\n阅读下列材料，回答问题：\n\n材料一\n\"甲亢哥（IShowSpeed）2025年中国行，不仅是一次网红个人旅行，更是中国软实力全球传播的里程碑事件。他的直播打破了西方长期对中国的刻板印象，让全球数千万网…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690570637499154432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1560343340867932160",
+              "name": "IShowSpeed"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1560343340867932160",
+              "name": "IShowSpeed"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1560343340867932160",
+              "name": "IShowSpeed"
+            }
+          }
+        ],
+        "conversation_id": "1907739181616607349",
+        "created_at": "2025-04-03T10:29:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T11:29:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907742222554136976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1726051028112744448",
+              "start": 0,
+              "username": "Dream_xyuuup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907742222554136976",
+        "in_reply_to_user_id": "1726051028112744448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "材料分析题（15分）\n阅读下列材料，回答问题：\n\n材料一\n\"甲亢哥（IShowSpeed）2025年中国行，不仅是一次网红个人旅行，更是中国软实力全球传播的里程碑事件。他的直播打破了西方长期对中国的刻板印象，让全球数千万网友看到了一个真实、立体、全面的中国。\"\n——摘自《2025年中国文化传播白皮书》\n\n材料二\n\"甲亢哥在上海外滩被粉丝合唱《阳光彩虹小白马》震撼，在北京故宫穿花棉袄体验传统文化，在高铁上2K直播不掉线……这些画面通过社交媒体迅速传播，成为全球热议话题，甚至引发美国网友质疑本国媒体报道的真实性。\"\n——摘自《国际传播研究》2025年4月刊\n\n材料三\n\"中国驻美大使馆高度评价甲亢哥的中国行，称其为‘数字时代的马可·波罗’，通过民间交流促进中美文化理解。美国某智库报告甚至承认，甲亢哥6小时的直播影响力，远超美国政府16亿美元的反华宣传预算。\"\n——摘自《环球时报》2025年3月30日报道\n\n问题\n根据材料一，分析甲亢哥中国行被视作“软实力里程碑”的原因。（4分）\n结合材料二，说明甲亢哥的直播如何打破西方对中国的刻板印象。（6分）\n综合上述材料，谈谈你对“民间交流在国际传播中的作用”的理解。（5分）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907740877189234702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dream_xyuuup 材料分析题（15分）\n阅读下列材料，回答问题：\n\n材料一\n\"甲亢哥（IShowSpeed）2025年中国行，不仅是一次网红个人旅行，更是中国软实力全球传播的里程碑事件。他的直播打破了西方长期对中国的刻板印象，让全球数千万网友看到了一个真实、立体、全面的中国。\"\n——摘自《2025年中国文化传播白皮书》"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "负面情绪碎碎念垃圾场｜过着一个你一点都不会羡慕的人生｜礼3芙4是我最爱的人🤍我还喜欢农李元芳｜音游｜内蒙古偏僻农村人我很脆弱不要欺负我｜梦想是消除城乡差距｜无论你是谁我都喜欢你｜如果消失就是穷到梯都养不起了 对所有人温良 欢迎互动互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dreamxy_uuup",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dreamxy_uuup",
+                "start": 0,
+                "url": "https://t.co/V4QSiptJcT"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠ltnh（未来最厉害的数学家数学满分版😋）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905913123158298624/ClLLrGxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 284,
+          "like_count": 2458,
+          "listed_count": 2,
+          "media_count": 132,
+          "tweet_count": 1055
+        },
+        "url": "https://t.co/V4QSiptJcT",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T03:47:17.000Z",
+        "description": "Infinite Circle:个人账号，个人发推。",
+        "id": "1690570637499154432",
+        "location": "🌏 Chine",
+        "name": "Zhi Wei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896199576690040832/gvpmueaX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2675,
+          "following_count": 304,
+          "like_count": 18808,
+          "listed_count": 14,
+          "media_count": 1069,
+          "tweet_count": 10110
+        },
+        "username": "saonanaa",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1949406608099778608",
+    "created_at": "2025-07-27T09:54:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T10:54:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949407932757770467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "622036546",
+          "start": 0,
+          "username": "oder_666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949407932757770467",
+    "in_reply_to_user_id": "622036546",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949406608099778608",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oder_666 苦死她哭死她"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1914,
+        "media_key": "3_1949406604857606144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw2u-o1WgAAKYJy.jpg",
+        "width": 1439
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1949406608099778608",
+        "created_at": "2025-07-27T09:54:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T10:54:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949407932757770467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "622036546",
+              "start": 0,
+              "username": "oder_666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949407932757770467",
+        "in_reply_to_user_id": "622036546",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949406608099778608",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oder_666 苦死她哭死她"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949406604857606144"
+          ]
+        },
+        "author_id": "622036546",
+        "conversation_id": "1949406608099778608",
+        "created_at": "2025-07-27T09:48:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T10:48:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949406608099778608"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r8J0is76GR",
+              "end": 31,
+              "expanded_url": "https://x.com/oder_666/status/1949406608099778608/photo/1",
+              "media_key": "3_1949406604857606144",
+              "start": 8,
+              "url": "https://t.co/r8J0is76GR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949406608099778608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就爱吃点愈美片 https://t.co/r8J0is76GR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "yì jīu｜不知道自己是不是个有趣的人｜你们可以找我玩😽｜会有负能｜我不知道什么是好什么是坏，因为我只是什么圈子都想混｜最喜欢的事是在开着空调的天气喝一瓶强爽幸福地睡觉｜我喜欢长发男｜音游phi milthm maimai｜kpop礼芙我爱你们｜求你们接待，我喜欢所有人喵｜可爱的人@QLing61007",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 142,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933432998864826371/0SiPerD5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 533,
+          "like_count": 6545,
+          "listed_count": 0,
+          "media_count": 350,
+          "tweet_count": 3176
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-29T16:18:50.000Z",
+        "description": "09|负能|自伤|od|非二元|欢迎互fo",
+        "id": "622036546",
+        "location": "精神病院",
+        "name": "むのう",
+        "pinned_tweet_id": "1943307259796459789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947547511247540226/fKOdwvL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 86,
+          "like_count": 3422,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 677
+        },
+        "username": "oder_666",
+        "verified": false
+      }
+    ]
+  }
+}

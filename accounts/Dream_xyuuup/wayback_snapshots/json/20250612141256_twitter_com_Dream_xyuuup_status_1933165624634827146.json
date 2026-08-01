@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1932144139828904217",
+    "created_at": "2025-06-12T14:12:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-12T15:12:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933165624634827146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1705758552395255808",
+          "start": 0,
+          "username": "04lizzz1121"
+        },
+        {
+          "end": 26,
+          "id": "1932142142388125696",
+          "start": 13,
+          "username": "dannixion123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933165624634827146",
+    "in_reply_to_user_id": "1705758552395255808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933165441683271764",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@04lizzz1121 @dannixion123 开张了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1932144139828904217",
+        "created_at": "2025-06-12T14:12:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T15:12:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933165624634827146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1705758552395255808",
+              "start": 0,
+              "username": "04lizzz1121"
+            },
+            {
+              "end": 26,
+              "id": "1932142142388125696",
+              "start": 13,
+              "username": "dannixion123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933165624634827146",
+        "in_reply_to_user_id": "1705758552395255808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933165441683271764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@04lizzz1121 @dannixion123 开张了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705758552395255808",
+        "conversation_id": "1932144139828904217",
+        "created_at": "2025-06-12T14:12:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T15:12:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933165441683271764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1932142142388125696",
+              "start": 0,
+              "username": "dannixion123"
+            },
+            {
+              "end": 27,
+              "id": "1726051028112744448",
+              "start": 14,
+              "username": "Dream_xyuuup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933165441683271764",
+        "in_reply_to_user_id": "1932142142388125696",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932144139828904217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dannixion123 @Dream_xyuuup"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "偏远乡村学校在读 偶尔od歌手 接下来有一个event 成分复杂爱看棒子 对所有人友好 最可爱的小宝宝@QLing61007 😽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 51,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1931176332370813214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932410719250808832/fkyl4o1f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 465,
+          "like_count": 5327,
+          "listed_count": 0,
+          "media_count": 263,
+          "tweet_count": 2399
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-24T01:38:32.000Z",
+        "description": "互fo置顶留言或者私信/我说的全是废话不要骂我啊！",
+        "id": "1705758552395255808",
+        "location": "wony✩oung",
+        "name": "sion",
+        "pinned_tweet_id": "1923782210135454043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932374847176245248/FyMqc677_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 419,
+          "like_count": 3753,
+          "listed_count": 0,
+          "media_count": 679,
+          "tweet_count": 4437
+        },
+        "username": "04lizzz1121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-09T18:26:14.000Z",
+        "description": "",
+        "id": "1932142142388125696",
+        "name": "林允儿",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 1,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 14
+        },
+        "username": "dannixion123",
+        "verified": false
+      }
+    ]
+  }
+}

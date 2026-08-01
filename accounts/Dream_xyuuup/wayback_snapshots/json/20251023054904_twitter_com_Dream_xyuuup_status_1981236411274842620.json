@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980948470161637376"
+      ],
+      "media_source_tweet_id": [
+        "1980948473882284342"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "1981236411274842620",
+    "created_at": "2025-10-23T05:49:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T06:49:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981236411274842620"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3010370624",
+          "start": 3,
+          "username": "AOInaning"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/95voB190i4",
+          "end": 50,
+          "expanded_url": "https://x.com/AOInaning/status/1980948473882284342/photo/1",
+          "media_key": "3_1980948470161637376",
+          "start": 27,
+          "url": "https://t.co/95voB190i4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981236411274842620",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 254
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980948473882284342",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AOInaning: いい子じゃなくてごめん https://t.co/95voB190i4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_1980948470161637376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G32-I1pWgAAJfK8.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980948470161637376"
+          ],
+          "media_source_tweet_id": [
+            "1980948473882284342"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "1981236411274842620",
+        "created_at": "2025-10-23T05:49:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T06:49:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981236411274842620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3010370624",
+              "start": 3,
+              "username": "AOInaning"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/95voB190i4",
+              "end": 50,
+              "expanded_url": "https://x.com/AOInaning/status/1980948473882284342/photo/1",
+              "media_key": "3_1980948470161637376",
+              "start": 27,
+              "url": "https://t.co/95voB190i4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981236411274842620",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 254
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980948473882284342",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AOInaning: いい子じゃなくてごめん https://t.co/95voB190i4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980948470161637376"
+          ]
+        },
+        "author_id": "3010370624",
+        "conversation_id": "1980948473882284342",
+        "created_at": "2025-10-22T10:44:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T11:44:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980948473882284342"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/95voB190i4",
+              "end": 35,
+              "expanded_url": "https://x.com/AOInaning/status/1980948473882284342/photo/1",
+              "media_key": "3_1980948470161637376",
+              "start": 12,
+              "url": "https://t.co/95voB190i4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980948473882284342",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 204,
+          "impression_count": 20508,
+          "like_count": 2430,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 254
+        },
+        "reply_settings": "everyone",
+        "text": "いい子じゃなくてごめん https://t.co/95voB190i4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "我自私，病态，阴暗，偏执。所有大度、不在乎都是我的伪装。我窥探你的生活，揣测你的文案，解读你分享的一切，观察你身边的人，盯着你的照片妄想找到蛛丝马迹。我敏感，善变多疑，斤斤计较你多看别人的一眼。我爱你，你本来就应该乖乖待在我身边。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1953828269977219114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 580,
+          "like_count": 7236,
+          "listed_count": 1,
+          "media_count": 445,
+          "tweet_count": 3984
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-05T16:18:13.000Z",
+        "description": "◆illustrator/漫画家\n◆コミカライズ『どうも、物欲の聖女です』連載中、一迅＋：https://t.co/JoXTKwtOyB\n◆イラストのご依頼は企業様とお知り合い様のみ、今年内不可、26年4月以降ok\n📨:naningwork@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.gd/iscSL",
+                "end": 68,
+                "expanded_url": "https://x.gd/iscSL",
+                "start": 45,
+                "url": "https://t.co/JoXTKwtOyB"
+              }
+            ]
+          }
+        },
+        "id": "3010370624",
+        "location": "中文&日本語",
+        "name": "ナニン",
+        "pinned_tweet_id": "1964244661167407555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774631136897167360/RXReMsvD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58322,
+          "following_count": 902,
+          "like_count": 44009,
+          "listed_count": 279,
+          "media_count": 397,
+          "tweet_count": 45731
+        },
+        "username": "AOInaning",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1911445639394684928"
+      ],
+      "media_source_tweet_id": [
+        "1911445642242564172"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "1981412692834373862",
+    "created_at": "2025-10-23T17:29:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T18:29:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981412692834373862"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "Fruit ninja",
+          "probability": 0.6475,
+          "start": 14,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1478782231531470859",
+          "start": 3,
+          "username": "K3njiezz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/F59uLszCrH",
+          "end": 62,
+          "expanded_url": "https://x.com/K3njiezz/status/1911445642242564172/photo/1",
+          "media_key": "3_1911445639394684928",
+          "start": 39,
+          "url": "https://t.co/F59uLszCrH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981412692834373862",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1343
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911445642242564172",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @K3njiezz: Fruit ninja in real life https://t.co/F59uLszCrH"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1981412692834373862].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1981412692834373862",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1981412692834373862"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 908,
+        "media_key": "3_1911445639394684928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GobRroeW8AAhH4E.jpg",
+        "width": 681
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1911445639394684928"
+          ]
+        },
+        "author_id": "1478782231531470859",
+        "conversation_id": "1911445642242564172",
+        "created_at": "2025-04-13T15:45:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-13T16:45:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911445642242564172"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 10,
+              "normalized_text": "Fruit ninja",
+              "probability": 0.846,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/F59uLszCrH",
+              "end": 48,
+              "expanded_url": "https://x.com/K3njiezz/status/1911445642242564172/photo/1",
+              "media_key": "3_1911445639394684928",
+              "start": 25,
+              "url": "https://t.co/F59uLszCrH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911445642242564172",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 833,
+          "impression_count": 64203,
+          "like_count": 6164,
+          "quote_count": 50,
+          "reply_count": 21,
+          "retweet_count": 1343
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "Fruit ninja in real life https://t.co/F59uLszCrH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "我自私，病态，阴暗，偏执。所有大度、不在乎都是我的伪装。我窥探你的生活，揣测你的文案，解读你分享的一切，观察你身边的人，盯着你的照片妄想找到蛛丝马迹。我敏感，善变多疑，斤斤计较你多看别人的一眼。我爱你，你本来就应该乖乖待在我身边。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1953828269977219114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 581,
+          "like_count": 7245,
+          "listed_count": 1,
+          "media_count": 445,
+          "tweet_count": 3991
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-05T17:35:52.000Z",
+        "description": "twitter arruinó mi vida. \n#shtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 32,
+                "start": 26,
+                "tag": "shtwt"
+              }
+            ]
+          }
+        },
+        "id": "1478782231531470859",
+        "location": "edtwt & shtwt ",
+        "name": "Boomnx",
+        "pinned_tweet_id": "1901042581380698548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977816758330257408/RvHxxY3k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6303,
+          "following_count": 865,
+          "like_count": 5186,
+          "listed_count": 13,
+          "media_count": 622,
+          "tweet_count": 3522
+        },
+        "username": "K3njiezz",
+        "verified": false
+      }
+    ]
+  }
+}

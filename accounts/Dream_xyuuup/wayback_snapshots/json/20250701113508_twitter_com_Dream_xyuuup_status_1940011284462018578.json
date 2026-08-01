@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1940011284462018578",
+    "created_at": "2025-07-01T11:35:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T12:35:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1940011284462018578"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/walmart/status…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/walmart/status/1940011140429275142",
+          "start": 6,
+          "url": "https://t.co/t6LqcJR18Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940011284462018578",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940011140429275142",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "干啥，滚蛋 https://t.co/t6LqcJR18Q"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1940011284462018578",
+        "created_at": "2025-07-01T11:35:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T12:35:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940011284462018578"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/walmart/status…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/walmart/status/1940011140429275142",
+              "start": 6,
+              "url": "https://t.co/t6LqcJR18Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940011284462018578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940011140429275142",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "干啥，滚蛋 https://t.co/t6LqcJR18Q"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "17137891",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597570732032",
+              "name": "Multi-Purpose Department - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026347212",
+              "name": "Walmart"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026347212",
+              "name": "Walmart"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "S&P 500",
+              "id": "864154902926196737",
+              "name": "S&P 500"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407811550987972617",
+              "name": "Industries"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1416062557706588160",
+              "name": "Superstores"
+            }
+          }
+        ],
+        "conversation_id": "1940011140429275142",
+        "created_at": "2025-07-01T11:34:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T12:34:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940011140429275142"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 132,
+              "start": 120,
+              "tag": "unsubscribe"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1726051028112744448",
+              "start": 0,
+              "username": "Dream_xyuuup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940011140429275142",
+        "in_reply_to_user_id": "1726051028112744448",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@Dream_xyuuup Thanks for opting in! Savings this huge wait for no one. We’ll keep you posted when they go live 📱🔊 Reply #unsubscribe to opt-out."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "yì jīu｜喜欢做梦｜我觉得我很温柔。｜可爱的人@QLing61007",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933432998864826371/0SiPerD5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 502,
+          "like_count": 6026,
+          "listed_count": 0,
+          "media_count": 318,
+          "tweet_count": 2828
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2008-11-03T19:38:44.000Z",
+        "description": "Who knew 🎶 Who knew 🎶",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "walmart.com",
+                "end": 23,
+                "expanded_url": "http://www.walmart.com",
+                "start": 0,
+                "url": "https://t.co/cU05NmJDC8"
+              }
+            ]
+          }
+        },
+        "id": "17137891",
+        "name": "Walmart",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910005875303219200/OPtLTrDL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1399607,
+          "following_count": 350,
+          "like_count": 12651,
+          "listed_count": 5903,
+          "media_count": 7425,
+          "tweet_count": 659271
+        },
+        "url": "https://t.co/cU05NmJDC8",
+        "username": "Walmart",
+        "verified": true
+      }
+    ]
+  }
+}

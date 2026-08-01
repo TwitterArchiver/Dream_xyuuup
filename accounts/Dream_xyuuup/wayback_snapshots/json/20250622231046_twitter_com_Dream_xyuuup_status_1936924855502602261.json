@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1936921700240970049",
+    "created_at": "2025-06-22T23:10:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T00:10:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936924855502602261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1705758552395255808",
+          "start": 0,
+          "username": "04lizzz1121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936924855502602261",
+    "in_reply_to_user_id": "1705758552395255808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936921700240970049",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@04lizzz1121 我就爱说屌话，我每天发这些逗自己玩"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 998,
+        "media_key": "3_1936921696948068352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuFUBWhWIAAdbQa.jpg",
+        "width": 1077
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1936921700240970049",
+        "created_at": "2025-06-22T23:10:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T00:10:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936924855502602261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1705758552395255808",
+              "start": 0,
+              "username": "04lizzz1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936924855502602261",
+        "in_reply_to_user_id": "1705758552395255808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936921700240970049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@04lizzz1121 我就爱说屌话，我每天发这些逗自己玩"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936921696948068352"
+          ]
+        },
+        "author_id": "1705758552395255808",
+        "conversation_id": "1936921700240970049",
+        "created_at": "2025-06-22T22:58:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T23:58:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936921700240970049"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5BZaLNEiin",
+              "end": 31,
+              "expanded_url": "https://x.com/04lizzz1121/status/1936921700240970049/photo/1",
+              "media_key": "3_1936921696948068352",
+              "start": 8,
+              "url": "https://t.co/5BZaLNEiin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936921700240970049",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "。。。管你啥事 https://t.co/5BZaLNEiin"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "【拼多多】获得8元现金券。因购买的喜思平 普瑞巴林胶囊 75mg…可能存在配送延迟，我们赠送您一张现金券以表歉意",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1931176332370813214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933432998864826371/0SiPerD5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 486,
+          "like_count": 5888,
+          "listed_count": 0,
+          "media_count": 299,
+          "tweet_count": 2712
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-24T01:38:32.000Z",
+        "description": "互fo置顶留言或者私信/我说的全是废话不要骂我啊！",
+        "id": "1705758552395255808",
+        "location": "wony✩oung",
+        "name": "sion",
+        "pinned_tweet_id": "1934615460441620735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936817571925241856/JinbxYmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 464,
+          "like_count": 4034,
+          "listed_count": 0,
+          "media_count": 707,
+          "tweet_count": 4715
+        },
+        "username": "04lizzz1121",
+        "verified": false
+      }
+    ]
+  }
+}

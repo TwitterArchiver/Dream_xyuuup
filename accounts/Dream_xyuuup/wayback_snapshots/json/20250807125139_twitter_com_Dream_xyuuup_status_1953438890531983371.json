@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1953346292760940563",
+    "created_at": "2025-08-07T12:51:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T13:51:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953438890531983371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1816768357091463168",
+          "start": 0,
+          "username": "mengting_owo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953438890531983371",
+    "in_reply_to_user_id": "1816768357091463168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953346292760940563",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mengting_owo 爸爸好大一根"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25820,
+        "height": 1280,
+        "media_key": "7_1953345878204538880",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1953345878204538880/pu/img/hXd7WBmiMlRT9U6C.jpg",
+        "public_metrics": {
+          "view_count": 34
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1953345878204538880/pu/vid/avc1/320x568/u4RFh_-c8PJu0IES.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1953345878204538880/pu/vid/avc1/480x852/5jJobzIl3c9evtg8.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1953345878204538880/pu/vid/avc1/720x1280/I68054GKmq3RtLcv.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1953345878204538880/pu/pl/SUF75Qh5hGKRE2fD.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1953346292760940563",
+        "created_at": "2025-08-07T12:51:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T13:51:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953438890531983371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1816768357091463168",
+              "start": 0,
+              "username": "mengting_owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953438890531983371",
+        "in_reply_to_user_id": "1816768357091463168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953346292760940563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mengting_owo 爸爸好大一根"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1953345878204538880"
+          ]
+        },
+        "author_id": "1816768357091463168",
+        "conversation_id": "1953346292760940563",
+        "created_at": "2025-08-07T06:43:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T07:43:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953346292760940563"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NcrcQeuvCA",
+              "end": 30,
+              "expanded_url": "https://x.com/mengting_owo/status/1953346292760940563/video/1",
+              "media_key": "7_1953345878204538880",
+              "start": 7,
+              "url": "https://t.co/NcrcQeuvCA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953346292760940563",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 101,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "张嘴~uwu https://t.co/NcrcQeuvCA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "yì jīu｜不知道什么圈子，谢谢你的喜欢我也喜欢你喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 540,
+          "like_count": 6676,
+          "listed_count": 0,
+          "media_count": 384,
+          "tweet_count": 3369
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-26T09:32:17.000Z",
+        "description": "@ZiShu_Sha 的里推（？）                                                   \n以后会在这里发些乱七八糟的东西                  \n⚠️NSFW⚠️/推止于推",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "ZiShu_Sha"
+              }
+            ]
+          }
+        },
+        "id": "1816768357091463168",
+        "location": "叙利亚",
+        "name": "紫薯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865343863428128769/GoqDy8k-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 11,
+          "like_count": 57,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 25
+        },
+        "username": "mengting_owo",
+        "verified": false
+      }
+    ]
+  }
+}

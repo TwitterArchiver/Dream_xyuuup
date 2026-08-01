@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1895534158115709218",
+    "created_at": "2025-02-28T17:58:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-28T18:58:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1895534158115709218"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hyeriherihey/s…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/hyeriherihey/status/1895490407821447476",
+          "start": 3,
+          "url": "https://t.co/yyGdlUpP02"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895534158115709218",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895490407821447476",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "妈妈 https://t.co/yyGdlUpP02"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1895490400175194112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk4ieembAAAlE6z.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1895490400158388224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk4ieeiakAAJwu1.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1895534158115709218",
+        "created_at": "2025-02-28T17:58:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T18:58:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895534158115709218"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hyeriherihey/s…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/hyeriherihey/status/1895490407821447476",
+              "start": 3,
+              "url": "https://t.co/yyGdlUpP02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895534158115709218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895490407821447476",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "妈妈 https://t.co/yyGdlUpP02"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895490400175194112",
+            "3_1895490400158388224"
+          ]
+        },
+        "author_id": "1824063978441732096",
+        "conversation_id": "1895490407821447476",
+        "created_at": "2025-02-28T15:05:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T16:05:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895490407821447476"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hT3wCEnL6h",
+              "end": 30,
+              "expanded_url": "https://x.com/hyeriherihey/status/1895490407821447476/photo/1",
+              "media_key": "3_1895490400175194112",
+              "start": 7,
+              "url": "https://t.co/hT3wCEnL6h"
+            },
+            {
+              "display_url": "pic.x.com/hT3wCEnL6h",
+              "end": 30,
+              "expanded_url": "https://x.com/hyeriherihey/status/1895490407821447476/photo/1",
+              "media_key": "3_1895490400158388224",
+              "start": 7,
+              "url": "https://t.co/hT3wCEnL6h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895490407821447476",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 594,
+          "impression_count": 316595,
+          "like_count": 17238,
+          "quote_count": 524,
+          "reply_count": 1228,
+          "retweet_count": 3099
+        },
+        "reply_settings": "everyone",
+        "text": "첫 촬영 🎀 https://t.co/hT3wCEnL6h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "这是一本日记 喜欢视奸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dreamxy_uuup",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dreamxy_uuup",
+                "start": 0,
+                "url": "https://t.co/V4QSiptbnl"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠ltnh",
+        "pinned_tweet_id": "1895467310275813494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892121675938004992/fWCivcy4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 81,
+          "like_count": 259,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 138
+        },
+        "url": "https://t.co/V4QSiptbnl",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-15T12:42:10.000Z",
+        "description": "저능 혜리입미다 찐혜리요",
+        "id": "1824063978441732096",
+        "name": "이혜리",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895498500902932481/IwzarKOj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37257,
+          "following_count": 0,
+          "like_count": 7686,
+          "listed_count": 22,
+          "media_count": 39,
+          "tweet_count": 1056
+        },
+        "username": "hyeriherihey",
+        "verified": false
+      }
+    ]
+  }
+}

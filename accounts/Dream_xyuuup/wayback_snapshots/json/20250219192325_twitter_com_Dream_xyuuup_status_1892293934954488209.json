@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1892293925542776835"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1892293934954488209",
+    "created_at": "2025-02-19T19:23:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-19T20:23:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1892293934954488209"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/K5eo8coU06",
+          "end": 28,
+          "expanded_url": "https://x.com/Dream_xyuuup/status/1892293934954488209/photo/1",
+          "media_key": "3_1892293925542776835",
+          "start": 5,
+          "url": "https://t.co/K5eo8coU06"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892293934954488209",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我好感动 https://t.co/K5eo8coU06"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1496,
+        "media_key": "3_1892293925542776835",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkLHTKqbUAMwC0V.jpg",
+        "width": 783
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892293925542776835"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1892293934954488209",
+        "created_at": "2025-02-19T19:23:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T20:23:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892293934954488209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K5eo8coU06",
+              "end": 28,
+              "expanded_url": "https://x.com/Dream_xyuuup/status/1892293934954488209/photo/1",
+              "media_key": "3_1892293925542776835",
+              "start": 5,
+              "url": "https://t.co/K5eo8coU06"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892293934954488209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好感动 https://t.co/K5eo8coU06"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "一个偏远内蒙厌学b 因为学不会理科所以经常哭泣 求互fo 可以把我视为现充#喵斯#有三次偶像#INFP#🏳️‍🌈0.5",
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠ltnh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892121675938004992/fWCivcy4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 50,
+          "like_count": 126,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 27
+        },
+        "username": "Dream_xyuuup",
+        "verified": false
+      }
+    ]
+  }
+}

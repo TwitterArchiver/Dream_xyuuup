@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1994290977708626130",
+    "created_at": "2025-11-28T06:23:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T07:23:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994290977708626130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1226857868030357505",
+          "start": 3,
+          "username": "Linkerick233"
+        },
+        {
+          "end": 34,
+          "id": "1682912923851841536",
+          "start": 18,
+          "username": "chan19890604t04"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994290977708626130",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994062002512179537",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Linkerick233: @chan19890604t04 赌输了只是暂时把钱放在别人那，不赌了就彻底拿不回来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1994290977708626130",
+        "created_at": "2025-11-28T06:23:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T07:23:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994290977708626130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1226857868030357505",
+              "start": 3,
+              "username": "Linkerick233"
+            },
+            {
+              "end": 34,
+              "id": "1682912923851841536",
+              "start": 18,
+              "username": "chan19890604t04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994290977708626130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994062002512179537",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Linkerick233: @chan19890604t04 赌输了只是暂时把钱放在别人那，不赌了就彻底拿不回来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1226857868030357505",
+        "conversation_id": "1994060949670776947",
+        "created_at": "2025-11-27T15:13:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T16:13:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994062002512179537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1682912923851841536",
+              "start": 0,
+              "username": "chan19890604t04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994062002512179537",
+        "in_reply_to_user_id": "1682912923851841536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15636,
+          "like_count": 307,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994060949670776947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chan19890604t04 赌输了只是暂时把钱放在别人那，不赌了就彻底拿不回来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "你能想到的坏习惯我都有",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 607,
+          "like_count": 7863,
+          "listed_count": 1,
+          "media_count": 468,
+          "tweet_count": 4263
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-10T13:18:13.000Z",
+        "description": "",
+        "id": "1226857868030357505",
+        "name": "Linin233",
+        "pinned_tweet_id": "1807810345786089827",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1656238706540556288/7g0zvMpf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 458,
+          "like_count": 13725,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 705
+        },
+        "username": "Linkerick233",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-23T00:38:40.000Z",
+        "description": "不跟粉蛆🕷️🐷🐰對話 圖和影片皆是轉載的 備用號@chan19890604to5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 24,
+                "username": "chan19890604to5"
+              }
+            ]
+          }
+        },
+        "id": "1682912923851841536",
+        "location": "Taiwan",
+        "name": "陳少4.0",
+        "pinned_tweet_id": "1992999502090031395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906652458711171072/LTlW2rI0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1858,
+          "following_count": 1637,
+          "like_count": 63716,
+          "listed_count": 15,
+          "media_count": 12567,
+          "tweet_count": 31388
+        },
+        "username": "chan19890604t04",
+        "verified": false
+      }
+    ]
+  }
+}

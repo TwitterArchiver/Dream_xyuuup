@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1985114563113812430",
+    "created_at": "2025-11-02T22:39:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T23:39:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985114563113812430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "51904755",
+          "start": 3,
+          "username": "Morris_LT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985114563113812430",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 100
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984781391851319458",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Morris_LT: 得罪中国人最好的办法就是说真话，说真话，说真话，因为他们根本就接受不了现实。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1985114563113812430",
+        "created_at": "2025-11-02T22:39:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T23:39:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985114563113812430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "51904755",
+              "start": 3,
+              "username": "Morris_LT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985114563113812430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 100
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984781391851319458",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Morris_LT: 得罪中国人最好的办法就是说真话，说真话，说真话，因为他们根本就接受不了现实。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "51904755",
+        "conversation_id": "1984781391851319458",
+        "created_at": "2025-11-02T00:35:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T01:35:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984781391851319458"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1984781391851319458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 79,
+          "impression_count": 101322,
+          "like_count": 1263,
+          "quote_count": 14,
+          "reply_count": 272,
+          "retweet_count": 100
+        },
+        "reply_settings": "everyone",
+        "text": "得罪中国人最好的办法就是说真话，说真话，说真话，因为他们根本就接受不了现实。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "没法活了，一切都是男的骗我，女的欠我，老的冤枉我，小的欺负我，中国的压迫我，外国的引诱我，身边的霸凌我，网上的取笑我，你们全都对不起我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1953828269977219114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 584,
+          "like_count": 7379,
+          "listed_count": 1,
+          "media_count": 454,
+          "tweet_count": 4063
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-29T01:07:03.000Z",
+        "description": "某不知名Web3.0创业公司 - 创始人&CEO&首席擦屁股执行官！#Bitcoin 和 #Dogecoin 信仰者、老韭菜、囤币党。《旷野之心》作者，私信开放订购：https://t.co/W2fM1ccAiv",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 42,
+                "start": 34,
+                "tag": "Bitcoin"
+              },
+              {
+                "end": 54,
+                "start": 45,
+                "tag": "Dogecoin"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/Morris_LT/stat…",
+                "end": 106,
+                "expanded_url": "https://x.com/Morris_LT/status/1912318899540095446",
+                "start": 83,
+                "url": "https://t.co/W2fM1ccAiv"
+              }
+            ]
+          }
+        },
+        "id": "51904755",
+        "location": "𝕏Ɖ",
+        "name": "Morris",
+        "pinned_tweet_id": "1977899912357626017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1661240746018754560/8Shwdpaj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165794,
+          "following_count": 412,
+          "like_count": 51017,
+          "listed_count": 955,
+          "media_count": 6988,
+          "tweet_count": 69591
+        },
+        "username": "Morris_LT",
+        "verified": true
+      }
+    ]
+  }
+}

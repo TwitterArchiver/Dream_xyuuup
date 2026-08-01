@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1943958246576066640",
+    "created_at": "2025-07-12T11:50:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T12:50:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944001319519629613"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1705758552395255808",
+          "start": 0,
+          "username": "04lizzz1121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944001319519629613",
+    "in_reply_to_user_id": "1705758552395255808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943958246576066640",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@04lizzz1121 萌，但是给我喝"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1943958234278117376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvpTtuxXwAAxrFJ.jpg",
+        "width": 1838
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1943958246576066640",
+        "created_at": "2025-07-12T11:50:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T12:50:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944001319519629613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1705758552395255808",
+              "start": 0,
+              "username": "04lizzz1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944001319519629613",
+        "in_reply_to_user_id": "1705758552395255808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943958246576066640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@04lizzz1121 萌，但是给我喝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943958234278117376"
+          ]
+        },
+        "author_id": "1705758552395255808",
+        "conversation_id": "1943958246576066640",
+        "created_at": "2025-07-12T08:58:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T09:58:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943958246576066640"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "萌不萌",
+              "probability": 0.5224,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3tv5eEeK9m",
+              "end": 27,
+              "expanded_url": "https://x.com/04lizzz1121/status/1943958246576066640/photo/1",
+              "media_key": "3_1943958234278117376",
+              "start": 4,
+              "url": "https://t.co/3tv5eEeK9m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943958246576066640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 171,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "萌不萌 https://t.co/3tv5eEeK9m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "yì jīu｜喜欢做梦｜心理变态｜可爱的人@QLing61007",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 21,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933432998864826371/0SiPerD5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 517,
+          "like_count": 6357,
+          "listed_count": 0,
+          "media_count": 339,
+          "tweet_count": 2991
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-24T01:38:32.000Z",
+        "description": "互fo直关或私信 会查成分 没回就是没看见/我说的全是废话不要骂我啊/接受女宝的私信 不正常男的滚开/期待一串神秘数字/互关可以加我v。",
+        "id": "1705758552395255808",
+        "location": "wony✩oung",
+        "name": "sion",
+        "pinned_tweet_id": "1942456485281218602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942974748323115008/MjhPiqgU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 611,
+          "like_count": 4943,
+          "listed_count": 0,
+          "media_count": 788,
+          "tweet_count": 5919
+        },
+        "username": "04lizzz1121",
+        "verified": false
+      }
+    ]
+  }
+}

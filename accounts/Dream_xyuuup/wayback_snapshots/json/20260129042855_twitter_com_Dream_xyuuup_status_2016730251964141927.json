@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "2016466867171606985",
+    "created_at": "2026-01-29T04:28:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T05:28:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1868205822511288320",
+          "start": 0,
+          "username": "vicoOci_Olvidar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016730251964141927",
+    "in_reply_to_user_id": "1868205822511288320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016466867171606985",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vicoOci_Olvidar 正道的光"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2016466856648077312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_vt7CPbcAA3lZC.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016466856648077312"
+          ]
+        },
+        "author_id": "1868205822511288320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2016466867171606985",
+        "created_at": "2026-01-28T11:02:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T12:02:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ubZkoaSayH",
+              "end": 23,
+              "expanded_url": "https://x.com/vicoOci_Olvidar/status/2016466867171606985/photo/1",
+              "media_key": "3_2016466856648077312",
+              "start": 0,
+              "url": "https://t.co/ubZkoaSayH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016466867171606985",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5297,
+          "like_count": 60,
+          "quote_count": 2,
+          "reply_count": 14,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ubZkoaSayH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "成分复杂，歌品感人，爱听跳楼机离别开出花，最喜欢的歌手是海来阿木，二次元赛高，最喜欢的番是蓝色监狱中二病，最喜欢的角色是三玖神里绫华猫羽雫，号主皮下165cm100kg，自带防弹衣捅一刀发现还没穿过脂肪层，出原味，出带着我后代的卫生纸，🚪8964，纯绿0721",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010631486530322432/50V-akck_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 599,
+          "like_count": 8009,
+          "listed_count": 1,
+          "media_count": 479,
+          "tweet_count": 4506
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T08:06:14.000Z",
+        "description": "药区@hysteriaandlove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "hysteriaandlove"
+              }
+            ]
+          }
+        },
+        "id": "1868205822511288320",
+        "location": "demo",
+        "name": "流浪胃",
+        "pinned_tweet_id": "1995735816644055184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005423161458954240/F8ZcPAiR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4379,
+          "following_count": 315,
+          "like_count": 23298,
+          "listed_count": 14,
+          "media_count": 1003,
+          "tweet_count": 14249
+        },
+        "username": "vicoOci_Olvidar",
+        "verified": false
+      }
+    ]
+  }
+}

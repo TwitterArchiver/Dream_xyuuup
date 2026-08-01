@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1933162538587619671",
+    "created_at": "2025-06-12T14:00:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-12T15:00:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933162538587619671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1876320026564943873",
+          "start": 3,
+          "username": "Genmetsu_5v3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933162538587619671",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933160139600839048",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Genmetsu_5v3: 想要钱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1933162538587619671",
+        "created_at": "2025-06-12T14:00:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T15:00:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933162538587619671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1876320026564943873",
+              "start": 3,
+              "username": "Genmetsu_5v3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933162538587619671",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933160139600839048",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Genmetsu_5v3: 想要钱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1876320026564943873",
+        "conversation_id": "1933160139600839048",
+        "created_at": "2025-06-12T13:51:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T14:51:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933160139600839048"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1933160139600839048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "想要钱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "偏远乡村学校在读 偶尔od歌手 接下来有一个event 成分复杂爱看棒子 对所有人友好 最可爱的小宝宝@QLing61007 😽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 51,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1931176332370813214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932410719250808832/fkyl4o1f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 465,
+          "like_count": 5314,
+          "listed_count": 0,
+          "media_count": 263,
+          "tweet_count": 2396
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-06T17:29:01.000Z",
+        "description": "透明な君は 僕を指差してたー",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Electrophoresi…",
+                "end": 23,
+                "expanded_url": "https://t.me/Electrophoresis_125",
+                "start": 0,
+                "url": "https://t.co/KW0B7RSl2L"
+              }
+            ]
+          }
+        },
+        "id": "1876320026564943873",
+        "location": "成分请见置顶！",
+        "name": "減滅",
+        "pinned_tweet_id": "1929213555070419008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932796926849929216/f7NhR-cU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 1766,
+          "like_count": 4544,
+          "listed_count": 1,
+          "media_count": 269,
+          "tweet_count": 2412
+        },
+        "url": "https://t.co/KW0B7RSl2L",
+        "username": "Genmetsu_5v3",
+        "verified": false
+      }
+    ]
+  }
+}

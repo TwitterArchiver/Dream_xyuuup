@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "2027477637137109120",
+    "created_at": "2026-02-28T07:57:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T08:57:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027654273912512953"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1822447334749614080",
+          "start": 0,
+          "username": "chenwai29719"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027654273912512953",
+    "in_reply_to_user_id": "1822447334749614080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027477637137109120",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chenwai29719 怎么只吃2t啊😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10100,
+        "height": 1280,
+        "media_key": "7_2027477613057572864",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2027477613057572864/pu/img/LF-DyaGTT98iRRhu.jpg",
+        "public_metrics": {
+          "view_count": 19
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2027477613057572864/pu/vid/avc1/320x568/pMPMcjxBK_hlIK4c.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2027477613057572864/pu/vid/avc1/480x852/wGdR7kyYYflYEC6p.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2027477613057572864/pu/vid/avc1/720x1280/etDgCmWcK_uOrhI9.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2027477613057572864/pu/pl/u6nUUvIn7HHYjqPs.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "2027477637137109120",
+        "created_at": "2026-02-28T07:57:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T08:57:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027654273912512953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1822447334749614080",
+              "start": 0,
+              "username": "chenwai29719"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027654273912512953",
+        "in_reply_to_user_id": "1822447334749614080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027477637137109120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chenwai29719 怎么只吃2t啊😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2027477613057572864"
+          ]
+        },
+        "author_id": "1822447334749614080",
+        "conversation_id": "2027477637137109120",
+        "created_at": "2026-02-27T20:15:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T21:15:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027477637137109120"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bKoQ4Y2OxL",
+              "end": 27,
+              "expanded_url": "https://x.com/chenwai29719/status/2027477637137109120/video/1",
+              "media_key": "7_2027477613057572864",
+              "start": 4,
+              "url": "https://t.co/bKoQ4Y2OxL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027477637137109120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "养生呢 https://t.co/bKoQ4Y2OxL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "有负面💊，歌品感人只是一个爱听kpop/cpop/edm的可怜人，性取向你猜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016795361961230336/4zuFQCyR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 612,
+          "like_count": 7806,
+          "listed_count": 1,
+          "media_count": 485,
+          "tweet_count": 4624
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-11T01:38:11.000Z",
+        "description": "「诗人?」   07INFP/💊🩸/ftx/非二元性别/泛性恋/爱听摇滚金属/adhd+asd /精神病\n忘记回fo请私信   「诗」在小号@waichen187098",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 70,
+                "username": "waichen187098"
+              }
+            ]
+          }
+        },
+        "id": "1822447334749614080",
+        "location": "🚪52",
+        "name": "尘外(普瑞愈美激推)",
+        "pinned_tweet_id": "2008382411818889473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005744135614128135/F2BQ5yAy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 214,
+          "like_count": 141,
+          "listed_count": 2,
+          "media_count": 126,
+          "tweet_count": 621
+        },
+        "username": "chenwai29719",
+        "verified": false
+      }
+    ]
+  }
+}

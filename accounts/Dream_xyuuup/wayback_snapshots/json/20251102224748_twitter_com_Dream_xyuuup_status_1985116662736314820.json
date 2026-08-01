@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1985116662736314820",
+    "created_at": "2025-11-02T22:47:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T23:47:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985116662736314820"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wh1te_lie/stat…",
+          "end": 94,
+          "expanded_url": "https://twitter.com/wh1te_lie/status/1984876945629175899",
+          "start": 71,
+          "url": "https://t.co/3AkJIHu9Yl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985116662736314820",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984876945629175899",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "发出来给你看的吗，做到自避很难吗，而且大多数都会打个敏感啊精神病就这样你不爱看就b了呗慢慢就不给你推了爱看梗图果照过几天就全是了用你在这骂？ https://t.co/3AkJIHu9Yl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1985116662736314820",
+        "created_at": "2025-11-02T22:47:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T23:47:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985116662736314820"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wh1te_lie/stat…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/wh1te_lie/status/1984876945629175899",
+              "start": 71,
+              "url": "https://t.co/3AkJIHu9Yl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985116662736314820",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984876945629175899",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "发出来给你看的吗，做到自避很难吗，而且大多数都会打个敏感啊精神病就这样你不爱看就b了呗慢慢就不给你推了爱看梗图果照过几天就全是了用你在这骂？ https://t.co/3AkJIHu9Yl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830123716229111808",
+        "conversation_id": "1984876945629175899",
+        "created_at": "2025-11-02T06:55:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T07:55:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984876945629175899"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1984876945629175899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 23332,
+          "like_count": 279,
+          "quote_count": 3,
+          "reply_count": 31,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "最近推特涌入这么多男大女大健全逼是因为他们在墙内没人屌所以只能上推特发发二手文案配上从不变角度的擦边照后抱团取暖试图营造有人凯尔自己的假象吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "没法活了，一切都是男的骗我，女的欠我，老的冤枉我，小的欺负我，中国的压迫我，外国的引诱我，身边的霸凌我，网上的取笑我，你们全都对不起我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1953828269977219114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 584,
+          "like_count": 7383,
+          "listed_count": 1,
+          "media_count": 454,
+          "tweet_count": 4068
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-01T06:01:30.000Z",
+        "description": "4:27",
+        "id": "1830123716229111808",
+        "location": "青木原树海",
+        "name": "海",
+        "pinned_tweet_id": "1916517130457030842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982537482668212224/sClsLgof_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 42,
+          "like_count": 6972,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 252
+        },
+        "username": "wh1te_lie",
+        "verified": false
+      }
+    ]
+  }
+}

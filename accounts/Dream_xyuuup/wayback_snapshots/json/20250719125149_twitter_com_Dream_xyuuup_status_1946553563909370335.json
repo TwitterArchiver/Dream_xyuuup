@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1946547942523056244",
+    "created_at": "2025-07-19T12:51:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T13:51:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946553563909370335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1788941826348711936",
+          "start": 0,
+          "username": "skhdohwo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946553563909370335",
+    "in_reply_to_user_id": "1788941826348711936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946553323470938514",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@skhdohwo 俺没说是坏事呀，这个真是buff了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1946547942523056244",
+        "created_at": "2025-07-19T12:51:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T13:51:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946553563909370335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1788941826348711936",
+              "start": 0,
+              "username": "skhdohwo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946553563909370335",
+        "in_reply_to_user_id": "1788941826348711936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946553323470938514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skhdohwo 俺没说是坏事呀，这个真是buff了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788941826348711936",
+        "conversation_id": "1946547942523056244",
+        "created_at": "2025-07-19T12:50:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T13:50:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946553323470938514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1726051028112744448",
+              "start": 0,
+              "username": "Dream_xyuuup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946553323470938514",
+        "in_reply_to_user_id": "1726051028112744448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946547942523056244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dream_xyuuup 那不是好事吗不然他们又该知道你吃普瑞巴林了😱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "yì jīu｜不知道自己是不是个有趣的人｜你们可以找我玩😽｜会有负能｜我不知道什么是好什么是坏，因为我只是什么圈子都想混｜求你们接待，我喜欢所有人｜可爱的人@QLing61007",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 78,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933432998864826371/0SiPerD5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 522,
+          "like_count": 6452,
+          "listed_count": 0,
+          "media_count": 350,
+          "tweet_count": 3098
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-10T14:39:13.000Z",
+        "description": "有四只耳朵 会比较吵闹 /炒作猫/ XNU /#男同性恋 #白袜踩我 #我是小孩 #不是我要出生的 #不同观点不友好 / 有一天，我也会变成大猫吗 / 猫弟弟@EMP_Today @xcwannasleep 猫哥哥@AkasakaRentsuki @Trevor848 @Narrycy_2nd @pc15634145",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 28,
+                "start": 23,
+                "tag": "男同性恋"
+              },
+              {
+                "end": 34,
+                "start": 29,
+                "tag": "白袜踩我"
+              },
+              {
+                "end": 40,
+                "start": 35,
+                "tag": "我是小孩"
+              },
+              {
+                "end": 49,
+                "start": 41,
+                "tag": "不是我要出生的"
+              },
+              {
+                "end": 58,
+                "start": 50,
+                "tag": "不同观点不友好"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 89,
+                "start": 79,
+                "username": "EMP_Today"
+              },
+              {
+                "end": 103,
+                "start": 90,
+                "username": "xcwannasleep"
+              },
+              {
+                "end": 123,
+                "start": 107,
+                "username": "AkasakaRentsuki"
+              },
+              {
+                "end": 134,
+                "start": 124,
+                "username": "Trevor848"
+              },
+              {
+                "end": 147,
+                "start": 135,
+                "username": "Narrycy_2nd"
+              },
+              {
+                "end": 159,
+                "start": 148,
+                "username": "pc15634145"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+E6Nz4J97zlxiZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+E6Nz4J97zlxiZmVh",
+                "start": 0,
+                "url": "https://t.co/u7Pd5rD3Y4"
+              }
+            ]
+          }
+        },
+        "id": "1788941826348711936",
+        "location": "开安卓车用苹果手机和赢电脑",
+        "name": "一般路过千帆 · 猫少年255个成功案例",
+        "pinned_tweet_id": "1937938745858400526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945797597148459009/KYzfGsOk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 897,
+          "following_count": 619,
+          "like_count": 10074,
+          "listed_count": 0,
+          "media_count": 521,
+          "tweet_count": 6544
+        },
+        "url": "https://t.co/u7Pd5rD3Y4",
+        "username": "skhdohwo",
+        "verified": false
+      }
+    ]
+  }
+}

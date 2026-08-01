@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024166788913668097"
+      ],
+      "media_source_tweet_id": [
+        "2024174573210718679"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "2024792179827519580",
+    "created_at": "2026-02-20T10:24:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T11:24:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024792179827519580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2012631283898187776",
+          "start": 3,
+          "username": "youy1qwq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oxyHqUFG2a",
+          "end": 52,
+          "expanded_url": "https://x.com/youy1qwq/status/2024174573210718679/photo/1",
+          "media_key": "3_2024166788913668097",
+          "start": 29,
+          "url": "https://t.co/oxyHqUFG2a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024792179827519580",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 164
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024174573210718679",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @youy1qwq: 疑似朴彩英和火星哥对话流出… https://t.co/oxyHqUFG2a"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1184,
+        "media_key": "3_2024166788913668097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBdI-FNXoAEKW1D.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024166788913668097"
+          ],
+          "media_source_tweet_id": [
+            "2024174573210718679"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "2024792179827519580",
+        "created_at": "2026-02-20T10:24:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T11:24:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024792179827519580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2012631283898187776",
+              "start": 3,
+              "username": "youy1qwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oxyHqUFG2a",
+              "end": 52,
+              "expanded_url": "https://x.com/youy1qwq/status/2024174573210718679/photo/1",
+              "media_key": "3_2024166788913668097",
+              "start": 29,
+              "url": "https://t.co/oxyHqUFG2a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024792179827519580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 164
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024174573210718679",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @youy1qwq: 疑似朴彩英和火星哥对话流出… https://t.co/oxyHqUFG2a"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024166788913668097"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "conversation_id": "2024174573210718679",
+        "created_at": "2026-02-18T17:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T18:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024174573210718679"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oxyHqUFG2a",
+              "end": 38,
+              "expanded_url": "https://x.com/youy1qwq/status/2024174573210718679/photo/1",
+              "media_key": "3_2024166788913668097",
+              "start": 15,
+              "url": "https://t.co/oxyHqUFG2a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024174573210718679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 135,
+          "impression_count": 459316,
+          "like_count": 4509,
+          "quote_count": 27,
+          "reply_count": 70,
+          "retweet_count": 164
+        },
+        "reply_settings": "everyone",
+        "text": "疑似朴彩英和火星哥对话流出… https://t.co/oxyHqUFG2a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "有负面💊，歌品感人只是一个爱听kpop/cpop/edm的可怜人，性取向你猜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016795361961230336/4zuFQCyR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 608,
+          "like_count": 8019,
+          "listed_count": 1,
+          "media_count": 481,
+          "tweet_count": 4559
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜互fo｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4016,
+          "following_count": 1033,
+          "like_count": 2608,
+          "listed_count": 6,
+          "media_count": 437,
+          "tweet_count": 831
+        },
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

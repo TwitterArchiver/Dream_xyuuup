@@ -1,0 +1,413 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1924466431258963969"
+      ],
+      "media_source_tweet_id": [
+        "1924480174373863487"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "1924800111181508833",
+    "created_at": "2025-05-20T12:11:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-20T13:11:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924800111181508833"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "ARTMS",
+          "probability": 0.6672,
+          "start": 20,
+          "type": "Other"
+        },
+        {
+          "end": 61,
+          "normalized_text": "ARTMS",
+          "probability": 0.5752,
+          "start": 57,
+          "type": "Other"
+        },
+        {
+          "end": 68,
+          "normalized_text": "#아르테미스",
+          "probability": 0.5326,
+          "start": 63,
+          "type": "Person"
+        },
+        {
+          "end": 75,
+          "normalized_text": "OURII",
+          "probability": 0.3826,
+          "start": 71,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 62,
+          "start": 56,
+          "tag": "ARTMS"
+        },
+        {
+          "end": 69,
+          "start": 63,
+          "tag": "아르테미스"
+        },
+        {
+          "end": 76,
+          "start": 70,
+          "tag": "OURII"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1577551292763103232",
+          "start": 3,
+          "username": "official_artms"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zFNtOXeyQx",
+          "end": 100,
+          "expanded_url": "https://x.com/official_artms/status/1924480174373863487/photo/1",
+          "media_key": "3_1924466431258963969",
+          "start": 77,
+          "url": "https://t.co/zFNtOXeyQx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924800111181508833",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14292
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924480174373863487",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @official_artms: ARTMS\n\nOnce more.\nIt begins again.\n\n#ARTMS #아르테미스 #OURII https://t.co/zFNtOXeyQx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2732,
+        "media_key": "3_1924466431258963969",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrUUBeFasAE-wgR.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924466431258963969"
+          ],
+          "media_source_tweet_id": [
+            "1924480174373863487"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "1924800111181508833",
+        "created_at": "2025-05-20T12:11:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T13:11:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924800111181508833"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "ARTMS",
+              "probability": 0.6672,
+              "start": 20,
+              "type": "Other"
+            },
+            {
+              "end": 61,
+              "normalized_text": "ARTMS",
+              "probability": 0.5752,
+              "start": 57,
+              "type": "Other"
+            },
+            {
+              "end": 68,
+              "normalized_text": "#아르테미스",
+              "probability": 0.5326,
+              "start": 63,
+              "type": "Person"
+            },
+            {
+              "end": 75,
+              "normalized_text": "OURII",
+              "probability": 0.3826,
+              "start": 71,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 62,
+              "start": 56,
+              "tag": "ARTMS"
+            },
+            {
+              "end": 69,
+              "start": 63,
+              "tag": "아르테미스"
+            },
+            {
+              "end": 76,
+              "start": 70,
+              "tag": "OURII"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1577551292763103232",
+              "start": 3,
+              "username": "official_artms"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zFNtOXeyQx",
+              "end": 100,
+              "expanded_url": "https://x.com/official_artms/status/1924480174373863487/photo/1",
+              "media_key": "3_1924466431258963969",
+              "start": 77,
+              "url": "https://t.co/zFNtOXeyQx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924800111181508833",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14292
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924480174373863487",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @official_artms: ARTMS\n\nOnce more.\nIt begins again.\n\n#ARTMS #아르테미스 #OURII https://t.co/zFNtOXeyQx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924466431258963969"
+          ]
+        },
+        "author_id": "1577551292763103232",
+        "conversation_id": "1924480174373863487",
+        "created_at": "2025-05-19T15:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T16:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924480174373863487"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "ARTMS",
+              "probability": 0.6456,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 41,
+              "normalized_text": "ARTMS",
+              "probability": 0.6209,
+              "start": 37,
+              "type": "Other"
+            },
+            {
+              "end": 48,
+              "normalized_text": "#아르테미스",
+              "probability": 0.5776,
+              "start": 43,
+              "type": "Person"
+            },
+            {
+              "end": 55,
+              "normalized_text": "OURII",
+              "probability": 0.3726,
+              "start": 51,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 36,
+              "tag": "ARTMS"
+            },
+            {
+              "end": 49,
+              "start": 43,
+              "tag": "아르테미스"
+            },
+            {
+              "end": 56,
+              "start": 50,
+              "tag": "OURII"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zFNtOXeyQx",
+              "end": 80,
+              "expanded_url": "https://x.com/official_artms/status/1924480174373863487/photo/1",
+              "media_key": "3_1924466431258963969",
+              "start": 57,
+              "url": "https://t.co/zFNtOXeyQx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924480174373863487",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2458,
+          "impression_count": 2533716,
+          "like_count": 56937,
+          "quote_count": 7251,
+          "reply_count": 601,
+          "retweet_count": 14292
+        },
+        "reply_settings": "everyone",
+        "text": "ARTMS\n\nOnce more.\nIt begins again.\n\n#ARTMS #아르테미스 #OURII https://t.co/zFNtOXeyQx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "废话多｜对所有人友好除了现生｜最可爱的小宝宝@QLing61007 😽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1917423348302467396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924678380655673348/VxgKyXwf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 430,
+          "like_count": 4485,
+          "listed_count": 1,
+          "media_count": 209,
+          "tweet_count": 1972
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-05T06:48:40.000Z",
+        "description": "ARTMS 'BURN' streaming platform 👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "orcd.co/artms_burn",
+                "end": 23,
+                "expanded_url": "https://orcd.co/artms_burn",
+                "start": 0,
+                "url": "https://t.co/KKC6gVgeZe"
+              }
+            ]
+          }
+        },
+        "id": "1577551292763103232",
+        "name": "Official ARTMS",
+        "pinned_tweet_id": "1908082120549150966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1641827949413564416/IYqRFyAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183920,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 881,
+          "media_count": 1389,
+          "tweet_count": 2143
+        },
+        "url": "https://t.co/KKC6gVgeZe",
+        "username": "official_artms",
+        "verified": true
+      }
+    ]
+  }
+}

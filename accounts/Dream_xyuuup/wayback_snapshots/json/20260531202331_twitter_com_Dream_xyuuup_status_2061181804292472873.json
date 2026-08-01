@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "2061181804292472873",
+    "created_at": "2026-05-31T20:23:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T21:23:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061181804292472873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1008615379885670400",
+          "start": 3,
+          "username": "zhinarensml8964"
+        },
+        {
+          "end": 33,
+          "id": "1854925585622892544",
+          "start": 21,
+          "username": "fantuan8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061181804292472873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061046412775927971",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhinarensml8964: @fantuan8964 我希望坟里埋的全是中国人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "2061181804292472873",
+        "created_at": "2026-05-31T20:23:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T21:23:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061181804292472873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1008615379885670400",
+              "start": 3,
+              "username": "zhinarensml8964"
+            },
+            {
+              "end": 33,
+              "id": "1854925585622892544",
+              "start": 21,
+              "username": "fantuan8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061181804292472873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061046412775927971",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhinarensml8964: @fantuan8964 我希望坟里埋的全是中国人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1008615379885670400",
+        "conversation_id": "2060988528759025841",
+        "created_at": "2026-05-31T11:25:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T12:25:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061046412775927971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1854925585622892544",
+              "start": 0,
+              "username": "fantuan8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061046412775927971",
+        "in_reply_to_user_id": "1854925585622892544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 168,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060988528759025841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fantuan8964 我希望坟里埋的全是中国人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "mtx,her/they\n我很蠢你们要理解我\n*・x・*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "弈鸠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059924129340592128/ItWjnHnF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 636,
+          "like_count": 8396,
+          "listed_count": 0,
+          "media_count": 642,
+          "tweet_count": 6320
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-18T07:40:20.000Z",
+        "description": "新教旨支黑，喜欢日帝反感日本国。不清真的炸猪排爱好者\n右翼威权主义者，秩序高于一切，法律至上\n目前正在学习外语以及研究日本帝国，大韩民国独裁时期和以色列国的历史。喜欢大文豪三岛由纪夫\n一代目@zhinarencnm8964三代目@zhinarensb8964四代目@zhinarencs8964\n⚠️无差别屏蔽垃圾账号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 95,
+                "username": "zhinarencnm8964"
+              },
+              {
+                "end": 129,
+                "start": 114,
+                "username": "zhinarensb8964"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "zhinarencs8964"
+              }
+            ]
+          }
+        },
+        "id": "1008615379885670400",
+        "location": "支那贱畜它妈的骚逼里",
+        "name": "古美门 正雄✡️🩵",
+        "pinned_tweet_id": "2060062202531655926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054311077811556352/SHVwh_ZW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 845,
+          "following_count": 1033,
+          "like_count": 41376,
+          "listed_count": 6,
+          "media_count": 666,
+          "tweet_count": 3792
+        },
+        "username": "zhinarensml8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-08T16:35:04.000Z",
+        "description": "我已急哭",
+        "id": "1854925585622892544",
+        "location": "Earth",
+        "name": "飯糰醬",
+        "pinned_tweet_id": "2060030520692449317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908369811156922368/mkKfzt5A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 581,
+          "following_count": 388,
+          "like_count": 10649,
+          "listed_count": 3,
+          "media_count": 189,
+          "tweet_count": 2466
+        },
+        "username": "fantuan8964",
+        "verified": false
+      }
+    ]
+  }
+}

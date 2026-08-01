@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1917085088283824130"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "1917085161960968519",
+    "created_at": "2025-04-29T05:14:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-29T06:14:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1917085161960968519"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VNgUMeTGxJ",
+          "end": 29,
+          "expanded_url": "https://x.com/Dream_xyuuup/status/1917085161960968519/video/1",
+          "media_key": "13_1917085088283824130",
+          "start": 6,
+          "url": "https://t.co/VNgUMeTGxJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917085161960968519",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的底力： https://t.co/VNgUMeTGxJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8880,
+        "height": 590,
+        "media_key": "13_1917085088283824130",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1917085088283824130/img/q4N8nLKkKbqkXbdI.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1917085088283824130/vid/avc1/584x270/sJdf-x9YlG4kNZCl.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1917085088283824130/vid/avc1/780x360/WNmXWOXxZxNZGHcz.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1917085088283824130/vid/avc1/1280x590/lSZtH7WEf28Ql_Ns.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1917085088283824130/pl/gh1rARaFPI5oTFAo.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1917085088283824130"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "1917085161960968519",
+        "created_at": "2025-04-29T05:14:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T06:14:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917085161960968519"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VNgUMeTGxJ",
+              "end": 29,
+              "expanded_url": "https://x.com/Dream_xyuuup/status/1917085161960968519/video/1",
+              "media_key": "13_1917085088283824130",
+              "start": 6,
+              "url": "https://t.co/VNgUMeTGxJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917085161960968519",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的底力： https://t.co/VNgUMeTGxJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "废话多 随机掉落负能量｜最近在偷偷幸福😼我成分复杂请慢慢研究我｜对所有人友善除了现生。｜最可爱的小宝宝@QLing61007 😽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 51,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠ltnh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905913123158298624/ClLLrGxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 393,
+          "like_count": 3726,
+          "listed_count": 1,
+          "media_count": 188,
+          "tweet_count": 1659
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      }
+    ]
+  }
+}

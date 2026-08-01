@@ -1,0 +1,377 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015026527964958720",
+        "13_2015026527835152384"
+      ],
+      "media_source_tweet_id": [
+        "2015026682034634978",
+        "2015026682034634978"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2015592198595834285",
+    "created_at": "2026-01-26T01:06:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T02:06:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015592198595834285"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1578618612289441792",
+          "start": 3,
+          "username": "Shoiws1080"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7CXXGsOEse",
+          "end": 79,
+          "expanded_url": "https://x.com/Shoiws1080/status/2015026682034634978/video/1",
+          "media_key": "3_2015026527964958720",
+          "start": 56,
+          "url": "https://t.co/7CXXGsOEse"
+        },
+        {
+          "display_url": "pic.x.com/7CXXGsOEse",
+          "end": 79,
+          "expanded_url": "https://x.com/Shoiws1080/status/2015026682034634978/video/1",
+          "media_key": "13_2015026527835152384",
+          "start": 56,
+          "url": "https://t.co/7CXXGsOEse"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015592198595834285",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 54
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015026682034634978",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Shoiws1080: エゴロック　93.7997% AA\n星5!!!!!\n面白いですねぇ〜このゲーム https://t.co/7CXXGsOEse"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2015026527964958720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_bP83xXEAAxR7a.jpg",
+        "width": 1536
+      },
+      {
+        "duration_ms": 109315,
+        "height": 1280,
+        "media_key": "13_2015026527835152384",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2015026527835152384/img/d-YqsuW11EeT1Vgv.jpg",
+        "public_metrics": {
+          "view_count": 12345
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015026527835152384/vid/avc1/320x568/svsI-tJOEOvC_0FU.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015026527835152384/vid/avc1/480x852/D2GoaPq8Is_LUFzk.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015026527835152384/vid/avc1/720x1280/8SL6DSXsfAsrmS0b.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2015026527835152384/pl/xq-Vt0KJfWIDoMIy.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015026527964958720",
+            "13_2015026527835152384"
+          ],
+          "media_source_tweet_id": [
+            "2015026682034634978",
+            "2015026682034634978"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2015592198595834285",
+        "created_at": "2026-01-26T01:06:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T02:06:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015592198595834285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1578618612289441792",
+              "start": 3,
+              "username": "Shoiws1080"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7CXXGsOEse",
+              "end": 79,
+              "expanded_url": "https://x.com/Shoiws1080/status/2015026682034634978/video/1",
+              "media_key": "3_2015026527964958720",
+              "start": 56,
+              "url": "https://t.co/7CXXGsOEse"
+            },
+            {
+              "display_url": "pic.x.com/7CXXGsOEse",
+              "end": 79,
+              "expanded_url": "https://x.com/Shoiws1080/status/2015026682034634978/video/1",
+              "media_key": "13_2015026527835152384",
+              "start": 56,
+              "url": "https://t.co/7CXXGsOEse"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015592198595834285",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 54
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015026682034634978",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Shoiws1080: エゴロック　93.7997% AA\n星5!!!!!\n面白いですねぇ〜このゲーム https://t.co/7CXXGsOEse"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015026527964958720",
+            "13_2015026527835152384"
+          ]
+        },
+        "author_id": "1578618612289441792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2015026682034634978",
+        "created_at": "2026-01-24T11:39:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T12:39:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015026682034634978"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7CXXGsOEse",
+              "end": 63,
+              "expanded_url": "https://x.com/Shoiws1080/status/2015026682034634978/video/1",
+              "media_key": "3_2015026527964958720",
+              "start": 40,
+              "url": "https://t.co/7CXXGsOEse"
+            },
+            {
+              "display_url": "pic.x.com/7CXXGsOEse",
+              "end": 63,
+              "expanded_url": "https://x.com/Shoiws1080/status/2015026682034634978/video/1",
+              "media_key": "13_2015026527835152384",
+              "start": 40,
+              "url": "https://t.co/7CXXGsOEse"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015026682034634978",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 37809,
+          "like_count": 499,
+          "quote_count": 19,
+          "reply_count": 0,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "エゴロック　93.7997% AA\n星5!!!!!\n面白いですねぇ〜このゲーム https://t.co/7CXXGsOEse"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "成分复杂，歌品感人，爱听跳楼机离别开出花，最喜欢的歌手是海来阿木，二次元赛高，最喜欢的番是蓝色监狱中二病，最喜欢的角色是三玖神里绫华猫羽雫，号主皮下165cm100kg，自带防弹衣捅一刀发现还没穿过脂肪层，出原味，出带着我后代的卫生纸，🚪8964，纯绿0721",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010631486530322432/50V-akck_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 600,
+          "like_count": 8008,
+          "listed_count": 1,
+          "media_count": 479,
+          "tweet_count": 4495
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-08T05:29:50.000Z",
+        "description": "4神2舞舞6将5極 でらっくスコア頑張ってます（でら理1）",
+        "id": "1578618612289441792",
+        "location": "湖",
+        "name": "いわし",
+        "pinned_tweet_id": "1951650239523565851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012902929179553793/T4u8ZP6E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1173,
+          "following_count": 1519,
+          "like_count": 38846,
+          "listed_count": 5,
+          "media_count": 2159,
+          "tweet_count": 13877
+        },
+        "username": "Shoiws1080",
+        "verified": false
+      }
+    ]
+  }
+}

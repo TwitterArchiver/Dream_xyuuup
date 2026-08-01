@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1946219301503213597",
+    "created_at": "2025-07-18T15:11:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T16:11:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946226411699667192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1825878217183633408",
+          "start": 0,
+          "username": "QLing61007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946226411699667192",
+    "in_reply_to_user_id": "1825878217183633408",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 4,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946219301503213597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QLing61007 保护好自己…你是最棒的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1946219301503213597",
+        "created_at": "2025-07-18T15:11:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T16:11:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946226411699667192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1825878217183633408",
+              "start": 0,
+              "username": "QLing61007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946226411699667192",
+        "in_reply_to_user_id": "1825878217183633408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946219301503213597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QLing61007 保护好自己…你是最棒的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1825878217183633408",
+        "conversation_id": "1946219301503213597",
+        "created_at": "2025-07-18T14:43:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T15:43:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946219301503213597"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1946219301503213597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉自己情绪变化的有点吓人 突然一种莫名其妙的浪潮向我冲来导致我现在不想活了..不行了我听歌睡觉好吗。11点前让我睡觉好吗😿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "yì jīu｜这里全是负能量没有正能量｜可爱的人@QLing61007",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 24,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933432998864826371/0SiPerD5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 521,
+          "like_count": 6433,
+          "listed_count": 0,
+          "media_count": 349,
+          "tweet_count": 3081
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-20T12:51:26.000Z",
+        "description": "第二个我：@qing_323 爱好碎碎念/听歌                      可爱的人：@Dream_xyuuup",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "qing_323"
+              },
+              {
+                "end": 63,
+                "start": 50,
+                "username": "Dream_xyuuup"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/7ing1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/7ing1",
+                "start": 0,
+                "url": "https://t.co/CuE8g2hmVm"
+              }
+            ]
+          }
+        },
+        "id": "1825878217183633408",
+        "name": "青虾滑",
+        "pinned_tweet_id": "1938811239565783051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941431280983269376/6pN6J3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 303,
+          "like_count": 2862,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 982
+        },
+        "url": "https://t.co/CuE8g2hmVm",
+        "username": "QLing61007",
+        "verified": false
+      }
+    ]
+  }
+}

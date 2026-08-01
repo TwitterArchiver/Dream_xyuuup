@@ -1,0 +1,432 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1975590282172506119",
+        "7_1975590287956467712",
+        "7_1975590293270634498"
+      ],
+      "media_source_tweet_id": [
+        "1975590363810390244",
+        "1975590363810390244",
+        "1975590363810390244"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1975828242952306885",
+    "created_at": "2025-10-08T07:38:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T08:38:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975828242952306885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1942051519395983360",
+          "start": 3,
+          "username": "bluewolflan66"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Wv4rqZLc59",
+          "end": 62,
+          "expanded_url": "https://x.com/bluewolflan66/status/1975590363810390244/video/1",
+          "media_key": "7_1975590282172506119",
+          "start": 39,
+          "url": "https://t.co/Wv4rqZLc59"
+        },
+        {
+          "display_url": "pic.x.com/Wv4rqZLc59",
+          "end": 62,
+          "expanded_url": "https://x.com/bluewolflan66/status/1975590363810390244/video/1",
+          "media_key": "7_1975590287956467712",
+          "start": 39,
+          "url": "https://t.co/Wv4rqZLc59"
+        },
+        {
+          "display_url": "pic.x.com/Wv4rqZLc59",
+          "end": 62,
+          "expanded_url": "https://x.com/bluewolflan66/status/1975590363810390244/video/1",
+          "media_key": "7_1975590293270634498",
+          "start": 39,
+          "url": "https://t.co/Wv4rqZLc59"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975828242952306885",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975590363810390244",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bluewolflan66: 快来和腊肉主席主席一起玩共享家园吧！🤩 https://t.co/Wv4rqZLc59"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9866,
+        "height": 464,
+        "media_key": "7_1975590282172506119",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1975590282172506119/pu/img/3LDHTuFcUnD7Dy8C.jpg",
+        "public_metrics": {
+          "view_count": 1188
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1975590282172506119/pu/vid/avc1/492x270/2ogBYbtYJyh8JzJ5.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1975590282172506119/pu/vid/avc1/848x464/2kkw0eUq2w357rrc.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1975590282172506119/pu/pl/Snjy1wRQStVCKWXP.m3u8?tag=12"
+          }
+        ],
+        "width": 848
+      },
+      {
+        "duration_ms": 9899,
+        "height": 464,
+        "media_key": "7_1975590287956467712",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1975590287956467712/pu/img/Y0ESUi_BCdHmYXVR.jpg",
+        "public_metrics": {
+          "view_count": 403
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1975590287956467712/pu/vid/avc1/492x270/LChGYMb8ndBd47Zb.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1975590287956467712/pu/vid/avc1/848x464/MNf_IUvzceydszKz.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1975590287956467712/pu/pl/8ePcLpQS4406hI1L.m3u8?tag=12"
+          }
+        ],
+        "width": 848
+      },
+      {
+        "duration_ms": 9866,
+        "height": 464,
+        "media_key": "7_1975590293270634498",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1975590293270634498/pu/img/0Fg1I6GIaEkK9vo1.jpg",
+        "public_metrics": {
+          "view_count": 295
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1975590293270634498/pu/vid/avc1/492x270/bnA3aYAXDgbCXvQP.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1975590293270634498/pu/vid/avc1/848x464/DKL3DjhGSg4iIVRB.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1975590293270634498/pu/pl/hHMV3cuMsUhNiheo.m3u8?tag=12"
+          }
+        ],
+        "width": 848
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1975590282172506119",
+            "7_1975590287956467712",
+            "7_1975590293270634498"
+          ],
+          "media_source_tweet_id": [
+            "1975590363810390244",
+            "1975590363810390244",
+            "1975590363810390244"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1975828242952306885",
+        "created_at": "2025-10-08T07:38:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T08:38:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975828242952306885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1942051519395983360",
+              "start": 3,
+              "username": "bluewolflan66"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wv4rqZLc59",
+              "end": 62,
+              "expanded_url": "https://x.com/bluewolflan66/status/1975590363810390244/video/1",
+              "media_key": "7_1975590282172506119",
+              "start": 39,
+              "url": "https://t.co/Wv4rqZLc59"
+            },
+            {
+              "display_url": "pic.x.com/Wv4rqZLc59",
+              "end": 62,
+              "expanded_url": "https://x.com/bluewolflan66/status/1975590363810390244/video/1",
+              "media_key": "7_1975590287956467712",
+              "start": 39,
+              "url": "https://t.co/Wv4rqZLc59"
+            },
+            {
+              "display_url": "pic.x.com/Wv4rqZLc59",
+              "end": 62,
+              "expanded_url": "https://x.com/bluewolflan66/status/1975590363810390244/video/1",
+              "media_key": "7_1975590293270634498",
+              "start": 39,
+              "url": "https://t.co/Wv4rqZLc59"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975828242952306885",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975590363810390244",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bluewolflan66: 快来和腊肉主席主席一起玩共享家园吧！🤩 https://t.co/Wv4rqZLc59"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1975590282172506119",
+            "7_1975590287956467712",
+            "7_1975590293270634498"
+          ]
+        },
+        "author_id": "1942051519395983360",
+        "conversation_id": "1975590363810390244",
+        "created_at": "2025-10-07T15:53:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T16:53:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975590363810390244"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wv4rqZLc59",
+              "end": 43,
+              "expanded_url": "https://x.com/bluewolflan66/status/1975590363810390244/video/1",
+              "media_key": "7_1975590282172506119",
+              "start": 20,
+              "url": "https://t.co/Wv4rqZLc59"
+            },
+            {
+              "display_url": "pic.x.com/Wv4rqZLc59",
+              "end": 43,
+              "expanded_url": "https://x.com/bluewolflan66/status/1975590363810390244/video/1",
+              "media_key": "7_1975590287956467712",
+              "start": 20,
+              "url": "https://t.co/Wv4rqZLc59"
+            },
+            {
+              "display_url": "pic.x.com/Wv4rqZLc59",
+              "end": 43,
+              "expanded_url": "https://x.com/bluewolflan66/status/1975590363810390244/video/1",
+              "media_key": "7_1975590293270634498",
+              "start": 20,
+              "url": "https://t.co/Wv4rqZLc59"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975590363810390244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 3401,
+          "like_count": 95,
+          "quote_count": 11,
+          "reply_count": 19,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "快来和腊肉主席主席一起玩共享家园吧！🤩 https://t.co/Wv4rqZLc59"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "我自私，病态，阴暗，偏执。所有大度、不在乎都是我的伪装。我窥探你的生活，揣测你的文案，解读你分享的一切，观察你身边的人，盯着你的照片妄想找到蛛丝马迹。我敏感，善变多疑，斤斤计较你多看别人的一眼。我爱你，你本来就应该乖乖待在我身边。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1953828269977219114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 570,
+          "like_count": 7077,
+          "listed_count": 1,
+          "media_count": 432,
+          "tweet_count": 3885
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T02:42:37.000Z",
+        "description": "🇹🇼🇯🇵🇺🇦🇮🇱  包蜜，小學博士生，管理老中這一块，安卓護照持有者，謝謝你發給我的台灣國國籍🥰",
+        "id": "1942051519395983360",
+        "location": "Singapore",
+        "name": "阿蘭（二代目）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973216585386172426/JtHE-ON8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 97,
+          "like_count": 990,
+          "listed_count": 2,
+          "media_count": 251,
+          "tweet_count": 710
+        },
+        "username": "bluewolflan66",
+        "verified": false
+      }
+    ]
+  }
+}

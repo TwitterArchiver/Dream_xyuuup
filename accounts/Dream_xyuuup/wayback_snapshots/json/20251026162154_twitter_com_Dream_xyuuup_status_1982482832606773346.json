@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1982482832606773346",
+    "created_at": "2025-10-26T16:21:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T17:21:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982482832606773346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1974109464593903618",
+          "start": 3,
+          "username": "Trash_ich_bin"
+        },
+        {
+          "end": 29,
+          "id": "1863439189909618688",
+          "start": 19,
+          "username": "hsn8086xe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982482832606773346",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981961824364011524",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Trash_ich_bin: @hsn8086xe 刚按下去就被群友砍成十袋少年团了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1982482832606773346",
+        "created_at": "2025-10-26T16:21:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T17:21:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982482832606773346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1974109464593903618",
+              "start": 3,
+              "username": "Trash_ich_bin"
+            },
+            {
+              "end": 29,
+              "id": "1863439189909618688",
+              "start": 19,
+              "username": "hsn8086xe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982482832606773346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981961824364011524",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Trash_ich_bin: @hsn8086xe 刚按下去就被群友砍成十袋少年团了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974109464593903618",
+        "conversation_id": "1981926003116224956",
+        "created_at": "2025-10-25T05:51:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T06:51:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981961824364011524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1863439189909618688",
+              "start": 0,
+              "username": "hsn8086xe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981961824364011524",
+        "in_reply_to_user_id": "1863439189909618688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 132,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981926003116224956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086xe 刚按下去就被群友砍成十袋少年团了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "我自私，病态，阴暗，偏执。所有大度、不在乎都是我的伪装。我窥探你的生活，揣测你的文案，解读你分享的一切，观察你身边的人，盯着你的照片妄想找到蛛丝马迹。我敏感，善变多疑，斤斤计较你多看别人的一眼。我爱你，你本来就应该乖乖待在我身边。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1953828269977219114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 580,
+          "like_count": 7285,
+          "listed_count": 1,
+          "media_count": 448,
+          "tweet_count": 4020
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-03T13:49:15.000Z",
+        "description": "我不需要被关心，因为我只是一袋垃圾。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "trash.com",
+                "end": 23,
+                "expanded_url": "http://www.trash.com",
+                "start": 0,
+                "url": "https://t.co/GZsvNBVldS"
+              }
+            ]
+          }
+        },
+        "id": "1974109464593903618",
+        "location": "垃圾桶",
+        "name": "一袋垃圾",
+        "pinned_tweet_id": "1981871939506561534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980699988314251264/gAIlfmkZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 179,
+          "like_count": 904,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 631
+        },
+        "url": "https://t.co/GZsvNBVldS",
+        "username": "Trash_ich_bin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T04:25:11.000Z",
+        "description": "都是老图 | 头像来自: @PetitPoissonXY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "PetitPoissonXY"
+              }
+            ]
+          }
+        },
+        "id": "1863439189909618688",
+        "location": "Internet",
+        "name": "hsn.bot",
+        "pinned_tweet_id": "1946867029245624703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897601834170404864/XYWOnn7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21706,
+          "following_count": 206,
+          "like_count": 53,
+          "listed_count": 62,
+          "media_count": 7196,
+          "tweet_count": 7220
+        },
+        "username": "hsn8086xe",
+        "verified": true
+      }
+    ]
+  }
+}

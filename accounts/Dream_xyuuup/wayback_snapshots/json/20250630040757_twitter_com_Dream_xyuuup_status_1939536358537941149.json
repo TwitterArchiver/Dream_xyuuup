@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1939536231118815232"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "1939536358537941149",
+    "created_at": "2025-06-30T04:07:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T05:07:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1939536358537941149"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CMnXi1KNMk",
+          "end": 37,
+          "expanded_url": "https://x.com/Dream_xyuuup/status/1939536358537941149/video/1",
+          "media_key": "13_1939536231118815232",
+          "start": 14,
+          "url": "https://t.co/CMnXi1KNMk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939536358537941149",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 22,
+      "like_count": 3,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这辆客车会通往我的好日子吗 https://t.co/CMnXi1KNMk"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4050,
+        "height": 960,
+        "media_key": "13_1939536231118815232",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1939536231118815232/img/6RtQAxDwe5FCTMN7.jpg",
+        "public_metrics": {
+          "view_count": 11
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1939536231118815232/vid/avc1/320x568/e_2BkoHH52zRlsOq.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1939536231118815232/vid/avc1/480x852/UZcQoTtdw2SDBIVH.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1939536231118815232/vid/avc1/540x960/rH-Dr-HeMKt6Yjrf.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1939536231118815232/pl/TN_gTZXCm7DqJKq7.m3u8?tag=14"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1939536231118815232"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "1939536358537941149",
+        "created_at": "2025-06-30T04:07:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T05:07:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939536358537941149"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CMnXi1KNMk",
+              "end": 37,
+              "expanded_url": "https://x.com/Dream_xyuuup/status/1939536358537941149/video/1",
+              "media_key": "13_1939536231118815232",
+              "start": 14,
+              "url": "https://t.co/CMnXi1KNMk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939536358537941149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这辆客车会通往我的好日子吗 https://t.co/CMnXi1KNMk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "yì jīu｜喜欢做梦｜我觉得我很温柔。｜可爱的人@QLing61007",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933432998864826371/0SiPerD5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 501,
+          "like_count": 6022,
+          "listed_count": 0,
+          "media_count": 315,
+          "tweet_count": 2811
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      }
+    ]
+  }
+}

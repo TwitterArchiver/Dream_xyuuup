@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989562416460611584"
+      ],
+      "media_source_tweet_id": [
+        "1989562419191181611"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "1989818515759796383",
+    "created_at": "2025-11-15T22:11:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T23:11:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989818515759796383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1613755449458974720",
+          "start": 3,
+          "username": "cherishillit"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/B6xGmegc8X",
+          "end": 70,
+          "expanded_url": "https://x.com/cherishillit/status/1989562419191181611/photo/1",
+          "media_key": "3_1989562416460611584",
+          "start": 47,
+          "url": "https://t.co/B6xGmegc8X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989818515759796383",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2316
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989562419191181611",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cherishillit: 샤오홍슈에서 엄청 유행하던 원희 짤..\n너무 예뻐😭 https://t.co/B6xGmegc8X"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 981,
+        "media_key": "3_1989562416460611584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5xYegOaQAAQziS.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989562416460611584"
+          ],
+          "media_source_tweet_id": [
+            "1989562419191181611"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "1989818515759796383",
+        "created_at": "2025-11-15T22:11:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T23:11:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989818515759796383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1613755449458974720",
+              "start": 3,
+              "username": "cherishillit"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/B6xGmegc8X",
+              "end": 70,
+              "expanded_url": "https://x.com/cherishillit/status/1989562419191181611/photo/1",
+              "media_key": "3_1989562416460611584",
+              "start": 47,
+              "url": "https://t.co/B6xGmegc8X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989818515759796383",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2316
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989562419191181611",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cherishillit: 샤오홍슈에서 엄청 유행하던 원희 짤..\n너무 예뻐😭 https://t.co/B6xGmegc8X"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989562416460611584"
+          ]
+        },
+        "author_id": "1613755449458974720",
+        "conversation_id": "1989562419191181611",
+        "created_at": "2025-11-15T05:13:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T06:13:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989562419191181611"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B6xGmegc8X",
+              "end": 52,
+              "expanded_url": "https://x.com/cherishillit/status/1989562419191181611/photo/1",
+              "media_key": "3_1989562416460611584",
+              "start": 29,
+              "url": "https://t.co/B6xGmegc8X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989562419191181611",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 718,
+          "impression_count": 164454,
+          "like_count": 10694,
+          "quote_count": 320,
+          "reply_count": 2,
+          "retweet_count": 2316
+        },
+        "reply_settings": "everyone",
+        "text": "샤오홍슈에서 엄청 유행하던 원희 짤..\n너무 예뻐😭 https://t.co/B6xGmegc8X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "没法活了，一切都是男的骗我，女的欠我，老的冤枉我，小的欺负我，中国的压迫我，外国的引诱我，身边的霸凌我，网上的取笑我，你们全都对不起我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1985535613857382587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 596,
+          "like_count": 7522,
+          "listed_count": 1,
+          "media_count": 461,
+          "tweet_count": 4139
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-13T04:31:17.000Z",
+        "description": "미스터리 아포칼립스 로맨틱 코미디 전환되는 장르",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spinspin.net/cherishillit",
+                "end": 23,
+                "expanded_url": "http://spinspin.net/cherishillit",
+                "start": 0,
+                "url": "https://t.co/hLSg0RiZ0z"
+              }
+            ]
+          }
+        },
+        "id": "1613755449458974720",
+        "name": "델리만쥬꒰⍢꒱ ༘*",
+        "pinned_tweet_id": "1989482309708648730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929068770171170819/k2YRqMx2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 476,
+          "like_count": 13449,
+          "listed_count": 2,
+          "media_count": 506,
+          "tweet_count": 1565
+        },
+        "url": "https://t.co/hLSg0RiZ0z",
+        "username": "cherishillit",
+        "verified": false
+      }
+    ]
+  }
+}

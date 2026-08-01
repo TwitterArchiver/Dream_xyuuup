@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1955113894671946145",
+    "created_at": "2025-08-12T06:21:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T07:21:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955152735764119782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1677149250919239680",
+          "start": 0,
+          "username": "goodloveskt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955152735764119782",
+    "in_reply_to_user_id": "1677149250919239680",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955113894671946145",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@goodloveskt 吃屎"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1407,
+        "media_key": "3_1955113891652046849",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyH1uc9aEAEVKFh.jpg",
+        "width": 878
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1955113894671946145",
+        "created_at": "2025-08-12T06:21:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T07:21:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955152735764119782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1677149250919239680",
+              "start": 0,
+              "username": "goodloveskt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955152735764119782",
+        "in_reply_to_user_id": "1677149250919239680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955113894671946145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@goodloveskt 吃屎"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955113891652046849"
+          ]
+        },
+        "author_id": "1677149250919239680",
+        "conversation_id": "1955113894671946145",
+        "created_at": "2025-08-12T03:47:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T04:47:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955113894671946145"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qbk1rRgaJm",
+              "end": 29,
+              "expanded_url": "https://x.com/goodloveskt/status/1955113894671946145/photo/1",
+              "media_key": "3_1955113891652046849",
+              "start": 6,
+              "url": "https://t.co/qbk1rRgaJm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955113894671946145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 36360,
+          "like_count": 225,
+          "quote_count": 14,
+          "reply_count": 228,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "懂饭局的来 https://t.co/qbk1rRgaJm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "yì jīu｜🏳️‍🌈｜谢谢你喜欢我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1953828269977219114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 547,
+          "like_count": 6675,
+          "listed_count": 0,
+          "media_count": 392,
+          "tweet_count": 3423
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-07T02:55:29.000Z",
+        "description": "我是yukee，推文仅供娱乐，每日分享有趣、有料的故事。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yoonayukee",
+                "end": 23,
+                "expanded_url": "https://t.me/yoonayukee",
+                "start": 0,
+                "url": "https://t.co/g42dWXYyVc"
+              }
+            ]
+          }
+        },
+        "id": "1677149250919239680",
+        "name": "yoonayukee",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677150644225052672/jm3SLzkd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 21,
+          "like_count": 11,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 756
+        },
+        "url": "https://t.co/g42dWXYyVc",
+        "username": "goodloveskt",
+        "verified": true
+      }
+    ]
+  }
+}

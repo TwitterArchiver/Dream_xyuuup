@@ -1,0 +1,117 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1917263166758871042"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "1917263177294963124",
+    "created_at": "2025-04-29T17:02:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-29T18:02:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1917263177294963124"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/I0zhH1eAAj",
+          "end": 32,
+          "expanded_url": "https://x.com/Dream_xyuuup/status/1917263177294963124/photo/1",
+          "media_key": "3_1917263166758871042",
+          "start": 9,
+          "url": "https://t.co/I0zhH1eAAj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917263177294963124",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "天雷滚滚我好怕怕 https://t.co/I0zhH1eAAj"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1917263177294963124].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1917263177294963124",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1917263177294963124"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1917263166758871042",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gpt8sSuaYAIQ1M5.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "废话多 随机掉落负能量｜最近在偷偷幸福😼我成分复杂请慢慢研究我｜对所有人友善除了现生。｜最可爱的小宝宝@QLing61007 😽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 51,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠ltnh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905913123158298624/ClLLrGxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 400,
+          "like_count": 3790,
+          "listed_count": 1,
+          "media_count": 190,
+          "tweet_count": 1696
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      }
+    ]
+  }
+}

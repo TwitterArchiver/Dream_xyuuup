@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1900743470018597356",
+    "created_at": "2025-03-15T03:03:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-15T04:03:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900744543710179548"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1885264267018199042",
+          "start": 0,
+          "username": "hcdhbg0713"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900744543710179548",
+    "in_reply_to_user_id": "1885264267018199042",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900743470018597356",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hcdhbg0713 说得好🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1900743470018597356",
+        "created_at": "2025-03-15T03:03:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T04:03:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900744543710179548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1885264267018199042",
+              "start": 0,
+              "username": "hcdhbg0713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900744543710179548",
+        "in_reply_to_user_id": "1885264267018199042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900743470018597356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hcdhbg0713 说得好🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885264267018199042",
+        "conversation_id": "1900743470018597356",
+        "created_at": "2025-03-15T02:58:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T03:58:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900743470018597356"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Dream_xyuuup/s…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/Dream_xyuuup/status/1900707757952803034",
+              "start": 54,
+              "url": "https://t.co/ToHtpUALWH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900743470018597356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900707757952803034",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "浪味仙有句话说得真的很好：\n“你又没钱，圈钱也圈不到你你怕什么。。”\n“难道我能在直播间里把你的钱抢走吗” https://t.co/ToHtpUALWH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "这是一本日记 喜欢视奸 互fo请赞自介条",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dreamxy_uuup",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dreamxy_uuup",
+                "start": 0,
+                "url": "https://t.co/V4QSiptJcT"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠ltnh",
+        "pinned_tweet_id": "1898320029139214432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896250221824520192/PpwkphAn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 130,
+          "like_count": 729,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 408
+        },
+        "url": "https://t.co/V4QSiptJcT",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-31T09:51:24.000Z",
+        "description": "骚b一个 但想做文艺b  我是男的 喜欢男的 推止于推 偶尔暴言别介意 介意就屏蔽我 提问箱：https://t.co/IReZOh5u8C 友链~小王子/夜宝：@AnYeEternal",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "AnYeEternal"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/hcdhbg0713",
+                "end": 70,
+                "expanded_url": "https://ngl.link/hcdhbg0713",
+                "start": 47,
+                "url": "https://t.co/IReZOh5u8C"
+              }
+            ]
+          }
+        },
+        "id": "1885264267018199042",
+        "name": "killlie.",
+        "pinned_tweet_id": "1900109810244427834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897573533137731584/C254uh0R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 673,
+          "following_count": 142,
+          "like_count": 1329,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 836
+        },
+        "username": "hcdhbg0713",
+        "verified": false
+      }
+    ]
+  }
+}

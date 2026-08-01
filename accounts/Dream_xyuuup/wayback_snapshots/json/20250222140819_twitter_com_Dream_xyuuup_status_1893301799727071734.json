@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1893301799727071734",
+    "created_at": "2025-02-22T14:08:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-22T15:08:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1893301799727071734"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/7eaf/status/18…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/7eaf/status/1893300441338790195",
+          "start": 5,
+          "url": "https://t.co/IImiDXC8dP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893301799727071734",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893300441338790195",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "美穗🥺🥺 https://t.co/IImiDXC8dP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1893300438440525826",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkZat7ZWwAIUwfY.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1893301799727071734",
+        "created_at": "2025-02-22T14:08:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T15:08:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893301799727071734"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/7eaf/status/18…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/7eaf/status/1893300441338790195",
+              "start": 5,
+              "url": "https://t.co/IImiDXC8dP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893301799727071734",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893300441338790195",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "美穗🥺🥺 https://t.co/IImiDXC8dP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893300438440525826"
+          ]
+        },
+        "author_id": "176790695",
+        "conversation_id": "1893300441338790195",
+        "created_at": "2025-02-22T14:02:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T15:02:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893300441338790195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qSf6bbsOfU",
+              "end": 26,
+              "expanded_url": "https://x.com/7eaF/status/1893300441338790195/photo/1",
+              "media_key": "3_1893300438440525826",
+              "start": 3,
+              "url": "https://t.co/qSf6bbsOfU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893300441338790195",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1196,
+          "like_count": 129,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "🪒💊 https://t.co/qSf6bbsOfU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "这是一本日记 可以把我视为现充 喜欢视奸#喵斯#有三次偶像#ISFP#🏳️‍🌈0.5",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dreamxy_uuup",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dreamxy_uuup",
+                "start": 0,
+                "url": "https://t.co/V4QSiptJcT"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠ltnh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892121675938004992/fWCivcy4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 78,
+          "like_count": 200,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 92
+        },
+        "url": "https://t.co/V4QSiptJcT",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2010-08-10T13:01:19.000Z",
+        "description": "音楽ゲームで音楽制作してます。現在新規制作は受け持っていません。\nサブ：@7eaFwi\n✉：kaeden1111@gmail.com\n🎞：https://t.co/1YF5ztGLlj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 36,
+                "username": "7eaFwi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/playlist?list=…",
+                "end": 92,
+                "expanded_url": "https://www.youtube.com/playlist?list=PLxQhJ2PgxAs9vpz-pN7zU-27KdfgJt24t",
+                "start": 69,
+                "url": "https://t.co/1YF5ztGLlj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "leafbms.web.fc2.com",
+                "end": 23,
+                "expanded_url": "http://leafbms.web.fc2.com/",
+                "start": 0,
+                "url": "https://t.co/xQlRGPy1Qh"
+              }
+            ]
+          }
+        },
+        "id": "176790695",
+        "name": "LeaF",
+        "pinned_tweet_id": "1871896969033183699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1028563642613002240/_cG7AQP8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108460,
+          "following_count": 112,
+          "like_count": 6663,
+          "listed_count": 336,
+          "media_count": 660,
+          "tweet_count": 6030
+        },
+        "url": "https://t.co/xQlRGPy1Qh",
+        "username": "7eaF",
+        "verified": false
+      }
+    ]
+  }
+}

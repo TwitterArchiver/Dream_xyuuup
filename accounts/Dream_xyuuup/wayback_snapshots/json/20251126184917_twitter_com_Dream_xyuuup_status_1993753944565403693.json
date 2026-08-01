@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1993751983493403082",
+    "created_at": "2025-11-26T18:49:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T19:49:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993753944565403693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1816148552764252169",
+          "start": 0,
+          "username": "w0sh1Asak1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993753944565403693",
+    "in_reply_to_user_id": "1816148552764252169",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993751983493403082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@w0sh1Asak1 大哥哥干啥呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1993751975658422272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6s628dagAAvzJM.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1993751983493403082",
+        "created_at": "2025-11-26T18:49:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T19:49:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993753944565403693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1816148552764252169",
+              "start": 0,
+              "username": "w0sh1Asak1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993753944565403693",
+        "in_reply_to_user_id": "1816148552764252169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993751983493403082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@w0sh1Asak1 大哥哥干啥呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993751975658422272"
+          ]
+        },
+        "author_id": "1816148552764252169",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1993751983493403082",
+        "created_at": "2025-11-26T18:41:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T19:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993751983493403082"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infintytweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infintytweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1991408857684537345/nHDPpzzX?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1991408857684537345/nHDPpzzX?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infintytweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/JkKgBzz2kc"
+            },
+            {
+              "display_url": "pic.x.com/CcEAnJ98mR",
+              "end": 64,
+              "expanded_url": "https://x.com/w0sh1Asak1/status/1993751983493403082/photo/1",
+              "media_key": "3_1993751975658422272",
+              "start": 41,
+              "url": "https://t.co/CcEAnJ98mR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993751983493403082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/JkKgBzz2kc https://t.co/CcEAnJ98mR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "你能想到的坏习惯我都有",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 604,
+          "like_count": 7831,
+          "listed_count": 1,
+          "media_count": 466,
+          "tweet_count": 4251
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-24T16:29:11.000Z",
+        "description": "本人性格相当恶劣 做好被炸死的准备再靠近\n五脏六腑 超级大大大果冻@Truffaut897456/唧唧@Jiji_O_o_jiiii/鸟兽兽@abt514514/前卫@vanofthess",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 33,
+                "username": "Truffaut897456"
+              },
+              {
+                "end": 66,
+                "start": 51,
+                "username": "Jiji_O_o_jiiii"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "abt514514"
+              },
+              {
+                "end": 94,
+                "start": 83,
+                "username": "vanofthess"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lovesick7.com",
+                "end": 23,
+                "expanded_url": "http://www.lovesick7.com",
+                "start": 0,
+                "url": "https://t.co/J2XoZ65lB4"
+              }
+            ]
+          }
+        },
+        "id": "1816148552764252169",
+        "location": "空悲切！",
+        "name": "天才美少女Asaak1#天津四",
+        "pinned_tweet_id": "1988674535563067445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989428243003551745/DlJEx61J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 945,
+          "following_count": 720,
+          "like_count": 24183,
+          "listed_count": 4,
+          "media_count": 480,
+          "tweet_count": 10963
+        },
+        "url": "https://t.co/J2XoZ65lB4",
+        "username": "w0sh1Asak1",
+        "verified": false
+      }
+    ]
+  }
+}

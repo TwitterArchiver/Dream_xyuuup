@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1913248075046437050",
+    "created_at": "2025-04-18T15:17:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-18T16:17:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913250481042079989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1614826297091592198",
+          "start": 0,
+          "username": "Winter_yoki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913250481042079989",
+    "in_reply_to_user_id": "1614826297091592198",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913248075046437050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Winter_yoki 好帅呀——\n但这个头发根本不长的喵班主任太苛刻了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1913248057245790208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go04-KNXcAA3lEu.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1913248075046437050",
+        "created_at": "2025-04-18T15:17:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T16:17:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913250481042079989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1614826297091592198",
+              "start": 0,
+              "username": "Winter_yoki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913250481042079989",
+        "in_reply_to_user_id": "1614826297091592198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913248075046437050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Winter_yoki 好帅呀——\n但这个头发根本不长的喵班主任太苛刻了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913248057245790208"
+          ]
+        },
+        "author_id": "1614826297091592198",
+        "conversation_id": "1913248075046437050",
+        "created_at": "2025-04-18T15:07:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T16:07:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913248075046437050"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pSdx1f1aJh",
+              "end": 80,
+              "expanded_url": "https://x.com/Winter_yoki/status/1913248075046437050/photo/1",
+              "media_key": "3_1913248057245790208",
+              "start": 57,
+              "url": "https://t.co/pSdx1f1aJh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913248075046437050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 382,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "班主任要我这周回去把头发剪了，我不会放过她的。。。\n\n（本人水印右下角，算是个关注我的福利？希望你喜欢小冬麦🥺） https://t.co/pSdx1f1aJh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "负能多废话多，对所有人友善除了现生。｜最可爱的小宝宝@QLing61007 😽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠ltnh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905913123158298624/ClLLrGxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 378,
+          "like_count": 3500,
+          "listed_count": 1,
+          "media_count": 174,
+          "tweet_count": 1528
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-16T03:26:15.000Z",
+        "description": "不管你是谁，因何机缘看到这个主页，都感谢你的注目 | 我是男孩子 | 随缘互fo  | 里推 ： @winter_whaet",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 49,
+                "username": "winter_whaet"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/spring_kawai/s…",
+                "end": 23,
+                "expanded_url": "https://x.com/spring_kawai/status/1912202037321687297",
+                "start": 0,
+                "url": "https://t.co/nUx05AvQmJ"
+              }
+            ]
+          }
+        },
+        "id": "1614826297091592198",
+        "location": "QQ扩列:",
+        "name": "冬麦yoki",
+        "pinned_tweet_id": "1911639431809057201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913241804566048768/yD2Lckzx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1573,
+          "following_count": 624,
+          "like_count": 13126,
+          "listed_count": 5,
+          "media_count": 382,
+          "tweet_count": 6428
+        },
+        "url": "https://t.co/nUx05AvQmJ",
+        "username": "Winter_yoki",
+        "verified": false
+      }
+    ]
+  }
+}

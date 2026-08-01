@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990448341914902531"
+      ],
+      "media_source_tweet_id": [
+        "1990448349376647465"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "1990890416984469797",
+    "created_at": "2025-11-18T21:10:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T22:10:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990890416984469797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1826141113297797120",
+          "start": 3,
+          "username": "HMNKU_iei"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6dlssZUioF",
+          "end": 41,
+          "expanded_url": "https://x.com/HMNKU_iei/status/1990448349376647465/photo/1",
+          "media_key": "3_1990448341914902531",
+          "start": 18,
+          "url": "https://t.co/6dlssZUioF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990890416984469797",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 915
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990448349376647465",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HMNKU_iei: 再掲 https://t.co/6dlssZUioF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1990448341914902531",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G59-OJuaYAMNHGg.jpg",
+        "width": 1164
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990448341914902531"
+          ],
+          "media_source_tweet_id": [
+            "1990448349376647465"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "1990890416984469797",
+        "created_at": "2025-11-18T21:10:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T22:10:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990890416984469797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1826141113297797120",
+              "start": 3,
+              "username": "HMNKU_iei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6dlssZUioF",
+              "end": 41,
+              "expanded_url": "https://x.com/HMNKU_iei/status/1990448349376647465/photo/1",
+              "media_key": "3_1990448341914902531",
+              "start": 18,
+              "url": "https://t.co/6dlssZUioF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990890416984469797",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 915
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990448349376647465",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HMNKU_iei: 再掲 https://t.co/6dlssZUioF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990448341914902531"
+          ]
+        },
+        "author_id": "1826141113297797120",
+        "conversation_id": "1990448349376647465",
+        "created_at": "2025-11-17T15:54:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T16:54:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990448349376647465"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6dlssZUioF",
+              "end": 26,
+              "expanded_url": "https://x.com/HMNKU_iei/status/1990448349376647465/photo/1",
+              "media_key": "3_1990448341914902531",
+              "start": 3,
+              "url": "https://t.co/6dlssZUioF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990448349376647465",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 677,
+          "impression_count": 63792,
+          "like_count": 7941,
+          "quote_count": 9,
+          "reply_count": 0,
+          "retweet_count": 915
+        },
+        "reply_settings": "everyone",
+        "text": "再掲 https://t.co/6dlssZUioF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "没法活了，一切都是男的骗我，女的欠我，老的冤枉我，小的欺负我，中国的压迫我，外国的引诱我，身边的霸凌我，网上的取笑我，你们全都对不起我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1985535613857382587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 595,
+          "like_count": 7569,
+          "listed_count": 1,
+          "media_count": 463,
+          "tweet_count": 4163
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-21T06:15:55.000Z",
+        "description": "フォロー非推奨😲依頼停止中│https://t.co/qYYTR4Fboe",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/himunyo",
+                "end": 37,
+                "expanded_url": "https://lit.link/himunyo",
+                "start": 14,
+                "url": "https://t.co/qYYTR4Fboe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/71ykae0sp4248g…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/71ykae0sp4248ga?t=1cLqpR&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/RBaPrdlwqr"
+              }
+            ]
+          }
+        },
+        "id": "1826141113297797120",
+        "name": "おおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおお",
+        "pinned_tweet_id": "1989600411620417547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990112991753474048/rvuGh5-K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1662,
+          "following_count": 72,
+          "like_count": 9273,
+          "listed_count": 5,
+          "media_count": 339,
+          "tweet_count": 3082
+        },
+        "url": "https://t.co/RBaPrdlwqr",
+        "username": "HMNKU_iei",
+        "verified": false
+      }
+    ]
+  }
+}

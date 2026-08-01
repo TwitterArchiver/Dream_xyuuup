@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1977044074503799087",
+    "created_at": "2025-10-11T16:10:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T17:10:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977044074503799087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1874528482442821633",
+          "start": 3,
+          "username": "KnightLeeda"
+        },
+        {
+          "end": 26,
+          "id": "1581478431274983424",
+          "start": 17,
+          "username": "zhoynqi3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977044074503799087",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976817417633648763",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KnightLeeda: @zhoynqi3 这个国家让蠢猪，害虫，社达和反社会人格活的非常舒适，唯独不适合正常人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1977044074503799087",
+        "created_at": "2025-10-11T16:10:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T17:10:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977044074503799087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1874528482442821633",
+              "start": 3,
+              "username": "KnightLeeda"
+            },
+            {
+              "end": 26,
+              "id": "1581478431274983424",
+              "start": 17,
+              "username": "zhoynqi3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977044074503799087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976817417633648763",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KnightLeeda: @zhoynqi3 这个国家让蠢猪，害虫，社达和反社会人格活的非常舒适，唯独不适合正常人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874528482442821633",
+        "conversation_id": "1976678769676177569",
+        "created_at": "2025-10-11T01:09:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T02:09:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976817417633648763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1581478431274983424",
+              "start": 0,
+              "username": "zhoynqi3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976817417633648763",
+        "in_reply_to_user_id": "1581478431274983424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2998,
+          "like_count": 244,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976678769676177569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhoynqi3 这个国家让蠢猪，害虫，社达和反社会人格活的非常舒适，唯独不适合正常人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "我自私，病态，阴暗，偏执。所有大度、不在乎都是我的伪装。我窥探你的生活，揣测你的文案，解读你分享的一切，观察你身边的人，盯着你的照片妄想找到蛛丝马迹。我敏感，善变多疑，斤斤计较你多看别人的一眼。我爱你，你本来就应该乖乖待在我身边。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1953828269977219114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 578,
+          "like_count": 7163,
+          "listed_count": 1,
+          "media_count": 441,
+          "tweet_count": 3928
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-01T18:49:59.000Z",
+        "description": "03，♀，不爱国，不歧视，欢迎粉红以外的人交流。\n有时候会使用翻译器，谢谢",
+        "id": "1874528482442821633",
+        "location": "Nodkrai",
+        "name": "幻翎🪶",
+        "pinned_tweet_id": "1962128566038217093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973093775808589824/ZL2InnMY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 187,
+          "like_count": 11743,
+          "listed_count": 1,
+          "media_count": 761,
+          "tweet_count": 5813
+        },
+        "username": "KnightLeeda",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-16T02:53:47.000Z",
+        "description": "🌈女同女权，友跨友双，LGBT支持者，混乱中立，不属于任何阵营。",
+        "id": "1581478431274983424",
+        "name": "yo89yo64",
+        "pinned_tweet_id": "1976511377679487385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1672979337656631298/mQbOFn-g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2781,
+          "following_count": 162,
+          "like_count": 22077,
+          "listed_count": 11,
+          "media_count": 189,
+          "tweet_count": 5190
+        },
+        "username": "zhoynqi3",
+        "verified": false
+      }
+    ]
+  }
+}

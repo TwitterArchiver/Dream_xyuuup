@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1992003030850658433",
+    "created_at": "2025-11-21T22:51:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T23:51:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992003030850658433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1357027477814534144",
+          "start": 3,
+          "username": "h0IgYSxmOE4pSuC"
+        },
+        {
+          "end": 31,
+          "id": "1344684604989476866",
+          "start": 21,
+          "username": "easonMax2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992003030850658433",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991910736873046198",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @h0IgYSxmOE4pSuC: @easonMax2 一条横杠是党，另一条横杠是国家，你能考100分是因为有党和国家当你坚实的地基！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1992003030850658433",
+        "created_at": "2025-11-21T22:51:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T23:51:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992003030850658433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1357027477814534144",
+              "start": 3,
+              "username": "h0IgYSxmOE4pSuC"
+            },
+            {
+              "end": 31,
+              "id": "1344684604989476866",
+              "start": 21,
+              "username": "easonMax2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992003030850658433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991910736873046198",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @h0IgYSxmOE4pSuC: @easonMax2 一条横杠是党，另一条横杠是国家，你能考100分是因为有党和国家当你坚实的地基！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1357027477814534144",
+        "conversation_id": "1991644277135536185",
+        "created_at": "2025-11-21T16:45:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T17:45:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991910736873046198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1344684604989476866",
+              "start": 0,
+              "username": "easonMax2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991910736873046198",
+        "in_reply_to_user_id": "1344684604989476866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49759,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991644277135536185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@easonMax2 一条横杠是党，另一条横杠是国家，你能考100分是因为有党和国家当你坚实的地基！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "你能想到的坏习惯我都有",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 597,
+          "like_count": 7738,
+          "listed_count": 1,
+          "media_count": 464,
+          "tweet_count": 4194
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-03T18:06:07.000Z",
+        "description": "缺爱，但不想做\n推特上的事止于推特",
+        "id": "1357027477814534144",
+        "name": "我是孤单的",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1357030839876378627/uQ8Gv0Od_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 183,
+          "like_count": 3955,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 7210
+        },
+        "username": "h0IgYSxmOE4pSuC",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-31T16:39:44.000Z",
+        "description": "传播海南自贸港声音，❤️💙🧡💛💜欢迎互fo,100%回关。🇨🇳🇨🇳🇨🇳Spread the voice of Hainan Free Trade Port！Followbake100%.侵删，黄赌毒别来",
+        "id": "1344684604989476866",
+        "location": "海南自由贸易港",
+        "name": "我爱自贸港🇨🇳🇨🇳🇨🇳eason Max❤️❤️❤️",
+        "pinned_tweet_id": "1991644277135536185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1720404313019953152/odAT-X0Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17806,
+          "following_count": 16409,
+          "like_count": 451567,
+          "listed_count": 34,
+          "media_count": 2097,
+          "tweet_count": 4827
+        },
+        "username": "easonMax2",
+        "verified": false
+      }
+    ]
+  }
+}

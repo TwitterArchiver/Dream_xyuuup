@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "2031270451520090427",
+    "created_at": "2026-03-10T15:33:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T16:33:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031392986538643567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2007161950418153472",
+          "start": 0,
+          "username": "niku000323"
+        },
+        {
+          "end": 22,
+          "id": "1722269486961848320",
+          "start": 12,
+          "username": "maojiang_"
+        },
+        {
+          "end": 38,
+          "id": "1922999120865751040",
+          "start": 23,
+          "username": "hvbetterchoice"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031392986538643567",
+    "in_reply_to_user_id": "2007161950418153472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031339495115862377",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@niku000323 @maojiang_ @hvbetterchoice 笑死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "2031270451520090427",
+        "created_at": "2026-03-10T15:33:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T16:33:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031392986538643567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2007161950418153472",
+              "start": 0,
+              "username": "niku000323"
+            },
+            {
+              "end": 22,
+              "id": "1722269486961848320",
+              "start": 12,
+              "username": "maojiang_"
+            },
+            {
+              "end": 38,
+              "id": "1922999120865751040",
+              "start": 23,
+              "username": "hvbetterchoice"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031392986538643567",
+        "in_reply_to_user_id": "2007161950418153472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031339495115862377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@niku000323 @maojiang_ @hvbetterchoice 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007161950418153472",
+        "conversation_id": "2031270451520090427",
+        "created_at": "2026-03-10T12:00:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T13:00:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031339495115862377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1722269486961848320",
+              "start": 0,
+              "username": "maojiang_"
+            },
+            {
+              "end": 26,
+              "id": "1922999120865751040",
+              "start": 11,
+              "username": "hvbetterchoice"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031339495115862377",
+        "in_reply_to_user_id": "1722269486961848320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031304453371080997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maojiang_ @hvbetterchoice 其实是毕业制假死脱身"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "enby｜音游｜歌品感人kpop cpop edm都有涉猎｜芙4心2礼3｜165 50｜od｜大爱无疆，欢迎互fo｜*・x・*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030145687112081408/jkx9VSSZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 625,
+          "like_count": 7910,
+          "listed_count": 1,
+          "media_count": 491,
+          "tweet_count": 4711
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-02T18:48:07.000Z",
+        "description": "",
+        "id": "2007161950418153472",
+        "name": "ni ku",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007162142445936640/lUZ6xuXm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 16,
+          "like_count": 569,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 91
+        },
+        "username": "niku000323",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-08T15:07:18.000Z",
+        "description": "操",
+        "id": "1722269486961848320",
+        "location": "Auckland, New Zealand",
+        "name": "sinclair_chloe",
+        "pinned_tweet_id": "1785298185470226721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933794313051516928/gmWM7PVE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 9,
+          "like_count": 234,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 140
+        },
+        "username": "maojiang_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-15T12:55:11.000Z",
+        "description": "不爱男不爱女只爱王者打的厉害的",
+        "id": "1922999120865751040",
+        "name": "Briantiy",
+        "pinned_tweet_id": "2028843340884824176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029562486203326464/RVh8x7ww_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1818,
+          "following_count": 17,
+          "like_count": 606,
+          "listed_count": 2,
+          "media_count": 27,
+          "tweet_count": 446
+        },
+        "username": "hvbetterchoice",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "2038172442733023676",
+    "created_at": "2026-03-29T16:14:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T17:14:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038288718042419251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1829929869528219649",
+          "start": 0,
+          "username": "xiaoh225129b"
+        },
+        {
+          "end": 21,
+          "id": "1883889657320247296",
+          "start": 14,
+          "username": "wyjmjq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038288718042419251",
+    "in_reply_to_user_id": "1829929869528219649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038263716966490226",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoh225129b @wyjmjq 一般这种不都是玩梗调侃吗？我想象不到真的有人连这点都不懂，我自己追星所以我很理解她文案的意思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "2038172442733023676",
+        "created_at": "2026-03-29T16:14:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T17:14:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038288718042419251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1829929869528219649",
+              "start": 0,
+              "username": "xiaoh225129b"
+            },
+            {
+              "end": 21,
+              "id": "1883889657320247296",
+              "start": 14,
+              "username": "wyjmjq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038288718042419251",
+        "in_reply_to_user_id": "1829929869528219649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038263716966490226",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoh225129b @wyjmjq 一般这种不都是玩梗调侃吗？我想象不到真的有人连这点都不懂，我自己追星所以我很理解她文案的意思"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829929869528219649",
+        "conversation_id": "2038172442733023676",
+        "created_at": "2026-03-29T14:35:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T15:35:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038263716966490226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1726051028112744448",
+              "start": 0,
+              "username": "Dream_xyuuup"
+            },
+            {
+              "end": 21,
+              "id": "1883889657320247296",
+              "start": 14,
+              "username": "wyjmjq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038263716966490226",
+        "in_reply_to_user_id": "1726051028112744448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1218,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038262134631719049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dream_xyuuup @wyjmjq 可是我也没提单依纯一个字，我只是说她很蠢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "enby｜音游｜歌品感人kpop cpop edm都有涉猎｜芙4心2礼3｜165 50｜od｜大爱无疆，欢迎互fo｜*・x・*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030145687112081408/jkx9VSSZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 624,
+          "like_count": 7982,
+          "listed_count": 1,
+          "media_count": 494,
+          "tweet_count": 4810
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-31T17:11:27.000Z",
+        "description": "",
+        "id": "1829929869528219649",
+        "name": "c",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977972465252057089/dqGsO3Rg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 176,
+          "like_count": 72,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 593
+        },
+        "username": "xiaoh225129b",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T14:48:00.000Z",
+        "description": "漂泊在那平庸之海^｜没有🚪不闲聊不加v(除了互关咳咳)。请不要骚扰我。😌｜提问箱https://t.co/4jr8RXjYs6 📭💬｜",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qm10691",
+                "end": 63,
+                "expanded_url": "https://ngl.link/qm10691",
+                "start": 40,
+                "url": "https://t.co/4jr8RXjYs6"
+              }
+            ]
+          }
+        },
+        "id": "1883889657320247296",
+        "location": "我想你",
+        "name": "FF77",
+        "pinned_tweet_id": "2021756444161585395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989604267015962624/6cModk4U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1387,
+          "following_count": 156,
+          "like_count": 11248,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 1641
+        },
+        "username": "wyjmjq",
+        "verified": false
+      }
+    ]
+  }
+}

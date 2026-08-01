@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030022923445059584"
+      ],
+      "media_source_tweet_id": [
+        "2030022928499143052"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2030153177375613173",
+    "created_at": "2026-03-07T05:26:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T06:26:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030153177375613173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1797291346157289472",
+          "start": 3,
+          "username": "lloyd510kuchazi"
+        },
+        {
+          "end": 28,
+          "id": "1613079089879076864",
+          "start": 21,
+          "username": "Cldeop"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UbKcnQsY48",
+          "end": 64,
+          "expanded_url": "https://x.com/lloyd510kuchazi/status/2030022928499143052/photo/1",
+          "media_key": "3_2030022923445059584",
+          "start": 41,
+          "url": "https://t.co/UbKcnQsY48"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030153177375613173",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030022928499143052",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lloyd510kuchazi: @Cldeop 散尽家财只为博美人一笑 https://t.co/UbKcnQsY48"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 962,
+        "media_key": "3_2030022923445059584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCwXF-XXwAApBy7.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030022923445059584"
+          ],
+          "media_source_tweet_id": [
+            "2030022928499143052"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2030153177375613173",
+        "created_at": "2026-03-07T05:26:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T06:26:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030153177375613173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1797291346157289472",
+              "start": 3,
+              "username": "lloyd510kuchazi"
+            },
+            {
+              "end": 28,
+              "id": "1613079089879076864",
+              "start": 21,
+              "username": "Cldeop"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UbKcnQsY48",
+              "end": 64,
+              "expanded_url": "https://x.com/lloyd510kuchazi/status/2030022928499143052/photo/1",
+              "media_key": "3_2030022923445059584",
+              "start": 41,
+              "url": "https://t.co/UbKcnQsY48"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030153177375613173",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030022928499143052",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lloyd510kuchazi: @Cldeop 散尽家财只为博美人一笑 https://t.co/UbKcnQsY48"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030022923445059584"
+          ]
+        },
+        "author_id": "1797291346157289472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2029914459683299562",
+        "created_at": "2026-03-06T20:49:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T21:49:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030022928499143052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1613079089879076864",
+              "start": 0,
+              "username": "Cldeop"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UbKcnQsY48",
+              "end": 43,
+              "expanded_url": "https://x.com/lloyd510kuchazi/status/2030022928499143052/photo/1",
+              "media_key": "3_2030022923445059584",
+              "start": 20,
+              "url": "https://t.co/UbKcnQsY48"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030022928499143052",
+        "in_reply_to_user_id": "1613079089879076864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 9450,
+          "like_count": 90,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029914459683299562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cldeop 散尽家财只为博美人一笑 https://t.co/UbKcnQsY48"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "没法活了，一切都是男的骗我，女的欠我，老的冤枉我，小的欺负我，中国的压迫我，外国的引诱我，身边的霸凌我，网上的取笑我，你们全都对不起我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "弈鸠",
+        "pinned_tweet_id": "2030151698833100840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030145687112081408/jkx9VSSZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 615,
+          "like_count": 7864,
+          "listed_count": 1,
+          "media_count": 490,
+          "tweet_count": 4685
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-02T15:37:46.000Z",
+        "description": "",
+        "id": "1797291346157289472",
+        "name": "Stir-Fried Underwear",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952240263054647296/Ljgd7tM__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 31,
+          "like_count": 253,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 61
+        },
+        "username": "lloyd510kuchazi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2027908377758863690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101415,
+          "following_count": 724,
+          "like_count": 34708,
+          "listed_count": 288,
+          "media_count": 16496,
+          "tweet_count": 23715
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

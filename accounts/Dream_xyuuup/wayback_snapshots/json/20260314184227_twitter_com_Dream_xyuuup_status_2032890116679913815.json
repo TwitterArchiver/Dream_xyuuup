@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032890100607336448"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "2032742966058729627",
+    "created_at": "2026-03-14T18:42:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T19:42:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032890116679913815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1973792014455152640",
+          "start": 0,
+          "username": "TTypezhi"
+        },
+        {
+          "end": 19,
+          "id": "1894622523033358336",
+          "start": 10,
+          "username": "QXY_WARD"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/du1PKa3BER",
+          "end": 52,
+          "expanded_url": "https://x.com/Dream_xyuuup/status/2032890116679913815/photo/1",
+          "media_key": "3_2032890100607336448",
+          "start": 29,
+          "url": "https://t.co/du1PKa3BER"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032890116679913815",
+    "in_reply_to_user_id": "1973792014455152640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032889620976029787",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TTypezhi @QXY_WARD 额我串的我也拍过 https://t.co/du1PKa3BER"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2032890100607336448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDZGxpobwAAlpgh.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032890100607336448"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "2032742966058729627",
+        "created_at": "2026-03-14T18:42:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T19:42:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032890116679913815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1973792014455152640",
+              "start": 0,
+              "username": "TTypezhi"
+            },
+            {
+              "end": 19,
+              "id": "1894622523033358336",
+              "start": 10,
+              "username": "QXY_WARD"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/du1PKa3BER",
+              "end": 52,
+              "expanded_url": "https://x.com/Dream_xyuuup/status/2032890116679913815/photo/1",
+              "media_key": "3_2032890100607336448",
+              "start": 29,
+              "url": "https://t.co/du1PKa3BER"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032890116679913815",
+        "in_reply_to_user_id": "1973792014455152640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032889620976029787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TTypezhi @QXY_WARD 额我串的我也拍过 https://t.co/du1PKa3BER"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1973792014455152640",
+        "conversation_id": "2032742966058729627",
+        "created_at": "2026-03-14T18:40:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T19:40:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032889620976029787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1726051028112744448",
+              "start": 0,
+              "username": "Dream_xyuuup"
+            },
+            {
+              "end": 23,
+              "id": "1894622523033358336",
+              "start": 14,
+              "username": "QXY_WARD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032889620976029787",
+        "in_reply_to_user_id": "1726051028112744448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032783407986729191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dream_xyuuup @QXY_WARD 我拿舞萌扫二维码的摄像头拍照也没人说啥呀（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "enby｜音游｜歌品感人kpop cpop edm都有涉猎｜芙4心2礼3｜165 50｜od｜大爱无疆，欢迎互fo｜*・x・*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030145687112081408/jkx9VSSZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 626,
+          "like_count": 7970,
+          "listed_count": 1,
+          "media_count": 492,
+          "tweet_count": 4744
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-02T16:47:54.000Z",
+        "description": "🏳️‍⚧️hrt:2025/01/09🍭/She Her/爱哭的小女孩/喜欢贴贴🥰🥰/身高167/持证含糖/好希望跟大家做朋友🥺/常驻湖北/生日20090307现在17喵🥺/永怀大号@zhishi_cook",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 91,
+                "username": "zhishi_cook"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zinet.top",
+                "end": 23,
+                "expanded_url": "http://zinet.top",
+                "start": 0,
+                "url": "https://t.co/SDCzGxo8Po"
+              }
+            ]
+          }
+        },
+        "id": "1973792014455152640",
+        "location": "🍥🍥🏳️‍⚧️🏳️‍⚧️",
+        "name": "知式（三代目）🍥🍭🥑🍰",
+        "pinned_tweet_id": "2013112043508035682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973792191043809284/lzew5Epz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2416,
+          "following_count": 1043,
+          "like_count": 57,
+          "listed_count": 2,
+          "media_count": 92,
+          "tweet_count": 653
+        },
+        "url": "https://t.co/SDCzGxo8Po",
+        "username": "TTypezhi",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-26T05:36:40.000Z",
+        "description": "翻车顺男 2025.8-2025.12(含糖but cease HRT)/友跨🏳️‍⚧️/femboy/翻唱歌手/喜欢的歌手是G.E.M.邓紫棋/WARD UNLIMITED #ZARD @gemoving",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 93,
+                "start": 88,
+                "tag": "ZARD"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 103,
+                "start": 94,
+                "username": "gemoving"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "v.kuaishou.com/2wC1DAB",
+                "end": 23,
+                "expanded_url": "https://v.kuaishou.com/2wC1DAB",
+                "start": 0,
+                "url": "https://t.co/JUQFpsYUQr"
+              }
+            ]
+          }
+        },
+        "id": "1894622523033358336",
+        "location": "Hong Kong",
+        "name": "是小怡呀🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031964019851231233/c9QZySdD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 749,
+          "following_count": 1274,
+          "like_count": 2813,
+          "listed_count": 1,
+          "media_count": 380,
+          "tweet_count": 1517
+        },
+        "url": "https://t.co/JUQFpsYUQr",
+        "username": "QXY_WARD",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1900766994594717940",
+    "created_at": "2025-03-15T04:32:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-15T05:32:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1900766994594717940"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aromaticnyan/s…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/aromaticnyan/status/1900697278660374854",
+          "start": 17,
+          "url": "https://t.co/53QQWNunVy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900766994594717940",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900697278660374854",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我吃自己的会感觉嘴里一股清凉（） https://t.co/53QQWNunVy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1900766994594717940",
+        "created_at": "2025-03-15T04:32:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T05:32:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900766994594717940"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aromaticnyan/s…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/aromaticnyan/status/1900697278660374854",
+              "start": 17,
+              "url": "https://t.co/53QQWNunVy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900766994594717940",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900697278660374854",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我吃自己的会感觉嘴里一股清凉（） https://t.co/53QQWNunVy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1710946461629001728",
+        "conversation_id": "1900697278660374854",
+        "created_at": "2025-03-14T23:55:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T00:55:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900697278660374854"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1900697278660374854",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 520,
+          "like_count": 24,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还有一件事,我很喜欢精液的味道,我也很想被射满口腔对着对方张开嘴展示成果,最后咽下去."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "这是一本日记 喜欢视奸 互fo请赞自介条",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dreamxy_uuup",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dreamxy_uuup",
+                "start": 0,
+                "url": "https://t.co/V4QSiptJcT"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠ltnh",
+        "pinned_tweet_id": "1898320029139214432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896250221824520192/PpwkphAn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 131,
+          "like_count": 734,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 413
+        },
+        "url": "https://t.co/V4QSiptJcT",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-08T09:13:24.000Z",
+        "description": "iambic\n\n我是男的.",
+        "id": "1710946461629001728",
+        "name": "Aromatic",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1710949867139534848/yCssD5EM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 123,
+          "like_count": 2557,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 1465
+        },
+        "username": "AromaticNyan",
+        "verified": false
+      }
+    ]
+  }
+}

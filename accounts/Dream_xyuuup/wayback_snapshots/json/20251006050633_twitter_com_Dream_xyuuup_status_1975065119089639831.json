@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1975065119089639831",
+    "created_at": "2025-10-06T05:06:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T06:06:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1975065119089639831"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/s1nyvu/status/…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/s1nyvu/status/1974547927814275576",
+          "start": 4,
+          "url": "https://t.co/4M3CTR6HDm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975065119089639831",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974547927814275576",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "别串了 https://t.co/4M3CTR6HDm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1800,
+        "media_key": "3_1974547925100593152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2cA4FObAAAVSun.jpg",
+        "width": 928
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1975065119089639831",
+        "created_at": "2025-10-06T05:06:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T06:06:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975065119089639831"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/s1nyvu/status/…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/s1nyvu/status/1974547927814275576",
+              "start": 4,
+              "url": "https://t.co/4M3CTR6HDm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975065119089639831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974547927814275576",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "别串了 https://t.co/4M3CTR6HDm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974547925100593152"
+          ]
+        },
+        "author_id": "1617523246144053251",
+        "conversation_id": "1974547927814275576",
+        "created_at": "2025-10-04T18:51:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T19:51:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974547927814275576"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NB9OLcAz0B",
+              "end": 98,
+              "expanded_url": "https://x.com/s1nyvu/status/1974547927814275576/photo/1",
+              "media_key": "3_1974547925100593152",
+              "start": 75,
+              "url": "https://t.co/NB9OLcAz0B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974547927814275576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 539,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "让子弹飞一会，飞的差不多了，暂时先锁推收个网，避免那个帖子进一步扩大影响引起某些人注意。\n现在给各位先公布一下我的拉黑规则，也算是我个人的倾向原则吧 https://t.co/NB9OLcAz0B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "我自私，病态，阴暗，偏执。所有大度、不在乎都是我的伪装。我窥探你的生活，揣测你的文案，解读你分享的一切，观察你身边的人，盯着你的照片妄想找到蛛丝马迹。我敏感，善变多疑，斤斤计较你多看别人的一眼。我爱你，你本来就应该乖乖待在我身边。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1953828269977219114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 565,
+          "like_count": 7018,
+          "listed_count": 1,
+          "media_count": 431,
+          "tweet_count": 3853
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-23T14:02:59.000Z",
+        "description": "跨➗（？）一枚|07|自高三辍学离家出走无业穷困一年余|enfj|文艺氰年，除了写文写歌啥也不会|濒死无门，找真心包养🥺|门🚪0.1￥（是的就是一毛钱）赞赏自愿|有那方面需求请私信，想骂我也请私信|好似喵|khn健全b乐子人勿扰",
+        "id": "1617523246144053251",
+        "name": "❄️雪梦歆屿",
+        "pinned_tweet_id": "1960624262114660464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968263087267692544/TsYFbUVy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 53,
+          "like_count": 129,
+          "listed_count": 0,
+          "media_count": 217,
+          "tweet_count": 1422
+        },
+        "username": "s1nyvu",
+        "verified": false
+      }
+    ]
+  }
+}

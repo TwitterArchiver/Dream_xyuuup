@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "2048958156206678385",
+    "created_at": "2026-04-28T02:51:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T03:51:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048958156206678385"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/satireorcry1/s…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/satireorcry1/status/2048652985530552356",
+          "start": 33,
+          "url": "https://t.co/JStGwHf9f5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048958156206678385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048652985530552356",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个逼口音中国人到底是怎么做到不笑出声的\n从小听到大我就一直想笑 https://t.co/JStGwHf9f5"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 39633,
+        "height": 1280,
+        "media_key": "13_2048652921991258112",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2048652921991258112/img/wLHZg1l4izlNILya.jpg",
+        "public_metrics": {
+          "view_count": 4821
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048652921991258112/vid/avc1/320x568/vnopE0dZEzQuC8rH.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048652921991258112/vid/avc1/480x852/IZTti3YvAOM_iJ0W.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048652921991258112/vid/avc1/720x1280/6iyM-jx15XLPbaay.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2048652921991258112/pl/nHINj-BtryHB0MEd.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "2048958156206678385",
+        "created_at": "2026-04-28T02:51:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T03:51:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048958156206678385"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/satireorcry1/s…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/satireorcry1/status/2048652985530552356",
+              "start": 33,
+              "url": "https://t.co/JStGwHf9f5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048958156206678385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048652985530552356",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个逼口音中国人到底是怎么做到不笑出声的\n从小听到大我就一直想笑 https://t.co/JStGwHf9f5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2048652921991258112"
+          ]
+        },
+        "author_id": "1993455710274043905",
+        "conversation_id": "2048652985530552356",
+        "created_at": "2026-04-27T06:38:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T07:38:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048652985530552356"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V2wB8t80ID",
+              "end": 49,
+              "expanded_url": "https://x.com/satireorcry1/status/2048652985530552356/video/1",
+              "media_key": "13_2048652921991258112",
+              "start": 26,
+              "url": "https://t.co/V2wB8t80ID"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048652985530552356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 11459,
+          "like_count": 113,
+          "quote_count": 4,
+          "reply_count": 123,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "粉红阿姨听到毛泽东讲话，热泪盈眶，一股暖流涌入心头 https://t.co/V2wB8t80ID"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "弈鸠，是谁？\nenby,her/they,kpop,激女粉红点进就死\n*・x・*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "脚踩你爷爷登顶称王",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041811823687823360/QQkkR0z6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 482,
+          "following_count": 612,
+          "like_count": 8191,
+          "listed_count": 1,
+          "media_count": 532,
+          "tweet_count": 5208
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-25T23:04:21.000Z",
+        "description": "专注梗图制作20年。 Professional meme maker for 20 years.\n\n欢迎商业洽谈，请用邮箱联系：furinana.x.com@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/furinanaX",
+                "end": 23,
+                "expanded_url": "https://t.me/furinanaX",
+                "start": 0,
+                "url": "https://t.co/EYxWvofvi1"
+              }
+            ]
+          }
+        },
+        "id": "1993455710274043905",
+        "location": "12 Millbank, London, SW1P 4QE",
+        "name": "芙宁娜娜💙Furinana (王者归来版）",
+        "pinned_tweet_id": "2038163914714660961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005923449881972736/kaKnegOz_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23539,
+          "following_count": 1561,
+          "like_count": 13941,
+          "listed_count": 52,
+          "media_count": 2792,
+          "tweet_count": 4173
+        },
+        "url": "https://t.co/EYxWvofvi1",
+        "username": "satireorcry1",
+        "verified": true
+      }
+    ]
+  }
+}

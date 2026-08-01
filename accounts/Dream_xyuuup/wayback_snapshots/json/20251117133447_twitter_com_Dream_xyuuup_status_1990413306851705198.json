@@ -1,0 +1,389 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990387998928564225",
+        "3_1990387998932811776"
+      ],
+      "media_source_tweet_id": [
+        "1990388019916861678",
+        "1990388019916861678"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1990413306851705198",
+    "created_at": "2025-11-17T13:34:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T14:34:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990413306851705198"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 26,
+          "tag": "大写字运动"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1239457591417171973",
+          "start": 3,
+          "username": "GFWfrog"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Kpc5mQKXoP",
+          "end": 56,
+          "expanded_url": "https://x.com/GFWfrog/status/1990388019916861678/photo/1",
+          "media_key": "3_1990387998928564225",
+          "start": 33,
+          "url": "https://t.co/Kpc5mQKXoP"
+        },
+        {
+          "display_url": "pic.x.com/Kpc5mQKXoP",
+          "end": 56,
+          "expanded_url": "https://x.com/GFWfrog/status/1990388019916861678/photo/1",
+          "media_key": "3_1990387998932811776",
+          "start": 33,
+          "url": "https://t.co/Kpc5mQKXoP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990413306851705198",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990388019916861678",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GFWfrog: 相思了\n🕶️ 匿名投稿\n\n#大写字运动 https://t.co/Kpc5mQKXoP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1990387998928564225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G59HVulWcAEtunO.jpg",
+        "width": 474
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1990387998932811776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G59HVumXQAAkbAN.jpg",
+        "width": 477
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990387998928564225",
+            "3_1990387998932811776"
+          ],
+          "media_source_tweet_id": [
+            "1990388019916861678",
+            "1990388019916861678"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1990413306851705198",
+        "created_at": "2025-11-17T13:34:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T14:34:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990413306851705198"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 26,
+              "tag": "大写字运动"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1239457591417171973",
+              "start": 3,
+              "username": "GFWfrog"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kpc5mQKXoP",
+              "end": 56,
+              "expanded_url": "https://x.com/GFWfrog/status/1990388019916861678/photo/1",
+              "media_key": "3_1990387998928564225",
+              "start": 33,
+              "url": "https://t.co/Kpc5mQKXoP"
+            },
+            {
+              "display_url": "pic.x.com/Kpc5mQKXoP",
+              "end": 56,
+              "expanded_url": "https://x.com/GFWfrog/status/1990388019916861678/photo/1",
+              "media_key": "3_1990387998932811776",
+              "start": 33,
+              "url": "https://t.co/Kpc5mQKXoP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990413306851705198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990388019916861678",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GFWfrog: 相思了\n🕶️ 匿名投稿\n\n#大写字运动 https://t.co/Kpc5mQKXoP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990387998928564225",
+            "3_1990387998932811776"
+          ]
+        },
+        "author_id": "1239457591417171973",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1990388019916861678",
+        "created_at": "2025-11-17T11:54:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T12:54:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990388019916861678"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 13,
+              "tag": "大写字运动"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kpc5mQKXoP",
+              "end": 43,
+              "expanded_url": "https://x.com/GFWfrog/status/1990388019916861678/photo/1",
+              "media_key": "3_1990387998928564225",
+              "start": 20,
+              "url": "https://t.co/Kpc5mQKXoP"
+            },
+            {
+              "display_url": "pic.x.com/Kpc5mQKXoP",
+              "end": 43,
+              "expanded_url": "https://x.com/GFWfrog/status/1990388019916861678/photo/1",
+              "media_key": "3_1990387998932811776",
+              "start": 20,
+              "url": "https://t.co/Kpc5mQKXoP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990388019916861678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 9359,
+          "like_count": 149,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "相思了\n🕶️ 匿名投稿\n\n#大写字运动 https://t.co/Kpc5mQKXoP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "没法活了，一切都是男的骗我，女的欠我，老的冤枉我，小的欺负我，中国的压迫我，外国的引诱我，身边的霸凌我，网上的取笑我，你们全都对不起我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1985535613857382587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 595,
+          "like_count": 7532,
+          "listed_count": 1,
+          "media_count": 462,
+          "tweet_count": 4147
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-16T07:44:59.000Z",
+        "description": "是墙国蛙蛤蛤不是强国娃哈哈🐸\n欢迎私信投稿\n\nTg群：https://t.co/BbAyHfnObj\n频道：https://t.co/Evu48wmwfT\n\n#大自爆运动 ：党政机关、国企、互联网大厂……无论在哪工作，欢迎一切有关审查机器与极权系统运作的投稿，用真实击败独裁！\n\n邮箱：gfwfrog@gmail.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 85,
+                "start": 79,
+                "tag": "大自爆运动"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/SpeedUpCN",
+                "end": 50,
+                "expanded_url": "https://t.me/SpeedUpCN",
+                "start": 27,
+                "url": "https://t.co/BbAyHfnObj"
+              },
+              {
+                "display_url": "t.me/XueXi_China",
+                "end": 77,
+                "expanded_url": "http://t.me/XueXi_China",
+                "start": 54,
+                "url": "https://t.co/Evu48wmwfT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "GFWbao.com",
+                "end": 23,
+                "expanded_url": "http://GFWbao.com",
+                "start": 0,
+                "url": "https://t.co/B3cyU85idW"
+              }
+            ]
+          }
+        },
+        "id": "1239457591417171973",
+        "location": "墙国",
+        "name": "墙国蛙蛤蛤🐸（大自爆运动💣习近乎脑残粉🐻）",
+        "pinned_tweet_id": "1990402361940938866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976883150937579520/e0qViSb7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250816,
+          "following_count": 1938,
+          "like_count": 100802,
+          "listed_count": 856,
+          "media_count": 5719,
+          "tweet_count": 10248
+        },
+        "url": "https://t.co/B3cyU85idW",
+        "username": "GFWfrog",
+        "verified": true
+      }
+    ]
+  }
+}

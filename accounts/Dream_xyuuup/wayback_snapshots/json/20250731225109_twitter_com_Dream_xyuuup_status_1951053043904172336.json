@@ -1,0 +1,507 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1458459580900335616",
+          "name": "IVE"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1458459580900335616",
+          "name": "IVE"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1458459580900335616",
+          "name": "IVE"
+        }
+      }
+    ],
+    "conversation_id": "1951053043904172336",
+    "created_at": "2025-07-31T22:51:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T23:51:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1951053043904172336"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ivestarship/st…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/ivestarship/status/1950921842665181378",
+          "start": 7,
+          "url": "https://t.co/awr2hg4t33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951053043904172336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950921842665181378",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谁的爱疯手机 https://t.co/awr2hg4t33"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5000,
+        "height": 2700,
+        "media_key": "13_1950921753322246144",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1950921753322246144/img/5l34JMZ4K_fmQMAA.jpg",
+        "public_metrics": {
+          "view_count": 44668
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1950921753322246144/vid/avc1/480x600/5T2EhhDZWsoCDKlx.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1950921753322246144/vid/avc1/2160x2700/21dGruQSwL8ZVGCk.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1950921753322246144/vid/avc1/1080x1350/txh1clqe2YYoVvJd.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1950921753322246144/vid/avc1/720x900/OCIzWdSKR_I61s_6.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1950921753322246144/pl/Gm6XlbFw7ib5011k.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1950921753322246144/vid/avc1/320x400/9a7CxICBZkVd1U0_.mp4"
+          }
+        ],
+        "width": 2160
+      },
+      {
+        "duration_ms": 5000,
+        "height": 2700,
+        "media_key": "13_1950921753355862017",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1950921753355862017/img/v9Yjg8mJ_jEZrJD5.jpg",
+        "public_metrics": {
+          "view_count": 18462
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1950921753355862017/vid/avc1/480x600/kBZwFlkXz-YIFWMm.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1950921753355862017/vid/avc1/1080x1350/sNR-TsnWL7lzZ-10.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1950921753355862017/vid/avc1/2160x2700/WnDeBveOuAvQSBJn.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1950921753355862017/pl/rFN2Ke0XgvOgUqfD.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1950921753355862017/vid/avc1/720x900/sTnjQrEqC-Q9ghjM.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1950921753355862017/vid/avc1/320x400/n6q46Z0ihbVggeTJ.mp4"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1458459580900335616",
+              "name": "IVE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1458459580900335616",
+              "name": "IVE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1458459580900335616",
+              "name": "IVE"
+            }
+          }
+        ],
+        "conversation_id": "1951053043904172336",
+        "created_at": "2025-07-31T22:51:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T23:51:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951053043904172336"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ivestarship/st…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/ivestarship/status/1950921842665181378",
+              "start": 7,
+              "url": "https://t.co/awr2hg4t33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951053043904172336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950921842665181378",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁的爱疯手机 https://t.co/awr2hg4t33"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1950921753322246144",
+            "13_1950921753355862017"
+          ]
+        },
+        "author_id": "1402182579265048598",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1458459580900335616",
+              "name": "IVE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1458459580900335616",
+              "name": "IVE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1458459580900335616",
+              "name": "IVE"
+            }
+          }
+        ],
+        "conversation_id": "1950921842665181378",
+        "created_at": "2025-07-31T14:09:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T15:09:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950921842665181378"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 71,
+              "normalized_text": "XOXZ",
+              "probability": 0.3195,
+              "start": 68,
+              "type": "Other"
+            },
+            {
+              "end": 93,
+              "normalized_text": "IVE",
+              "probability": 0.4545,
+              "start": 91,
+              "type": "Organization"
+            },
+            {
+              "end": 103,
+              "normalized_text": "IVE",
+              "probability": 0.5559,
+              "start": 101,
+              "type": "Organization"
+            },
+            {
+              "end": 116,
+              "normalized_text": "XOXZ",
+              "probability": 0.6776,
+              "start": 113,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 94,
+              "start": 90,
+              "tag": "IVE"
+            },
+            {
+              "end": 99,
+              "start": 95,
+              "tag": "아이브"
+            },
+            {
+              "end": 111,
+              "start": 100,
+              "tag": "IVE_SECRET"
+            },
+            {
+              "end": 117,
+              "start": 112,
+              "tag": "XOXZ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bjRuquvBfo",
+              "end": 141,
+              "expanded_url": "https://x.com/IVEstarship/status/1950921842665181378/video/1",
+              "media_key": "13_1950921753322246144",
+              "start": 118,
+              "url": "https://t.co/bjRuquvBfo"
+            },
+            {
+              "display_url": "pic.x.com/bjRuquvBfo",
+              "end": 141,
+              "expanded_url": "https://x.com/IVEstarship/status/1950921842665181378/video/1",
+              "media_key": "13_1950921753355862017",
+              "start": 118,
+              "url": "https://t.co/bjRuquvBfo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950921842665181378",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 225,
+          "impression_count": 256258,
+          "like_count": 11884,
+          "quote_count": 456,
+          "reply_count": 92,
+          "retweet_count": 4679
+        },
+        "reply_settings": "everyone",
+        "text": "IVE\nTHE 4th EP\n&lt; 𝐈𝐕𝐄 𝐒𝐄𝐂𝐑𝐄𝐓 &gt;\n\nALBUM RELEASE\n2025.08.25 MON\n\n'XOXZ' COMING SOON 📱🪽\n\n#IVE #아이브\n#IVE_SECRET\n#XOXZ https://t.co/bjRuquvBfo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "yì jīu｜不知道什么圈子，谢谢你的喜欢我也喜欢你喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 541,
+          "like_count": 6591,
+          "listed_count": 0,
+          "media_count": 359,
+          "tweet_count": 3233
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-08T08:36:06.000Z",
+        "description": "IVE OFFICIAL X (TWITTER)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "orcd.co/iveempathy",
+                "end": 23,
+                "expanded_url": "http://orcd.co/iveempathy",
+                "start": 0,
+                "url": "https://t.co/2acIIvQhtb"
+              }
+            ]
+          }
+        },
+        "id": "1402182579265048598",
+        "name": "IVE OFFICIAL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950923611965210624/uHWqiN0C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1514803,
+          "following_count": 6,
+          "like_count": 3560,
+          "listed_count": 5534,
+          "media_count": 3396,
+          "tweet_count": 11338
+        },
+        "url": "https://t.co/2acIIvQhtb",
+        "username": "IVEstarship",
+        "verified": true
+      }
+    ]
+  }
+}

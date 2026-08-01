@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1916704857085587643",
+    "created_at": "2025-04-28T17:48:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-28T18:48:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916912407584362921"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1788485889225834496",
+          "start": 0,
+          "username": "_temryava"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916912407584362921",
+    "in_reply_to_user_id": "1788485889225834496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916704857085587643",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_temryava 最近是5，，"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1194,
+        "media_key": "3_1916704848717987840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpmA558awAAObop.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1916704857085587643",
+        "created_at": "2025-04-28T17:48:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T18:48:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916912407584362921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "_temryava"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916912407584362921",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916704857085587643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_temryava 最近是5，，"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916704848717987840"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "1916704857085587643",
+        "created_at": "2025-04-28T04:03:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T05:03:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916704857085587643"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5gsipLUNcC",
+              "end": 30,
+              "expanded_url": "https://x.com/_temryava/status/1916704857085587643/photo/1",
+              "media_key": "3_1916704848717987840",
+              "start": 7,
+              "url": "https://t.co/5gsipLUNcC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916704857085587643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 155,
+          "impression_count": 73199,
+          "like_count": 1060,
+          "quote_count": 58,
+          "reply_count": 134,
+          "retweet_count": 93
+        },
+        "reply_settings": "everyone",
+        "text": "看看你的等级 https://t.co/5gsipLUNcC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "废话多 随机掉落负能量｜最近在偷偷幸福😼我成分复杂请慢慢研究我｜对所有人友善除了现生。｜最可爱的小宝宝@QLing61007 😽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 51,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠ltnh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905913123158298624/ClLLrGxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 392,
+          "like_count": 3705,
+          "listed_count": 1,
+          "media_count": 186,
+          "tweet_count": 1637
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "学着成为人类",
+        "id": "1788485889225834496",
+        "name": "Сонячна система",
+        "pinned_tweet_id": "1916394960716472367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910268710117675008/TifD1yiJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2967,
+          "following_count": 1762,
+          "like_count": 16081,
+          "listed_count": 4,
+          "media_count": 262,
+          "tweet_count": 6889
+        },
+        "username": "_temryava",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1943838815400960000",
+        "3_1943838815212478464"
+      ],
+      "media_source_tweet_id": [
+        "1943838841443692957",
+        "1943838841443692957"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1958662381665677813",
+    "created_at": "2025-08-21T22:47:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T23:47:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958662381665677813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1800739655005937664",
+          "start": 3,
+          "username": "lxnru524971501"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AqH6tEVG1X",
+          "end": 58,
+          "expanded_url": "https://x.com/lxnru524971501/status/1943838841443692957/photo/1",
+          "media_key": "3_1943838815400960000",
+          "start": 35,
+          "url": "https://t.co/AqH6tEVG1X"
+        },
+        {
+          "display_url": "pic.x.com/AqH6tEVG1X",
+          "end": 58,
+          "expanded_url": "https://x.com/lxnru524971501/status/1943838841443692957/photo/1",
+          "media_key": "3_1943838815212478464",
+          "start": 35,
+          "url": "https://t.co/AqH6tEVG1X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958662381665677813",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943838841443692957",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lxnru524971501: 你抱着我掉眼泪说这世界太复杂 https://t.co/AqH6tEVG1X"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1337,
+        "media_key": "3_1943838815400960000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvnnGoyXIAAefJx.jpg",
+        "width": 1011
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1943838815212478464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvnnGoFbIAAXIN7.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943838815400960000",
+            "3_1943838815212478464"
+          ],
+          "media_source_tweet_id": [
+            "1943838841443692957",
+            "1943838841443692957"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1958662381665677813",
+        "created_at": "2025-08-21T22:47:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T23:47:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958662381665677813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1800739655005937664",
+              "start": 3,
+              "username": "lxnru524971501"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AqH6tEVG1X",
+              "end": 58,
+              "expanded_url": "https://x.com/lxnru524971501/status/1943838841443692957/photo/1",
+              "media_key": "3_1943838815400960000",
+              "start": 35,
+              "url": "https://t.co/AqH6tEVG1X"
+            },
+            {
+              "display_url": "pic.x.com/AqH6tEVG1X",
+              "end": 58,
+              "expanded_url": "https://x.com/lxnru524971501/status/1943838841443692957/photo/1",
+              "media_key": "3_1943838815212478464",
+              "start": 35,
+              "url": "https://t.co/AqH6tEVG1X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958662381665677813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943838841443692957",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lxnru524971501: 你抱着我掉眼泪说这世界太复杂 https://t.co/AqH6tEVG1X"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943838815400960000",
+            "3_1943838815212478464"
+          ]
+        },
+        "author_id": "1800739655005937664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1943838841443692957",
+        "created_at": "2025-07-12T01:04:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T02:04:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943838841443692957"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AqH6tEVG1X",
+              "end": 38,
+              "expanded_url": "https://x.com/lxnru524971501/status/1943838841443692957/photo/1",
+              "media_key": "3_1943838815400960000",
+              "start": 15,
+              "url": "https://t.co/AqH6tEVG1X"
+            },
+            {
+              "display_url": "pic.x.com/AqH6tEVG1X",
+              "end": 38,
+              "expanded_url": "https://x.com/lxnru524971501/status/1943838841443692957/photo/1",
+              "media_key": "3_1943838815212478464",
+              "start": 15,
+              "url": "https://t.co/AqH6tEVG1X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943838841443692957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你抱着我掉眼泪说这世界太复杂 https://t.co/AqH6tEVG1X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "yì jīu｜🏳️‍🌈｜谢谢你喜欢我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1953828269977219114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 549,
+          "like_count": 6729,
+          "listed_count": 0,
+          "media_count": 404,
+          "tweet_count": 3540
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-12T03:59:46.000Z",
+        "description": "",
+        "id": "1800739655005937664",
+        "location": "🚪52纯绿",
+        "name": "伤口里流的都是泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943252908763471872/hLb4aVPU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 12,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 49
+        },
+        "username": "lxnru524971501",
+        "verified": false
+      }
+    ]
+  }
+}

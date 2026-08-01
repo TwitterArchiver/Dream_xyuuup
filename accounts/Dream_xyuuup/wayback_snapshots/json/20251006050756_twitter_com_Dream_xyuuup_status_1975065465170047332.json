@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1974782695248200177",
+    "created_at": "2025-10-06T05:07:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T06:07:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975065465170047332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1794249831688671234",
+          "start": 0,
+          "username": "SevernSalorin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975065465170047332",
+    "in_reply_to_user_id": "1794249831688671234",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974782695248200177",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SevernSalorin 大神何时w6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1974782657876860928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2fWXU9aIAAlk0l.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1974782657847582720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2fWXU2bYAAHx-l.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1974782657855889408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2fWXU4aIAAAkM1.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1974782657826533377",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2fWXUxaMAE7_NW.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1974782695248200177",
+        "created_at": "2025-10-06T05:07:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T06:07:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975065465170047332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1794249831688671234",
+              "start": 0,
+              "username": "SevernSalorin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975065465170047332",
+        "in_reply_to_user_id": "1794249831688671234",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974782695248200177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SevernSalorin 大神何时w6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974782657876860928",
+            "3_1974782657847582720",
+            "3_1974782657855889408",
+            "3_1974782657826533377"
+          ]
+        },
+        "author_id": "1794249831688671234",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1974782695248200177",
+        "created_at": "2025-10-05T10:24:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T11:24:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974782695248200177"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yb9wJ4AxUC",
+              "end": 37,
+              "expanded_url": "https://x.com/SevernSalorin/status/1974782695248200177/photo/1",
+              "media_key": "3_1974782657876860928",
+              "start": 14,
+              "url": "https://t.co/yb9wJ4AxUC"
+            },
+            {
+              "display_url": "pic.x.com/yb9wJ4AxUC",
+              "end": 37,
+              "expanded_url": "https://x.com/SevernSalorin/status/1974782695248200177/photo/1",
+              "media_key": "3_1974782657847582720",
+              "start": 14,
+              "url": "https://t.co/yb9wJ4AxUC"
+            },
+            {
+              "display_url": "pic.x.com/yb9wJ4AxUC",
+              "end": 37,
+              "expanded_url": "https://x.com/SevernSalorin/status/1974782695248200177/photo/1",
+              "media_key": "3_1974782657855889408",
+              "start": 14,
+              "url": "https://t.co/yb9wJ4AxUC"
+            },
+            {
+              "display_url": "pic.x.com/yb9wJ4AxUC",
+              "end": 37,
+              "expanded_url": "https://x.com/SevernSalorin/status/1974782695248200177/photo/1",
+              "media_key": "3_1974782657826533377",
+              "start": 14,
+              "url": "https://t.co/yb9wJ4AxUC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974782695248200177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 271,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近推分效率真的高得吓人😎 https://t.co/yb9wJ4AxUC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "我自私，病态，阴暗，偏执。所有大度、不在乎都是我的伪装。我窥探你的生活，揣测你的文案，解读你分享的一切，观察你身边的人，盯着你的照片妄想找到蛛丝马迹。我敏感，善变多疑，斤斤计较你多看别人的一眼。我爱你，你本来就应该乖乖待在我身边。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1953828269977219114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 565,
+          "like_count": 7020,
+          "listed_count": 1,
+          "media_count": 431,
+          "tweet_count": 3854
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-25T06:11:24.000Z",
+        "description": "Construction Cost Engineer，Rhythm Game，Coffee Day Booze Night🍸リズムゲーム，建築スタッフ，コーヒーとお酒，建筑某局某公司造价员音游人携小猫咪驻项目建大楼日咖夜酒的周遊記，可以找我扩列，期待您的Follow",
+        "id": "1794249831688671234",
+        "location": "People's Republic of China",
+        "name": "☨₭Я祁in鹿₳₦Jə།",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951208389989769219/L9Ctg4py_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 60,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 94
+        },
+        "username": "SevernSalorin",
+        "verified": false
+      }
+    ]
+  }
+}

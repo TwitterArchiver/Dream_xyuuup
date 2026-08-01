@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1933318197241131008",
+        "3_1933318197203329024"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      }
+    ],
+    "conversation_id": "1933318207571702245",
+    "created_at": "2025-06-13T00:19:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-13T01:19:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1933318207571702245"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WYLWlHuuah",
+          "end": 201,
+          "expanded_url": "https://x.com/Dream_xyuuup/status/1933318207571702245/photo/1",
+          "media_key": "3_1933318197241131008",
+          "start": 178,
+          "url": "https://t.co/WYLWlHuuah"
+        },
+        {
+          "display_url": "pic.x.com/WYLWlHuuah",
+          "end": 201,
+          "expanded_url": "https://x.com/Dream_xyuuup/status/1933318207571702245/photo/1",
+          "media_key": "3_1933318197203329024",
+          "start": 178,
+          "url": "https://t.co/WYLWlHuuah"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933318207571702245",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "自介\n                     ⌯･ᴗ･⌯ಣ  \n                      弈鸠\nkpop：ʚ 礼3芙4划沪 ɞ\n音游：phigros milthm musedash\n09 bmi稳定在16.3（？  重抑 可能会od/自残是男生 我很友好的🥰只要你不发大虫子…\n我喜欢交朋友 欢迎大家来找我🥰\n感谢你们喵  ⌯'▾'⌯ https://t.co/WYLWlHuuah"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1706,
+        "media_key": "3_1933318197241131008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtSGqEBbMAAhunw.jpg",
+        "width": 1279
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1933318197203329024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtSGqD4aYAAkDce.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933318197241131008",
+            "3_1933318197203329024"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          }
+        ],
+        "conversation_id": "1933318207571702245",
+        "created_at": "2025-06-13T00:19:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T01:19:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933318207571702245"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WYLWlHuuah",
+              "end": 201,
+              "expanded_url": "https://x.com/Dream_xyuuup/status/1933318207571702245/photo/1",
+              "media_key": "3_1933318197241131008",
+              "start": 178,
+              "url": "https://t.co/WYLWlHuuah"
+            },
+            {
+              "display_url": "pic.x.com/WYLWlHuuah",
+              "end": 201,
+              "expanded_url": "https://x.com/Dream_xyuuup/status/1933318207571702245/photo/1",
+              "media_key": "3_1933318197203329024",
+              "start": 178,
+              "url": "https://t.co/WYLWlHuuah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933318207571702245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自介\n                     ⌯･ᴗ･⌯ಣ  \n                      弈鸠\nkpop：ʚ 礼3芙4划沪 ɞ\n音游：phigros milthm musedash\n09 bmi稳定在16.3（？  重抑 可能会od/自残是男生 我很友好的🥰只要你不发大虫子…\n我喜欢交朋友 欢迎大家来找我🥰\n感谢你们喵  ⌯'▾'⌯ https://t.co/WYLWlHuuah"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "偏远乡村学校在读 偶尔od歌手 接下来有一个event 成分复杂爱看棒子 对所有人友好 最可爱的小宝宝@QLing61007 😽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 51,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1931176332370813214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932410719250808832/fkyl4o1f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 464,
+          "like_count": 5359,
+          "listed_count": 0,
+          "media_count": 266,
+          "tweet_count": 2400
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      }
+    ]
+  }
+}

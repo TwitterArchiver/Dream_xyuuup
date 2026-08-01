@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1931709842743496820",
+    "created_at": "2025-06-08T14:25:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T15:25:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931719285900259788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1725683921763905536",
+          "start": 0,
+          "username": "luonbe69"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931719285900259788",
+    "in_reply_to_user_id": "1725683921763905536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 6,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931709842743496820",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luonbe69 好帅"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14186,
+        "height": 576,
+        "media_key": "7_1931709816327852032",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1931709816327852032/pu/img/TiwskXEoE45SEMIx.jpg",
+        "public_metrics": {
+          "view_count": 41
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1931709816327852032/pu/vid/avc1/358x270/KBjiGnzwE3ImCtCW.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1931709816327852032/pu/vid/avc1/476x360/jl1IH3D10S_RLd8G.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1931709816327852032/pu/vid/avc1/764x576/CaOCxR-E-pzNqzN4.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1931709816327852032/pu/pl/D2hB95_wslyH3jxR.m3u8?tag=12"
+          }
+        ],
+        "width": 764
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1931709842743496820",
+        "created_at": "2025-06-08T14:25:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T15:25:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931719285900259788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1725683921763905536",
+              "start": 0,
+              "username": "luonbe69"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931719285900259788",
+        "in_reply_to_user_id": "1725683921763905536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931709842743496820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luonbe69 好帅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1931709816327852032"
+          ]
+        },
+        "author_id": "1725683921763905536",
+        "conversation_id": "1931709842743496820",
+        "created_at": "2025-06-08T13:48:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T14:48:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931709842743496820"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3LUouNUOJy",
+              "end": 23,
+              "expanded_url": "https://x.com/luonbe69/status/1931709842743496820/video/1",
+              "media_key": "7_1931709816327852032",
+              "start": 0,
+              "url": "https://t.co/3LUouNUOJy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931709842743496820",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/3LUouNUOJy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "偏远乡村学校在读 我应该不会再影响别人了 接下来有一个event 成分复杂 对所有人友好除了现生 最可爱的小宝宝@QLing61007 😽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 56,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "想回到家乡，我不要在这个冰冷无情的医院里了，我是健全的弈鸠",
+        "pinned_tweet_id": "1931176332370813214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924678380655673348/VxgKyXwf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 461,
+          "like_count": 5112,
+          "listed_count": 0,
+          "media_count": 253,
+          "tweet_count": 2295
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-18T01:14:59.000Z",
+        "description": "鸦 寂寞 世界 空心 呢喃 命运 废死 流浪 列车 白梦 闪烁 凝视 傲慢 节制 内脏 终焉 彷徨 憎恶 白躁 黄铜 血 糜烂 负荷 荒芜 哽咽 徘徊 雨",
+        "id": "1725683921763905536",
+        "location": "比邻星",
+        "name": "♰罗伦贝尔♰",
+        "pinned_tweet_id": "1930294464733687981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850527858571325440/tCL5f4k4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2619,
+          "following_count": 6169,
+          "like_count": 42660,
+          "listed_count": 4,
+          "media_count": 530,
+          "tweet_count": 17485
+        },
+        "username": "luonbe69",
+        "verified": false
+      }
+    ]
+  }
+}

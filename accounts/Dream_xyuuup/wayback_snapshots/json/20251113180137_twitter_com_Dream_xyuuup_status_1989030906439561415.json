@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1989030906439561415",
+    "created_at": "2025-11-13T18:01:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T19:01:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989030906439561415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1815649539057201152",
+          "start": 3,
+          "username": "NankyuSeiichi"
+        },
+        {
+          "end": 31,
+          "id": "1782080401575702528",
+          "start": 19,
+          "username": "__shilapi__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989030906439561415",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988562102965903721",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NankyuSeiichi: @__shilapi__ 哪里有性暗示？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1989030906439561415",
+        "created_at": "2025-11-13T18:01:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T19:01:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989030906439561415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1815649539057201152",
+              "start": 3,
+              "username": "NankyuSeiichi"
+            },
+            {
+              "end": 31,
+              "id": "1782080401575702528",
+              "start": 19,
+              "username": "__shilapi__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989030906439561415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988562102965903721",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NankyuSeiichi: @__shilapi__ 哪里有性暗示？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1815649539057201152",
+        "conversation_id": "1988547198863179864",
+        "created_at": "2025-11-12T10:58:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T11:58:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988562102965903721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1782080401575702528",
+              "start": 0,
+              "username": "__shilapi__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988562102965903721",
+        "in_reply_to_user_id": "1782080401575702528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4975,
+          "like_count": 88,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988547198863179864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__shilapi__ 哪里有性暗示？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "没法活了，一切都是男的骗我，女的欠我，老的冤枉我，小的欺负我，中国的压迫我，外国的引诱我，身边的霸凌我，网上的取笑我，你们全都对不起我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1985535613857382587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 593,
+          "like_count": 7486,
+          "listed_count": 1,
+          "media_count": 457,
+          "tweet_count": 4126
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-23T07:26:43.000Z",
+        "description": "我对象@yeol_lisu/加速南墙、历史决议、混乱控制、敬畏之心",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "yeol_lisu"
+              }
+            ]
+          }
+        },
+        "id": "1815649539057201152",
+        "name": "南宫清一",
+        "pinned_tweet_id": "1931922221225890292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898775251515023361/2MoJxyeP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1393,
+          "following_count": 1318,
+          "like_count": 25751,
+          "listed_count": 3,
+          "media_count": 665,
+          "tweet_count": 8360
+        },
+        "username": "NankyuSeiichi",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-21T16:14:18.000Z",
+        "description": "❤️🪵👉🏻@SDRAM_DIMTH",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 5,
+                "username": "SDRAM_DIMTH"
+              }
+            ]
+          }
+        },
+        "id": "1782080401575702528",
+        "location": "London, England",
+        "name": "Shilapi Nya~",
+        "pinned_tweet_id": "1936166464219939007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867011803735273472/PSw9n9L8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2169,
+          "following_count": 513,
+          "like_count": 15006,
+          "listed_count": 7,
+          "media_count": 154,
+          "tweet_count": 728
+        },
+        "username": "__shilapi__",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "2031738509178868044",
+    "created_at": "2026-03-11T16:31:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T17:31:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031769928844595257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1581209973094109185",
+          "start": 0,
+          "username": "hhh84672361"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031769928844595257",
+    "in_reply_to_user_id": "1581209973094109185",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031738509178868044",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hhh84672361 我看得都一股火，别人想摆脱掉的生活他还上赶着体验，估计吃雌二醇都是跟风"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2031738505500459008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDIvZ_jWgAAgQYr.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "2031738509178868044",
+        "created_at": "2026-03-11T16:31:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T17:31:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031769928844595257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1581209973094109185",
+              "start": 0,
+              "username": "hhh84672361"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031769928844595257",
+        "in_reply_to_user_id": "1581209973094109185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031738509178868044",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hhh84672361 我看得都一股火，别人想摆脱掉的生活他还上赶着体验，估计吃雌二醇都是跟风"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031738505500459008"
+          ]
+        },
+        "author_id": "1581209973094109185",
+        "conversation_id": "2031738509178868044",
+        "created_at": "2026-03-11T14:26:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T15:26:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031738509178868044"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bWYlM4HHeW",
+              "end": 153,
+              "expanded_url": "https://x.com/hhh84672361/status/2031738509178868044/photo/1",
+              "media_key": "3_2031738505500459008",
+              "start": 130,
+              "url": "https://t.co/bWYlM4HHeW"
+            },
+            {
+              "display_url": "x.com/Snow_Xue_/stat…",
+              "end": 177,
+              "expanded_url": "https://twitter.com/Snow_Xue_/status/2031673221150584982",
+              "start": 154,
+              "url": "https://t.co/cyY84lwQcZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031738509178868044",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 275,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031673221150584982",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就说这样人的行为成了群体刻板印象有多可恶吧\n买了普瑞被看见了还没开始吃想戒立马就可以戒，成瘾物被家长发现不是选择丢掉维持现状而是跑路也要来两口吗，抛弃家长供养在出租屋用全是刀伤的手臂o愈美再吐的到处都是，未来大概率成真的描述，这就是你理想的生活吗\n脑子有问题 https://t.co/bWYlM4HHeW https://t.co/cyY84lwQcZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "enby｜音游｜歌品感人kpop cpop edm都有涉猎｜芙4心2礼3｜165 50｜od｜大爱无疆，欢迎互fo｜*・x・*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030145687112081408/jkx9VSSZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 624,
+          "like_count": 7915,
+          "listed_count": 1,
+          "media_count": 490,
+          "tweet_count": 4715
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-15T09:06:57.000Z",
+        "description": "左派互fo/不欢迎骂人/\n本人不认同言论自由，故账号所有者保留拉黑删评一切低能目田逆民粉红的一切权力",
+        "id": "1581209973094109185",
+        "name": "eabab🍥💙💛🇵🇸🇯🇵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938289246164684806/cr4zfItR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 1704,
+          "like_count": 5624,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 1037
+        },
+        "username": "hhh84672361",
+        "verified": false
+      }
+    ]
+  }
+}

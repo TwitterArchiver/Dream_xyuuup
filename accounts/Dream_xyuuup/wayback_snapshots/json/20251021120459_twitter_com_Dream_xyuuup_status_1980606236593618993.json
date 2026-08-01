@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1980606236593618993",
+    "created_at": "2025-10-21T12:04:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T13:04:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980606236593618993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1606351071206674438",
+          "start": 3,
+          "username": "jiyn91306622"
+        },
+        {
+          "end": 31,
+          "id": "1726051028112744448",
+          "start": 18,
+          "username": "Dream_xyuuup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980606236593618993",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980593390938124484",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jiyn91306622: @Dream_xyuuup 爸爸🥵🥵🥵🥵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1980606236593618993",
+        "created_at": "2025-10-21T12:04:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T13:04:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980606236593618993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1606351071206674438",
+              "start": 3,
+              "username": "jiyn91306622"
+            },
+            {
+              "end": 31,
+              "id": "1726051028112744448",
+              "start": 18,
+              "username": "Dream_xyuuup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980606236593618993",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980593390938124484",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jiyn91306622: @Dream_xyuuup 爸爸🥵🥵🥵🥵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1606351071206674438",
+        "conversation_id": "1979948696734474524",
+        "created_at": "2025-10-21T11:13:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T12:13:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980593390938124484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1726051028112744448",
+              "start": 0,
+              "username": "Dream_xyuuup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980593390938124484",
+        "in_reply_to_user_id": "1726051028112744448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980593071168581689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dream_xyuuup 爸爸🥵🥵🥵🥵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "我自私，病态，阴暗，偏执。所有大度、不在乎都是我的伪装。我窥探你的生活，揣测你的文案，解读你分享的一切，观察你身边的人，盯着你的照片妄想找到蛛丝马迹。我敏感，善变多疑，斤斤计较你多看别人的一眼。我爱你，你本来就应该乖乖待在我身边。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1953828269977219114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 580,
+          "like_count": 7206,
+          "listed_count": 1,
+          "media_count": 443,
+          "tweet_count": 3962
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-23T18:08:44.000Z",
+        "description": "🏳️",
+        "id": "1606351071206674438",
+        "name": "你踩到我的呕吐物了",
+        "pinned_tweet_id": "1980201202207138162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896598211961434112/BmTnJzsQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 626,
+          "following_count": 922,
+          "like_count": 21649,
+          "listed_count": 3,
+          "media_count": 214,
+          "tweet_count": 4480
+        },
+        "username": "jiyn91306622",
+        "verified": false
+      }
+    ]
+  }
+}

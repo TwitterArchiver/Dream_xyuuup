@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1999507518419091617",
+    "created_at": "2025-12-13T09:18:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T10:18:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999770941019304429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1595050187529285632",
+          "start": 0,
+          "username": "aliii67285114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999770941019304429",
+    "in_reply_to_user_id": "1595050187529285632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999507518419091617",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aliii67285114 这小鸭子咋嫩好"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1999507513851674630",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7-tfXDagAYU5PB.jpg",
+        "width": 1616
+      },
+      {
+        "height": 1728,
+        "media_key": "3_1999507513499353094",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7-tfVvagAYxnWc.jpg",
+        "width": 1136
+      },
+      {
+        "height": 1696,
+        "media_key": "3_1999507514531172352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7-tfZla0AAeHNu.jpg",
+        "width": 1116
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1999507513696530432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7-tfWebMAARYz4.jpg",
+        "width": 1616
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1999507518419091617",
+        "created_at": "2025-12-13T09:18:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T10:18:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999770941019304429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1595050187529285632",
+              "start": 0,
+              "username": "aliii67285114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999770941019304429",
+        "in_reply_to_user_id": "1595050187529285632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999507518419091617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aliii67285114 这小鸭子咋嫩好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999507513851674630",
+            "3_1999507513499353094",
+            "3_1999507514531172352",
+            "3_1999507513696530432"
+          ]
+        },
+        "author_id": "1595050187529285632",
+        "conversation_id": "1999507518419091617",
+        "created_at": "2025-12-12T15:51:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T16:51:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999507518419091617"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0Nn5w0ngXu",
+              "end": 29,
+              "expanded_url": "https://x.com/aliii67285114/status/1999507518419091617/photo/1",
+              "media_key": "3_1999507513851674630",
+              "start": 6,
+              "url": "https://t.co/0Nn5w0ngXu"
+            },
+            {
+              "display_url": "pic.x.com/0Nn5w0ngXu",
+              "end": 29,
+              "expanded_url": "https://x.com/aliii67285114/status/1999507518419091617/photo/1",
+              "media_key": "3_1999507513499353094",
+              "start": 6,
+              "url": "https://t.co/0Nn5w0ngXu"
+            },
+            {
+              "display_url": "pic.x.com/0Nn5w0ngXu",
+              "end": 29,
+              "expanded_url": "https://x.com/aliii67285114/status/1999507518419091617/photo/1",
+              "media_key": "3_1999507514531172352",
+              "start": 6,
+              "url": "https://t.co/0Nn5w0ngXu"
+            },
+            {
+              "display_url": "pic.x.com/0Nn5w0ngXu",
+              "end": 29,
+              "expanded_url": "https://x.com/aliii67285114/status/1999507518419091617/photo/1",
+              "media_key": "3_1999507513696530432",
+              "start": 6,
+              "url": "https://t.co/0Nn5w0ngXu"
+            },
+            {
+              "display_url": "x.com/aliii67285114/…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/aliii67285114/status/1999333141308408185",
+              "start": 30,
+              "url": "https://t.co/m93KUiS9Rp"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "8bd61930ae4f642d"
+        },
+        "id": "1999507518419091617",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 971,
+          "like_count": 22,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999333141308408185",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "雪國（貳） https://t.co/0Nn5w0ngXu https://t.co/m93KUiS9Rp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "你能想到的坏习惯我都有",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998066182315020289/_eUXKzgo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 601,
+          "like_count": 7909,
+          "listed_count": 1,
+          "media_count": 475,
+          "tweet_count": 4325
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-22T13:43:02.000Z",
+        "description": "置顶外烟价格表 欢迎随时私讯购买|书信明信片便宜代写代寄多种字体多种文字皆可选用🏳️‍🌈09生/最I的ENFP/16 172 60 0.5/呼和浩特高一國際生/晉東巫女/正體字/張家口下花園語|里推下方💐『存古存舊，且筆且歌；遺羣白鹿，遍歷青崖。至雅至美，平和博愛；興我東亞，自由民族。』",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/shaashvatameie…",
+                "end": 23,
+                "expanded_url": "https://x.com/shaashvatameien?t=D7bbI0rJE660eraGi8FbGA&s=05",
+                "start": 0,
+                "url": "https://t.co/1e8FLJVMFn"
+              }
+            ]
+          }
+        },
+        "id": "1595050187529285632",
+        "location": "Mongolia",
+        "name": "長明（外烟代/我是男高！）ᠴᠠᠩ ᠮᠢᠩ/ꡑꡃꡚꡏꡞꡃ🔜唸書",
+        "pinned_tweet_id": "1954773947444273522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998026565112991744/Lmxy8VX7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3084,
+          "following_count": 2865,
+          "like_count": 87072,
+          "listed_count": 5,
+          "media_count": 1179,
+          "tweet_count": 18237
+        },
+        "url": "https://t.co/1e8FLJVMFn",
+        "username": "aliii67285114",
+        "verified": false
+      }
+    ]
+  }
+}

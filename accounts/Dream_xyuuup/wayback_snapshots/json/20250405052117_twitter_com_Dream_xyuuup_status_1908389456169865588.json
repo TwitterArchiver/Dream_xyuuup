@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1908388732572753947",
+    "created_at": "2025-04-05T05:21:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T06:21:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908389456169865588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1753348784573001728",
+          "start": 0,
+          "username": "Cheshire_kwine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908389456169865588",
+    "in_reply_to_user_id": "1753348784573001728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908388732572753947",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cheshire_kwine 好地狱"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24171,
+        "height": 480,
+        "media_key": "7_1908388625022361600",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1908388625022361600/pu/img/LDg-_Lyp-lg2al86.jpg",
+        "public_metrics": {
+          "view_count": 7
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1908388625022361600/pu/vid/avc1/320x480/TW05I9laAJ-fDszP.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1908388625022361600/pu/pl/xV30g7M-pQR3g4w0.m3u8?tag=12"
+          }
+        ],
+        "width": 320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1908388732572753947",
+        "created_at": "2025-04-05T05:21:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T06:21:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908389456169865588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1753348784573001728",
+              "start": 0,
+              "username": "Cheshire_kwine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908389456169865588",
+        "in_reply_to_user_id": "1753348784573001728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908388732572753947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheshire_kwine 好地狱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1908388625022361600"
+          ]
+        },
+        "author_id": "1753348784573001728",
+        "conversation_id": "1908388732572753947",
+        "created_at": "2025-04-05T05:18:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T06:18:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908388732572753947"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AvGiGhZWNa",
+              "end": 29,
+              "expanded_url": "https://x.com/Cheshire_kwine/status/1908388732572753947/video/1",
+              "media_key": "7_1908388625022361600",
+              "start": 6,
+              "url": "https://t.co/AvGiGhZWNa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908388732572753947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这辈子直了 https://t.co/AvGiGhZWNa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "数学满分是假的数学家也是假的数学没及格过最近一次考试32/100嗯你们不要接了 对所有人温良除了现生",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠ltnh（未来最厉害的数学家数学满分版😋）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905913123158298624/ClLLrGxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 322,
+          "like_count": 2947,
+          "listed_count": 2,
+          "media_count": 146,
+          "tweet_count": 1240
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T09:25:33.000Z",
+        "description": "我的大脑皮层 是我所见过最理智最自由的地方。在这里色欲被正视，失败也只是一种人生状态，大家甚至尊重全唐患者，家徒四壁也不会成为交流障碍，每个人表现出如儿童般直白的索取欲。拒绝一切伪善，相信伟大终究平凡，正视成功学的无用，知道奋斗和努力是比回避更低级的社会性遵从，是弱势者存活的借口。而挣脱一切的第一步就是反其道而行之😈",
+        "id": "1753348784573001728",
+        "location": "大脑皮层 额下回 白洛嘉区",
+        "name": "邪恶糊渐层🐱",
+        "pinned_tweet_id": "1896783023984791839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900938408698277894/LEWBFCSC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3436,
+          "following_count": 1323,
+          "like_count": 78784,
+          "listed_count": 11,
+          "media_count": 976,
+          "tweet_count": 12523
+        },
+        "username": "Cheshire_kwine",
+        "verified": false
+      }
+    ]
+  }
+}

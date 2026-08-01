@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1970911793431319028",
+    "created_at": "2025-09-24T18:03:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T19:03:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970911912054722758"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1970911912054722758",
+    "in_reply_to_user_id": "1726051028112744448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970911793431319028",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "补充一下23号吞的药"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1970911793431319028",
+        "created_at": "2025-09-24T18:03:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T19:03:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970911912054722758"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1970911912054722758",
+        "in_reply_to_user_id": "1726051028112744448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970911793431319028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "补充一下23号吞的药"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1970911793431319028",
+        "created_at": "2025-09-24T18:02:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T19:02:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970911793431319028"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1970911793431319028",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "210mg艾司西酞普兰有血清素综合征不过轻微，只是一点点发烧手抖到没办法写字手冰凉，瞳孔散大倒是没有第一次那么严重，同学根本看不出来，完完全全可以自己撑过去的，我还以为会躺救护车的。昨天（24号）我又感觉瞳孔散大心跳加快手抖到笔记都没记完，不过倒还没有平日的躯体化严重，很命大"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "yì jīu｜偏远地区高中生｜我正在努力变成你喜欢的样子…｜重抑治疗戒o割中｜我特别爱你们，爱你们，爱你们。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1953828269977219114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 562,
+          "like_count": 6985,
+          "listed_count": 1,
+          "media_count": 428,
+          "tweet_count": 3816
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      }
+    ]
+  }
+}

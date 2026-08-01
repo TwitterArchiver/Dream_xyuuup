@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1939324635658723363",
+    "created_at": "2025-06-29T14:15:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T15:15:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939326773868769388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1918895283234017280",
+          "start": 0,
+          "username": "xiokorrr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939326773868769388",
+    "in_reply_to_user_id": "1918895283234017280",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939324635658723363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiokorrr 不行！"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1939324635658723363].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1939324635658723363",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1939324635658723363"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1939324635658723363",
+        "created_at": "2025-06-29T14:15:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T15:15:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939326773868769388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1918895283234017280",
+              "start": 0,
+              "username": "xiokorrr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939326773868769388",
+        "in_reply_to_user_id": "1918895283234017280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939324635658723363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiokorrr 不行！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "喜欢做梦｜我觉得我很温柔。｜可爱的人@QLing61007",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933432998864826371/0SiPerD5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 496,
+          "like_count": 6014,
+          "listed_count": 0,
+          "media_count": 313,
+          "tweet_count": 2795
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T05:07:56.000Z",
+        "description": "🧬🧬三代目重生版｜苦逼准高二生｜可以叫我Kurisu/ののちやん～｜近月者弯｜斯普拉遁🦑/ACG/東方/mai♪/Gal…｜𓆩 永遠に紅い幼き月𓆪 ｜☆@Baiguan_☆最喜欢的小狗勾🥺｜友🏳️‍⚧️｜负能致歉😥｜赞赏随意喵｜互fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 76,
+                "username": "Baiguan_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiokorrr",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiokorrr",
+                "start": 0,
+                "url": "https://t.co/F9JA98XDni"
+              }
+            ]
+          }
+        },
+        "id": "1918895283234017280",
+        "location": "東京桜屋敷",
+        "name": "「桜小路ルナ 」👾8964防盗👿",
+        "pinned_tweet_id": "1926288756971012336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938246880816992259/tgF_IzDa_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1497,
+          "following_count": 460,
+          "like_count": 1330,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 745
+        },
+        "url": "https://t.co/F9JA98XDni",
+        "username": "xiokorrr",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1959416291426775138",
+    "created_at": "2025-08-24T00:43:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T01:43:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959416291426775138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1647182072723959808",
+          "start": 3,
+          "username": "hshhhuiiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959416291426775138",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959412262437064817",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hshhhuiiu: 刚刚马眼漏尿了😢怀疑这是在挑衅我😤我很生气😡所以我把它搓射了😎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1959416291426775138",
+        "created_at": "2025-08-24T00:43:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T01:43:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959416291426775138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1647182072723959808",
+              "start": 3,
+              "username": "hshhhuiiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959416291426775138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959412262437064817",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hshhhuiiu: 刚刚马眼漏尿了😢怀疑这是在挑衅我😤我很生气😡所以我把它搓射了😎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647182072723959808",
+        "conversation_id": "1959412262437064817",
+        "created_at": "2025-08-24T00:27:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T01:27:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959412262437064817"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1959412262437064817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "刚刚马眼漏尿了😢怀疑这是在挑衅我😤我很生气😡所以我把它搓射了😎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "yì jīu｜谢谢你喜欢我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1953828269977219114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 551,
+          "like_count": 6766,
+          "listed_count": 0,
+          "media_count": 408,
+          "tweet_count": 3586
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T10:16:32.000Z",
+        "description": "留下了zZ zZ zZ",
+        "id": "1647182072723959808",
+        "name": "缓缓睡",
+        "pinned_tweet_id": "1841792332691083412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946487131666354176/YTuSTmnz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 993,
+          "following_count": 877,
+          "like_count": 165713,
+          "listed_count": 5,
+          "media_count": 122,
+          "tweet_count": 6823
+        },
+        "username": "hshhhuiiu",
+        "verified": false
+      }
+    ]
+  }
+}

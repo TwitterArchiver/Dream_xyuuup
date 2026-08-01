@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1951275474866549076",
+    "created_at": "2025-08-01T13:35:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-01T14:35:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1951275474866549076"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/onshitx/status…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/onshitx/status/1951236939836744165",
+          "start": 4,
+          "url": "https://t.co/uniDsOiZPu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951275474866549076",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951236939836744165",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "只拿祝 https://t.co/uniDsOiZPu"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11052,
+        "height": 960,
+        "media_key": "7_1951236912368267266",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1951236912368267266/pu/img/vHXFaAr3TAsheOR-.jpg",
+        "public_metrics": {
+          "view_count": 33256
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1951236912368267266/pu/vid/avc1/320x426/ebQcGtJLs5F4OOKp.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1951236912368267266/pu/vid/avc1/480x640/1I9wsSCb4gM32lqI.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1951236912368267266/pu/vid/avc1/720x960/wn9hMiz0vV3MFV1A.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1951236912368267266/pu/pl/WZ6lLaWlc9BQYgQQ.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1951275474866549076",
+        "created_at": "2025-08-01T13:35:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T14:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951275474866549076"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/onshitx/status…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/onshitx/status/1951236939836744165",
+              "start": 4,
+              "url": "https://t.co/uniDsOiZPu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951275474866549076",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951236939836744165",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "只拿祝 https://t.co/uniDsOiZPu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1951236912368267266"
+          ]
+        },
+        "author_id": "1916806216376094720",
+        "conversation_id": "1951236939836744165",
+        "created_at": "2025-08-01T11:01:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T12:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951236939836744165"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vQs2gfXTrG",
+              "end": 23,
+              "expanded_url": "https://x.com/Onshitx/status/1951236939836744165/video/1",
+              "media_key": "7_1951236912368267266",
+              "start": 0,
+              "url": "https://t.co/vQs2gfXTrG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951236939836744165",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 92530,
+          "like_count": 292,
+          "quote_count": 3,
+          "reply_count": 15,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/vQs2gfXTrG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "yì jīu｜不知道什么圈子，谢谢你的喜欢我也喜欢你喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 542,
+          "like_count": 6643,
+          "listed_count": 0,
+          "media_count": 364,
+          "tweet_count": 3270
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T10:46:39.000Z",
+        "description": "follow the page and activate notifications🔔.",
+        "id": "1916806216376094720",
+        "name": "Oh Crazy OnX",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916806393358643200/UC69nrbY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106504,
+          "following_count": 4,
+          "like_count": 133,
+          "listed_count": 63,
+          "media_count": 69,
+          "tweet_count": 81
+        },
+        "username": "Onshitx",
+        "verified": false
+      }
+    ]
+  }
+}

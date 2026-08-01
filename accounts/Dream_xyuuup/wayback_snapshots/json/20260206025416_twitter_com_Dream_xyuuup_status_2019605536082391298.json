@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2019605466272395268"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "2019605536082391298",
+    "created_at": "2026-02-06T02:54:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T03:54:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019605536082391298"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eHpQJgeoIn",
+          "end": 28,
+          "expanded_url": "https://x.com/Dream_xyuuup/status/2019605536082391298/video/1",
+          "media_key": "13_2019605466272395268",
+          "start": 5,
+          "url": "https://t.co/eHpQJgeoIn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019605536082391298",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我现在： https://t.co/eHpQJgeoIn"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15101,
+        "height": 960,
+        "media_key": "13_2019605466272395268",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2019605466272395268/img/HdesueOyMwujIV8C.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019605466272395268/vid/avc1/320x426/8ENo61g8ky2Bhhtp.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019605466272395268/vid/avc1/480x640/VYajBA_1EcjTszhW.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019605466272395268/vid/avc1/720x960/AKe3dKueRzUKBtha.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2019605466272395268/pl/_Dae_wYmeiJqiYbp.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2019605466272395268"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "2019605536082391298",
+        "created_at": "2026-02-06T02:54:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T03:54:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019605536082391298"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eHpQJgeoIn",
+              "end": 28,
+              "expanded_url": "https://x.com/Dream_xyuuup/status/2019605536082391298/video/1",
+              "media_key": "13_2019605466272395268",
+              "start": 5,
+              "url": "https://t.co/eHpQJgeoIn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019605536082391298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在： https://t.co/eHpQJgeoIn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "有负面💊，歌品感人只是一个爱听kpop/cpop/edm的可怜人，性取向你猜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016795361961230336/4zuFQCyR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 601,
+          "like_count": 7998,
+          "listed_count": 1,
+          "media_count": 482,
+          "tweet_count": 4532
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      }
+    ]
+  }
+}

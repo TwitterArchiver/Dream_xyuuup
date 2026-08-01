@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1986020615514714142",
+    "created_at": "2025-11-06T18:24:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T19:24:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986499872288280744"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1896061942785310720",
+          "start": 0,
+          "username": "notThujaS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986499872288280744",
+    "in_reply_to_user_id": "1896061942785310720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986020615514714142",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@notThujaS 过几天会自己断糖"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1091,
+        "media_key": "3_1986020531515117568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4_DJqmXUAAGMRF.jpg",
+        "width": 719
+      },
+      {
+        "height": 951,
+        "media_key": "3_1986020573659504640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4_DMHmXoAAGi28.jpg",
+        "width": 719
+      },
+      {
+        "height": 1342,
+        "media_key": "3_1986020611747889152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4_DOVfWQAAXlLt.jpg",
+        "width": 716
+      },
+      {
+        "height": 1612,
+        "media_key": "3_1986020574745755648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4_DMLpWgAAxXdR.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1986020615514714142",
+        "created_at": "2025-11-06T18:24:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T19:24:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986499872288280744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1896061942785310720",
+              "start": 0,
+              "username": "notThujaS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986499872288280744",
+        "in_reply_to_user_id": "1896061942785310720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986020615514714142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@notThujaS 过几天会自己断糖"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986020531515117568",
+            "3_1986020573659504640",
+            "3_1986020611747889152",
+            "3_1986020574745755648"
+          ]
+        },
+        "author_id": "1896061942785310720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1986020615514714142",
+        "created_at": "2025-11-05T10:39:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T11:39:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986020615514714142"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GDDGmv4zVt",
+              "end": 169,
+              "expanded_url": "https://x.com/notThujaS/status/1986020615514714142/photo/1",
+              "media_key": "3_1986020531515117568",
+              "start": 146,
+              "url": "https://t.co/GDDGmv4zVt"
+            },
+            {
+              "display_url": "pic.x.com/GDDGmv4zVt",
+              "end": 169,
+              "expanded_url": "https://x.com/notThujaS/status/1986020615514714142/photo/1",
+              "media_key": "3_1986020573659504640",
+              "start": 146,
+              "url": "https://t.co/GDDGmv4zVt"
+            },
+            {
+              "display_url": "pic.x.com/GDDGmv4zVt",
+              "end": 169,
+              "expanded_url": "https://x.com/notThujaS/status/1986020615514714142/photo/1",
+              "media_key": "3_1986020611747889152",
+              "start": 146,
+              "url": "https://t.co/GDDGmv4zVt"
+            },
+            {
+              "display_url": "pic.x.com/GDDGmv4zVt",
+              "end": 169,
+              "expanded_url": "https://x.com/notThujaS/status/1986020615514714142/photo/1",
+              "media_key": "3_1986020574745755648",
+              "start": 146,
+              "url": "https://t.co/GDDGmv4zVt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986020615514714142",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 26592,
+          "like_count": 162,
+          "quote_count": 3,
+          "reply_count": 49,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "爱🏳️‍⚧️TV之药圈嘉豪\n\n《bro用6mg雌二醇科学HRT》\n《bro是寸头xyn》\n《bro觉得自己是帅气正太》\n《bro觉得自己是漂亮小女生》\n《bro很伤感》\n《bro爱欧弟》\n《bro虽然跑调+嗓子唱歌但bro是歌手》\n《bro是歌手！！（强调）》\n\n嘉豪？小怡明明超越了嘉豪！ https://t.co/GDDGmv4zVt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "没法活了，一切都是男的骗我，女的欠我，老的冤枉我，小的欺负我，中国的压迫我，外国的引诱我，身边的霸凌我，网上的取笑我，你们全都对不起我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1985535613857382587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 590,
+          "like_count": 7435,
+          "listed_count": 1,
+          "media_count": 456,
+          "tweet_count": 4102
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-02T04:56:37.000Z",
+        "description": "🇨🇳正宗劳保/07 12 1/不论你是男人女人变杏人，平等歧视每一个神人         愿你在鉴证与互骂与炫压抑之后，吃上一口我精挑细选的上等好💩        我的浮木死了，别问了我会随机回关的。求各位多转贴我想涨粉🤓2000fo直播杜桥///DXL_888不是我小号，别理那个支黑（唉他还要纠缠到什么时候）",
+        "id": "1896061942785310720",
+        "location": "GTI热河省分部",
+        "name": "传奇出生乌鲁鲁（浮木克星）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978461994652213248/lb6jtsni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1814,
+          "following_count": 803,
+          "like_count": 5169,
+          "listed_count": 6,
+          "media_count": 306,
+          "tweet_count": 3106
+        },
+        "username": "notThujaS",
+        "verified": false
+      }
+    ]
+  }
+}

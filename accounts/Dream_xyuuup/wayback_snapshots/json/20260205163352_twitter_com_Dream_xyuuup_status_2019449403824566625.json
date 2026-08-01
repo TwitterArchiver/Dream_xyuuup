@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "2019449403824566625",
+    "created_at": "2026-02-05T16:33:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T17:33:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019449403824566625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1805596018278547458",
+          "start": 3,
+          "username": "Jx_0103"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019449403824566625",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2589
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019092330729652342",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Jx_0103: 애정결핍은 너무 힘들어 아무리 사랑받아도 빈 공허가 채워지지가 않아 어쩌면 거짓된 사랑을 받기 때문이 아닐까 싶다가도 나랑 연락해주는 사람이 있다는 것 자체만으로도 감사한데 또 진짜 사랑은 받고싶어 근데 진짜 사랑이면 거기서…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "2019449403824566625",
+        "created_at": "2026-02-05T16:33:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T17:33:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019449403824566625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1805596018278547458",
+              "start": 3,
+              "username": "Jx_0103"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019449403824566625",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2589
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019092330729652342",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Jx_0103: 애정결핍은 너무 힘들어 아무리 사랑받아도 빈 공허가 채워지지가 않아 어쩌면 거짓된 사랑을 받기 때문이 아닐까 싶다가도 나랑 연락해주는 사람이 있다는 것 자체만으로도 감사한데 또 진짜 사랑은 받고싶어 근데 진짜 사랑이면 거기서…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805596018278547458",
+        "conversation_id": "2019092330729652342",
+        "created_at": "2026-02-04T16:54:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T17:54:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019092330729652342"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2019092330729652342",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1081,
+          "impression_count": 245598,
+          "like_count": 8071,
+          "quote_count": 360,
+          "reply_count": 44,
+          "retweet_count": 2589
+        },
+        "reply_settings": "everyone",
+        "text": "애정결핍은 너무 힘들어 아무리 사랑받아도 빈 공허가 채워지지가 않아 어쩌면 거짓된 사랑을 받기 때문이 아닐까 싶다가도 나랑 연락해주는 사람이 있다는 것 자체만으로도 감사한데 또 진짜 사랑은 받고싶어 근데 진짜 사랑이면 거기서 못 헤어나올 것 같아 인간관계가 너무 어려워"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "有负面💊，歌品感人只是一个爱听kpop/cpop/edm的可怜人，性取向你猜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016795361961230336/4zuFQCyR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 601,
+          "like_count": 7988,
+          "listed_count": 1,
+          "media_count": 480,
+          "tweet_count": 4525
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-25T13:37:10.000Z",
+        "description": "",
+        "id": "1805596018278547458",
+        "location": " ",
+        "name": "정신병신",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996621931668557827/A-A-xGmX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3427,
+          "following_count": 169,
+          "like_count": 613,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 237
+        },
+        "username": "Jx_0103",
+        "verified": false
+      }
+    ]
+  }
+}

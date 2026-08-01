@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1012447344627814400",
+          "name": "Case Closed"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1012447344627814400",
+          "name": "Case Closed"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "1924457131971060078",
+    "created_at": "2025-05-20T01:16:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-20T02:16:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924635274514206990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1842276970861596672",
+          "start": 0,
+          "username": "Ayue223"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924635274514206990",
+    "in_reply_to_user_id": "1842276970861596672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924457131971060078",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayue223 名侦探柯南"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1924635274514206990].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1924635274514206990",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1924635274514206990"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842276970861596672",
+        "conversation_id": "1924457131971060078",
+        "created_at": "2025-05-19T13:28:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T14:28:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924457131971060078"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1924457131971060078",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 21233,
+          "like_count": 125,
+          "quote_count": 11,
+          "reply_count": 256,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你们还记得自己看过的第一部番的名字是什么吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "废话多｜对所有人友好除了现生｜最可爱的小宝宝@QLing61007 😽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1917423348302467396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905913123158298624/ClLLrGxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 426,
+          "like_count": 4364,
+          "listed_count": 1,
+          "media_count": 204,
+          "tweet_count": 1925
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-04T18:54:02.000Z",
+        "description": "互fo说明来意，一般24小时内必回，特殊情况最多48小时内。另一个号https://t.co/rDtRv1gFPb神亦有强弱之分，万神皆跪伏于我。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "twitter.com/yues666?s=09",
+                "end": 57,
+                "expanded_url": "https://twitter.com/yues666?s=09",
+                "start": 34,
+                "url": "https://t.co/rDtRv1gFPb"
+              }
+            ]
+          }
+        },
+        "id": "1842276970861596672",
+        "name": "灵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888400061954158592/2LbXmTrh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 42,
+          "like_count": 402,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 284
+        },
+        "username": "Ayue223",
+        "verified": false
+      }
+    ]
+  }
+}

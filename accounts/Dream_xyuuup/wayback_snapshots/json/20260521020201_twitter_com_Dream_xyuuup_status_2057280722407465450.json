@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "2057280722407465450",
+    "created_at": "2026-05-21T02:02:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T03:02:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057280722407465450"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/penpunx/status…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/penpunx/status/2057135154465038833",
+          "start": 13,
+          "url": "https://t.co/wyNOL2rGlW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057280722407465450",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057135154465038833",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我sns药效或pr退效： https://t.co/wyNOL2rGlW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "2057280722407465450",
+        "created_at": "2026-05-21T02:02:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T03:02:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057280722407465450"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/penpunx/status…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/penpunx/status/2057135154465038833",
+              "start": 13,
+              "url": "https://t.co/wyNOL2rGlW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057280722407465450",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057135154465038833",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我sns药效或pr退效： https://t.co/wyNOL2rGlW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2057135154465038833",
+        "created_at": "2026-05-20T16:23:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T17:23:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057135154465038833"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057135154465038833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 218,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "草，我发现我嗑药磕到开心了就会特别想自杀（\n这是为何"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "mtx,her/they,hrt260307\n*・x・*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "弈鸠",
+        "pinned_tweet_id": "2055264508608970925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052421075716505600/5gcoclAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 632,
+          "like_count": 8346,
+          "listed_count": 0,
+          "media_count": 597,
+          "tweet_count": 6006
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049834933355687936/lvhzFk9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 538,
+          "like_count": 13457,
+          "listed_count": 1,
+          "media_count": 523,
+          "tweet_count": 4697
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

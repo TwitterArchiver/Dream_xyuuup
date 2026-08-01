@@ -1,0 +1,1041 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "844438182523383808",
+          "name": "BTS"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1517239881499480064",
+          "name": "LE SSERAFIM"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "844438182523383808",
+          "name": "BTS"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1517239881499480064",
+          "name": "LE SSERAFIM"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "844438182523383808",
+          "name": "BTS"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1517239881499480064",
+          "name": "LE SSERAFIM"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "J-Hope (제이홉) - member of BTS",
+          "id": "895369682240196608",
+          "name": "j-hope"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "J-Hope (제이홉) - member of BTS",
+          "id": "895369682240196608",
+          "name": "j-hope"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "J-Hope (제이홉) - member of BTS",
+          "id": "895369682240196608",
+          "name": "j-hope"
+        }
+      }
+    ],
+    "conversation_id": "2007778519657636041",
+    "created_at": "2026-01-04T11:37:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T12:37:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007778519657636041"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 38,
+          "normalized_text": "NIGHT FUNKIN",
+          "probability": 0.8224,
+          "start": 27,
+          "type": "Other"
+        },
+        {
+          "end": 79,
+          "normalized_text": "SPAGHETTI",
+          "probability": 0.7064,
+          "start": 71,
+          "type": "Person"
+        },
+        {
+          "end": 88,
+          "normalized_text": "j",
+          "probability": 0.3797,
+          "start": 88,
+          "type": "Person"
+        },
+        {
+          "end": 100,
+          "normalized_text": "BTS",
+          "probability": 0.9342,
+          "start": 98,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1761614539559194624",
+          "start": 3,
+          "username": "FNF_Developers"
+        },
+        {
+          "end": 54,
+          "id": "1476733619620450304",
+          "start": 42,
+          "username": "le_sserafim"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/3qE0hTf",
+          "end": 139,
+          "start": 119,
+          "url": "https://t.co/3qE0hTf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007778519657636041",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15566
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007618550199181447",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FNF_Developers: FRIDAY NIGHT FUNKIN - @le_sserafim\nSPECIAL COLLAB\n\nSPAGHETTI (feat. j-hope of BTS) now playable\n\n▪️https://t.co/3qE0hTf…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 60483,
+        "height": 1080,
+        "media_key": "13_2007618401020063744",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2007618401020063744/img/R6EsqQz-_21bI7b9.jpg",
+        "public_metrics": {
+          "view_count": 1076346
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2007618401020063744/pl/oWQ3dSK6s_g1riDn.m3u8?v=363"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2007618401020063744/vid/avc1/640x360/wD3YhrDf9p5sIqBv.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2007618401020063744/vid/avc1/1280x720/2jYAvW9-RKlgwSpb.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2007618401020063744/vid/avc1/480x270/-Sqm0POSdYsPJ6gr.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2007618401020063744/vid/avc1/1920x1080/88DL7fbMb0hZiD97.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "844438182523383808",
+              "name": "BTS"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1517239881499480064",
+              "name": "LE SSERAFIM"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "844438182523383808",
+              "name": "BTS"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1517239881499480064",
+              "name": "LE SSERAFIM"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "844438182523383808",
+              "name": "BTS"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1517239881499480064",
+              "name": "LE SSERAFIM"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "J-Hope (제이홉) - member of BTS",
+              "id": "895369682240196608",
+              "name": "j-hope"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "J-Hope (제이홉) - member of BTS",
+              "id": "895369682240196608",
+              "name": "j-hope"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "J-Hope (제이홉) - member of BTS",
+              "id": "895369682240196608",
+              "name": "j-hope"
+            }
+          }
+        ],
+        "conversation_id": "2007778519657636041",
+        "created_at": "2026-01-04T11:37:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T12:37:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007778519657636041"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 38,
+              "normalized_text": "NIGHT FUNKIN",
+              "probability": 0.8224,
+              "start": 27,
+              "type": "Other"
+            },
+            {
+              "end": 79,
+              "normalized_text": "SPAGHETTI",
+              "probability": 0.7064,
+              "start": 71,
+              "type": "Person"
+            },
+            {
+              "end": 88,
+              "normalized_text": "j",
+              "probability": 0.3797,
+              "start": 88,
+              "type": "Person"
+            },
+            {
+              "end": 100,
+              "normalized_text": "BTS",
+              "probability": 0.9342,
+              "start": 98,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1761614539559194624",
+              "start": 3,
+              "username": "FNF_Developers"
+            },
+            {
+              "end": 54,
+              "id": "1476733619620450304",
+              "start": 42,
+              "username": "le_sserafim"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/3qE0hTf",
+              "end": 139,
+              "start": 119,
+              "url": "https://t.co/3qE0hTf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007778519657636041",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15566
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007618550199181447",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FNF_Developers: FRIDAY NIGHT FUNKIN - @le_sserafim\nSPECIAL COLLAB\n\nSPAGHETTI (feat. j-hope of BTS) now playable\n\n▪️https://t.co/3qE0hTf…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2007618401020063744"
+          ]
+        },
+        "author_id": "1761614539559194624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "844438182523383808",
+              "name": "BTS"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1517239881499480064",
+              "name": "LE SSERAFIM"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "844438182523383808",
+              "name": "BTS"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1517239881499480064",
+              "name": "LE SSERAFIM"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "844438182523383808",
+              "name": "BTS"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1517239881499480064",
+              "name": "LE SSERAFIM"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "J-Hope (제이홉) - member of BTS",
+              "id": "895369682240196608",
+              "name": "j-hope"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "J-Hope (제이홉) - member of BTS",
+              "id": "895369682240196608",
+              "name": "j-hope"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "J-Hope (제이홉) - member of BTS",
+              "id": "895369682240196608",
+              "name": "j-hope"
+            }
+          }
+        ],
+        "conversation_id": "2007618550199181447",
+        "created_at": "2026-01-04T01:02:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T02:02:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007618550199181447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 34,
+              "id": "1476733619620450304",
+              "start": 22,
+              "username": "le_sserafim"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Download Friday Night Funkin' Mobile by Funkin' Crew on the App Store. See screenshots, ratings and reviews, user tips, and more games like Friday Night Funkin'…",
+              "display_url": "apps.apple.com/us/app/friday-…",
+              "end": 122,
+              "expanded_url": "https://apps.apple.com/us/app/friday-night-funkin-mobile/id6740428530",
+              "start": 99,
+              "status": 200,
+              "title": "Friday Night Funkin' Mobile App - App Store",
+              "unwound_url": "https://apps.apple.com/us/app/friday-night-funkin-mobile/id6740428530",
+              "url": "https://t.co/3qE0hTffS8"
+            },
+            {
+              "description": "The coolest rhythm game on this damn Play Store (respectfully)",
+              "display_url": "play.google.com/store/apps/det…",
+              "end": 148,
+              "expanded_url": "https://play.google.com/store/apps/details?id=me.funkin.fnf",
+              "images": [
+                {
+                  "height": 300,
+                  "url": "https://pbs.twimg.com/news_img/2007618552224985088/oD1Aqn1F?format=png&name=orig",
+                  "width": 600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2007618552224985088/oD1Aqn1F?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 125,
+              "status": 200,
+              "title": "Friday Night Funkin' - Apps on Google Play",
+              "unwound_url": "https://play.google.com/store/apps/details?id=me.funkin.fnf",
+              "url": "https://t.co/NT1v74C80X"
+            },
+            {
+              "description": "The coolest rhythm game on this website",
+              "display_url": "newgrounds.com/portal/view/77…",
+              "end": 174,
+              "expanded_url": "https://www.newgrounds.com/portal/view/770371",
+              "images": [
+                {
+                  "height": 405,
+                  "url": "https://pbs.twimg.com/news_img/2006162835819110400/XXpKTjGv?format=jpg&name=orig",
+                  "width": 720
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2006162835819110400/XXpKTjGv?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 151,
+              "status": 200,
+              "title": "FRIDAY NIGHT FUNKIN'",
+              "unwound_url": "https://www.newgrounds.com/portal/view/770371",
+              "url": "https://t.co/BOJ3Toq9pr"
+            },
+            {
+              "description": "The coolest rhythm game. Play in your browser",
+              "display_url": "ninja-muffin24.itch.io/funkin",
+              "end": 200,
+              "expanded_url": "https://ninja-muffin24.itch.io/funkin",
+              "images": [
+                {
+                  "height": 254,
+                  "url": "https://pbs.twimg.com/news_img/2006815595342282752/z5toNVHO?format=png&name=orig",
+                  "width": 508
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2006815595342282752/z5toNVHO?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 177,
+              "status": 200,
+              "title": "Friday Night Funkin' by ninjamuffin99, PhantomArcade, The Funkin' Crew, Inc.",
+              "unwound_url": "https://ninja-muffin24.itch.io/funkin",
+              "url": "https://t.co/ltgibyf2g3"
+            },
+            {
+              "display_url": "pic.x.com/bWWfCAg7EB",
+              "end": 224,
+              "expanded_url": "https://x.com/FNF_Developers/status/2007618550199181447/video/1",
+              "media_key": "13_2007618401020063744",
+              "start": 201,
+              "url": "https://t.co/bWWfCAg7EB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007618550199181447",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17189,
+          "impression_count": 3481290,
+          "like_count": 82118,
+          "quote_count": 6032,
+          "reply_count": 1483,
+          "retweet_count": 15566
+        },
+        "reply_settings": "everyone",
+        "text": "FRIDAY NIGHT FUNKIN - @le_sserafim\nSPECIAL COLLAB\n\nSPAGHETTI (feat. j-hope of BTS) now playable\n\n▪️https://t.co/3qE0hTffS8\n▪️https://t.co/NT1v74C80X\n▪️https://t.co/BOJ3Toq9pr\n▪️https://t.co/ltgibyf2g3 https://t.co/bWWfCAg7EB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "你能想到的坏习惯我都有",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998066182315020289/_eUXKzgo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 597,
+          "like_count": 7970,
+          "listed_count": 1,
+          "media_count": 475,
+          "tweet_count": 4413
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-25T04:50:50.000Z",
+        "description": "Official source for news on the full-ass FRIDAY NIGHT FUNKIN' rhythm game\n\nDeveloped by THE FUNKIN' CREW INC. & many others!\n\nhttps://t.co/gX2ZLzggQO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@FNF_Developers",
+                "end": 149,
+                "expanded_url": "http://youtube.com/@FNF_Developers",
+                "start": 126,
+                "url": "https://t.co/gX2ZLzggQO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "newgrounds.com/portal/view/77…",
+                "end": 23,
+                "expanded_url": "https://www.newgrounds.com/portal/view/770371",
+                "start": 0,
+                "url": "https://t.co/m4hahYllUy"
+              }
+            ]
+          }
+        },
+        "id": "1761614539559194624",
+        "name": "FridayNightFunkin",
+        "pinned_tweet_id": "1947312822758609026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762282361541062656/0GB9ik0i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140525,
+          "following_count": 31,
+          "like_count": 1517,
+          "listed_count": 56,
+          "media_count": 50,
+          "tweet_count": 90
+        },
+        "url": "https://t.co/m4hahYllUy",
+        "username": "FNF_Developers",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-31T01:55:23.000Z",
+        "description": "LE SSERAFIM Official X (Twitter)\nLE SSERAFIM 공식 X (트위터)\n\n1st Single Album 'SPAGHETTI' OUT NOW",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "le-sserafim.lnk.to/SPAGHETTI",
+                "end": 23,
+                "expanded_url": "http://le-sserafim.lnk.to/SPAGHETTI",
+                "start": 0,
+                "url": "https://t.co/1b7ijwV8m5"
+              }
+            ]
+          }
+        },
+        "id": "1476733619620450304",
+        "name": "LE SSERAFIM",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972316092782792704/V01KlTtY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1809084,
+          "following_count": 5,
+          "like_count": 45,
+          "listed_count": 5669,
+          "media_count": 2774,
+          "tweet_count": 5978
+        },
+        "url": "https://t.co/1b7ijwV8m5",
+        "username": "le_sserafim",
+        "verified": true
+      }
+    ]
+  }
+}

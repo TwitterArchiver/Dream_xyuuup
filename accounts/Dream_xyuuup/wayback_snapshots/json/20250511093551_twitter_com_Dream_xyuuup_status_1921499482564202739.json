@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1921499482564202739",
+    "created_at": "2025-05-11T09:35:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-11T10:35:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921499482564202739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1692057485434347521",
+          "start": 3,
+          "username": "ILLIT_twt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921499482564202739",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 727
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921496600326643742",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ILLIT_twt: 박민주~~!!!\n생일 축하해~~🥳⭐️🥳⭐️\n지난 일 년 동안 무슨 일이 있을 때마다 민주가 도와줘서 너무너무 고마웠어 ㅠㅠㅠㅠㅠ 다음에는 민주한테 무슨 일 생기면 내가 도와줄게~~ 언제든지 얘기해 줘~~~!!\n뚱이도 보고…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1666,
+        "height": 1280,
+        "media_key": "13_1921496428167217152",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1921496428167217152/img/dzFZJlUwgHXAZqEk.jpg",
+        "public_metrics": {
+          "view_count": 4270
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1921496428167217152/vid/avc1/320x568/qzbVaARzlasWaMe5.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1921496428167217152/vid/avc1/480x852/GlZZCQBLn_Ii2iNT.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1921496428167217152/vid/avc1/720x1280/qZh3f74zRuowOIF-.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1921496428167217152/pl/uVY9gKYWFx_h4PRX.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 891,
+        "media_key": "3_1921496428125253632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqqG0iOWcAAl9xu.jpg",
+        "width": 1280
+      },
+      {
+        "height": 4096,
+        "media_key": "3_1921496428012302336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqqG0hza8AAuA0p.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1921499482564202739",
+        "created_at": "2025-05-11T09:35:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T10:35:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921499482564202739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1692057485434347521",
+              "start": 3,
+              "username": "ILLIT_twt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921499482564202739",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 727
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921496600326643742",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ILLIT_twt: 박민주~~!!!\n생일 축하해~~🥳⭐️🥳⭐️\n지난 일 년 동안 무슨 일이 있을 때마다 민주가 도와줘서 너무너무 고마웠어 ㅠㅠㅠㅠㅠ 다음에는 민주한테 무슨 일 생기면 내가 도와줄게~~ 언제든지 얘기해 줘~~~!!\n뚱이도 보고…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1921496428167217152",
+            "3_1921496428125253632",
+            "3_1921496428012302336"
+          ]
+        },
+        "author_id": "1692057485434347521",
+        "conversation_id": "1921496600326643742",
+        "created_at": "2025-05-11T09:24:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T10:24:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921496600326643742"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 148,
+              "start": 143,
+              "tag": "MOKA"
+            },
+            {
+              "end": 152,
+              "start": 149,
+              "tag": "모카"
+            },
+            {
+              "end": 159,
+              "start": 153,
+              "tag": "ILLIT"
+            },
+            {
+              "end": 164,
+              "start": 160,
+              "tag": "아일릿"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/H9Gkafu4rP",
+              "end": 188,
+              "expanded_url": "https://x.com/ILLIT_twt/status/1921496600326643742/video/1",
+              "media_key": "13_1921496428167217152",
+              "start": 165,
+              "url": "https://t.co/H9Gkafu4rP"
+            },
+            {
+              "display_url": "pic.x.com/H9Gkafu4rP",
+              "end": 188,
+              "expanded_url": "https://x.com/ILLIT_twt/status/1921496600326643742/video/1",
+              "media_key": "3_1921496428125253632",
+              "start": 165,
+              "url": "https://t.co/H9Gkafu4rP"
+            },
+            {
+              "display_url": "pic.x.com/H9Gkafu4rP",
+              "end": 188,
+              "expanded_url": "https://x.com/ILLIT_twt/status/1921496600326643742/video/1",
+              "media_key": "3_1921496428012302336",
+              "start": 165,
+              "url": "https://t.co/H9Gkafu4rP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921496600326643742",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 94,
+          "impression_count": 21049,
+          "like_count": 1686,
+          "quote_count": 143,
+          "reply_count": 20,
+          "retweet_count": 727
+        },
+        "reply_settings": "everyone",
+        "text": "박민주~~!!!\n생일 축하해~~🥳⭐️🥳⭐️\n지난 일 년 동안 무슨 일이 있을 때마다 민주가 도와줘서 너무너무 고마웠어 ㅠㅠㅠㅠㅠ 다음에는 민주한테 무슨 일 생기면 내가 도와줄게~~ 언제든지 얘기해 줘~~~!!\n뚱이도 보고 싶으니까 한번 데리고 와줘~~😚\n\n#MOKA #모카 #ILLIT #아일릿 https://t.co/H9Gkafu4rP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "废话多｜对所有人友好除了现生｜最可爱的小宝宝@QLing61007 😽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠（反酒精）",
+        "pinned_tweet_id": "1917423348302467396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905913123158298624/ClLLrGxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 423,
+          "like_count": 4148,
+          "listed_count": 1,
+          "media_count": 196,
+          "tweet_count": 1819
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T06:15:43.000Z",
+        "description": "Hello! We are #ILLIT 안녕하세요 #아일릿 입니다",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 20,
+                "start": 14,
+                "tag": "ILLIT"
+              },
+              {
+                "end": 31,
+                "start": 27,
+                "tag": "아일릿"
+              }
+            ]
+          }
+        },
+        "id": "1692057485434347521",
+        "name": "ILLIT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839500290959216640/jCNduo2__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350224,
+          "following_count": 5,
+          "like_count": 0,
+          "listed_count": 775,
+          "media_count": 449,
+          "tweet_count": 976
+        },
+        "username": "ILLIT_twt",
+        "verified": true
+      }
+    ]
+  }
+}

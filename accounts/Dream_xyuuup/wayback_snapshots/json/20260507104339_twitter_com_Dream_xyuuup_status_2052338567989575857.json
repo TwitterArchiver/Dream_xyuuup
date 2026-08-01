@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "2052338184076583180",
+    "created_at": "2026-05-07T10:43:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T11:43:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052338567989575857"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2052338567989575857",
+    "in_reply_to_user_id": "1726051028112744448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052338184076583180",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "马斯克是队友粉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052338174253584384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHteshtb0AA2Tif.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "2052338184076583180",
+        "created_at": "2026-05-07T10:43:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T11:43:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052338567989575857"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052338567989575857",
+        "in_reply_to_user_id": "1726051028112744448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052338184076583180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "马斯克是队友粉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052338174253584384"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "2052338184076583180",
+        "created_at": "2026-05-07T10:42:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T11:42:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052338184076583180"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mGm0uD2gbR",
+              "end": 29,
+              "expanded_url": "https://x.com/Dream_xyuuup/status/2052338184076583180/photo/1",
+              "media_key": "3_2052338174253584384",
+              "start": 6,
+              "url": "https://t.co/mGm0uD2gbR"
+            },
+            {
+              "display_url": "x.com/nbabysitte6534…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/nbabysitte65342/status/2052337967449178521",
+              "start": 30,
+              "url": "https://t.co/Ftupd09RA9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052338184076583180",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052337967449178521",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我笑得拉稀 https://t.co/mGm0uD2gbR https://t.co/Ftupd09RA9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "弈鸠，是谁？\nmtx,her/they,激女粉红点进就死\n*・x・*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "脚踩你爷爷登顶称王",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041811823687823360/QQkkR0z6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 615,
+          "like_count": 8288,
+          "listed_count": 1,
+          "media_count": 571,
+          "tweet_count": 5622
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      }
+    ]
+  }
+}

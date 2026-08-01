@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1942381182328397824"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "1942211425281196135",
+    "created_at": "2025-07-08T00:32:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T01:32:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942381253040431456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1794617194954850304",
+          "start": 0,
+          "username": "Baixiaoming0707"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MRSxQbnTvu",
+          "end": 40,
+          "expanded_url": "https://x.com/Dream_xyuuup/status/1942381253040431456/video/1",
+          "media_key": "13_1942381182328397824",
+          "start": 17,
+          "url": "https://t.co/MRSxQbnTvu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942381253040431456",
+    "in_reply_to_user_id": "1794617194954850304",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942211425281196135",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Baixiaoming0707 https://t.co/MRSxQbnTvu"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7458,
+        "height": 590,
+        "media_key": "13_1942381182328397824",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1942381182328397824/img/YHqRbU7OYpbk60wn.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1942381182328397824/vid/avc1/584x270/-8PDM0RcN0MS9Rm4.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1942381182328397824/vid/avc1/780x360/_JM438LB0Ao-6IdT.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1942381182328397824/vid/avc1/1280x590/QxkRmvhYEZVdKAYZ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1942381182328397824/pl/1Z2Ry9nMQQM0Eigc.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1942381182328397824"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "1942211425281196135",
+        "created_at": "2025-07-08T00:32:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T01:32:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942381253040431456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1794617194954850304",
+              "start": 0,
+              "username": "Baixiaoming0707"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MRSxQbnTvu",
+              "end": 40,
+              "expanded_url": "https://x.com/Dream_xyuuup/status/1942381253040431456/video/1",
+              "media_key": "13_1942381182328397824",
+              "start": 17,
+              "url": "https://t.co/MRSxQbnTvu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942381253040431456",
+        "in_reply_to_user_id": "1794617194954850304",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942211425281196135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Baixiaoming0707 https://t.co/MRSxQbnTvu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1794617194954850304",
+        "conversation_id": "1942211425281196135",
+        "created_at": "2025-07-07T13:17:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T14:17:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942211425281196135"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1942211425281196135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 10408,
+          "like_count": 107,
+          "quote_count": 2,
+          "reply_count": 182,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "🫵被指到的留一张你最近的游戏截图"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "yì jīu｜喜欢做梦｜我觉得我很温柔。｜可爱的人@QLing61007",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933432998864826371/0SiPerD5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 508,
+          "like_count": 6160,
+          "listed_count": 0,
+          "media_count": 326,
+          "tweet_count": 2907
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-26T06:31:28.000Z",
+        "description": "08年高中生 | 简中/正體/English | 政史地亡命文科生 | 快品尝国宾酒尊尼获加 | 都去关注@virtual_kaf ！ | 永远追随国王→@oldsddl4gunmu @diangunottosm @otto_houguoyu | 抖音:29289785213",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 53,
+                "username": "virtual_kaf"
+              },
+              {
+                "end": 91,
+                "start": 77,
+                "username": "oldsddl4gunmu"
+              },
+              {
+                "end": 106,
+                "start": 92,
+                "username": "diangunottosm"
+              },
+              {
+                "end": 121,
+                "start": 107,
+                "username": "otto_houguoyu"
+              }
+            ]
+          }
+        },
+        "id": "1794617194954850304",
+        "location": "无处不在 无影无踪",
+        "name": "白小铭",
+        "pinned_tweet_id": "1905914734030778465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923928431512707072/VKPjgBRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 714,
+          "following_count": 818,
+          "like_count": 8841,
+          "listed_count": 4,
+          "media_count": 539,
+          "tweet_count": 3259
+        },
+        "username": "Baixiaoming0707",
+        "verified": false
+      }
+    ]
+  }
+}

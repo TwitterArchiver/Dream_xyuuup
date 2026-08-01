@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1857658893838766081"
+      ],
+      "media_source_tweet_id": [
+        "1857659072432189505"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "1933431376742920406",
+    "created_at": "2025-06-13T07:48:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-13T08:48:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933431376742920406"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1881120096971792384",
+          "start": 3,
+          "username": "smokafeed"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EoI3cz0lcu",
+          "end": 41,
+          "expanded_url": "https://x.com/itpointofmk/status/1857659072432189505/video/1",
+          "media_key": "7_1857658893838766081",
+          "start": 18,
+          "url": "https://t.co/EoI3cz0lcu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933431376742920406",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 120
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933114885459906636",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @smokafeed: ❥\n https://t.co/EoI3cz0lcu"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7300,
+        "height": 2160,
+        "media_key": "7_1857658893838766081",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1857658893838766081/pu/img/GVlxC8TxUeunV9-L.jpg",
+        "public_metrics": {
+          "view_count": 16674
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1857658893838766081/pu/vid/avc1/1080x1080/q1zcMHlOuLhEKQqx.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1857658893838766081/pu/vid/avc1/540x540/UjWcW9mYEHcbLnX4.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1857658893838766081/pu/pl/0hYfgLhJsuD9e88L.m3u8?tag=14"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1857658893838766081/pu/vid/avc1/320x320/8RlkEp-F70VBNjXr.mp4?tag=14"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1857658893838766081/pu/vid/avc1/720x720/7g7n2xdu8hdqJQit.mp4?tag=14"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1857658893838766081"
+          ],
+          "media_source_tweet_id": [
+            "1857659072432189505"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "1933431376742920406",
+        "created_at": "2025-06-13T07:48:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T08:48:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933431376742920406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1881120096971792384",
+              "start": 3,
+              "username": "smokafeed"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EoI3cz0lcu",
+              "end": 41,
+              "expanded_url": "https://x.com/itpointofmk/status/1857659072432189505/video/1",
+              "media_key": "7_1857658893838766081",
+              "start": 18,
+              "url": "https://t.co/EoI3cz0lcu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933431376742920406",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 120
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933114885459906636",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @smokafeed: ❥\n https://t.co/EoI3cz0lcu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1857658893838766081"
+          ],
+          "media_source_tweet_id": [
+            "1857659072432189505"
+          ]
+        },
+        "author_id": "1881120096971792384",
+        "conversation_id": "1933114885459906636",
+        "created_at": "2025-06-12T10:51:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T11:51:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933114885459906636"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EoI3cz0lcu",
+              "end": 26,
+              "expanded_url": "https://x.com/itpointofmk/status/1857659072432189505/video/1",
+              "media_key": "7_1857658893838766081",
+              "start": 3,
+              "url": "https://t.co/EoI3cz0lcu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933114885459906636",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 107,
+          "impression_count": 12628,
+          "like_count": 1253,
+          "quote_count": 4,
+          "reply_count": 0,
+          "retweet_count": 120
+        },
+        "reply_settings": "everyone",
+        "text": "❥\n https://t.co/EoI3cz0lcu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "在下弈鸠 是个农村弟 usually欧弟紫餐 每天活得都好累 只有几天时间就中考(说实话我还挺期待的) 成分复杂爱看棒子 想出国 对所有人友好 我想交朋友求你们来找我玩🥹下面的链接是赞赏码 最可爱的小宝宝@QLing61007 😽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 102,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1931176332370813214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932410719250808832/fkyl4o1f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 469,
+          "like_count": 5438,
+          "listed_count": 0,
+          "media_count": 267,
+          "tweet_count": 2410
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-19T23:22:50.000Z",
+        "description": "for #모카 of illit ♡ ໒꒱ ⁎∘⁺",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 4,
+                "tag": "모카"
+              }
+            ]
+          }
+        },
+        "id": "1881120096971792384",
+        "location": "fan account ",
+        "name": "moka 𐙚",
+        "pinned_tweet_id": "1931373268868493351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933305318152237056/yhgaSNu-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1270,
+          "following_count": 21,
+          "like_count": 45,
+          "listed_count": 9,
+          "media_count": 146,
+          "tweet_count": 151
+        },
+        "username": "smokafeed",
+        "verified": true
+      }
+    ]
+  }
+}

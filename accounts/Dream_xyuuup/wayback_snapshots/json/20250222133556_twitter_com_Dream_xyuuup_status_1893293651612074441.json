@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1893293651612074441",
+    "created_at": "2025-02-22T13:35:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-22T14:35:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1893293651612074441"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/t_honda/status…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/t_honda/status/1892762139917529557",
+          "start": 6,
+          "url": "https://t.co/L4wMH9l5IW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893293651612074441",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892762139917529557",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "都怪apt https://t.co/L4wMH9l5IW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1892762132795547650",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkRxIamW4AI_nBE.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1893293651612074441",
+        "created_at": "2025-02-22T13:35:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T14:35:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893293651612074441"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/t_honda/status…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/t_honda/status/1892762139917529557",
+              "start": 6,
+              "url": "https://t.co/L4wMH9l5IW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893293651612074441",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892762139917529557",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "都怪apt https://t.co/L4wMH9l5IW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892762132795547650"
+          ]
+        },
+        "author_id": "1186008558875230208",
+        "conversation_id": "1892762139917529557",
+        "created_at": "2025-02-21T02:23:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T03:23:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892762139917529557"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3mPqAA9uPh",
+              "end": 32,
+              "expanded_url": "https://x.com/t_honda/status/1892762139917529557/photo/1",
+              "media_key": "3_1892762132795547650",
+              "start": 9,
+              "url": "https://t.co/3mPqAA9uPh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892762139917529557",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7829,
+          "impression_count": 27959978,
+          "like_count": 92326,
+          "quote_count": 3871,
+          "reply_count": 916,
+          "retweet_count": 3893
+        },
+        "reply_settings": "everyone",
+        "text": "日本終わってんな https://t.co/3mPqAA9uPh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "这是一本日记 可以把我视为现充 喜欢视奸#喵斯#有三次偶像#ISFP#🏳️‍🌈0.5",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dreamxy_uuup",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dreamxy_uuup",
+                "start": 0,
+                "url": "https://t.co/V4QSiptJcT"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠ltnh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892121675938004992/fWCivcy4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 78,
+          "like_count": 197,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 90
+        },
+        "url": "https://t.co/V4QSiptJcT",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-20T19:57:46.000Z",
+        "description": "博士（工学） 。株式会社メロン（https://t.co/7D3EDAIgTa）でデータサイエンティストをやっています。 AI人材マッチングプラットフォーム『Amie』（https://t.co/EmibH3Yp3h）も運営しています。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "melloninc.jp",
+                "end": 39,
+                "expanded_url": "https://melloninc.jp",
+                "start": 16,
+                "url": "https://t.co/7D3EDAIgTa"
+              },
+              {
+                "display_url": "amie.melloninc.jp",
+                "end": 108,
+                "expanded_url": "https://amie.melloninc.jp",
+                "start": 85,
+                "url": "https://t.co/EmibH3Yp3h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "takatohonda.github.io/jp",
+                "end": 23,
+                "expanded_url": "https://takatohonda.github.io/jp",
+                "start": 0,
+                "url": "https://t.co/j4c9yjon5n"
+              }
+            ]
+          }
+        },
+        "id": "1186008558875230208",
+        "location": "日本",
+        "name": "本田崇人",
+        "pinned_tweet_id": "1738068870601330779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796440122814242816/PRM7zLzT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15971,
+          "following_count": 951,
+          "like_count": 34781,
+          "listed_count": 75,
+          "media_count": 281,
+          "tweet_count": 2184
+        },
+        "url": "https://t.co/j4c9yjon5n",
+        "username": "t_honda",
+        "verified": true
+      }
+    ]
+  }
+}

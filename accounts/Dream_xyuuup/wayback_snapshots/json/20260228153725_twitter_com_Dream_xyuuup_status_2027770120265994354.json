@@ -1,0 +1,416 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025631424112664576"
+      ],
+      "media_source_tweet_id": [
+        "2025631427493282139"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming Personalities & Esports Players",
+          "id": "1146103171086819328",
+          "name": "Gaming influencers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1287879055191052288",
+          "name": "Gaming content creators"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "2027770120265994354",
+    "created_at": "2026-02-28T15:37:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T16:37:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027770120265994354"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 98,
+          "normalized_text": "GenshinImpact",
+          "probability": 0.7464,
+          "start": 86,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 99,
+          "start": 85,
+          "tag": "GenshinImpact"
+        },
+        {
+          "end": 107,
+          "start": 100,
+          "tag": "Gaming"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1337697313561608194",
+          "start": 3,
+          "username": "KubiKun"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5i0vpkTULa",
+          "end": 131,
+          "expanded_url": "https://x.com/KubiKun/status/2025631427493282139/photo/1",
+          "media_key": "3_2025631424112664576",
+          "start": 108,
+          "url": "https://t.co/5i0vpkTULa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027770120265994354",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 648
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025631427493282139",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KubiKun: Checking on Gaming, also healthy— 😳📝🍆\nHappy Lantern Rite everyone~ 😘🧧🐎✨\n#GenshinImpact #Gaming https://t.co/5i0vpkTULa"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2027770120265994354].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2027770120265994354",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2027770120265994354"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025631424112664576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBx9DEgaoAAJBYH.jpg",
+        "width": 1940
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025631424112664576"
+          ]
+        },
+        "author_id": "1337697313561608194",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming Personalities & Esports Players",
+              "id": "1146103171086819328",
+              "name": "Gaming influencers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1287879055191052288",
+              "name": "Gaming content creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2025631427493282139",
+        "created_at": "2026-02-22T17:59:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T18:59:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025631427493282139"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 85,
+              "normalized_text": "GenshinImpact",
+              "probability": 0.7478,
+              "start": 73,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 86,
+              "start": 72,
+              "tag": "GenshinImpact"
+            },
+            {
+              "end": 94,
+              "start": 87,
+              "tag": "Gaming"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5i0vpkTULa",
+              "end": 118,
+              "expanded_url": "https://x.com/KubiKun/status/2025631427493282139/photo/1",
+              "media_key": "3_2025631424112664576",
+              "start": 95,
+              "url": "https://t.co/5i0vpkTULa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025631427493282139",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1454,
+          "impression_count": 84090,
+          "like_count": 5080,
+          "quote_count": 1,
+          "reply_count": 18,
+          "retweet_count": 648
+        },
+        "reply_settings": "everyone",
+        "text": "Checking on Gaming, also healthy— 😳📝🍆\nHappy Lantern Rite everyone~ 😘🧧🐎✨\n#GenshinImpact #Gaming https://t.co/5i0vpkTULa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "有负面💊，歌品感人只是一个爱听kpop/cpop/edm的可怜人，性取向你猜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016795361961230336/4zuFQCyR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 616,
+          "like_count": 7812,
+          "listed_count": 1,
+          "media_count": 486,
+          "tweet_count": 4629
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-12T09:54:41.000Z",
+        "description": "• ♂️20 • ENG/VIET • Minors DNI me • Characters are 18+ IN AGE REGARDLESS OF CANON • My P-site in the link below 😉👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/kubikun",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/kubikun",
+                "start": 0,
+                "url": "https://t.co/KNPMQQuQyY"
+              }
+            ]
+          }
+        },
+        "id": "1337697313561608194",
+        "location": "Your heart, 🇻🇳",
+        "name": "🔞Kubi-kun👔🌸✨ ( COMMIS CLOSED for now )",
+        "pinned_tweet_id": "2025631427493282139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933527014147043330/aeRQ-v6Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62217,
+          "following_count": 297,
+          "like_count": 23659,
+          "listed_count": 137,
+          "media_count": 255,
+          "tweet_count": 6179
+        },
+        "url": "https://t.co/KNPMQQuQyY",
+        "username": "KubiKun",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060020323421175808"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "2060020344606634096",
+    "created_at": "2026-05-28T15:28:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T16:28:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060020344606634096"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6r2anHuYrc",
+          "end": 55,
+          "expanded_url": "https://x.com/Dream_xyuuup/status/2060020344606634096/photo/1",
+          "media_key": "3_2060020323421175808",
+          "start": 32,
+          "url": "https://t.co/6r2anHuYrc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060020344606634096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你们他妈全体人戴耳机听这首歌行不行，我要爽飞了，早知道嗑药来了 https://t.co/6r2anHuYrc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2060020323421175808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJapkdeawAAPeM9.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060020323421175808"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "2060020344606634096",
+        "created_at": "2026-05-28T15:28:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T16:28:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060020344606634096"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6r2anHuYrc",
+              "end": 55,
+              "expanded_url": "https://x.com/Dream_xyuuup/status/2060020344606634096/photo/1",
+              "media_key": "3_2060020323421175808",
+              "start": 32,
+              "url": "https://t.co/6r2anHuYrc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060020344606634096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们他妈全体人戴耳机听这首歌行不行，我要爽飞了，早知道嗑药来了 https://t.co/6r2anHuYrc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "mtx,her/they\n我很蠢你们要理解我\n*・x・*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "弈鸠",
+        "pinned_tweet_id": "2055264508608970925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059924129340592128/ItWjnHnF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 534,
+          "following_count": 632,
+          "like_count": 8401,
+          "listed_count": 0,
+          "media_count": 633,
+          "tweet_count": 6265
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      }
+    ]
+  }
+}

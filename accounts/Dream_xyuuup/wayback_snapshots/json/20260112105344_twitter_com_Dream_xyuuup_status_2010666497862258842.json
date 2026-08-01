@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010666489142284288"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "2010666497862258842",
+    "created_at": "2026-01-12T10:53:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T11:53:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010666497862258842"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8wyZk7aot5",
+          "end": 28,
+          "expanded_url": "https://x.com/Dream_xyuuup/status/2010666497862258842/photo/1",
+          "media_key": "3_2010666489142284288",
+          "start": 5,
+          "url": "https://t.co/8wyZk7aot5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010666497862258842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我以后： https://t.co/8wyZk7aot5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1848,
+        "media_key": "3_2010666489142284288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-dShNcbkAAuhDE.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010666489142284288"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "2010666497862258842",
+        "created_at": "2026-01-12T10:53:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T11:53:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010666497862258842"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8wyZk7aot5",
+              "end": 28,
+              "expanded_url": "https://x.com/Dream_xyuuup/status/2010666497862258842/photo/1",
+              "media_key": "3_2010666489142284288",
+              "start": 5,
+              "url": "https://t.co/8wyZk7aot5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010666497862258842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我以后： https://t.co/8wyZk7aot5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "w38舞萌吃，听kpop/术/cpop/electronic/afro ，尝试热爱生活",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010631486530322432/50V-akck_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 602,
+          "like_count": 7983,
+          "listed_count": 1,
+          "media_count": 477,
+          "tweet_count": 4440
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      }
+    ]
+  }
+}

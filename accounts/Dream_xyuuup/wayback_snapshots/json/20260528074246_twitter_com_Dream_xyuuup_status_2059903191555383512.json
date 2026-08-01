@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059903174253924352"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "2059903191555383512",
+    "created_at": "2026-05-28T07:42:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T08:42:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059903191555383512"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EcHcPZ16Iy",
+          "end": 81,
+          "expanded_url": "https://x.com/Dream_xyuuup/status/2059903191555383512/photo/1",
+          "media_key": "3_2059903174253924352",
+          "start": 58,
+          "url": "https://t.co/EcHcPZ16Iy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059903191555383512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "操，七天没到不能开，医生不给我开氯硝但可以给我开阿普唑仑。现在让我试试丁螺环酮，真他妈贵啊我心在滴血，我只是个孩子 https://t.co/EcHcPZ16Iy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059903174253924352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJY_Be0a0AAjIhO.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059903174253924352"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "2059903191555383512",
+        "created_at": "2026-05-28T07:42:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T08:42:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059903191555383512"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EcHcPZ16Iy",
+              "end": 81,
+              "expanded_url": "https://x.com/Dream_xyuuup/status/2059903191555383512/photo/1",
+              "media_key": "3_2059903174253924352",
+              "start": 58,
+              "url": "https://t.co/EcHcPZ16Iy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059903191555383512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "操，七天没到不能开，医生不给我开氯硝但可以给我开阿普唑仑。现在让我试试丁螺环酮，真他妈贵啊我心在滴血，我只是个孩子 https://t.co/EcHcPZ16Iy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "纯情男初，🚪vx38，头像小孩不懂乱换的\n*・x・*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "弈鸠~💓同城上门",
+        "pinned_tweet_id": "2055264508608970925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059813154289577984/4a0Nps2Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 631,
+          "like_count": 8398,
+          "listed_count": 0,
+          "media_count": 630,
+          "tweet_count": 6248
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      }
+    ]
+  }
+}

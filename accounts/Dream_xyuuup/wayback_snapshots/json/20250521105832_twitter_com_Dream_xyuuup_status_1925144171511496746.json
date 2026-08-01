@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1925144094420156417"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "1925144171511496746",
+    "created_at": "2025-05-21T10:58:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-21T11:58:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1925144171511496746"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6StXCLqxJQ",
+          "end": 28,
+          "expanded_url": "https://x.com/Dream_xyuuup/status/1925144171511496746/video/1",
+          "media_key": "13_1925144094420156417",
+          "start": 5,
+          "url": "https://t.co/6StXCLqxJQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925144171511496746",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "求助推油 https://t.co/6StXCLqxJQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10271,
+        "height": 1280,
+        "media_key": "13_1925144094420156417",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1925144094420156417/img/Gexm40hsz4F3w36w.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1925144094420156417/vid/avc1/320x694/Xq4Mzk8S3WYbRL9l.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1925144094420156417/vid/avc1/480x1040/r2vERR_PMOXPTnMp.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1925144094420156417/vid/avc1/590x1280/O-Ifsx6DbNdkZZBE.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1925144094420156417/pl/RN1zadBXIbFk-HkA.m3u8?tag=14"
+          }
+        ],
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1925144094420156417"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "1925144171511496746",
+        "created_at": "2025-05-21T10:58:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T11:58:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925144171511496746"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6StXCLqxJQ",
+              "end": 28,
+              "expanded_url": "https://x.com/Dream_xyuuup/status/1925144171511496746/video/1",
+              "media_key": "13_1925144094420156417",
+              "start": 5,
+              "url": "https://t.co/6StXCLqxJQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925144171511496746",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求助推油 https://t.co/6StXCLqxJQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "废话多｜对所有人友好除了现生｜最可爱的小宝宝@QLing61007 😽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1917423348302467396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924678380655673348/VxgKyXwf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 429,
+          "like_count": 4542,
+          "listed_count": 1,
+          "media_count": 212,
+          "tweet_count": 1993
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      }
+    ]
+  }
+}

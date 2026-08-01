@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "2026474251935690763",
+    "created_at": "2026-02-25T18:45:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T19:45:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026730199732334696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2017076762296143872",
+          "start": 0,
+          "username": "sagerwangg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026730199732334696",
+    "in_reply_to_user_id": "2017076762296143872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026474251935690763",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sagerwangg 小分区神经病"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 974,
+        "media_key": "3_2026474249276493824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB97l86aEAAd_Vp.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "2026474251935690763",
+        "created_at": "2026-02-25T18:45:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T19:45:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026730199732334696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2017076762296143872",
+              "start": 0,
+              "username": "sagerwangg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026730199732334696",
+        "in_reply_to_user_id": "2017076762296143872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026474251935690763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sagerwangg 小分区神经病"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026474249276493824"
+          ]
+        },
+        "author_id": "2017076762296143872",
+        "conversation_id": "2026474251935690763",
+        "created_at": "2026-02-25T01:48:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T02:48:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026474251935690763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3CSRBtVsIu",
+              "end": 45,
+              "expanded_url": "https://x.com/sagerwangg/status/2026474251935690763/photo/1",
+              "media_key": "3_2026474249276493824",
+              "start": 22,
+              "url": "https://t.co/3CSRBtVsIu"
+            },
+            {
+              "display_url": "x.com/HoujouSatoko62…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/HoujouSatoko623/status/2026329326472601629",
+              "start": 46,
+              "url": "https://t.co/f4voxfkq82"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026474251935690763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 178,
+          "impression_count": 282348,
+          "like_count": 1332,
+          "quote_count": 2,
+          "reply_count": 49,
+          "retweet_count": 56
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026329326472601629",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "算是我比较歧视新时代低龄小畜生的原因之一吧 https://t.co/3CSRBtVsIu https://t.co/f4voxfkq82"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "有负面💊，歌品感人只是一个爱听kpop/cpop/edm的可怜人，性取向你猜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016795361961230336/4zuFQCyR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 610,
+          "like_count": 7851,
+          "listed_count": 1,
+          "media_count": 483,
+          "tweet_count": 4594
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-30T03:26:01.000Z",
+        "description": "女人即女权，女权即女拳\n真命天女病是男性不可治愈的癌症",
+        "id": "2017076762296143872",
+        "location": "Suginami-ku, Tokyo",
+        "name": "sagerwang⛓️👰⛓️",
+        "pinned_tweet_id": "2018200356971479328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018261840594382848/KsT4cQdD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 36,
+          "like_count": 1003,
+          "listed_count": 2,
+          "media_count": 47,
+          "tweet_count": 500
+        },
+        "username": "sagerwangg",
+        "verified": false
+      }
+    ]
+  }
+}

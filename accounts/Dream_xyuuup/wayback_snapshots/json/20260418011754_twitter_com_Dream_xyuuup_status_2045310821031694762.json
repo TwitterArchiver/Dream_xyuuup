@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045174309417844736"
+      ],
+      "media_source_tweet_id": [
+        "2045174315805815059"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "2045310821031694762",
+    "created_at": "2026-04-18T01:17:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T02:17:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045310821031694762"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1374940909574361090",
+          "start": 3,
+          "username": "li_cori_ce"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/b7HrCVW2uK",
+          "end": 72,
+          "expanded_url": "https://x.com/li_cori_ce/status/2045174315805815059/photo/1",
+          "media_key": "3_2045174309417844736",
+          "start": 49,
+          "url": "https://t.co/b7HrCVW2uK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045310821031694762",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 305
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045174315805815059",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @li_cori_ce: 패션잡지 표지가 이렇게 백합만화표지스러워야할 이유가 뭐지? https://t.co/b7HrCVW2uK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1205,
+        "media_key": "3_2045174309417844736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGHrMtibAAA6ExG.jpg",
+        "width": 964
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045174309417844736"
+          ],
+          "media_source_tweet_id": [
+            "2045174315805815059"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "2045310821031694762",
+        "created_at": "2026-04-18T01:17:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T02:17:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045310821031694762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1374940909574361090",
+              "start": 3,
+              "username": "li_cori_ce"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/b7HrCVW2uK",
+              "end": 72,
+              "expanded_url": "https://x.com/li_cori_ce/status/2045174315805815059/photo/1",
+              "media_key": "3_2045174309417844736",
+              "start": 49,
+              "url": "https://t.co/b7HrCVW2uK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045310821031694762",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 305
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045174315805815059",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @li_cori_ce: 패션잡지 표지가 이렇게 백합만화표지스러워야할 이유가 뭐지? https://t.co/b7HrCVW2uK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045174309417844736"
+          ]
+        },
+        "author_id": "1374940909574361090",
+        "conversation_id": "2045174315805815059",
+        "created_at": "2026-04-17T16:15:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T17:15:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045174315805815059"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b7HrCVW2uK",
+              "end": 56,
+              "expanded_url": "https://x.com/li_cori_ce/status/2045174315805815059/photo/1",
+              "media_key": "3_2045174309417844736",
+              "start": 33,
+              "url": "https://t.co/b7HrCVW2uK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045174315805815059",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 133,
+          "impression_count": 26901,
+          "like_count": 2097,
+          "quote_count": 20,
+          "reply_count": 0,
+          "retweet_count": 305
+        },
+        "reply_settings": "following",
+        "text": "패션잡지 표지가 이렇게 백합만화표지스러워야할 이유가 뭐지? https://t.co/b7HrCVW2uK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "enby,her/they,kpop,激女粉红点进就死\n*・x・*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "弈鸠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041811823687823360/QQkkR0z6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 598,
+          "like_count": 8064,
+          "listed_count": 1,
+          "media_count": 509,
+          "tweet_count": 4973
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-25T04:27:20.000Z",
+        "description": "간장게장모카롱만두계정",
+        "id": "1374940909574361090",
+        "name": "It's 꼬리",
+        "pinned_tweet_id": "2044881331717546131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039217638384250880/904Po-9l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 116,
+          "like_count": 1642,
+          "listed_count": 0,
+          "media_count": 914,
+          "tweet_count": 8449
+        },
+        "username": "li_cori_ce",
+        "verified": false
+      }
+    ]
+  }
+}

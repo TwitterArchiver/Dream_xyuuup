@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1951595076578357427",
+    "created_at": "2025-08-02T10:49:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-02T11:49:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951596135984099825"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1396330780079509510",
+          "start": 0,
+          "username": "xf00251456"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951596135984099825",
+    "in_reply_to_user_id": "1396330780079509510",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951595076578357427",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xf00251456 左边的是什么呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1951595070139912193",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxV1YFUX0AEyc4q.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1951595076578357427",
+        "created_at": "2025-08-02T10:49:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T11:49:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951596135984099825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1396330780079509510",
+              "start": 0,
+              "username": "xf00251456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951596135984099825",
+        "in_reply_to_user_id": "1396330780079509510",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951595076578357427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xf00251456 左边的是什么呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951595070139912193"
+          ]
+        },
+        "author_id": "1396330780079509510",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1951595076578357427",
+        "created_at": "2025-08-02T10:44:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T11:44:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951595076578357427"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3EoRrWplK2",
+              "end": 29,
+              "expanded_url": "https://x.com/xf00251456/status/1951595076578357427/photo/1",
+              "media_key": "3_1951595070139912193",
+              "start": 6,
+              "url": "https://t.co/3EoRrWplK2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951595076578357427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "叫了个外卖 https://t.co/3EoRrWplK2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "yì jīu｜不知道什么圈子，谢谢你的喜欢我也喜欢你喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 543,
+          "like_count": 6649,
+          "listed_count": 0,
+          "media_count": 370,
+          "tweet_count": 3285
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-23T05:03:00.000Z",
+        "description": "抽象的美男子，文案喜欢的话请随意自取。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xf00251456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xf00251456",
+                "start": 0,
+                "url": "https://t.co/p6hKbSVSP4"
+              }
+            ]
+          }
+        },
+        "id": "1396330780079509510",
+        "location": "距您2.5km",
+        "name": "X",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875762913254035456/XXgfwjVB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1803,
+          "following_count": 1102,
+          "like_count": 79996,
+          "listed_count": 12,
+          "media_count": 223,
+          "tweet_count": 5614
+        },
+        "url": "https://t.co/p6hKbSVSP4",
+        "username": "xf00251456",
+        "verified": false
+      }
+    ]
+  }
+}

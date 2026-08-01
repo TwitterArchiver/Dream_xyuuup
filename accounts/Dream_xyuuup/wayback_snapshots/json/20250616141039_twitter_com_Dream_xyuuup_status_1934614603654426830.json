@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1934611086650806343",
+    "created_at": "2025-06-16T14:10:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-16T15:10:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934614603654426830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1908810911705681920",
+          "start": 0,
+          "username": "D1o2ng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934614603654426830",
+    "in_reply_to_user_id": "1908810911705681920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934614439850017127",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@D1o2ng 嗯…..🥰🥰"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1934614439850017127].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1934614439850017127",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1934614439850017127"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1934611086650806343",
+        "created_at": "2025-06-16T14:10:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T15:10:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934614603654426830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1908810911705681920",
+              "start": 0,
+              "username": "D1o2ng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934614603654426830",
+        "in_reply_to_user_id": "1908810911705681920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934614439850017127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@D1o2ng 嗯…..🥰🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "在下弈鸠 只有几天时间就中考(我还挺期待的) 成分复杂爱看棒子 偶尔发血图吓唬你 想出国 对所有人友好 我想交朋友求你们来找我玩🥹下面的链接是赞赏码 最可爱的小宝宝@QLing61007 😽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 82,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1931176332370813214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933432998864826371/0SiPerD5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 480,
+          "like_count": 5635,
+          "listed_count": 0,
+          "media_count": 274,
+          "tweet_count": 2469
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-06T09:16:10.000Z",
+        "description": "我是集泉こなたOffical🇺🇳(@tidy_fun8964) 𝓪𝓹𝓻𝓲𝓬𝓪𝓻𝓲 (淡退上学中😇)(@small_fun8964) apricari(@little_fun8964) NaiveJinP(@fun8964)与一身的超级泉此方备用小号 眼熟的回个fo谢谢 这个号炸了就自杀😇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "tidy_fun8964"
+              },
+              {
+                "end": 64,
+                "start": 50,
+                "username": "small_fun8964"
+              },
+              {
+                "end": 90,
+                "start": 75,
+                "username": "little_fun8964"
+              },
+              {
+                "end": 110,
+                "start": 102,
+                "username": "fun8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nmbot",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nmbot",
+                "start": 0,
+                "url": "https://t.co/FKy9ssw3Gz"
+              }
+            ]
+          }
+        },
+        "id": "1908810911705681920",
+        "name": "Dong",
+        "pinned_tweet_id": "1932818815873921533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908811082564841474/Tq8TMTCq_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 430,
+          "like_count": 2703,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 1088
+        },
+        "url": "https://t.co/FKy9ssw3Gz",
+        "username": "D1o2ng",
+        "verified": false
+      }
+    ]
+  }
+}

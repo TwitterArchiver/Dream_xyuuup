@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1937364993009500285",
+    "created_at": "2025-06-24T10:04:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T11:04:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937451666321867070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1493261519886290945",
+          "start": 0,
+          "username": "bleakz9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937451666321867070",
+    "in_reply_to_user_id": "1493261519886290945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937451574860873941",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bleakz9 还没考 后天"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1937364993009500285",
+        "created_at": "2025-06-24T10:04:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T11:04:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937451666321867070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1493261519886290945",
+              "start": 0,
+              "username": "bleakz9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937451666321867070",
+        "in_reply_to_user_id": "1493261519886290945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937451574860873941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bleakz9 还没考 后天"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493261519886290945",
+        "conversation_id": "1937364993009500285",
+        "created_at": "2025-06-24T10:03:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T11:03:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937451574860873941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1726051028112744448",
+              "start": 0,
+              "username": "Dream_xyuuup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937451574860873941",
+        "in_reply_to_user_id": "1726051028112744448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937364993009500285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dream_xyuuup 考完了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "那丑咋了？我不光长丑还没文化，不光没文化，我还没钱，我原生家庭还有问题，导致我人格上有缺陷，而且我老感觉到有一种不安全感。我感觉空气里边有一种焦虑的因素，我一呼一吸之间仿佛把地球上边污秽的东西全都吸到我的身体里边去了，我全给吸收了，我就这么蠢，我就这么笨，那咋了？对不对？我就感觉到吧，活着没啥意思。但是我老爱幻想，我幻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933432998864826371/0SiPerD5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 489,
+          "like_count": 5929,
+          "listed_count": 0,
+          "media_count": 308,
+          "tweet_count": 2765
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-14T16:31:14.000Z",
+        "description": "INFP｜无性别主义｜生理女｜LGBTQ+友好｜放下执念，立地成佛。",
+        "id": "1493261519886290945",
+        "location": "火星",
+        "name": "bleakz （互fo😚）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880245604187828224/d4qptSrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 123,
+          "like_count": 192,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 237
+        },
+        "username": "bleakz9",
+        "verified": false
+      }
+    ]
+  }
+}

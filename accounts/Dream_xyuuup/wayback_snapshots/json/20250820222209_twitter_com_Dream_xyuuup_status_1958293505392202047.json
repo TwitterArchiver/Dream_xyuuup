@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1958293490972110848"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "1958293505392202047",
+    "created_at": "2025-08-20T22:22:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-20T23:22:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1958293505392202047"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wrC4urO1o3",
+          "end": 28,
+          "expanded_url": "https://x.com/Dream_xyuuup/status/1958293505392202047/photo/1",
+          "media_key": "3_1958293490972110848",
+          "start": 5,
+          "url": "https://t.co/wrC4urO1o3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958293505392202047",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "依旧开船 https://t.co/wrC4urO1o3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1958293490972110848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy1BjfdaMAA9zYi.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958293490972110848"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "1958293505392202047",
+        "created_at": "2025-08-20T22:22:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T23:22:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958293505392202047"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wrC4urO1o3",
+              "end": 28,
+              "expanded_url": "https://x.com/Dream_xyuuup/status/1958293505392202047/photo/1",
+              "media_key": "3_1958293490972110848",
+              "start": 5,
+              "url": "https://t.co/wrC4urO1o3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958293505392202047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "依旧开船 https://t.co/wrC4urO1o3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "yì jīu｜🏳️‍🌈｜谢谢你喜欢我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1953828269977219114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 551,
+          "like_count": 6685,
+          "listed_count": 0,
+          "media_count": 399,
+          "tweet_count": 3495
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      }
+    ]
+  }
+}

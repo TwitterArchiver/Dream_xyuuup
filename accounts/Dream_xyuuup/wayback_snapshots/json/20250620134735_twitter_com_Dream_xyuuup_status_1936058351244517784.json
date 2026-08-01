@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1935932315651416455",
+    "created_at": "2025-06-20T13:47:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T14:47:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936058351244517784"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "991490571456819202",
+          "start": 0,
+          "username": "Gaomixiaodaren"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936058351244517784",
+    "in_reply_to_user_id": "991490571456819202",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935932315651416455",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gaomixiaodaren 笑死我了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 154401,
+        "height": 1564,
+        "media_key": "13_1935931925069172736",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1935931925069172736/img/ULpZ8tzzcfz5Lg9F.jpg",
+        "public_metrics": {
+          "view_count": 16548
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1935931925069172736/vid/avc1/480x848/YwUdilXXy076RVsO.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1935931925069172736/vid/avc1/320x566/nf4eSQv2t0Puw2JW.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1935931925069172736/vid/avc1/720x1272/ES0KjOKH4ET0Vuj4.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1935931925069172736/pl/F5I8h6BrJ0kLgvlV.m3u8?v=441"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1935931925069172736/vid/avc1/884x1564/WXhojTj40RVNmouM.mp4"
+          }
+        ],
+        "width": 884
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1935932315651416455",
+        "created_at": "2025-06-20T13:47:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T14:47:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936058351244517784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "991490571456819202",
+              "start": 0,
+              "username": "Gaomixiaodaren"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936058351244517784",
+        "in_reply_to_user_id": "991490571456819202",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935932315651416455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gaomixiaodaren 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1935931925069172736"
+          ]
+        },
+        "author_id": "991490571456819202",
+        "conversation_id": "1935932315651416455",
+        "created_at": "2025-06-20T05:26:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T06:26:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935932315651416455"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3ycIpsgcft",
+              "end": 41,
+              "expanded_url": "https://x.com/Gaomixiaodaren/status/1935932315651416455/video/1",
+              "media_key": "13_1935931925069172736",
+              "start": 18,
+              "url": "https://t.co/3ycIpsgcft"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935932315651416455",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 30038,
+          "like_count": 77,
+          "quote_count": 8,
+          "reply_count": 68,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "原来喊 “秦腔穷”还有零食大礼包🎁 https://t.co/3ycIpsgcft"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "在下弈鸠 只有几天时间就中考(我还挺期待的) 成分复杂爱看棒子 偶尔发血图吓唬你 想出国 对所有人友好 我想交朋友求你们来找我玩🥹下面的链接是赞赏码 最可爱的小宝宝@QLing61007 😽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 82,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1931176332370813214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933432998864826371/0SiPerD5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 482,
+          "like_count": 5800,
+          "listed_count": 0,
+          "media_count": 289,
+          "tweet_count": 2605
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-02T01:32:28.000Z",
+        "description": "脆沙瓤歌舞厅一姐",
+        "id": "991490571456819202",
+        "location": "四川汉王山监狱",
+        "name": "象牙山王云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1740920171651604480/6-7RIeWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37013,
+          "following_count": 302,
+          "like_count": 25669,
+          "listed_count": 55,
+          "media_count": 4010,
+          "tweet_count": 11856
+        },
+        "username": "Gaomixiaodaren",
+        "verified": true
+      }
+    ]
+  }
+}

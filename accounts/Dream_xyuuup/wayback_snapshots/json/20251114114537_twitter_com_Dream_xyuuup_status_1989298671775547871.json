@@ -1,0 +1,601 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1960958780935446528",
+          "name": "ILLIT"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1960958780935446528",
+          "name": "ILLIT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1286400936550608896",
+          "name": "Music events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293278449495203840",
+          "name": "Music TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1324850959449616384",
+          "name": "Kouhaku Music Show"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1960958780935446528",
+          "name": "ILLIT"
+        }
+      }
+    ],
+    "conversation_id": "1989298671775547871",
+    "created_at": "2025-11-14T11:45:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T12:45:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989298671775547871"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nhk_kouhaku/st…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/nhk_kouhaku/status/1989176657756975324",
+          "start": 11,
+          "url": "https://t.co/a5GJYG11wK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989298671775547871",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989176657756975324",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谢谢邀请illit。 https://t.co/a5GJYG11wK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_1989176654896484352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5r5oOaa0AAwQMA.png",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1960958780935446528",
+              "name": "ILLIT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1960958780935446528",
+              "name": "ILLIT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286400936550608896",
+              "name": "Music events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293278449495203840",
+              "name": "Music TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1324850959449616384",
+              "name": "Kouhaku Music Show"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1960958780935446528",
+              "name": "ILLIT"
+            }
+          }
+        ],
+        "conversation_id": "1989298671775547871",
+        "created_at": "2025-11-14T11:45:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T12:45:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989298671775547871"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nhk_kouhaku/st…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/nhk_kouhaku/status/1989176657756975324",
+              "start": 11,
+              "url": "https://t.co/a5GJYG11wK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989298671775547871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989176657756975324",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谢谢邀请illit。 https://t.co/a5GJYG11wK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989176654896484352"
+          ]
+        },
+        "author_id": "85765327",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286400936550608896",
+              "name": "Music events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293278449495203840",
+              "name": "Music TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1324850959449616384",
+              "name": "Kouhaku Music Show"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "12月31日にNHK総合などで放送される『第72回NHK紅白歌合戦』の出場者が19日、正式に発表されました。初出場は、紅組は上白石萌音さん、Awesome City Club、BiSHの4組。白組は布袋寅泰さん、KAT-TUN、SnowMan、DISH//、まふまふさん、平井大さんの6組。出場歌手は43組です。このモーメントは自動でツイートを掲載しています。",
+              "id": "1461187744508432387",
+              "name": "『第72回NHK紅白歌合戦』の出場者発表 初出場は10組"
+            }
+          }
+        ],
+        "conversation_id": "1989176657756975324",
+        "created_at": "2025-11-14T03:40:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T04:40:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989176657756975324"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "紅組20組",
+              "probability": 0.4181,
+              "start": 28,
+              "type": "Organization"
+            },
+            {
+              "end": 48,
+              "normalized_text": "紅組8組",
+              "probability": 0.5664,
+              "start": 45,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 6,
+              "tag": "NHK紅白"
+            },
+            {
+              "end": 64,
+              "start": 58,
+              "tag": "紅白歌合戦"
+            }
+          ],
+          "urls": [
+            {
+              "description": "第76回NHK紅白歌合戦 出場歌手発表会見 12:30ごろから配信開始予定",
+              "display_url": "nhk.or.jp/livestreaming/…",
+              "end": 93,
+              "expanded_url": "https://www.nhk.or.jp/livestreaming/kouhaku/?cid=khhk-khkx-khk-khhp-251114-05",
+              "images": [
+                {
+                  "height": 450,
+                  "url": "https://pbs.twimg.com/news_img/1989176664027459586/gdl000zZ?format=jpg&name=orig",
+                  "width": 800
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1989176664027459586/gdl000zZ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 70,
+              "status": 200,
+              "title": "紅白ライブストリーミング",
+              "unwound_url": "https://www.nhk.or.jp/livestreaming/kouhaku/?cid=khhk-khkx-khk-khhp-251114-05",
+              "url": "https://t.co/luuCuJe50U"
+            },
+            {
+              "display_url": "pic.x.com/w07dZR4eKz",
+              "end": 117,
+              "expanded_url": "https://x.com/nhk_kouhaku/status/1989176657756975324/photo/1",
+              "media_key": "3_1989176654896484352",
+              "start": 94,
+              "url": "https://t.co/w07dZR4eKz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989176657756975324",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14262,
+          "impression_count": 36864368,
+          "like_count": 223742,
+          "quote_count": 41523,
+          "reply_count": 4848,
+          "retweet_count": 65719
+        },
+        "reply_settings": "everyone",
+        "text": "🔴第76回 #NHK紅白 ⚪️\n\n出場歌手が決定✨\n\n紅組20組、白組17組\n初出場は、紅組8組、白組2組です。\n\n#紅白歌合戦 公式HP：https://t.co/luuCuJe50U https://t.co/w07dZR4eKz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "没法活了，一切都是男的骗我，女的欠我，老的冤枉我，小的欺负我，中国的压迫我，外国的引诱我，身边的霸凌我，网上的取笑我，你们全都对不起我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1985535613857382587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 592,
+          "like_count": 7499,
+          "listed_count": 1,
+          "media_count": 457,
+          "tweet_count": 4131
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2009-10-28T07:32:46.000Z",
+        "description": "NHK紅白歌合戦公式アカウントです\n#NHK紅白 の関連情報を発信します！\n公式Instagramもチェックよろしくお願いします。\n利用規約はこちら👉https://t.co/2yW4uX3x2X",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 24,
+                "start": 18,
+                "tag": "NHK紅白"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "nhk.jp/rules",
+                "end": 98,
+                "expanded_url": "https://nhk.jp/rules",
+                "start": 75,
+                "url": "https://t.co/2yW4uX3x2X"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nhk.or.jp/kouhaku/",
+                "end": 23,
+                "expanded_url": "https://www.nhk.or.jp/kouhaku/",
+                "start": 0,
+                "url": "https://t.co/WopUl3982k"
+              }
+            ]
+          }
+        },
+        "id": "85765327",
+        "location": "東京都渋谷区神南",
+        "name": "NHK紅白歌合戦",
+        "pinned_tweet_id": "1989176657756975324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968216795673923586/owkdtxJT_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779190,
+          "following_count": 5,
+          "like_count": 3,
+          "listed_count": 3485,
+          "media_count": 576,
+          "tweet_count": 3546
+        },
+        "url": "https://t.co/WopUl3982k",
+        "username": "nhk_kouhaku",
+        "verified": true
+      }
+    ]
+  }
+}

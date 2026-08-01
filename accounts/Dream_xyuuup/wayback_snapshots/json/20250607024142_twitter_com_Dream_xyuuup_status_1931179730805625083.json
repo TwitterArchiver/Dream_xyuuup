@@ -1,0 +1,753 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1834922388565508101"
+      ],
+      "media_source_tweet_id": [
+        "1834922454558691493"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1885840494292254721",
+          "name": "Charlie XCX"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1885840494292254721",
+          "name": "Charlie XCX"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1358844953036640258",
+          "name": "Pop music videos"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "CHARLI XCX",
+          "id": "885602209618051072",
+          "name": "Charli XCX"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "CHARLI XCX",
+          "id": "885602209618051072",
+          "name": "Charli XCX"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Pop",
+          "id": "810938279801470977",
+          "name": "Pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Pop",
+          "id": "810938279801470977",
+          "name": "Pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "CHARLI XCX",
+          "id": "885602209618051072",
+          "name": "Charli XCX"
+        }
+      }
+    ],
+    "conversation_id": "1931179730805625083",
+    "created_at": "2025-06-07T02:41:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T03:41:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931179730805625083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2999464870",
+          "start": 3,
+          "username": "IamMoone94"
+        },
+        {
+          "end": 27,
+          "id": "103012173",
+          "start": 16,
+          "username": "charli_xcx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fAbqFM8Oi3",
+          "end": 75,
+          "expanded_url": "https://x.com/OrangieAkaSaf/status/1834922454558691493/video/1",
+          "media_key": "7_1834922388565508101",
+          "start": 52,
+          "url": "https://t.co/fAbqFM8Oi3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931179730805625083",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931055316248170854",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IamMoone94: @charli_xcx Release 365 music video https://t.co/fAbqFM8Oi3"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30100,
+        "height": 720,
+        "media_key": "7_1834922388565508101",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1834922388565508101/pu/img/na0JWBhBfanmjnM2.jpg",
+        "public_metrics": {
+          "view_count": 7402
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1834922388565508101/pu/vid/avc1/360x270/4RUT95NZGzO0RvED.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1834922388565508101/pu/vid/avc1/480x360/zpHqC-wz6nnYUmIW.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1834922388565508101/pu/vid/avc1/960x720/TIIpUEduPcQ9HTq4.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1834922388565508101/pu/pl/na-xmydYsHFnBCM2.m3u8?tag=12&v=122"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1834922388565508101"
+          ],
+          "media_source_tweet_id": [
+            "1834922454558691493"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1885840494292254721",
+              "name": "Charlie XCX"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1885840494292254721",
+              "name": "Charlie XCX"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1358844953036640258",
+              "name": "Pop music videos"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "CHARLI XCX",
+              "id": "885602209618051072",
+              "name": "Charli XCX"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "CHARLI XCX",
+              "id": "885602209618051072",
+              "name": "Charli XCX"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Pop",
+              "id": "810938279801470977",
+              "name": "Pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pop",
+              "id": "810938279801470977",
+              "name": "Pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "CHARLI XCX",
+              "id": "885602209618051072",
+              "name": "Charli XCX"
+            }
+          }
+        ],
+        "conversation_id": "1931179730805625083",
+        "created_at": "2025-06-07T02:41:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T03:41:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931179730805625083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2999464870",
+              "start": 3,
+              "username": "IamMoone94"
+            },
+            {
+              "end": 27,
+              "id": "103012173",
+              "start": 16,
+              "username": "charli_xcx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fAbqFM8Oi3",
+              "end": 75,
+              "expanded_url": "https://x.com/OrangieAkaSaf/status/1834922454558691493/video/1",
+              "media_key": "7_1834922388565508101",
+              "start": 52,
+              "url": "https://t.co/fAbqFM8Oi3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931179730805625083",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931055316248170854",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IamMoone94: @charli_xcx Release 365 music video https://t.co/fAbqFM8Oi3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1834922388565508101"
+          ],
+          "media_source_tweet_id": [
+            "1834922454558691493"
+          ]
+        },
+        "author_id": "2999464870",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1885840494292254721",
+              "name": "Charlie XCX"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1885840494292254721",
+              "name": "Charlie XCX"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1358844953036640258",
+              "name": "Pop music videos"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "CHARLI XCX",
+              "id": "885602209618051072",
+              "name": "Charli XCX"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "CHARLI XCX",
+              "id": "885602209618051072",
+              "name": "Charli XCX"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Pop",
+              "id": "810938279801470977",
+              "name": "Pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pop",
+              "id": "810938279801470977",
+              "name": "Pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "CHARLI XCX",
+              "id": "885602209618051072",
+              "name": "Charli XCX"
+            }
+          }
+        ],
+        "conversation_id": "1931053760098512934",
+        "created_at": "2025-06-06T18:27:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T19:27:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931055316248170854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "103012173",
+              "start": 0,
+              "username": "charli_xcx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fAbqFM8Oi3",
+              "end": 59,
+              "expanded_url": "https://x.com/OrangieAkaSaf/status/1834922454558691493/video/1",
+              "media_key": "7_1834922388565508101",
+              "start": 36,
+              "url": "https://t.co/fAbqFM8Oi3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931055316248170854",
+        "in_reply_to_user_id": "103012173",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 11438,
+          "like_count": 139,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931053760098512934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@charli_xcx Release 365 music video https://t.co/fAbqFM8Oi3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "偏远乡村学校在读 我应该不会再影响别人了 接下来有一个event 成分复杂 对所有人友好除了现生 最可爱的小宝宝@QLing61007 😽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 56,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "想回到家乡，我不要在这个冰冷无情的医院里了，我是健全的弈鸠",
+        "pinned_tweet_id": "1931176332370813214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924678380655673348/VxgKyXwf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 453,
+          "like_count": 4997,
+          "listed_count": 0,
+          "media_count": 240,
+          "tweet_count": 2213
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2015-01-26T10:44:21.000Z",
+        "description": "a virgin polite isn’t sin",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@maxmudhaji",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@maxmudhaji",
+                "start": 0,
+                "url": "https://t.co/r2T9Wx371k"
+              }
+            ]
+          }
+        },
+        "id": "2999464870",
+        "location": "Gaza Is Not For Sale! ",
+        "name": "Maxmud Haji",
+        "pinned_tweet_id": "1633889829246099456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929538143453171712/LAfMQhZk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2073,
+          "following_count": 3666,
+          "like_count": 210464,
+          "listed_count": 8,
+          "media_count": 14913,
+          "tweet_count": 63838
+        },
+        "url": "https://t.co/r2T9Wx371k",
+        "username": "IamMoone94",
+        "verified": true
+      },
+      {
+        "created_at": "2010-01-08T15:35:15.000Z",
+        "description": "Brat",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "charlixcx.com",
+                "end": 23,
+                "expanded_url": "https://www.charlixcx.com",
+                "start": 0,
+                "url": "https://t.co/MWSwuRcT68"
+              }
+            ]
+          }
+        },
+        "id": "103012173",
+        "name": "Charli",
+        "pinned_tweet_id": "1923047425993740624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749477937223761920/l1Vhg3vv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3819155,
+          "following_count": 832,
+          "like_count": 5833,
+          "listed_count": 3201,
+          "media_count": 2680,
+          "tweet_count": 15052
+        },
+        "url": "https://t.co/MWSwuRcT68",
+        "username": "charli_xcx",
+        "verified": true
+      }
+    ]
+  }
+}

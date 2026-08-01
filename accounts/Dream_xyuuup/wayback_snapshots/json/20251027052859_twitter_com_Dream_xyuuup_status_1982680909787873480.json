@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982679201288224768"
+      ],
+      "media_source_tweet_id": [
+        "1982679211728044456"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "1982680909787873480",
+    "created_at": "2025-10-27T05:28:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T06:28:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982680909787873480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1412787007940481030",
+          "start": 3,
+          "username": "CutieRivers"
+        },
+        {
+          "end": 29,
+          "id": "1552918719440924672",
+          "start": 17,
+          "username": "LumiCatRoll"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WsW9OfmCWQ",
+          "end": 53,
+          "expanded_url": "https://x.com/CutieRivers/status/1982679211728044456/photo/1",
+          "media_key": "3_1982679201288224768",
+          "start": 30,
+          "url": "https://t.co/WsW9OfmCWQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982680909787873480",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982679211728044456",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CutieRivers: @LumiCatRoll https://t.co/WsW9OfmCWQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 268,
+        "media_key": "3_1982679201288224768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4PkOphXAAAsxd5.png",
+        "width": 286
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982679201288224768"
+          ],
+          "media_source_tweet_id": [
+            "1982679211728044456"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "1982680909787873480",
+        "created_at": "2025-10-27T05:28:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T06:28:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982680909787873480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1412787007940481030",
+              "start": 3,
+              "username": "CutieRivers"
+            },
+            {
+              "end": 29,
+              "id": "1552918719440924672",
+              "start": 17,
+              "username": "LumiCatRoll"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WsW9OfmCWQ",
+              "end": 53,
+              "expanded_url": "https://x.com/CutieRivers/status/1982679211728044456/photo/1",
+              "media_key": "3_1982679201288224768",
+              "start": 30,
+              "url": "https://t.co/WsW9OfmCWQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982680909787873480",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982679211728044456",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CutieRivers: @LumiCatRoll https://t.co/WsW9OfmCWQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982679201288224768"
+          ]
+        },
+        "author_id": "1412787007940481030",
+        "conversation_id": "1982651421024776406",
+        "created_at": "2025-10-27T05:22:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T06:22:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982679211728044456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "LumiCatRoll"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WsW9OfmCWQ",
+              "end": 36,
+              "expanded_url": "https://x.com/CutieRivers/status/1982679211728044456/photo/1",
+              "media_key": "3_1982679201288224768",
+              "start": 13,
+              "url": "https://t.co/WsW9OfmCWQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982679211728044456",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982651421024776406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LumiCatRoll https://t.co/WsW9OfmCWQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "我自私，病态，阴暗，偏执。所有大度、不在乎都是我的伪装。我窥探你的生活，揣测你的文案，解读你分享的一切，观察你身边的人，盯着你的照片妄想找到蛛丝马迹。我敏感，善变多疑，斤斤计较你多看别人的一眼。我爱你，你本来就应该乖乖待在我身边。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1953828269977219114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 582,
+          "like_count": 7288,
+          "listed_count": 1,
+          "media_count": 448,
+          "tweet_count": 4024
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-07T14:54:12.000Z",
+        "description": "要迟到了要迟到了要迟到了！\n\n@popcat1234566",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 15,
+                "username": "popcat1234566"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "『數據刪除』.wiki",
+                "end": 23,
+                "expanded_url": "http://xn--36jc603xzvptwab16s.wiki",
+                "start": 0,
+                "url": "https://t.co/3p9FOeYkOU"
+              }
+            ]
+          }
+        },
+        "id": "1412787007940481030",
+        "location": "棺材里",
+        "name": "天川花",
+        "pinned_tweet_id": "1982667360135004585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971519683846373376/0rOzEW_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1023,
+          "following_count": 77,
+          "like_count": 11069,
+          "listed_count": 1,
+          "media_count": 511,
+          "tweet_count": 8336
+        },
+        "url": "https://t.co/3p9FOeYkOU",
+        "username": "CutieRivers",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "传送门 @Chiyuyu520 如果能在百忙之中抽空看一眼你的老朋友发给你的推文，我想必会受宠若惊。诉求：唯一解决方式是自己联系债主归还19535元 别找别人跟我扯皮",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "Chiyuyu520"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "name": "Lumi & 猫卷 Co. (日雌泰补诺",
+        "pinned_tweet_id": "1982121107500175769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981599824827838464/S98pBSrV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1952,
+          "following_count": 762,
+          "like_count": 597,
+          "listed_count": 2,
+          "media_count": 125,
+          "tweet_count": 1629
+        },
+        "username": "LumiCatRoll",
+        "verified": true
+      }
+    ]
+  }
+}

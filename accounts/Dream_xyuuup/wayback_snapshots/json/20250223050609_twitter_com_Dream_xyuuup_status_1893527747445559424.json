@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1893525472023101466",
+    "created_at": "2025-02-23T05:06:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-23T06:06:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893527747445559424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1824802522529140736",
+          "start": 0,
+          "username": "xrza2021_09"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893527747445559424",
+    "in_reply_to_user_id": "1824802522529140736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893525472023101466",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xrza2021_09 我张嘴了😆"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1893525468990599168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkcnYbhW8AA7kn4.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1893525472023101466",
+        "created_at": "2025-02-23T05:06:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T06:06:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893527747445559424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1824802522529140736",
+              "start": 0,
+              "username": "xrza2021_09"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893527747445559424",
+        "in_reply_to_user_id": "1824802522529140736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893525472023101466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xrza2021_09 我张嘴了😆"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893525468990599168"
+          ]
+        },
+        "author_id": "1824802522529140736",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1893525472023101466",
+        "created_at": "2025-02-23T04:57:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T05:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893525472023101466"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E7x1sUSmKP",
+              "end": 27,
+              "expanded_url": "https://x.com/xrza2021_09/status/1893525472023101466/photo/1",
+              "media_key": "3_1893525468990599168",
+              "start": 4,
+              "url": "https://t.co/E7x1sUSmKP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893525472023101466",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好吃😋 https://t.co/E7x1sUSmKP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "这是一本日记 可以把我视为现充 喜欢视奸#喵斯#有三次偶像#ISFP#0.5",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dreamxy_uuup",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dreamxy_uuup",
+                "start": 0,
+                "url": "https://t.co/V4QSiptbnl"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠ltnh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892121675938004992/fWCivcy4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 77,
+          "like_count": 217,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 108
+        },
+        "url": "https://t.co/V4QSiptbnl",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-17T13:36:54.000Z",
+        "description": "中共国四等贱民/支持民主/满洲人/建政/时不时会发疯😲/欢迎交朋友😊/会互fo（正常用户）/被封以防万一号(此号不建政）@xrza2024_12",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 60,
+                "username": "xrza2024_12"
+              }
+            ]
+          }
+        },
+        "id": "1824802522529140736",
+        "name": "我有权拒绝一切",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826622521103568896/ueTyIpTX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 486,
+          "like_count": 1489,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 674
+        },
+        "username": "xrza2021_09",
+        "verified": false
+      }
+    ]
+  }
+}

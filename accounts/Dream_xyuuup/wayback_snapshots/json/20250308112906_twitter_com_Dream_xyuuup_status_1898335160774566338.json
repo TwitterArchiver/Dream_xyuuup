@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1898335160774566338",
+    "created_at": "2025-03-08T11:29:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-08T12:29:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1898335160774566338"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/x09cotcc/statu…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/x09cotcc/status/1898253997913653465",
+          "start": 5,
+          "url": "https://t.co/cWXnVL1eaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898335160774566338",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898253997913653465",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我超铁屌 https://t.co/cWXnVL1eaa"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30068,
+        "height": 640,
+        "media_key": "13_1898253939436666882",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1898253939436666882/img/dWpmgsvFTE2S-x25.jpg",
+        "public_metrics": {
+          "view_count": 570
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1898253939436666882/vid/avc1/320x568/ajIwLiLvSxwy2uFQ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1898253939436666882/vid/avc1/360x640/b7v657RoRzCJkJem.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1898253939436666882/pl/YV7GDKwFlHHcNOC-.m3u8?tag=14"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1898335160774566338",
+        "created_at": "2025-03-08T11:29:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T12:29:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898335160774566338"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/x09cotcc/statu…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/x09cotcc/status/1898253997913653465",
+              "start": 5,
+              "url": "https://t.co/cWXnVL1eaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898335160774566338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898253997913653465",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我超铁屌 https://t.co/cWXnVL1eaa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1898253939436666882"
+          ]
+        },
+        "author_id": "1247769753097101318",
+        "conversation_id": "1898253997913653465",
+        "created_at": "2025-03-08T06:06:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T07:06:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898253997913653465"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ybwVlymbfl",
+              "end": 31,
+              "expanded_url": "https://x.com/X09COTCC/status/1898253997913653465/video/1",
+              "media_key": "13_1898253939436666882",
+              "start": 8,
+              "url": "https://t.co/ybwVlymbfl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898253997913653465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1349,
+          "like_count": 20,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "谁给我表演这个 https://t.co/ybwVlymbfl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "这是一本日记 喜欢视奸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dreamxy_uuup",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dreamxy_uuup",
+                "start": 0,
+                "url": "https://t.co/V4QSiptbnl"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠ltnh",
+        "pinned_tweet_id": "1898320029139214432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896250221824520192/PpwkphAn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 115,
+          "like_count": 579,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 308
+        },
+        "url": "https://t.co/V4QSiptbnl",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-08T06:15:29.000Z",
+        "description": "I think your inside is your best side. @Queviveent1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 39,
+                "username": "Queviveent1"
+              }
+            ]
+          }
+        },
+        "id": "1247769753097101318",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "太阳瓜",
+        "pinned_tweet_id": "1896967543912570885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898060834611642368/tHN2Iwwz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5463,
+          "following_count": 1575,
+          "like_count": 128936,
+          "listed_count": 14,
+          "media_count": 1024,
+          "tweet_count": 35338
+        },
+        "username": "X09COTCC",
+        "verified": false
+      }
+    ]
+  }
+}

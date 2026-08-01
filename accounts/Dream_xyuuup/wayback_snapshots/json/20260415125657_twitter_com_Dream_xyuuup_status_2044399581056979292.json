@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "2044399581056979292",
+    "created_at": "2026-04-15T12:56:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T13:56:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044399581056979292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2026318535346249728",
+          "start": 3,
+          "username": "Sandybackagain"
+        },
+        {
+          "end": 31,
+          "id": "1597945043251187712",
+          "start": 20,
+          "username": "Sorsacerba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044399581056979292",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044045871256613319",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sandybackagain: @Sorsacerba 就你这还上外网呢，你个傻逼人家名字叫Elon，名字叫马斯克"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "2044399581056979292",
+        "created_at": "2026-04-15T12:56:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T13:56:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044399581056979292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2026318535346249728",
+              "start": 3,
+              "username": "Sandybackagain"
+            },
+            {
+              "end": 31,
+              "id": "1597945043251187712",
+              "start": 20,
+              "username": "Sorsacerba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044399581056979292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044045871256613319",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sandybackagain: @Sorsacerba 就你这还上外网呢，你个傻逼人家名字叫Elon，名字叫马斯克"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026318535346249728",
+        "conversation_id": "2043992846303408505",
+        "created_at": "2026-04-14T13:31:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T14:31:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044045871256613319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597945043251187712",
+              "start": 0,
+              "username": "Sorsacerba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044045871256613319",
+        "in_reply_to_user_id": "1597945043251187712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6905,
+          "like_count": 55,
+          "quote_count": 2,
+          "reply_count": 15,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043992846303408505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sorsacerba 就你这还上外网呢，你个傻逼人家名字叫Elon，名字叫马斯克"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "enby｜her/they｜芙4心2礼3｜粉红点进就死｜*・x・*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041811823687823360/QQkkR0z6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 622,
+          "like_count": 8006,
+          "listed_count": 1,
+          "media_count": 498,
+          "tweet_count": 4901
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-24T15:29:33.000Z",
+        "description": "",
+        "id": "2026318535346249728",
+        "name": "Sandy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026318624173264896/si91eirP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 50,
+          "like_count": 431,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 25
+        },
+        "username": "Sandybackagain",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-30T13:26:10.000Z",
+        "description": "恋人 @HacchiTheMaid                                          \n///\n农友：@ceciliahyve",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "HacchiTheMaid"
+              },
+              {
+                "end": 79,
+                "start": 67,
+                "username": "ceciliahyve"
+              }
+            ]
+          }
+        },
+        "id": "1597945043251187712",
+        "location": "我家",
+        "name": "芋小妹",
+        "pinned_tweet_id": "2042267079391502416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005238125216534528/kDTOQwsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1606,
+          "following_count": 692,
+          "like_count": 68070,
+          "listed_count": 6,
+          "media_count": 1550,
+          "tweet_count": 19780
+        },
+        "username": "Sorsacerba",
+        "verified": false
+      }
+    ]
+  }
+}

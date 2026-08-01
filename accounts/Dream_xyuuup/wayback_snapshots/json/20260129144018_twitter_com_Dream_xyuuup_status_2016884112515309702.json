@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2016737804693491715"
+      ],
+      "media_source_tweet_id": [
+        "2016737847278223588"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "2016884112515309702",
+    "created_at": "2026-01-29T14:40:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T15:40:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016884112515309702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1618557658163970049",
+          "start": 3,
+          "username": "qqqqqf5"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/c2oA6NIPsd",
+          "end": 53,
+          "expanded_url": "https://x.com/qqqqqf5/status/2016737847278223588/video/1",
+          "media_key": "7_2016737804693491715",
+          "start": 30,
+          "url": "https://t.co/c2oA6NIPsd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016884112515309702",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 52
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016737847278223588",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qqqqqf5: 这是我26年到现在看过最逆天的屎 https://t.co/c2oA6NIPsd"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25053,
+        "height": 960,
+        "media_key": "7_2016737804693491715",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2016737804693491715/pu/img/N2-qp4GrGtVAFSFp.jpg",
+        "public_metrics": {
+          "view_count": 38753
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2016737804693491715/pu/vid/avc1/320x568/1H6keoljgsMT0JPf.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2016737804693491715/pu/vid/avc1/480x852/Wnf7o-dAqxYmAHnp.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2016737804693491715/pu/vid/avc1/540x960/YX3lWU_U41qUN33L.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2016737804693491715/pu/pl/l-qlP7h6D2MGgNZy.m3u8?v=cfc"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2016737804693491715"
+          ],
+          "media_source_tweet_id": [
+            "2016737847278223588"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "2016884112515309702",
+        "created_at": "2026-01-29T14:40:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T15:40:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016884112515309702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1618557658163970049",
+              "start": 3,
+              "username": "qqqqqf5"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/c2oA6NIPsd",
+              "end": 53,
+              "expanded_url": "https://x.com/qqqqqf5/status/2016737847278223588/video/1",
+              "media_key": "7_2016737804693491715",
+              "start": 30,
+              "url": "https://t.co/c2oA6NIPsd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016884112515309702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 52
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016737847278223588",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qqqqqf5: 这是我26年到现在看过最逆天的屎 https://t.co/c2oA6NIPsd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2016737804693491715"
+          ]
+        },
+        "author_id": "1618557658163970049",
+        "conversation_id": "2016737847278223588",
+        "created_at": "2026-01-29T04:59:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T05:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016737847278223588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c2oA6NIPsd",
+              "end": 40,
+              "expanded_url": "https://x.com/qqqqqf5/status/2016737847278223588/video/1",
+              "media_key": "7_2016737804693491715",
+              "start": 17,
+              "url": "https://t.co/c2oA6NIPsd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016737847278223588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 122,
+          "impression_count": 78980,
+          "like_count": 574,
+          "quote_count": 10,
+          "reply_count": 68,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "这是我26年到现在看过最逆天的屎 https://t.co/c2oA6NIPsd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "w39不想冲w4的wmc，有负面💊，歌品感人只是一个爱听kpop/cpop/edm的可怜人，性取向你猜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016795361961230336/4zuFQCyR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 599,
+          "like_count": 8015,
+          "listed_count": 1,
+          "media_count": 479,
+          "tweet_count": 4515
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-26T10:33:19.000Z",
+        "description": "不键政不od不割手不恶俗\n爱发梗图和生活日常 ｜ 偶尔爆照\n欢迎私信投稿内容\nPython/Rust/JS后端个人开发者 | 学生\nAI | 量化 | 交易\nGithub求follow\n逃生舱:@qqqqqf_\n个人网站(博客):https://t.co/FF4XPq1mIy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 97,
+                "username": "qqqqqf_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "清凤.fun",
+                "end": 138,
+                "expanded_url": "http://xn--l9qq99d.fun",
+                "start": 115,
+                "url": "https://t.co/FF4XPq1mIy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/qqqqqf-q",
+                "end": 23,
+                "expanded_url": "https://github.com/qqqqqf-q",
+                "start": 0,
+                "url": "https://t.co/Qfc6ZTRmX7"
+              }
+            ]
+          }
+        },
+        "id": "1618557658163970049",
+        "name": "清凤🍥",
+        "pinned_tweet_id": "2013835813071790433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998731259082846208/hLjeArGd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6782,
+          "following_count": 2001,
+          "like_count": 12753,
+          "listed_count": 16,
+          "media_count": 1708,
+          "tweet_count": 4303
+        },
+        "url": "https://t.co/Qfc6ZTRmX7",
+        "username": "qqqqqf5",
+        "verified": true
+      }
+    ]
+  }
+}

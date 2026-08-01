@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1953780159149986209",
+    "created_at": "2025-08-08T14:36:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T15:36:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953827701283787203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "522147771",
+          "start": 0,
+          "username": "N_N_DET"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953827701283787203",
+    "in_reply_to_user_id": "522147771",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 6,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953780159149986209",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N_N_DET 漫展无料"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 955,
+        "media_key": "3_1953780146340786176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx04sQfacAAc0_i.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1953780159149986209",
+        "created_at": "2025-08-08T14:36:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T15:36:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953827701283787203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "522147771",
+              "start": 0,
+              "username": "N_N_DET"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953827701283787203",
+        "in_reply_to_user_id": "522147771",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953780159149986209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N_N_DET 漫展无料"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953780146340786176"
+          ]
+        },
+        "author_id": "522147771",
+        "conversation_id": "1953780159149986209",
+        "created_at": "2025-08-08T11:27:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T12:27:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953780159149986209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QIq8yDtCZR",
+              "end": 23,
+              "expanded_url": "https://x.com/N_N_DET/status/1953780159149986209/photo/1",
+              "media_key": "3_1953780146340786176",
+              "start": 0,
+              "url": "https://t.co/QIq8yDtCZR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953780159149986209",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 277,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/QIq8yDtCZR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "yì jīu｜不知道什么圈子，谢谢你的喜欢我也喜欢你喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1953828269977219114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 543,
+          "like_count": 6688,
+          "listed_count": 0,
+          "media_count": 387,
+          "tweet_count": 3399
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2012-03-12T10:46:19.000Z",
+        "description": "DET 是一种强效的致幻剂，作用于中枢神经系统，特别是 5-HT2A 受体，产生类似 DMT 的心理和感知效应。\n\n交流群:https://t.co/FJhZhgg6cY\n化学极乐百科:https://t.co/c6WOvYAeM8\n博客:https://t.co/kHjBLIUhZE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/nVUqUkwW",
+                "end": 85,
+                "expanded_url": "https://discord.gg/nVUqUkwW",
+                "start": 62,
+                "url": "https://t.co/FJhZhgg6cY"
+              },
+              {
+                "display_url": "overdose.day",
+                "end": 116,
+                "expanded_url": "https://www.overdose.day/",
+                "start": 93,
+                "url": "https://t.co/c6WOvYAeM8"
+              },
+              {
+                "display_url": "blog.pr80.cn",
+                "end": 143,
+                "expanded_url": "https://blog.pr80.cn/",
+                "start": 120,
+                "url": "https://t.co/kHjBLIUhZE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://www.overdose.day/",
+                "start": 0,
+                "url": "https://t.co/c6WOvYAeM8"
+              }
+            ]
+          }
+        },
+        "id": "522147771",
+        "location": "天国",
+        "name": "N,N-二乙基色胺🔯",
+        "pinned_tweet_id": "1952928457475932357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951933777049165825/lU5YAFYF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 344,
+          "like_count": 114,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 225
+        },
+        "url": "https://t.co/c6WOvYAeM8",
+        "username": "N_N_DET",
+        "verified": false
+      }
+    ]
+  }
+}

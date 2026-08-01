@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1982691855302365279",
+    "created_at": "2025-10-27T06:12:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T07:12:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982691855302365279"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zhangmanman555…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/zhangmanman555/status/1982259787837686043",
+          "start": 8,
+          "url": "https://t.co/Cg11azF4vc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982691855302365279",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982259787837686043",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我要自挂东南枝 https://t.co/Cg11azF4vc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1413,
+        "media_key": "3_1982259766664499200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4JmwVyWEAAcOix.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1982691855302365279",
+        "created_at": "2025-10-27T06:12:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T07:12:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982691855302365279"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhangmanman555…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/zhangmanman555/status/1982259787837686043",
+              "start": 8,
+              "url": "https://t.co/Cg11azF4vc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982691855302365279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982259787837686043",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要自挂东南枝 https://t.co/Cg11azF4vc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982259766664499200"
+          ]
+        },
+        "author_id": "1470889179987193859",
+        "conversation_id": "1982259787837686043",
+        "created_at": "2025-10-26T01:35:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T02:35:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982259787837686043"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MNDyC9zVDd",
+              "end": 42,
+              "expanded_url": "https://x.com/zhangmanman555/status/1982259787837686043/photo/1",
+              "media_key": "3_1982259766664499200",
+              "start": 19,
+              "url": "https://t.co/MNDyC9zVDd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982259787837686043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 49905,
+          "like_count": 321,
+          "quote_count": 1,
+          "reply_count": 153,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "上联：四五人家山脚住\n下联你怎么对？ https://t.co/MNDyC9zVDd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "我自私，病态，阴暗，偏执。所有大度、不在乎都是我的伪装。我窥探你的生活，揣测你的文案，解读你分享的一切，观察你身边的人，盯着你的照片妄想找到蛛丝马迹。我敏感，善变多疑，斤斤计较你多看别人的一眼。我爱你，你本来就应该乖乖待在我身边。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1953828269977219114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 582,
+          "like_count": 7309,
+          "listed_count": 1,
+          "media_count": 449,
+          "tweet_count": 4030
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-14T22:52:00.000Z",
+        "description": "爱生活！分享美好！（欢迎互fo）\n中华古诗词，到底有多美！\n最美中国字！\n（图源自网络，侵删，谢谢！）",
+        "id": "1470889179987193859",
+        "name": "张蔓蔓",
+        "pinned_tweet_id": "1920992682547012013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1470890985437630464/L2bbxc_d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113737,
+          "following_count": 60237,
+          "like_count": 744539,
+          "listed_count": 187,
+          "media_count": 11362,
+          "tweet_count": 35434
+        },
+        "username": "zhangmanman555",
+        "verified": true
+      }
+    ]
+  }
+}

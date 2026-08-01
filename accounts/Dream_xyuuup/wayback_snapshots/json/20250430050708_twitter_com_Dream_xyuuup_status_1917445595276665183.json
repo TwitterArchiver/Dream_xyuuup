@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1917445557670535557",
+    "created_at": "2025-04-30T05:07:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-30T06:07:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917445595276665183"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1917445595276665183",
+    "in_reply_to_user_id": "1726051028112744448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917445557670535557",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我很无语"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 946,
+        "media_key": "3_1917445545431556096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpwikIOaYAAaFpJ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 946,
+        "media_key": "3_1917445545649672192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpwikJCakAAspPG.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1917445557670535557",
+        "created_at": "2025-04-30T05:07:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T06:07:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917445595276665183"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1917445595276665183",
+        "in_reply_to_user_id": "1726051028112744448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917445557670535557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我很无语"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917445545431556096",
+            "3_1917445545649672192"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1917445557670535557",
+        "created_at": "2025-04-30T05:07:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T06:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917445557670535557"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9qrzUd6GJl",
+              "end": 28,
+              "expanded_url": "https://x.com/Dream_xyuuup/status/1917445557670535557/photo/1",
+              "media_key": "3_1917445545431556096",
+              "start": 5,
+              "url": "https://t.co/9qrzUd6GJl"
+            },
+            {
+              "display_url": "pic.x.com/9qrzUd6GJl",
+              "end": 28,
+              "expanded_url": "https://x.com/Dream_xyuuup/status/1917445557670535557/photo/1",
+              "media_key": "3_1917445545649672192",
+              "start": 5,
+              "url": "https://t.co/9qrzUd6GJl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917445557670535557",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这咋读谱 https://t.co/9qrzUd6GJl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "废话多 随机掉落负能量｜最近在偷偷幸福😼我成分复杂请慢慢研究我｜对所有人友善除了现生。｜最可爱的小宝宝@QLing61007 😽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 51,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠ltnh",
+        "pinned_tweet_id": "1917423348302467396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905913123158298624/ClLLrGxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 405,
+          "like_count": 3824,
+          "listed_count": 1,
+          "media_count": 192,
+          "tweet_count": 1722
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      }
+    ]
+  }
+}

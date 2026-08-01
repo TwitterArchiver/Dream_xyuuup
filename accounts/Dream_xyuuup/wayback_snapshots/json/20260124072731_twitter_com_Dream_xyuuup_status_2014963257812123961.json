@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2013269294302339072",
+        "3_2013269303676530688",
+        "3_2013269300501442561",
+        "3_2013269291378860032"
+      ],
+      "media_source_tweet_id": [
+        "2013269313436708916",
+        "2013269313436708916",
+        "2013269313436708916",
+        "2013269313436708916"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "2014963257812123961",
+    "created_at": "2026-01-24T07:27:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T08:27:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014963257812123961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1845491203124441093",
+          "start": 3,
+          "username": "yu_huacs"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DGN42f9NPO",
+          "end": 41,
+          "expanded_url": "https://x.com/yu_huacs/status/2013269313436708916/photo/1",
+          "media_key": "3_2013269294302339072",
+          "start": 18,
+          "url": "https://t.co/DGN42f9NPO"
+        },
+        {
+          "display_url": "pic.x.com/DGN42f9NPO",
+          "end": 41,
+          "expanded_url": "https://x.com/yu_huacs/status/2013269313436708916/photo/1",
+          "media_key": "3_2013269303676530688",
+          "start": 18,
+          "url": "https://t.co/DGN42f9NPO"
+        },
+        {
+          "display_url": "pic.x.com/DGN42f9NPO",
+          "end": 41,
+          "expanded_url": "https://x.com/yu_huacs/status/2013269313436708916/photo/1",
+          "media_key": "3_2013269300501442561",
+          "start": 18,
+          "url": "https://t.co/DGN42f9NPO"
+        },
+        {
+          "display_url": "pic.x.com/DGN42f9NPO",
+          "end": 41,
+          "expanded_url": "https://x.com/yu_huacs/status/2013269313436708916/photo/1",
+          "media_key": "3_2013269291378860032",
+          "start": 18,
+          "url": "https://t.co/DGN42f9NPO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014963257812123961",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013269313436708916",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yu_huacs: 自介条 https://t.co/DGN42f9NPO"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2014963257812123961].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2014963257812123961",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2014963257812123961"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2772,
+        "media_key": "3_2013269294302339072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_CRwaQXoAAE0rO.jpg",
+        "width": 1280
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2013269303676530688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_CRw9LWcAAjOwg.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2013269300501442561",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_CRwxWWcAETxFB.jpg",
+        "width": 4096
+      },
+      {
+        "height": 1231,
+        "media_key": "3_2013269291378860032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_CRwPXW4AAgLAW.jpg",
+        "width": 1231
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013269294302339072",
+            "3_2013269303676530688",
+            "3_2013269300501442561",
+            "3_2013269291378860032"
+          ]
+        },
+        "author_id": "1845491203124441093",
+        "conversation_id": "2013269313436708916",
+        "created_at": "2026-01-19T15:16:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T16:16:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013269313436708916"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DGN42f9NPO",
+              "end": 27,
+              "expanded_url": "https://x.com/yu_huacs/status/2013269313436708916/photo/1",
+              "media_key": "3_2013269294302339072",
+              "start": 4,
+              "url": "https://t.co/DGN42f9NPO"
+            },
+            {
+              "display_url": "pic.x.com/DGN42f9NPO",
+              "end": 27,
+              "expanded_url": "https://x.com/yu_huacs/status/2013269313436708916/photo/1",
+              "media_key": "3_2013269303676530688",
+              "start": 4,
+              "url": "https://t.co/DGN42f9NPO"
+            },
+            {
+              "display_url": "pic.x.com/DGN42f9NPO",
+              "end": 27,
+              "expanded_url": "https://x.com/yu_huacs/status/2013269313436708916/photo/1",
+              "media_key": "3_2013269300501442561",
+              "start": 4,
+              "url": "https://t.co/DGN42f9NPO"
+            },
+            {
+              "display_url": "pic.x.com/DGN42f9NPO",
+              "end": 27,
+              "expanded_url": "https://x.com/yu_huacs/status/2013269313436708916/photo/1",
+              "media_key": "3_2013269291378860032",
+              "start": 4,
+              "url": "https://t.co/DGN42f9NPO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013269313436708916",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 7425,
+          "like_count": 108,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "自介条 https://t.co/DGN42f9NPO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "成分复杂，歌品感人，爱听跳楼机离别开出花，最喜欢的歌手是海来阿木，二次元赛高，最喜欢的番是蓝色监狱中二病，最喜欢的角色是三玖神里绫华猫羽雫，号主皮下165cm100kg，自带防弹衣捅一刀发现还没穿过脂肪层，出原味，出带着我后代的卫生纸，🚪8964，纯绿0721",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010631486530322432/50V-akck_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 603,
+          "like_count": 8009,
+          "listed_count": 1,
+          "media_count": 479,
+          "tweet_count": 4491
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T15:46:25.000Z",
+        "description": "不知名的yu huacs 泛性恋 混乱与淫乱的集合体 友所有群体  爱着你们深 深的喜欢着你们\n成分复杂 双相焦虑治疗中 overdose lain 了解公路车 在役公路车s works old venge\n第二人格 @yuhuacs5570\n最好の兄弟 @Lizzy6315",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 109,
+                "username": "yuhuacs5570"
+              },
+              {
+                "end": 138,
+                "start": 128,
+                "username": "Lizzy6315"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yu_huacs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yu_huacs",
+                "start": 0,
+                "url": "https://t.co/fGARwmdoNl"
+              }
+            ]
+          }
+        },
+        "id": "1845491203124441093",
+        "location": "尼特",
+        "name": "余华成霜",
+        "pinned_tweet_id": "2013269313436708916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009204093987028992/H3zOBPI9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1342,
+          "following_count": 1075,
+          "like_count": 102162,
+          "listed_count": 9,
+          "media_count": 1833,
+          "tweet_count": 17282
+        },
+        "url": "https://t.co/fGARwmdoNl",
+        "username": "yu_huacs",
+        "verified": false
+      }
+    ]
+  }
+}

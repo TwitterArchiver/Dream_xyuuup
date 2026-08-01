@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1898015975888629790",
+    "created_at": "2025-03-07T14:21:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-07T15:21:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898016128120897788"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1898016128120897788",
+    "in_reply_to_user_id": "1726051028112744448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898015975888629790",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "来支持我噶了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1898015962433253376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlcbdjLa8AAfOTJ.jpg",
+        "width": 472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1898015975888629790",
+        "created_at": "2025-03-07T14:21:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T15:21:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898016128120897788"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1898016128120897788",
+        "in_reply_to_user_id": "1726051028112744448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898015975888629790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "来支持我噶了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1898015962433253376"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "1898015975888629790",
+        "created_at": "2025-03-07T14:20:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T15:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898015975888629790"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JvmG8vyJbt",
+              "end": 32,
+              "expanded_url": "https://x.com/Dream_xyuuup/status/1898015975888629790/photo/1",
+              "media_key": "3_1898015962433253376",
+              "start": 9,
+              "url": "https://t.co/JvmG8vyJbt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898015975888629790",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "歌名翻译：爱嗑药 https://t.co/JvmG8vyJbt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "这是一本日记 喜欢视奸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dreamxy_uuup",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dreamxy_uuup",
+                "start": 0,
+                "url": "https://t.co/V4QSiptbnl"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠ltnh",
+        "pinned_tweet_id": "1895467310275813494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896250221824520192/PpwkphAn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 105,
+          "like_count": 493,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 270
+        },
+        "url": "https://t.co/V4QSiptbnl",
+        "username": "Dream_xyuuup",
+        "verified": false
+      }
+    ]
+  }
+}

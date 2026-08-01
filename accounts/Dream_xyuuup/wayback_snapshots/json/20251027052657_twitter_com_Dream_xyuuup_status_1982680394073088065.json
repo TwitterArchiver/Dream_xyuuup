@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982440036436951040"
+      ],
+      "media_source_tweet_id": [
+        "1982440044964270328"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "1982680394073088065",
+    "created_at": "2025-10-27T05:26:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T06:26:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982680394073088065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1601893417549967360",
+          "start": 3,
+          "username": "AcboxLiu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SYl6rmXLpG",
+          "end": 37,
+          "expanded_url": "https://x.com/AcboxLiu/status/1982440044964270328/photo/1",
+          "media_key": "3_1982440036436951040",
+          "start": 14,
+          "url": "https://t.co/SYl6rmXLpG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982680394073088065",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982440044964270328",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AcboxLiu: https://t.co/SYl6rmXLpG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1982440036436951040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4MKtbBWQAAXx7Y.jpg",
+        "width": 670
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982440036436951040"
+          ],
+          "media_source_tweet_id": [
+            "1982440044964270328"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "1982680394073088065",
+        "created_at": "2025-10-27T05:26:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T06:26:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982680394073088065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1601893417549967360",
+              "start": 3,
+              "username": "AcboxLiu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SYl6rmXLpG",
+              "end": 37,
+              "expanded_url": "https://x.com/AcboxLiu/status/1982440044964270328/photo/1",
+              "media_key": "3_1982440036436951040",
+              "start": 14,
+              "url": "https://t.co/SYl6rmXLpG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982680394073088065",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982440044964270328",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AcboxLiu: https://t.co/SYl6rmXLpG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982440036436951040"
+          ]
+        },
+        "author_id": "1601893417549967360",
+        "conversation_id": "1982440044964270328",
+        "created_at": "2025-10-26T13:31:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T14:31:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982440044964270328"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SYl6rmXLpG",
+              "end": 23,
+              "expanded_url": "https://x.com/AcboxLiu/status/1982440044964270328/photo/1",
+              "media_key": "3_1982440036436951040",
+              "start": 0,
+              "url": "https://t.co/SYl6rmXLpG"
+            },
+            {
+              "display_url": "x.com/knd_8964/statu…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/knd_8964/status/1982354237171646561",
+              "start": 24,
+              "url": "https://t.co/4TMgfSfxPl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982440044964270328",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 74746,
+          "like_count": 279,
+          "quote_count": 4,
+          "reply_count": 4,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982354237171646561",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/SYl6rmXLpG https://t.co/4TMgfSfxPl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "我自私，病态，阴暗，偏执。所有大度、不在乎都是我的伪装。我窥探你的生活，揣测你的文案，解读你分享的一切，观察你身边的人，盯着你的照片妄想找到蛛丝马迹。我敏感，善变多疑，斤斤计较你多看别人的一眼。我爱你，你本来就应该乖乖待在我身边。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1953828269977219114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 582,
+          "like_count": 7287,
+          "listed_count": 1,
+          "media_count": 448,
+          "tweet_count": 4023
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-11T10:55:41.000Z",
+        "description": "📦活跃在互联网的神秘箱子/💻开源开发/🎨平面设计/🚇轨道交通/全栈&LLM&UI&UX/🟦TypeScript重度依赖/🐱Github: sheepbox8646/💼日常远程工作/Building ChalkAI",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/sheepbox8646",
+                "end": 23,
+                "expanded_url": "https://github.com/sheepbox8646",
+                "start": 0,
+                "url": "https://t.co/mRP5RDvcLr"
+              }
+            ]
+          }
+        },
+        "id": "1601893417549967360",
+        "location": "深圳·西乡",
+        "name": "📦Acbox",
+        "pinned_tweet_id": "1964617558675611999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959456533550649344/-FieohZ0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7746,
+          "following_count": 2972,
+          "like_count": 2820,
+          "listed_count": 31,
+          "media_count": 1081,
+          "tweet_count": 5439
+        },
+        "url": "https://t.co/mRP5RDvcLr",
+        "username": "AcboxLiu",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,395 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1963970797548224512",
+        "3_1963970771161866241"
+      ],
+      "media_source_tweet_id": [
+        "1963970801356689667",
+        "1963970801356689667"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1964264230590296350",
+    "created_at": "2025-09-06T09:47:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T10:47:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964264230590296350"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 84,
+          "start": 77,
+          "tag": "maimai"
+        },
+        {
+          "end": 94,
+          "start": 85,
+          "tag": "maimai称号"
+        },
+        {
+          "end": 100,
+          "start": 95,
+          "tag": "特殊称号"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1541209452057047040",
+          "start": 3,
+          "username": "maimaiBot135"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bAl4edqDzL",
+          "end": 124,
+          "expanded_url": "https://x.com/maimaiBot135/status/1963970801356689667/photo/1",
+          "media_key": "3_1963970797548224512",
+          "start": 101,
+          "url": "https://t.co/bAl4edqDzL"
+        },
+        {
+          "display_url": "pic.x.com/bAl4edqDzL",
+          "end": 124,
+          "expanded_url": "https://x.com/maimaiBot135/status/1963970801356689667/photo/1",
+          "media_key": "3_1963970771161866241",
+          "start": 101,
+          "url": "https://t.co/bAl4edqDzL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964264230590296350",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 51
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963970801356689667",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @maimaiBot135: 白称号\n称号名【72° 06'14\"E 46° 24'18\"S】\n条件 Luminescence を上下反転でプレイ\n#maimai\n#maimai称号\n#特殊称号 https://t.co/bAl4edqDzL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1573,
+        "media_key": "3_1963970797548224512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0FtCOkaQAAKLT2.jpg",
+        "width": 1037
+      },
+      {
+        "height": 443,
+        "media_key": "3_1963970771161866241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0FtAsRaYAEuQjy.jpg",
+        "width": 1081
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963970797548224512",
+            "3_1963970771161866241"
+          ],
+          "media_source_tweet_id": [
+            "1963970801356689667",
+            "1963970801356689667"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1964264230590296350",
+        "created_at": "2025-09-06T09:47:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T10:47:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964264230590296350"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 84,
+              "start": 77,
+              "tag": "maimai"
+            },
+            {
+              "end": 94,
+              "start": 85,
+              "tag": "maimai称号"
+            },
+            {
+              "end": 100,
+              "start": 95,
+              "tag": "特殊称号"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1541209452057047040",
+              "start": 3,
+              "username": "maimaiBot135"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bAl4edqDzL",
+              "end": 124,
+              "expanded_url": "https://x.com/maimaiBot135/status/1963970801356689667/photo/1",
+              "media_key": "3_1963970797548224512",
+              "start": 101,
+              "url": "https://t.co/bAl4edqDzL"
+            },
+            {
+              "display_url": "pic.x.com/bAl4edqDzL",
+              "end": 124,
+              "expanded_url": "https://x.com/maimaiBot135/status/1963970801356689667/photo/1",
+              "media_key": "3_1963970771161866241",
+              "start": 101,
+              "url": "https://t.co/bAl4edqDzL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964264230590296350",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 51
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963970801356689667",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @maimaiBot135: 白称号\n称号名【72° 06'14\"E 46° 24'18\"S】\n条件 Luminescence を上下反転でプレイ\n#maimai\n#maimai称号\n#特殊称号 https://t.co/bAl4edqDzL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963970797548224512",
+            "3_1963970771161866241"
+          ]
+        },
+        "author_id": "1541209452057047040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1963970801356689667",
+        "created_at": "2025-09-05T14:21:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T15:21:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963970801356689667"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 66,
+              "start": 59,
+              "tag": "maimai"
+            },
+            {
+              "end": 76,
+              "start": 67,
+              "tag": "maimai称号"
+            },
+            {
+              "end": 82,
+              "start": 77,
+              "tag": "特殊称号"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bAl4edqDzL",
+              "end": 106,
+              "expanded_url": "https://x.com/maimaiBot135/status/1963970801356689667/photo/1",
+              "media_key": "3_1963970797548224512",
+              "start": 83,
+              "url": "https://t.co/bAl4edqDzL"
+            },
+            {
+              "display_url": "pic.x.com/bAl4edqDzL",
+              "end": 106,
+              "expanded_url": "https://x.com/maimaiBot135/status/1963970801356689667/photo/1",
+              "media_key": "3_1963970771161866241",
+              "start": 83,
+              "url": "https://t.co/bAl4edqDzL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963970801356689667",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 65912,
+          "like_count": 343,
+          "quote_count": 9,
+          "reply_count": 0,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "白称号\n称号名【72° 06'14\"E 46° 24'18\"S】\n条件 Luminescence を上下反転でプレイ\n#maimai\n#maimai称号\n#特殊称号 https://t.co/bAl4edqDzL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "yì jīu｜谢谢你喜欢我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1953828269977219114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 552,
+          "like_count": 6887,
+          "listed_count": 1,
+          "media_count": 425,
+          "tweet_count": 3746
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-26T23:59:13.000Z",
+        "description": "maimaiで取れる称号の 名前 条件などをあげる手動Botです\n\n中の人は上手くないので一部投稿されない称号があります 協力してくださる方を常に募集してます\n\n#maimai #maimai称号",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 88,
+                "start": 81,
+                "tag": "maimai"
+              },
+              {
+                "end": 98,
+                "start": 89,
+                "tag": "maimai称号"
+              }
+            ]
+          }
+        },
+        "id": "1541209452057047040",
+        "name": "maimai 称号Bot",
+        "pinned_tweet_id": "1579452403119960064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1541210213054763008/XLruRhly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6047,
+          "following_count": 2,
+          "like_count": 13,
+          "listed_count": 10,
+          "media_count": 752,
+          "tweet_count": 1213
+        },
+        "username": "maimaiBot135",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1898194953396011011"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "1898194962845778230",
+    "created_at": "2025-03-08T02:12:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-08T03:12:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1898194962845778230"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AKBieXorK3",
+          "end": 43,
+          "expanded_url": "https://x.com/Dream_xyuuup/status/1898194962845778230/photo/1",
+          "media_key": "3_1898194953396011011",
+          "start": 20,
+          "url": "https://t.co/AKBieXorK3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898194962845778230",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我操这bass和吉他就像在强奸我一样爽 https://t.co/AKBieXorK3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1898194953396011011",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gle-QMebwAMvrEm.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1898194953396011011"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "1898194962845778230",
+        "created_at": "2025-03-08T02:12:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T03:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898194962845778230"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AKBieXorK3",
+              "end": 43,
+              "expanded_url": "https://x.com/Dream_xyuuup/status/1898194962845778230/photo/1",
+              "media_key": "3_1898194953396011011",
+              "start": 20,
+              "url": "https://t.co/AKBieXorK3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898194962845778230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操这bass和吉他就像在强奸我一样爽 https://t.co/AKBieXorK3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "这是一本日记 喜欢视奸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dreamxy_uuup",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dreamxy_uuup",
+                "start": 0,
+                "url": "https://t.co/V4QSiptbnl"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠ltnh",
+        "pinned_tweet_id": "1895467310275813494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896250221824520192/PpwkphAn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 107,
+          "like_count": 520,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 281
+        },
+        "url": "https://t.co/V4QSiptbnl",
+        "username": "Dream_xyuuup",
+        "verified": false
+      }
+    ]
+  }
+}

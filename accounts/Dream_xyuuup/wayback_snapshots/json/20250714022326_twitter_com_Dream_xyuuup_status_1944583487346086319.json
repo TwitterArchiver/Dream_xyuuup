@@ -1,0 +1,117 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1944583473701806080"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "1944583487346086319",
+    "created_at": "2025-07-14T02:23:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T03:23:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1944583487346086319"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VRCOPSbENy",
+          "end": 30,
+          "expanded_url": "https://x.com/Dream_xyuuup/status/1944583487346086319/photo/1",
+          "media_key": "3_1944583473701806080",
+          "start": 7,
+          "url": "https://t.co/VRCOPSbENy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944583487346086319",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "血珠项链❤️ https://t.co/VRCOPSbENy"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1944583487346086319].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1944583487346086319",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1944583487346086319"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1944583473701806080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvyMXdIXYAAHj1F.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "yì jīu｜喜欢做梦｜心理变态｜可爱的人@QLing61007",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 21,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933432998864826371/0SiPerD5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 520,
+          "like_count": 6359,
+          "listed_count": 0,
+          "media_count": 342,
+          "tweet_count": 3016
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      }
+    ]
+  }
+}

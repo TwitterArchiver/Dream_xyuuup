@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046535714561839104"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "2046535738670649515",
+    "created_at": "2026-04-21T10:25:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T11:25:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046535738670649515"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ITrdWdWXcc",
+          "end": 50,
+          "expanded_url": "https://x.com/Dream_xyuuup/status/2046535738670649515/photo/1",
+          "media_key": "3_2046535714561839104",
+          "start": 27,
+          "url": "https://t.co/ITrdWdWXcc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046535738670649515",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "吃完饭回班级发现座位被支那猪同学搞成这个逼样该怎么办 https://t.co/ITrdWdWXcc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046535714561839104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGbBY66b0AAkUwU.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046535714561839104"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "2046535738670649515",
+        "created_at": "2026-04-21T10:25:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T11:25:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046535738670649515"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ITrdWdWXcc",
+              "end": 50,
+              "expanded_url": "https://x.com/Dream_xyuuup/status/2046535738670649515/photo/1",
+              "media_key": "3_2046535714561839104",
+              "start": 27,
+              "url": "https://t.co/ITrdWdWXcc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046535738670649515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃完饭回班级发现座位被支那猪同学搞成这个逼样该怎么办 https://t.co/ITrdWdWXcc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "enby,her/they,kpop,激女粉红点进就死\n*・x・*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041811823687823360/QQkkR0z6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 606,
+          "like_count": 8112,
+          "listed_count": 1,
+          "media_count": 522,
+          "tweet_count": 5068
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      }
+    ]
+  }
+}

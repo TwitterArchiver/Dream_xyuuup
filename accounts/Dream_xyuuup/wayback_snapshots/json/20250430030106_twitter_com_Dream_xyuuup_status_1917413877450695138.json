@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1917381420827258880"
+      ],
+      "media_source_tweet_id": [
+        "1917381488498126953"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "1917413877450695138",
+    "created_at": "2025-04-30T03:01:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-30T04:01:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917413877450695138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1723262088708030464",
+          "start": 3,
+          "username": "illitsyndrome"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lVzUcb7mUW",
+          "end": 82,
+          "expanded_url": "https://x.com/illitsyndrome/status/1917381488498126953/video/1",
+          "media_key": "13_1917381420827258880",
+          "start": 59,
+          "url": "https://t.co/lVzUcb7mUW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917413877450695138",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 45
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917381488498126953",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @illitsyndrome: GOODBYE I’LL LIKE YOU ERA YOU WERE GOOD https://t.co/lVzUcb7mUW"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18485,
+        "height": 576,
+        "media_key": "13_1917381420827258880",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1917381420827258880/img/L9SiZSxggkqjivNh.jpg",
+        "public_metrics": {
+          "view_count": 394
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1917381420827258880/vid/avc1/320x320/s_WsRUtWm5h_8afb.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1917381420827258880/vid/avc1/576x576/-STYnGJhUWkG5u0T.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1917381420827258880/pl/PmQH5Al91Jz34Io-.m3u8?tag=14"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1917381420827258880"
+          ],
+          "media_source_tweet_id": [
+            "1917381488498126953"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "1917413877450695138",
+        "created_at": "2025-04-30T03:01:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T04:01:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917413877450695138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1723262088708030464",
+              "start": 3,
+              "username": "illitsyndrome"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lVzUcb7mUW",
+              "end": 82,
+              "expanded_url": "https://x.com/illitsyndrome/status/1917381488498126953/video/1",
+              "media_key": "13_1917381420827258880",
+              "start": 59,
+              "url": "https://t.co/lVzUcb7mUW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917413877450695138",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 45
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917381488498126953",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @illitsyndrome: GOODBYE I’LL LIKE YOU ERA YOU WERE GOOD https://t.co/lVzUcb7mUW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1917381420827258880"
+          ]
+        },
+        "author_id": "1723262088708030464",
+        "conversation_id": "1917381488498126953",
+        "created_at": "2025-04-30T00:52:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T01:52:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917381488498126953"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "GOODBYE",
+              "probability": 0.4978,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lVzUcb7mUW",
+              "end": 63,
+              "expanded_url": "https://x.com/illitsyndrome/status/1917381488498126953/video/1",
+              "media_key": "13_1917381420827258880",
+              "start": 40,
+              "url": "https://t.co/lVzUcb7mUW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917381488498126953",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1164,
+          "like_count": 160,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "GOODBYE I’LL LIKE YOU ERA YOU WERE GOOD https://t.co/lVzUcb7mUW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "废话多 随机掉落负能量｜最近在偷偷幸福😼我成分复杂请慢慢研究我｜对所有人友善除了现生。｜最可爱的小宝宝@QLing61007 😽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 51,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠ltnh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905913123158298624/ClLLrGxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 404,
+          "like_count": 3821,
+          "listed_count": 1,
+          "media_count": 191,
+          "tweet_count": 1717
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-11T08:51:26.000Z",
+        "description": "₊ ⊹ Mystery, apocalypse, romantic, comedy",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/qlgEadao-Sk?si…",
+                "end": 23,
+                "expanded_url": "https://youtu.be/qlgEadao-Sk?si=tmYOgA7Iybc7JxCq",
+                "start": 0,
+                "url": "https://t.co/a1Yn7SaQ4f"
+              }
+            ]
+          }
+        },
+        "id": "1723262088708030464",
+        "location": "다섯 천사𝜗𝜚˚⋆ | 🪽",
+        "name": "𐙚 mili",
+        "pinned_tweet_id": "1885347691762213257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905888040523898880/Trqp7_v-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1237,
+          "following_count": 753,
+          "like_count": 12202,
+          "listed_count": 2,
+          "media_count": 971,
+          "tweet_count": 3844
+        },
+        "url": "https://t.co/a1Yn7SaQ4f",
+        "username": "illitsyndrome",
+        "verified": false
+      }
+    ]
+  }
+}

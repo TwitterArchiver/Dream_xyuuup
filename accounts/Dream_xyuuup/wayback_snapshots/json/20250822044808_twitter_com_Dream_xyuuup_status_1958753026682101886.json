@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1958418645429972992"
+      ],
+      "media_source_tweet_id": [
+        "1958418654275486026"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "1958753026682101886",
+    "created_at": "2025-08-22T04:48:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-22T05:48:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958753026682101886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "759743823744335872",
+          "start": 3,
+          "username": "GANAL76"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XxcIza9e1k",
+          "end": 45,
+          "expanded_url": "https://x.com/GANAL76/status/1958418654275486026/photo/1",
+          "media_key": "3_1958418645429972992",
+          "start": 22,
+          "url": "https://t.co/XxcIza9e1k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958753026682101886",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 776
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958418654275486026",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GANAL76: 근육 부위 설명 https://t.co/XxcIza9e1k"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_1958418645429972992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy2zYcJa8AAgsxB.jpg",
+        "width": 845
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958418645429972992"
+          ],
+          "media_source_tweet_id": [
+            "1958418654275486026"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "1958753026682101886",
+        "created_at": "2025-08-22T04:48:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T05:48:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958753026682101886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "759743823744335872",
+              "start": 3,
+              "username": "GANAL76"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XxcIza9e1k",
+              "end": 45,
+              "expanded_url": "https://x.com/GANAL76/status/1958418654275486026/photo/1",
+              "media_key": "3_1958418645429972992",
+              "start": 22,
+              "url": "https://t.co/XxcIza9e1k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958753026682101886",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 776
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958418654275486026",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GANAL76: 근육 부위 설명 https://t.co/XxcIza9e1k"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958418645429972992"
+          ]
+        },
+        "author_id": "759743823744335872",
+        "conversation_id": "1958418654275486026",
+        "created_at": "2025-08-21T06:39:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T07:39:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958418654275486026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XxcIza9e1k",
+              "end": 32,
+              "expanded_url": "https://x.com/GANAL76/status/1958418654275486026/photo/1",
+              "media_key": "3_1958418645429972992",
+              "start": 9,
+              "url": "https://t.co/XxcIza9e1k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958418654275486026",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 251,
+          "impression_count": 56112,
+          "like_count": 1936,
+          "quote_count": 90,
+          "reply_count": 9,
+          "retweet_count": 776
+        },
+        "reply_settings": "everyone",
+        "text": "근육 부위 설명 https://t.co/XxcIza9e1k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "yì jīu｜🏳️‍🌈｜谢谢你喜欢我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1953828269977219114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 550,
+          "like_count": 6746,
+          "listed_count": 0,
+          "media_count": 404,
+          "tweet_count": 3557
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-31T13:33:37.000Z",
+        "description": "진짜 열심히 해서 대기업이 될거에요 youtube : https://t.co/PwAggVwsy0 日本語を勉強中です / いつでも声をかけるてくださればありがたいです！/7⭐️ , XT / KR O, JP △",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@ganal?si=5Bm3…",
+                "end": 53,
+                "expanded_url": "https://youtube.com/@ganal?si=5Bm3e-0xN_2MJMcg/",
+                "start": 30,
+                "url": "https://t.co/PwAggVwsy0"
+              }
+            ]
+          }
+        },
+        "id": "759743823744335872",
+        "location": "한국 ",
+        "name": "가나리 (ガナリ) 8.22~23 대전",
+        "pinned_tweet_id": "1054499166401916928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947092917782196225/B20cwabp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2029,
+          "following_count": 2255,
+          "like_count": 15483,
+          "listed_count": 15,
+          "media_count": 16056,
+          "tweet_count": 137570
+        },
+        "username": "GANAL76",
+        "verified": false
+      }
+    ]
+  }
+}

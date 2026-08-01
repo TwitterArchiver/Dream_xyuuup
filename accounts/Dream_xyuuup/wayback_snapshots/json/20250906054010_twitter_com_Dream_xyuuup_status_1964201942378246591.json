@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1964034602655510528"
+      ],
+      "media_source_tweet_id": [
+        "1964034686600229102"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1964201942378246591",
+    "created_at": "2025-09-06T05:40:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T06:40:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964201942378246591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1790370144755351552",
+          "start": 3,
+          "username": "FurinaDF"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GFGXVo3Y3b",
+          "end": 37,
+          "expanded_url": "https://x.com/FurinaDF/status/1964034686600229102/video/1",
+          "media_key": "13_1964034602655510528",
+          "start": 14,
+          "url": "https://t.co/GFGXVo3Y3b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964201942378246591",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 74
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964034686600229102",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FurinaDF: https://t.co/GFGXVo3Y3b"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 82198,
+        "height": 854,
+        "media_key": "13_1964034602655510528",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1964034602655510528/img/4EIFUchYGtvxFr0Z.jpg",
+        "public_metrics": {
+          "view_count": 48990
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1964034602655510528/vid/avc1/320x568/RpS3op6FRwNCuiR3.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1964034602655510528/vid/avc1/480x854/TQVtyDzbKyS5TtOx.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1964034602655510528/pl/iPQaqcYndAGp0in9.m3u8?tag=14&v=d0a"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1964034602655510528"
+          ],
+          "media_source_tweet_id": [
+            "1964034686600229102"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1964201942378246591",
+        "created_at": "2025-09-06T05:40:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T06:40:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964201942378246591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1790370144755351552",
+              "start": 3,
+              "username": "FurinaDF"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GFGXVo3Y3b",
+              "end": 37,
+              "expanded_url": "https://x.com/FurinaDF/status/1964034686600229102/video/1",
+              "media_key": "13_1964034602655510528",
+              "start": 14,
+              "url": "https://t.co/GFGXVo3Y3b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964201942378246591",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 74
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964034686600229102",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FurinaDF: https://t.co/GFGXVo3Y3b"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1964034602655510528"
+          ]
+        },
+        "author_id": "1790370144755351552",
+        "conversation_id": "1964034686600229102",
+        "created_at": "2025-09-05T18:35:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T19:35:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964034686600229102"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GFGXVo3Y3b",
+              "end": 23,
+              "expanded_url": "https://x.com/FurinaDF/status/1964034686600229102/video/1",
+              "media_key": "13_1964034602655510528",
+              "start": 0,
+              "url": "https://t.co/GFGXVo3Y3b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964034686600229102",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 377,
+          "impression_count": 128230,
+          "like_count": 776,
+          "quote_count": 7,
+          "reply_count": 61,
+          "retweet_count": 74
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/GFGXVo3Y3b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "yì jīu｜谢谢你喜欢我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1953828269977219114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 552,
+          "like_count": 6882,
+          "listed_count": 1,
+          "media_count": 425,
+          "tweet_count": 3745
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T13:15:08.000Z",
+        "description": "全宇宙最懂炒作的人形生物 | 备用账号@yongchuTaffyOwO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 19,
+                "username": "yongchuTaffyOwO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/langrenxinwenc…",
+                "end": 23,
+                "expanded_url": "http://t.me/langrenxinwenchonglangtv",
+                "start": 0,
+                "url": "https://t.co/69nE3RLR6O"
+              }
+            ]
+          }
+        },
+        "id": "1790370144755351552",
+        "location": "Oregon",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909485043128434688/z-ZbsFFG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44590,
+          "following_count": 2304,
+          "like_count": 28310,
+          "listed_count": 128,
+          "media_count": 6476,
+          "tweet_count": 10885
+        },
+        "url": "https://t.co/69nE3RLR6O",
+        "username": "FurinaDF",
+        "verified": false
+      }
+    ]
+  }
+}

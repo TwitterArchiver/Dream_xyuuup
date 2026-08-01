@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1905962481270370304"
+      ],
+      "media_source_tweet_id": [
+        "1905962484931977232"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "1906179677255082032",
+    "created_at": "2025-03-30T03:00:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-30T04:00:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906179677255082032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1772416015516774401",
+          "start": 3,
+          "username": "Caffe_Free"
+        },
+        {
+          "end": 27,
+          "id": "1433823355413549056",
+          "start": 16,
+          "username": "FRIEREN_PR"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/K2JuuogS38",
+          "end": 51,
+          "expanded_url": "https://x.com/Caffe_Free/status/1905962484931977232/photo/1",
+          "media_key": "3_1905962481270370304",
+          "start": 28,
+          "url": "https://t.co/K2JuuogS38"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906179677255082032",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 216
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905962484931977232",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Caffe_Free: @FRIEREN_PR https://t.co/K2JuuogS38"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 605,
+        "media_key": "3_1905962481270370304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnNWx0tXsAA8e6U.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1905962481270370304"
+          ],
+          "media_source_tweet_id": [
+            "1905962484931977232"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "1906179677255082032",
+        "created_at": "2025-03-30T03:00:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T04:00:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906179677255082032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1772416015516774401",
+              "start": 3,
+              "username": "Caffe_Free"
+            },
+            {
+              "end": 27,
+              "id": "1433823355413549056",
+              "start": 16,
+              "username": "FRIEREN_PR"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/K2JuuogS38",
+              "end": 51,
+              "expanded_url": "https://x.com/Caffe_Free/status/1905962484931977232/photo/1",
+              "media_key": "3_1905962481270370304",
+              "start": 28,
+              "url": "https://t.co/K2JuuogS38"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906179677255082032",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 216
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905962484931977232",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Caffe_Free: @FRIEREN_PR https://t.co/K2JuuogS38"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1905962481270370304"
+          ]
+        },
+        "author_id": "1772416015516774401",
+        "conversation_id": "1905956545688682637",
+        "created_at": "2025-03-29T12:37:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T13:37:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905962484931977232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1433823355413549056",
+              "start": 0,
+              "username": "FRIEREN_PR"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/K2JuuogS38",
+              "end": 35,
+              "expanded_url": "https://x.com/Caffe_Free/status/1905962484931977232/photo/1",
+              "media_key": "3_1905962481270370304",
+              "start": 12,
+              "url": "https://t.co/K2JuuogS38"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905962484931977232",
+        "in_reply_to_user_id": "1433823355413549056",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 256,
+          "impression_count": 152175,
+          "like_count": 4974,
+          "quote_count": 4,
+          "reply_count": 3,
+          "retweet_count": 216
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905956545688682637",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FRIEREN_PR https://t.co/K2JuuogS38"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "负面情绪碎碎念垃圾场/过着一个你一点都不会羡慕的人生/礼3芙4是我最爱的人🤍我还喜欢农李元芳/音游/内蒙古偏僻农村人我很脆弱不要欺负我/梦想是消除城乡差距/如果你不嫌弃我可以和我扩墙内/用户名好像是串神秘代码？/无论你是谁我都喜欢你/对所有人温良 欢迎互动互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dreamxy_uuup",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dreamxy_uuup",
+                "start": 0,
+                "url": "https://t.co/V4QSiptJcT"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠ltnh",
+        "pinned_tweet_id": "1905574069371896110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905913123158298624/ClLLrGxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 248,
+          "like_count": 1838,
+          "listed_count": 2,
+          "media_count": 111,
+          "tweet_count": 869
+        },
+        "url": "https://t.co/V4QSiptJcT",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-26T00:12:02.000Z",
+        "description": "#BocchiTheRock #Madoka_magica  #Blue_Archive #ChainSawMan\nتحذير: هذا الحساب يرتوت كثيراً",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 14,
+                "start": 0,
+                "tag": "BocchiTheRock"
+              },
+              {
+                "end": 29,
+                "start": 15,
+                "tag": "Madoka_magica"
+              },
+              {
+                "end": 44,
+                "start": 31,
+                "tag": "Blue_Archive"
+              },
+              {
+                "end": 57,
+                "start": 45,
+                "tag": "ChainSawMan"
+              }
+            ]
+          }
+        },
+        "id": "1772416015516774401",
+        "name": "Bocchi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904269975046762496/5GoQfFin_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 219,
+          "like_count": 12847,
+          "listed_count": 1,
+          "media_count": 250,
+          "tweet_count": 1564
+        },
+        "username": "Caffe_Free",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T16:05:26.000Z",
+        "description": "週刊少年サンデー連載中『葬送のフリーレン』（原作：山田鐘人／作画：アベツカサ）の原作公式アカウントです。更新情報などを編集部員がつぶやきます。第14巻&特装版発売中！TVアニメ第2期2026年1月放送決定。【アニメ公式】→@Anime_Frieren【ファンアートタグ】→#フリーレンFA",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 144,
+                "start": 136,
+                "tag": "フリーレンFA"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 125,
+                "start": 111,
+                "username": "Anime_Frieren"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sunday-webry.com/detail.php?tit…",
+                "end": 23,
+                "expanded_url": "https://www.sunday-webry.com/detail.php?title_id=1093",
+                "start": 0,
+                "url": "https://t.co/JlxhhN3Z7w"
+              }
+            ]
+          }
+        },
+        "id": "1433823355413549056",
+        "location": "帝国領 帝都アイスベルク",
+        "name": "『葬送のフリーレン』公式",
+        "pinned_tweet_id": "1839990406161018954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736369630871203840/mFFVkd8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1180193,
+          "following_count": 61,
+          "like_count": 1156,
+          "listed_count": 2085,
+          "media_count": 862,
+          "tweet_count": 2191
+        },
+        "url": "https://t.co/JlxhhN3Z7w",
+        "username": "FRIEREN_PR",
+        "verified": true
+      }
+    ]
+  }
+}

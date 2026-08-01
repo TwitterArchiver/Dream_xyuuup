@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2047277062356893696"
+      ],
+      "media_source_tweet_id": [
+        "2047277216568918400"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "2047282433599656366",
+    "created_at": "2026-04-23T11:52:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T12:52:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047282433599656366"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yS2hFF0jhW",
+          "end": 26,
+          "expanded_url": "https://x.com/mokaspic/status/2047277216568918400/video/1",
+          "media_key": "7_2047277062356893696",
+          "start": 3,
+          "url": "https://t.co/yS2hFF0jhW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047282433599656366",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "妈妈 https://t.co/yS2hFF0jhW"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22337,
+        "height": 720,
+        "media_key": "7_2047277062356893696",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2047277062356893696/pu/img/q1szueAJxLYR1Pqq.jpg",
+        "public_metrics": {
+          "view_count": 475
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2047277062356893696/pu/vid/avc1/320x320/k6Qn6OorCx5OjBhP.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2047277062356893696/pu/vid/avc1/540x540/1zGqBTFOp58cGpeq.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2047277062356893696/pu/vid/avc1/720x720/sPAn2QQtJ1P41Ykv.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2047277062356893696/pu/pl/StfFAFYB2_LXstra.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2047277062356893696"
+          ],
+          "media_source_tweet_id": [
+            "2047277216568918400"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "2047282433599656366",
+        "created_at": "2026-04-23T11:52:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T12:52:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047282433599656366"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yS2hFF0jhW",
+              "end": 26,
+              "expanded_url": "https://x.com/mokaspic/status/2047277216568918400/video/1",
+              "media_key": "7_2047277062356893696",
+              "start": 3,
+              "url": "https://t.co/yS2hFF0jhW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047282433599656366",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妈妈 https://t.co/yS2hFF0jhW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "弈鸠，是谁？\nenby,her/they,kpop,激女粉红点进就死\n*・x・*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "脚踩你爷爷登顶称王",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041811823687823360/QQkkR0z6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 606,
+          "like_count": 8146,
+          "listed_count": 1,
+          "media_count": 527,
+          "tweet_count": 5126
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      }
+    ]
+  }
+}

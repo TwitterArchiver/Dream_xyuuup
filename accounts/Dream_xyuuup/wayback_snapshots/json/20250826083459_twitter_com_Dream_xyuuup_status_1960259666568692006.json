@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1960189900256641025"
+      ],
+      "media_source_tweet_id": [
+        "1960189910390104536"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "1960259666568692006",
+    "created_at": "2025-08-26T08:34:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T09:34:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960259666568692006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1742030700273135616",
+          "start": 3,
+          "username": "FurAoser"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IwfrVKn43l",
+          "end": 52,
+          "expanded_url": "https://x.com/FurAoser/status/1960189910390104536/photo/1",
+          "media_key": "3_1960189900256641025",
+          "start": 29,
+          "url": "https://t.co/IwfrVKn43l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960259666568692006",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960189910390104536",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FurAoser: 美好的一天从遇到**骑手开始 https://t.co/IwfrVKn43l"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1960189900256641025",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzP-VCkbAAE054C.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960189900256641025"
+          ],
+          "media_source_tweet_id": [
+            "1960189910390104536"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "1960259666568692006",
+        "created_at": "2025-08-26T08:34:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T09:34:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960259666568692006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1742030700273135616",
+              "start": 3,
+              "username": "FurAoser"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IwfrVKn43l",
+              "end": 52,
+              "expanded_url": "https://x.com/FurAoser/status/1960189910390104536/photo/1",
+              "media_key": "3_1960189900256641025",
+              "start": 29,
+              "url": "https://t.co/IwfrVKn43l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960259666568692006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960189910390104536",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FurAoser: 美好的一天从遇到**骑手开始 https://t.co/IwfrVKn43l"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960189900256641025"
+          ]
+        },
+        "author_id": "1742030700273135616",
+        "conversation_id": "1960189910390104536",
+        "created_at": "2025-08-26T03:57:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T04:57:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960189910390104536"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IwfrVKn43l",
+              "end": 38,
+              "expanded_url": "https://x.com/FurAoser/status/1960189910390104536/photo/1",
+              "media_key": "3_1960189900256641025",
+              "start": 15,
+              "url": "https://t.co/IwfrVKn43l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960189910390104536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4222,
+          "like_count": 78,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "美好的一天从遇到**骑手开始 https://t.co/IwfrVKn43l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "yì jīu｜谢谢你喜欢我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1953828269977219114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 554,
+          "like_count": 6816,
+          "listed_count": 1,
+          "media_count": 410,
+          "tweet_count": 3619
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-02T03:51:19.000Z",
+        "description": "叫我AO就好啦 或者“嗷~” 常驻东莞 可以找我玩 欢迎随时私信\n💕➡️@Shimaojiu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "Shimaojiu"
+              }
+            ]
+          }
+        },
+        "id": "1742030700273135616",
+        "location": "东莞",
+        "name": "Aooooooser",
+        "pinned_tweet_id": "1929180170495430851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911999103384395776/NpvgKuoD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1459,
+          "following_count": 1501,
+          "like_count": 35296,
+          "listed_count": 3,
+          "media_count": 1266,
+          "tweet_count": 3778
+        },
+        "username": "FurAoser",
+        "verified": false
+      }
+    ]
+  }
+}

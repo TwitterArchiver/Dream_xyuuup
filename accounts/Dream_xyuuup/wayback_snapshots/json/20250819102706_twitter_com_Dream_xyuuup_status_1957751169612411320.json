@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1957750863759659008"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "1957751169612411320",
+    "created_at": "2025-08-19T10:27:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T11:27:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1957751169612411320"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kIHX6U9otZ",
+          "end": 23,
+          "expanded_url": "https://x.com/Dream_xyuuup/status/1957751169612411320/video/1",
+          "media_key": "13_1957750863759659008",
+          "start": 0,
+          "url": "https://t.co/kIHX6U9otZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957751169612411320",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/kIHX6U9otZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 39433,
+        "height": 1280,
+        "media_key": "13_1957750863759659008",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1957750863759659008/img/T36Bwk46kLTtx-fW.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957750863759659008/vid/avc1/320x706/-SCR7cfbK6wFp3ps.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957750863759659008/vid/avc1/480x1058/1ZfZh21I8LYDQiFb.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957750863759659008/vid/avc1/580x1280/BFOGJ03lpk6LfZZs.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1957750863759659008/pl/XW4sssdef3NXMZNB.m3u8"
+          }
+        ],
+        "width": 580
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1957750863759659008"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "1957751169612411320",
+        "created_at": "2025-08-19T10:27:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T11:27:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957751169612411320"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kIHX6U9otZ",
+              "end": 23,
+              "expanded_url": "https://x.com/Dream_xyuuup/status/1957751169612411320/video/1",
+              "media_key": "13_1957750863759659008",
+              "start": 0,
+              "url": "https://t.co/kIHX6U9otZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957751169612411320",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/kIHX6U9otZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "yì jīu｜🏳️‍🌈｜谢谢你喜欢我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1953828269977219114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 549,
+          "like_count": 6664,
+          "listed_count": 0,
+          "media_count": 397,
+          "tweet_count": 3466
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      }
+    ]
+  }
+}

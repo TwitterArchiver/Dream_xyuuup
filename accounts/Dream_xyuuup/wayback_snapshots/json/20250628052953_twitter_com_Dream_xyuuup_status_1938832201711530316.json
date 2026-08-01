@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1938832188906123264"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "1938832201711530316",
+    "created_at": "2025-06-28T05:29:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T06:29:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1938832201711530316"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LsQZlZuP4X",
+          "end": 27,
+          "expanded_url": "https://x.com/Dream_xyuuup/status/1938832201711530316/photo/1",
+          "media_key": "3_1938832188906123264",
+          "start": 4,
+          "url": "https://t.co/LsQZlZuP4X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938832201711530316",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "end https://t.co/LsQZlZuP4X"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1938832188906123264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GugdmnrXsAAn-OD.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938832188906123264"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "1938832201711530316",
+        "created_at": "2025-06-28T05:29:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T06:29:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938832201711530316"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LsQZlZuP4X",
+              "end": 27,
+              "expanded_url": "https://x.com/Dream_xyuuup/status/1938832201711530316/photo/1",
+              "media_key": "3_1938832188906123264",
+              "start": 4,
+              "url": "https://t.co/LsQZlZuP4X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938832201711530316",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "end https://t.co/LsQZlZuP4X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "淡推三天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "重生在中考考场汗流浃背，数学满分，考上高中的弈鸠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933432998864826371/0SiPerD5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 493,
+          "like_count": 5946,
+          "listed_count": 0,
+          "media_count": 310,
+          "tweet_count": 2779
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      }
+    ]
+  }
+}

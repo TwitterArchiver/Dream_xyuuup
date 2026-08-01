@@ -1,0 +1,399 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1892216499731157346",
+    "created_at": "2025-02-19T14:27:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-19T15:27:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892219367963705477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1875512847503073280",
+          "start": 0,
+          "username": "cinianxiaogou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892219367963705477",
+    "in_reply_to_user_id": "1875512847503073280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892216499731157346",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cinianxiaogou 礼曲也别仙🥹…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1892216476876316672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkKA3D5aoAAztyH.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1892216499731157346",
+        "created_at": "2025-02-19T14:27:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T15:27:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892219367963705477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1875512847503073280",
+              "start": 0,
+              "username": "cinianxiaogou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892219367963705477",
+        "in_reply_to_user_id": "1875512847503073280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892216499731157346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cinianxiaogou 礼曲也别仙🥹…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892216476876316672"
+          ]
+        },
+        "author_id": "1875512847503073280",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1518519031010975745",
+              "name": "NMIXX"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1550444438127685635",
+              "name": "NewJeans"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1612562270415998979",
+              "name": "NewJeans"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1518519031010975745",
+              "name": "NMIXX"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1550444438127685635",
+              "name": "NewJeans"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1612562270415998979",
+              "name": "NewJeans"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1518519031010975745",
+              "name": "NMIXX"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1550444438127685635",
+              "name": "NewJeans"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "FOR ANIMATION AND COMICS ONLY - DO NOT USE IF YOU NEED MUSIC.",
+              "id": "1585792216395436032",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1612562270415998979",
+              "name": "NewJeans"
+            }
+          }
+        ],
+        "conversation_id": "1892216499731157346",
+        "created_at": "2025-02-19T14:15:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T15:15:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892216499731157346"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "boy",
+              "probability": 0.4707,
+              "start": 10,
+              "type": "Other"
+            },
+            {
+              "end": 21,
+              "normalized_text": "newjeans",
+              "probability": 0.5466,
+              "start": 14,
+              "type": "Other"
+            },
+            {
+              "end": 30,
+              "normalized_text": "cherish",
+              "probability": 0.5573,
+              "start": 24,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qXvODCA277",
+              "end": 75,
+              "expanded_url": "https://x.com/cinianxiaogou/status/1892216499731157346/photo/1",
+              "media_key": "3_1892216476876316672",
+              "start": 52,
+              "url": "https://t.co/qXvODCA277"
+            },
+            {
+              "display_url": "x.com/cinianxiaogou/…",
+              "end": 99,
+              "expanded_url": "https://twitter.com/cinianxiaogou/status/1891531985446646211",
+              "start": 76,
+              "url": "https://t.co/DTVcJ2Lbia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892216499731157346",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891531985446646211",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "DAY9 hype boy（newjeans）\ncherish（illit）\nsoñar（nmixx） https://t.co/qXvODCA277 https://t.co/DTVcJ2Lbia"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "一个偏远内蒙厌学b 因为学不会理科所以经常哭泣 互fo 可以把我视为现充#喵斯#有三次泡菜国偶像#INFP#🏳️‍🌈0.5",
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠ltnh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892121675938004992/fWCivcy4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 43,
+          "like_count": 120,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 23
+        },
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-04T12:01:37.000Z",
+        "description": "It's GawenTruniK BITCH │汉语 English 한국어 Français（在学\n│🌈│♂│vers偏top│高中生│183 57│爱生活 喜欢记录生活 有强分享欲 喜欢交友但是不擅长说话聊天找话题│有里 等我头像画出来再公开。。",
+        "id": "1875512847503073280",
+        "name": "辞年",
+        "pinned_tweet_id": "1890657734191681871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888286884604051456/w8jlKkVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 59,
+          "like_count": 865,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 246
+        },
+        "username": "cinianxiaogou",
+        "verified": false
+      }
+    ]
+  }
+}

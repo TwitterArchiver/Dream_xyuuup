@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050918461820600320"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "2050918476915884139",
+    "created_at": "2026-05-03T12:40:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T13:40:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050918476915884139"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JGMPonFDOo",
+          "end": 40,
+          "expanded_url": "https://x.com/Dream_xyuuup/status/2050918476915884139/photo/1",
+          "media_key": "3_2050918461820600320",
+          "start": 17,
+          "url": "https://t.co/JGMPonFDOo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050918476915884139",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "没人陪我，随叫随到的只有我的龟头 https://t.co/JGMPonFDOo"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2050918476915884139].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2050918476915884139",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2050918476915884139"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050918461820600320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZTeYwbgAAqHJD.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "弈鸠，是谁？\nenby,her/they,激女粉红点进就死\n*・x・*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "脚踩你爷爷登顶称王",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041811823687823360/QQkkR0z6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 615,
+          "like_count": 8254,
+          "listed_count": 1,
+          "media_count": 551,
+          "tweet_count": 5451
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      }
+    ]
+  }
+}

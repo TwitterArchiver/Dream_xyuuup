@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "2044695632397713487",
+    "created_at": "2026-04-16T08:42:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T09:42:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044697916980486532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2033556052650975232",
+          "start": 0,
+          "username": "NBabysitte65342"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044697916980486532",
+    "in_reply_to_user_id": "2033556052650975232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044695632397713487",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NBabysitte65342 两个傻子"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2044695625862922240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGA31qVawAArn3c.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "2044695632397713487",
+        "created_at": "2026-04-16T08:42:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T09:42:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044697916980486532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2033556052650975232",
+              "start": 0,
+              "username": "NBabysitte65342"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044697916980486532",
+        "in_reply_to_user_id": "2033556052650975232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044695632397713487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NBabysitte65342 两个傻子"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044695625862922240"
+          ]
+        },
+        "author_id": "2033556052650975232",
+        "conversation_id": "2044695632397713487",
+        "created_at": "2026-04-16T08:33:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T09:33:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044695632397713487"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kp4Uih6k2s",
+              "end": 34,
+              "expanded_url": "https://x.com/NBabysitte65342/status/2044695632397713487/photo/1",
+              "media_key": "3_2044695625862922240",
+              "start": 11,
+              "url": "https://t.co/kp4Uih6k2s"
+            },
+            {
+              "display_url": "x.com/NBabysitte6534…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/NBabysitte65342/status/2044694058359259173",
+              "start": 35,
+              "url": "https://t.co/aPnOdnKhYa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044695632397713487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044694058359259173",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁懂两条也够互相撕咬 https://t.co/kp4Uih6k2s https://t.co/aPnOdnKhYa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "enby,her/they,Kpop,激女粉红点进就死\n*・x・*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041811823687823360/QQkkR0z6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 615,
+          "like_count": 8028,
+          "listed_count": 1,
+          "media_count": 503,
+          "tweet_count": 4929
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-16T14:48:51.000Z",
+        "description": "",
+        "id": "2033556052650975232",
+        "name": "一般路过stewie幸怒",
+        "pinned_tweet_id": "2042864904517095584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044690706405744640/gWgtiurn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 70,
+          "like_count": 12952,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 1460
+        },
+        "username": "NBabysitte65342",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-16T14:48:51.000Z",
+        "description": "",
+        "id": "2033556052650975232",
+        "name": "一般路过stewie幸怒",
+        "pinned_tweet_id": "2042864904517095584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044690706405744640/gWgtiurn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 70,
+          "like_count": 12952,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 1460
+        },
+        "url": "",
+        "username": "NBabysitte65342",
+        "verified": false
+      }
+    ]
+  }
+}

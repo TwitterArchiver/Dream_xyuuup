@@ -1,0 +1,401 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1931634685744238592"
+      ],
+      "media_source_tweet_id": [
+        "1931635184128102400"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1931833390250258834",
+    "created_at": "2025-06-08T21:59:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T22:59:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931833390250258834"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 31,
+          "normalized_text": "YUNAH",
+          "probability": 0.6701,
+          "start": 27,
+          "type": "Person"
+        },
+        {
+          "end": 49,
+          "normalized_text": "Gnarly",
+          "probability": 0.9269,
+          "start": 44,
+          "type": "Other"
+        },
+        {
+          "end": 61,
+          "normalized_text": "KATSEYE",
+          "probability": 0.8242,
+          "start": 55,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1132185530198835200",
+          "start": 3,
+          "username": "kchartsmaster"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vug3hEdZqr",
+          "end": 87,
+          "expanded_url": "https://x.com/fatxfet/status/1931635184128102400/video/1",
+          "media_key": "13_1931634685744238592",
+          "start": 64,
+          "url": "https://t.co/vug3hEdZqr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931833390250258834",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1012
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931648393958363386",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kchartsmaster: ILLIT’s YUNAH dances to ‘Gnarly’ by KATSEYE. https://t.co/vug3hEdZqr"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 33866,
+        "height": 1920,
+        "media_key": "13_1931634685744238592",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1931634685744238592/img/eO4T9EK3x5HdrWLZ.jpg",
+        "public_metrics": {
+          "view_count": 226865
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1931634685744238592/vid/avc1/1080x1920/YDww59WJ_oF86f45.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1931634685744238592/vid/avc1/720x1280/OKy_m3tJ2mLlFkXB.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1931634685744238592/vid/avc1/320x568/-xf2eawGNbGyvhPC.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1931634685744238592/pl/k4yacDjzIKJB1Uce.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1931634685744238592/vid/avc1/480x852/h0S7rRg2d6m1iF6X.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1931634685744238592"
+          ],
+          "media_source_tweet_id": [
+            "1931635184128102400"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1931833390250258834",
+        "created_at": "2025-06-08T21:59:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T22:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931833390250258834"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 31,
+              "normalized_text": "YUNAH",
+              "probability": 0.6701,
+              "start": 27,
+              "type": "Person"
+            },
+            {
+              "end": 49,
+              "normalized_text": "Gnarly",
+              "probability": 0.9269,
+              "start": 44,
+              "type": "Other"
+            },
+            {
+              "end": 61,
+              "normalized_text": "KATSEYE",
+              "probability": 0.8242,
+              "start": 55,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1132185530198835200",
+              "start": 3,
+              "username": "kchartsmaster"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vug3hEdZqr",
+              "end": 87,
+              "expanded_url": "https://x.com/fatxfet/status/1931635184128102400/video/1",
+              "media_key": "13_1931634685744238592",
+              "start": 64,
+              "url": "https://t.co/vug3hEdZqr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931833390250258834",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1012
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931648393958363386",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kchartsmaster: ILLIT’s YUNAH dances to ‘Gnarly’ by KATSEYE. https://t.co/vug3hEdZqr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1931634685744238592"
+          ],
+          "media_source_tweet_id": [
+            "1931635184128102400"
+          ]
+        },
+        "author_id": "1132185530198835200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1931648393958363386",
+        "created_at": "2025-06-08T09:44:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T10:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931648393958363386"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "YUNAH",
+              "probability": 0.5008,
+              "start": 8,
+              "type": "Person"
+            },
+            {
+              "end": 30,
+              "normalized_text": "Gnarly",
+              "probability": 0.9252,
+              "start": 25,
+              "type": "Other"
+            },
+            {
+              "end": 42,
+              "normalized_text": "KATSEYE",
+              "probability": 0.8444,
+              "start": 36,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vug3hEdZqr",
+              "end": 68,
+              "expanded_url": "https://x.com/fatxfet/status/1931635184128102400/video/1",
+              "media_key": "13_1931634685744238592",
+              "start": 45,
+              "url": "https://t.co/vug3hEdZqr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931648393958363386",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 951,
+          "impression_count": 584742,
+          "like_count": 12801,
+          "quote_count": 331,
+          "reply_count": 98,
+          "retweet_count": 1012
+        },
+        "reply_settings": "everyone",
+        "text": "ILLIT’s YUNAH dances to ‘Gnarly’ by KATSEYE. https://t.co/vug3hEdZqr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "偏远乡村学校在读 我应该不会再影响别人了 接下来有一个event 成分复杂 对所有人友好除了现生 最可爱的小宝宝@QLing61007 😽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 56,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "想回到家乡，我不要在这个冰冷无情的医院里了，我是健全的弈鸠",
+        "pinned_tweet_id": "1931176332370813214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924678380655673348/VxgKyXwf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 461,
+          "like_count": 5121,
+          "listed_count": 0,
+          "media_count": 253,
+          "tweet_count": 2300
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-25T07:24:00.000Z",
+        "description": "Your #1 source for korean charts updates, award shows & infos. | Turn notifications on 🔔",
+        "id": "1132185530198835200",
+        "location": "DM for inquires",
+        "name": "Kpop Charts",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1284991246356946951/FbR600WF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 694051,
+          "following_count": 85,
+          "like_count": 61,
+          "listed_count": 1789,
+          "media_count": 15591,
+          "tweet_count": 46226
+        },
+        "username": "kchartsmaster",
+        "verified": true
+      }
+    ]
+  }
+}

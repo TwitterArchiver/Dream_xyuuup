@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1986401775470190977",
+    "created_at": "2025-11-06T19:24:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T20:24:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986515152246849659"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1946293931744083969",
+          "start": 0,
+          "username": "PDDLQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986515152246849659",
+    "in_reply_to_user_id": "1946293931744083969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986401775470190977",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PDDLQ 数学4分，不会"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 750,
+        "media_key": "3_1986401770298294272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Ed4rvWQAAuSjb.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1986401775470190977",
+        "created_at": "2025-11-06T19:24:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T20:24:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986515152246849659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1946293931744083969",
+              "start": 0,
+              "username": "PDDLQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986515152246849659",
+        "in_reply_to_user_id": "1946293931744083969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986401775470190977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PDDLQ 数学4分，不会"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986401770298294272"
+          ]
+        },
+        "author_id": "1946293931744083969",
+        "conversation_id": "1986401775470190977",
+        "created_at": "2025-11-06T11:54:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T12:54:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986401775470190977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H34sM2kkpy",
+              "end": 35,
+              "expanded_url": "https://x.com/PDDLQ/status/1986401775470190977/photo/1",
+              "media_key": "3_1986401770298294272",
+              "start": 12,
+              "url": "https://t.co/H34sM2kkpy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986401775470190977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 61,
+          "impression_count": 252311,
+          "like_count": 205,
+          "quote_count": 8,
+          "reply_count": 201,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "你们觉得老公算的对吗？ https://t.co/H34sM2kkpy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "没法活了，一切都是男的骗我，女的欠我，老的冤枉我，小的欺负我，中国的压迫我，外国的引诱我，身边的霸凌我，网上的取笑我，你们全都对不起我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1985535613857382587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 590,
+          "like_count": 7443,
+          "listed_count": 1,
+          "media_count": 456,
+          "tweet_count": 4103
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-18T19:40:30.000Z",
+        "description": "平等的利器，自由的保障，暴君的噩梦！",
+        "id": "1946293931744083969",
+        "location": "加利福尼亚",
+        "name": "平等的利器",
+        "pinned_tweet_id": "1986326461834297422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951111199476617216/vEaykONG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8674,
+          "following_count": 2518,
+          "like_count": 9250,
+          "listed_count": 36,
+          "media_count": 1064,
+          "tweet_count": 3116
+        },
+        "username": "PDDLQ",
+        "verified": false
+      }
+    ]
+  }
+}

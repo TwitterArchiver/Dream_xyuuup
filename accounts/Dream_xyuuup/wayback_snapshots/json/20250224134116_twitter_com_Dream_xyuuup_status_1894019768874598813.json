@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1894019768874598813",
+    "created_at": "2025-02-24T13:41:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-24T14:41:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1894019768874598813"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086/status…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/hsn8086/status/1893551958402699508",
+          "start": 8,
+          "url": "https://t.co/2C2F9Vr74Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894019768874598813",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893551958402699508",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "史蒂夫不削咋玩 https://t.co/2C2F9Vr74Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 364,
+        "media_key": "3_1893551953545752576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gkc_eCLXcAAZGzs.jpg",
+        "width": 354
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1894019768874598813",
+        "created_at": "2025-02-24T13:41:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T14:41:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894019768874598813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086/status…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/hsn8086/status/1893551958402699508",
+              "start": 8,
+              "url": "https://t.co/2C2F9Vr74Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894019768874598813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893551958402699508",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "史蒂夫不削咋玩 https://t.co/2C2F9Vr74Z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893551953545752576"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1893551958402699508",
+        "created_at": "2025-02-23T06:42:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T07:42:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893551958402699508"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HsWtXFcYpg",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/1893551958402699508/photo/1",
+              "media_key": "3_1893551953545752576",
+              "start": 0,
+              "url": "https://t.co/HsWtXFcYpg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893551958402699508",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 85974,
+          "like_count": 1428,
+          "quote_count": 6,
+          "reply_count": 74,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/HsWtXFcYpg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "这是一本日记 可以把我视为现充 喜欢视奸#喵斯#有三次偶像#ISFP#0.5",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dreamxy_uuup",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dreamxy_uuup",
+                "start": 0,
+                "url": "https://t.co/V4QSiptbnl"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠ltnh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892121675938004992/fWCivcy4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 79,
+          "like_count": 225,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 118
+        },
+        "url": "https://t.co/V4QSiptbnl",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 避难所: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1846240135534596297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881530651159179264/61qPk38t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40458,
+          "following_count": 919,
+          "like_count": 36598,
+          "listed_count": 104,
+          "media_count": 6626,
+          "tweet_count": 11842
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

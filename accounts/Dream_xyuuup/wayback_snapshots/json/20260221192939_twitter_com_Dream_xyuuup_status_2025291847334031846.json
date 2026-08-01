@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "2025058743944446067",
+    "created_at": "2026-02-21T19:29:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T20:29:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025291847334031846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1595050187529285632",
+          "start": 0,
+          "username": "aliii67285114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025291847334031846",
+    "in_reply_to_user_id": "1595050187529285632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025058743944446067",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aliii67285114 末日降临"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025058636121460736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBp0Ga9bUAAPGgP.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2025058636108890114",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBp0Ga6bgAI6zk6.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2025058636087926784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBp0Ga1boAAWQ_5.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "2025058743944446067",
+        "created_at": "2026-02-21T19:29:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T20:29:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025291847334031846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1595050187529285632",
+              "start": 0,
+              "username": "aliii67285114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025291847334031846",
+        "in_reply_to_user_id": "1595050187529285632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025058743944446067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aliii67285114 末日降临"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025058636121460736",
+            "3_2025058636108890114",
+            "3_2025058636087926784"
+          ]
+        },
+        "author_id": "1595050187529285632",
+        "conversation_id": "2025058743944446067",
+        "created_at": "2026-02-21T04:03:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T05:03:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025058743944446067"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/biKmQ9RXc9",
+              "end": 39,
+              "expanded_url": "https://x.com/aliii67285114/status/2025058743944446067/photo/1",
+              "media_key": "3_2025058636121460736",
+              "start": 16,
+              "url": "https://t.co/biKmQ9RXc9"
+            },
+            {
+              "display_url": "pic.x.com/biKmQ9RXc9",
+              "end": 39,
+              "expanded_url": "https://x.com/aliii67285114/status/2025058743944446067/photo/1",
+              "media_key": "3_2025058636108890114",
+              "start": 16,
+              "url": "https://t.co/biKmQ9RXc9"
+            },
+            {
+              "display_url": "pic.x.com/biKmQ9RXc9",
+              "end": 39,
+              "expanded_url": "https://x.com/aliii67285114/status/2025058743944446067/photo/1",
+              "media_key": "3_2025058636087926784",
+              "start": 16,
+              "url": "https://t.co/biKmQ9RXc9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025058743944446067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2607,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "對失落沒有概念的可以來看看這裡 https://t.co/biKmQ9RXc9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "有负面💊，歌品感人只是一个爱听kpop/cpop/edm的可怜人，性取向你猜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016795361961230336/4zuFQCyR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 607,
+          "like_count": 8029,
+          "listed_count": 1,
+          "media_count": 481,
+          "tweet_count": 4570
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-22T13:43:02.000Z",
+        "description": "置顶外烟价表 欢迎随时私讯购买|书信明信片互寄代寫🏳️‍🌈09生/最I的ENFP/16 172 60 0.5/呼和浩特高一國際生/張家口下花園語|里推下方💐楊花@yuji53719 水門汀@HatukawoPakkon『存古存舊，且筆且歌；遺羣白鹿，遍歷青崖。至雅至美，平和博愛；興我東亞，自由民族。』",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 80,
+                "username": "yuji53719"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "HatukawoPakkon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/shaashvatameie…",
+                "end": 23,
+                "expanded_url": "https://x.com/shaashvatameien?t=D7bbI0rJE660eraGi8FbGA&s=05",
+                "start": 0,
+                "url": "https://t.co/1e8FLJVMFn"
+              }
+            ]
+          }
+        },
+        "id": "1595050187529285632",
+        "location": "Mongolia",
+        "name": "長明歸鄉（外烟代/我是男高！）ꡑꡃꡚꡏꡞꡃ",
+        "pinned_tweet_id": "1954773947444273522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998026565112991744/Lmxy8VX7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3168,
+          "following_count": 3391,
+          "like_count": 95462,
+          "listed_count": 6,
+          "media_count": 1323,
+          "tweet_count": 19542
+        },
+        "url": "https://t.co/1e8FLJVMFn",
+        "username": "aliii67285114",
+        "verified": false
+      }
+    ]
+  }
+}

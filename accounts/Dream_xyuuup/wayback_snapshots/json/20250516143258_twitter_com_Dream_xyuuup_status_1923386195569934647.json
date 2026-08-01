@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1922679470877544448"
+      ],
+      "media_source_tweet_id": [
+        "1922679537407598611"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "1923386195569934647",
+    "created_at": "2025-05-16T14:32:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-16T15:32:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923386195569934647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1783583785793015808",
+          "start": 3,
+          "username": "Mafuc3st"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/v8cYhoqSzN",
+          "end": 53,
+          "expanded_url": "https://x.com/Mafuc3st/status/1922679537407598611/video/1",
+          "media_key": "13_1922679470877544448",
+          "start": 30,
+          "url": "https://t.co/v8cYhoqSzN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923386195569934647",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2779
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922679537407598611",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mafuc3st: 👁️‍🗨️\n\nTw // sh https://t.co/v8cYhoqSzN"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10000,
+        "height": 840,
+        "media_key": "13_1922679470877544448",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1922679470877544448/img/8Wqv-eSFDJ2B4Pcm.jpg",
+        "public_metrics": {
+          "view_count": 49768
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1922679470877544448/vid/avc1/320x372/8IKzxIcxHPbOnjRm.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1922679470877544448/vid/avc1/480x560/eIH7PtW8GeSXZ1YD.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1922679470877544448/vid/avc1/720x840/jCyIZxex83KBrqL3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1922679470877544448/pl/s1tefh-vrC1HMcx8.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1922679470877544448"
+          ],
+          "media_source_tweet_id": [
+            "1922679537407598611"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "1923386195569934647",
+        "created_at": "2025-05-16T14:32:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T15:32:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923386195569934647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1783583785793015808",
+              "start": 3,
+              "username": "Mafuc3st"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/v8cYhoqSzN",
+              "end": 53,
+              "expanded_url": "https://x.com/Mafuc3st/status/1922679537407598611/video/1",
+              "media_key": "13_1922679470877544448",
+              "start": 30,
+              "url": "https://t.co/v8cYhoqSzN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923386195569934647",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2779
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922679537407598611",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mafuc3st: 👁️‍🗨️\n\nTw // sh https://t.co/v8cYhoqSzN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1922679470877544448"
+          ]
+        },
+        "author_id": "1783583785793015808",
+        "conversation_id": "1922679537407598611",
+        "created_at": "2025-05-14T15:44:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T16:44:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922679537407598611"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v8cYhoqSzN",
+              "end": 39,
+              "expanded_url": "https://x.com/Mafuc3st/status/1922679537407598611/video/1",
+              "media_key": "13_1922679470877544448",
+              "start": 16,
+              "url": "https://t.co/v8cYhoqSzN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922679537407598611",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1885,
+          "impression_count": 112409,
+          "like_count": 16239,
+          "quote_count": 25,
+          "reply_count": 24,
+          "retweet_count": 2779
+        },
+        "reply_settings": "everyone",
+        "text": "👁️‍🗨️\n\nTw // sh https://t.co/v8cYhoqSzN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "废话多｜对所有人友好除了现生｜最可爱的小宝宝@QLing61007 😽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1917423348302467396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905913123158298624/ClLLrGxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 422,
+          "like_count": 4189,
+          "listed_count": 1,
+          "media_count": 198,
+          "tweet_count": 1843
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-25T19:48:14.000Z",
+        "description": "15! | “癒えない傷に薬をください。” | #proshiptwt #shedtwt | she/them | himejoshi |",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 35,
+                "start": 24,
+                "tag": "proshiptwt"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "tag": "shedtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Mafuc3st.straw.page",
+                "end": 23,
+                "expanded_url": "http://Mafuc3st.straw.page",
+                "start": 0,
+                "url": "https://t.co/pZRozpSUL1"
+              }
+            ]
+          }
+        },
+        "id": "1783583785793015808",
+        "location": "朝比奈家",
+        "name": "🫧 𝕂𝕠𝕚𝕚 🐟",
+        "pinned_tweet_id": "1863244402774155733",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861868577365602304/g72e2Sg7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 699,
+          "following_count": 431,
+          "like_count": 9404,
+          "listed_count": 4,
+          "media_count": 294,
+          "tweet_count": 852
+        },
+        "url": "https://t.co/pZRozpSUL1",
+        "username": "Mafuc3st",
+        "verified": false
+      }
+    ]
+  }
+}

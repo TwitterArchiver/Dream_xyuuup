@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1995508958426251572",
+    "created_at": "2025-12-01T15:03:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T16:03:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995508958426251572"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/alexavad/statu…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/alexavad/status/1995394048258097309",
+          "start": 8,
+          "url": "https://t.co/nA86ILloA5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995508958426251572",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995394048258097309",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真的吗，下单了 https://t.co/nA86ILloA5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1995508958426251572",
+        "created_at": "2025-12-01T15:03:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T16:03:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995508958426251572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/alexavad/statu…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/alexavad/status/1995394048258097309",
+              "start": 8,
+              "url": "https://t.co/nA86ILloA5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995508958426251572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995394048258097309",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真的吗，下单了 https://t.co/nA86ILloA5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2405324646",
+        "conversation_id": "1995394048258097309",
+        "created_at": "2025-12-01T07:26:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T08:26:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995394048258097309"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1995394048258097309",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4849,
+          "like_count": 136,
+          "quote_count": 3,
+          "reply_count": 7,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "我发现服用普瑞巴林可以治疗普瑞巴林戒断反应带来的焦虑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "你能想到的坏习惯我都有",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 608,
+          "like_count": 7886,
+          "listed_count": 1,
+          "media_count": 468,
+          "tweet_count": 4282
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2014-03-23T00:20:59.000Z",
+        "description": "何时归",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ChuangChuangha…",
+                "end": 23,
+                "expanded_url": "https://t.me/ChuangChuanghajimi",
+                "start": 0,
+                "url": "https://t.co/dq6IelJn5p"
+              }
+            ]
+          }
+        },
+        "id": "2405324646",
+        "location": "桃源1.6.4",
+        "name": "пока-пока #战狼二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984952574093750272/AuL9VWpe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 184,
+          "like_count": 1650,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 1025
+        },
+        "url": "https://t.co/dq6IelJn5p",
+        "username": "alexavad",
+        "verified": false
+      }
+    ]
+  }
+}

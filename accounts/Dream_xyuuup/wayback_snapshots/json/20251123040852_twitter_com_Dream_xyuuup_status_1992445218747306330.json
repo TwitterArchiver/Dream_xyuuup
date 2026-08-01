@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1992445218747306330",
+    "created_at": "2025-11-23T04:08:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T05:08:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992445218747306330"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1881684393762369536",
+          "start": 3,
+          "username": "yue_su7019_"
+        },
+        {
+          "end": 27,
+          "id": "1875161840650686464",
+          "start": 17,
+          "username": "pinesanww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992445218747306330",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992408010036248953",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yue_su7019_: @pinesanww 短裙都齐逼了还女性力量呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1992445218747306330",
+        "created_at": "2025-11-23T04:08:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T05:08:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992445218747306330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1881684393762369536",
+              "start": 3,
+              "username": "yue_su7019_"
+            },
+            {
+              "end": 27,
+              "id": "1875161840650686464",
+              "start": 17,
+              "username": "pinesanww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992445218747306330",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992408010036248953",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yue_su7019_: @pinesanww 短裙都齐逼了还女性力量呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881684393762369536",
+        "conversation_id": "1992133867051024680",
+        "created_at": "2025-11-23T01:41:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T02:41:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992408010036248953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1875161840650686464",
+              "start": 0,
+              "username": "pinesanww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992408010036248953",
+        "in_reply_to_user_id": "1875161840650686464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 643,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992133867051024680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pinesanww 短裙都齐逼了还女性力量呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "你能想到的坏习惯我都有",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 597,
+          "like_count": 7766,
+          "listed_count": 1,
+          "media_count": 465,
+          "tweet_count": 4210
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-21T12:45:09.000Z",
+        "description": "",
+        "id": "1881684393762369536",
+        "name": "畏惧神是正常的",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953622780383297536/wBpQ7pnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 114,
+          "like_count": 3820,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 288
+        },
+        "username": "yue_su7019_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-03T12:46:52.000Z",
+        "description": "男的，发负能\n                      像是秋天的木，快要衰竭的风，已至末尾的雨……只要轻轻一碰就会瓦解冰消，又似冬日里仍流淌的泉水，夹缝而生的燕尾花，悬崖绝壁之间的草药，灭不了也逃不掉",
+        "id": "1875161840650686464",
+        "location": "American University Park, Wash",
+        "name": "pineさん",
+        "pinned_tweet_id": "1916476661975122015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950627445008203778/M_eWzzyx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2510,
+          "following_count": 302,
+          "like_count": 4615,
+          "listed_count": 8,
+          "media_count": 453,
+          "tweet_count": 2547
+        },
+        "username": "pinesanww",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1961065936791998823",
+    "created_at": "2025-08-28T13:58:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T14:58:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1961065936791998823"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cactus_tok/sta…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/cactus_tok/status/1960617644157231236",
+          "start": 6,
+          "url": "https://t.co/zAE0G49GNE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961065936791998823",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960617644157231236",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个我爸爸 https://t.co/zAE0G49GNE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1960617524380491777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzWDQCka4AEqfI4.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1961065936791998823",
+        "created_at": "2025-08-28T13:58:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T14:58:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961065936791998823"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cactus_tok/sta…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/cactus_tok/status/1960617644157231236",
+              "start": 6,
+              "url": "https://t.co/zAE0G49GNE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961065936791998823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960617644157231236",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个我爸爸 https://t.co/zAE0G49GNE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960617524380491777"
+          ]
+        },
+        "author_id": "1529825611858194432",
+        "conversation_id": "1960617644157231236",
+        "created_at": "2025-08-27T08:17:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T09:17:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960617644157231236"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 0,
+              "tag": "理由もなく再掲していいタグ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sAObuBrvKX",
+              "end": 45,
+              "expanded_url": "https://x.com/cactus_tok/status/1960617644157231236/photo/1",
+              "media_key": "3_1960617524380491777",
+              "start": 22,
+              "url": "https://t.co/sAObuBrvKX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960617644157231236",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 110,
+          "impression_count": 17095,
+          "like_count": 1144,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 149
+        },
+        "reply_settings": "everyone",
+        "text": "#理由もなく再掲していいタグ \nがおがおー https://t.co/sAObuBrvKX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "yì jīu｜谢谢你喜欢我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1953828269977219114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 554,
+          "like_count": 6851,
+          "listed_count": 1,
+          "media_count": 413,
+          "tweet_count": 3646
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-26T14:03:51.000Z",
+        "description": "お絵描きしています。ケモ耳少年とゲームが好きです。\nskeb→https://t.co/9aKk1zCX1s\nご依頼や連絡先はこちらから→https://t.co/fj6snNLcPb\n無断転載・使用・AI学習禁止",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@cactus_tok",
+                "end": 54,
+                "expanded_url": "http://skeb.jp/@cactus_tok",
+                "start": 31,
+                "url": "https://t.co/9aKk1zCX1s"
+              },
+              {
+                "display_url": "lit.link/tokoichi",
+                "end": 92,
+                "expanded_url": "https://lit.link/tokoichi",
+                "start": 69,
+                "url": "https://t.co/fj6snNLcPb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/96795549",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/96795549",
+                "start": 0,
+                "url": "https://t.co/BV40LJiJdH"
+              }
+            ]
+          }
+        },
+        "id": "1529825611858194432",
+        "name": "toko",
+        "pinned_tweet_id": "1958443697307271609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1647062265265545217/Pk4BIcxm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5604,
+          "following_count": 136,
+          "like_count": 4654,
+          "listed_count": 42,
+          "media_count": 236,
+          "tweet_count": 3303
+        },
+        "url": "https://t.co/BV40LJiJdH",
+        "username": "cactus_tok",
+        "verified": false
+      }
+    ]
+  }
+}

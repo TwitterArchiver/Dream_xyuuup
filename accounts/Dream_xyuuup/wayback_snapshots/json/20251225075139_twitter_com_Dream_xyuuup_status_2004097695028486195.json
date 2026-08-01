@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "2004097695028486195",
+    "created_at": "2025-12-25T07:51:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T08:51:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004097695028486195"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ploocki/status…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/ploocki/status/2003771852557254975",
+          "start": 10,
+          "url": "https://t.co/PKCds8Y7L8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004097695028486195",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003771852557254975",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我梦想中的身材好吧 https://t.co/PKCds8Y7L8"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4306,
+        "height": 1046,
+        "media_key": "13_2003771791202787328",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2003771791202787328/img/3RUO4Xcy9WgpZNQV.jpg",
+        "public_metrics": {
+          "view_count": 14240
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2003771791202787328/vid/avc1/320x464/JHzDkfzHL-YuGFJs.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2003771791202787328/vid/avc1/480x696/RzatvKjUiyrpK3x7.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2003771791202787328/vid/avc1/720x1046/SHHcVrIYjXw3kR8U.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2003771791202787328/pl/YSLeuV7oMfDCZolK.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "2004097695028486195",
+        "created_at": "2025-12-25T07:51:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T08:51:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004097695028486195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ploocki/status…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/ploocki/status/2003771852557254975",
+              "start": 10,
+              "url": "https://t.co/PKCds8Y7L8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004097695028486195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003771852557254975",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我梦想中的身材好吧 https://t.co/PKCds8Y7L8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2003771791202787328"
+          ]
+        },
+        "author_id": "1509242952098488324",
+        "conversation_id": "2003771852557254975",
+        "created_at": "2025-12-24T10:16:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T11:16:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003771852557254975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EpfBd426Pn",
+              "end": 23,
+              "expanded_url": "https://x.com/ploocki/status/2003771852557254975/video/1",
+              "media_key": "13_2003771791202787328",
+              "start": 0,
+              "url": "https://t.co/EpfBd426Pn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003771852557254975",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 788,
+          "impression_count": 41071,
+          "like_count": 5411,
+          "quote_count": 5,
+          "reply_count": 15,
+          "retweet_count": 179
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/EpfBd426Pn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "你能想到的坏习惯我都有",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998066182315020289/_eUXKzgo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 602,
+          "like_count": 8004,
+          "listed_count": 1,
+          "media_count": 477,
+          "tweet_count": 4379
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-30T18:55:49.000Z",
+        "description": "deerblogger on a healing journey // nsfw dni",
+        "id": "1509242952098488324",
+        "location": "forwards, beckon, rebound",
+        "name": "(つ﹏⊂)",
+        "pinned_tweet_id": "1999760480546750603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000915929002110980/PiX0jp22_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7982,
+          "following_count": 1254,
+          "like_count": 49786,
+          "listed_count": 82,
+          "media_count": 4281,
+          "tweet_count": 29887
+        },
+        "username": "ploocki",
+        "verified": false
+      }
+    ]
+  }
+}

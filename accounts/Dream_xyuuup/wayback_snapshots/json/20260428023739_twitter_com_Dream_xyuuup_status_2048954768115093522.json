@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "2048954768115093522",
+    "created_at": "2026-04-28T02:37:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T03:37:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048954768115093522"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/553078693meng/…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/553078693meng/status/2048600251221803279",
+          "start": 25,
+          "url": "https://t.co/xAS2U7lAzG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048954768115093522",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048600251221803279",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这一样一定很快乐很嗨吧比我天天躺在逼床上流猪泪好 https://t.co/xAS2U7lAzG"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 59292,
+        "height": 1920,
+        "media_key": "13_2048598987071225856",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2048598987071225856/img/gp1zeyfJ_qWstF8x.jpg",
+        "public_metrics": {
+          "view_count": 139041
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048598987071225856/vid/avc1/720x1280/2WddwSdrSLn9kC3B.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048598987071225856/vid/avc1/1080x1920/5lUZBuP_7DvS2hEY.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048598987071225856/vid/avc1/480x852/TTOEjJyMahSIyfZ7.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048598987071225856/vid/avc1/320x568/4lHpuftSUjab6Ega.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2048598987071225856/pl/OoQywo-9xXjG1Uwg.m3u8?v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "2048954768115093522",
+        "created_at": "2026-04-28T02:37:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T03:37:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048954768115093522"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/553078693meng/…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/553078693meng/status/2048600251221803279",
+              "start": 25,
+              "url": "https://t.co/xAS2U7lAzG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048954768115093522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048600251221803279",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这一样一定很快乐很嗨吧比我天天躺在逼床上流猪泪好 https://t.co/xAS2U7lAzG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2048598987071225856"
+          ]
+        },
+        "author_id": "1657693850700509185",
+        "conversation_id": "2048600251221803279",
+        "created_at": "2026-04-27T03:08:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T04:08:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048600251221803279"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V8qa2m2uip",
+              "end": 68,
+              "expanded_url": "https://x.com/553078693Meng/status/2048600251221803279/video/1",
+              "media_key": "13_2048598987071225856",
+              "start": 45,
+              "url": "https://t.co/V8qa2m2uip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048600251221803279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 78,
+          "impression_count": 205060,
+          "like_count": 237,
+          "quote_count": 1,
+          "reply_count": 140,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "兄弟们\n我想你们对吸毒后是什么样子都很感兴趣\n看看吧，这个视频看完，绝对不会想沾这玩意！ https://t.co/V8qa2m2uip"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "弈鸠，是谁？\nenby,her/they,kpop,激女粉红点进就死\n*・x・*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "脚踩你爷爷登顶称王",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041811823687823360/QQkkR0z6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 482,
+          "following_count": 612,
+          "like_count": 8190,
+          "listed_count": 1,
+          "media_count": 531,
+          "tweet_count": 5205
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-14T10:26:53.000Z",
+        "description": "做时间的朋友，而非波动的囚徒。",
+        "id": "1657693850700509185",
+        "name": "招财猫",
+        "pinned_tweet_id": "2047694257205756264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998597079430742016/mCfSLsRk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6137,
+          "following_count": 5483,
+          "like_count": 3862,
+          "listed_count": 8,
+          "media_count": 796,
+          "tweet_count": 7931
+        },
+        "username": "553078693Meng",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1936564639573344310",
+    "created_at": "2025-06-24T05:57:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T06:57:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937389550437056663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1695622547940016128",
+          "start": 0,
+          "username": "JunLin64891"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937389550437056663",
+    "in_reply_to_user_id": "1695622547940016128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937378825702375584",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JunLin64891 宝贝你不用给！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1936564639573344310",
+        "created_at": "2025-06-24T05:57:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T06:57:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937389550437056663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1695622547940016128",
+              "start": 0,
+              "username": "JunLin64891"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937389550437056663",
+        "in_reply_to_user_id": "1695622547940016128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937378825702375584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JunLin64891 宝贝你不用给！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695622547940016128",
+        "conversation_id": "1936564639573344310",
+        "created_at": "2025-06-24T05:14:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T06:14:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937378825702375584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1726051028112744448",
+              "start": 0,
+              "username": "Dream_xyuuup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937378825702375584",
+        "in_reply_to_user_id": "1726051028112744448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936564639573344310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dream_xyuuup 为什么中国人要给哈jer国的外国人\n\n给钱？\n(开玩笑的，别骂我( ๑ŏ ﹏ ŏ๑ ))"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "那丑咋了？我不光长丑还没文化，不光没文化，我还没钱，我原生家庭还有问题，导致我人格上有缺陷，而且我老感觉到有一种不安全感。我感觉空气里边有一种焦虑的因素，我一呼一吸之间仿佛把地球上边污秽的东西全都吸到我的身体里边去了，我全给吸收了，我就这么蠢，我就这么笨，那咋了？对不对？我就感觉到吧，活着没啥意思。但是我老爱幻想，我幻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1931176332370813214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933432998864826371/0SiPerD5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 487,
+          "like_count": 5918,
+          "listed_count": 0,
+          "media_count": 306,
+          "tweet_count": 2751
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-27T02:21:40.000Z",
+        "description": "",
+        "id": "1695622547940016128",
+        "location": "？",
+        "name": "AAA空调维修mu师傅",
+        "pinned_tweet_id": "1931121723094827333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934596714616557568/P01FZNiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 253,
+          "like_count": 749,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 283
+        },
+        "username": "JunLin64891",
+        "verified": false
+      }
+    ]
+  }
+}

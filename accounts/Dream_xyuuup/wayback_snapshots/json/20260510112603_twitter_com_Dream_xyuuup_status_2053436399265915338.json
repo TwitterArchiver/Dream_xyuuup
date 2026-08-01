@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053436384350965760",
+        "3_2053436384363651072"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "2053436399265915338",
+    "created_at": "2026-05-10T11:26:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T12:26:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053436399265915338"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 16,
+          "start": 13,
+          "tag": "正太"
+        },
+        {
+          "end": 20,
+          "start": 17,
+          "tag": "人妖"
+        },
+        {
+          "end": 24,
+          "start": 21,
+          "tag": "裸体"
+        },
+        {
+          "end": 28,
+          "start": 25,
+          "tag": "男娘"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6fEJslf20b",
+          "end": 52,
+          "expanded_url": "https://x.com/Dream_xyuuup/status/2053436399265915338/photo/1",
+          "media_key": "3_2053436384350965760",
+          "start": 29,
+          "url": "https://t.co/6fEJslf20b"
+        },
+        {
+          "display_url": "pic.x.com/6fEJslf20b",
+          "end": 52,
+          "expanded_url": "https://x.com/Dream_xyuuup/status/2053436399265915338/photo/1",
+          "media_key": "3_2053436384363651072",
+          "start": 29,
+          "url": "https://t.co/6fEJslf20b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053436399265915338",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🚪38\n可以聊骚可以卡泡\n#正太 #人妖 #裸体 #男娘 https://t.co/6fEJslf20b"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2053436399265915338].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2053436399265915338",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2053436399265915338"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053436384350965760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH9FgxIaEAA06mX.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2053436384363651072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH9FgxLboAA9i07.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "弈鸠，是谁？\nmtx,her/they,激女粉红点进就死\n*・x・*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "脚踩你爷爷登顶称王",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052421075716505600/5gcoclAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 628,
+          "like_count": 8321,
+          "listed_count": 1,
+          "media_count": 581,
+          "tweet_count": 5745
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      }
+    ]
+  }
+}

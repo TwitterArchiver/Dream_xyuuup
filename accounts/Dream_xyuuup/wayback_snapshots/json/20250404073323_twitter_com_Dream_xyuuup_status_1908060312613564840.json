@@ -1,0 +1,142 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1908060297929310208",
+        "3_1908060297937694721",
+        "3_1908060297933594624"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "1908060312613564840",
+    "created_at": "2025-04-04T07:33:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-04T08:33:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1908060312613564840"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JlF4w9EzFb",
+          "end": 163,
+          "expanded_url": "https://x.com/Dream_xyuuup/status/1908060312613564840/photo/1",
+          "media_key": "3_1908060297929310208",
+          "start": 140,
+          "url": "https://t.co/JlF4w9EzFb"
+        },
+        {
+          "display_url": "pic.x.com/JlF4w9EzFb",
+          "end": 163,
+          "expanded_url": "https://x.com/Dream_xyuuup/status/1908060312613564840/photo/1",
+          "media_key": "3_1908060297937694721",
+          "start": 140,
+          "url": "https://t.co/JlF4w9EzFb"
+        },
+        {
+          "display_url": "pic.x.com/JlF4w9EzFb",
+          "end": 163,
+          "expanded_url": "https://x.com/Dream_xyuuup/status/1908060312613564840/photo/1",
+          "media_key": "3_1908060297933594624",
+          "start": 140,
+          "url": "https://t.co/JlF4w9EzFb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908060312613564840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "嗯你们好我随便拍了三头牛。p1是放大了十倍拍的因为它在遥远的地方跟我对视了我们心有灵犀p2是前两周刚下的小牛看起来有点萌。p3我被感动到了我进牛棚只有它把头伸出来所以我给它拍了一张写真照哈哈而且它的肚子还会突然抖起来吓一跳。嗯我家有八头母牛两头小牛犊，虽然我不知道它们值多少钱。 https://t.co/JlF4w9EzFb"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1908060312613564840].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1908060312613564840",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1908060312613564840"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1908060297929310208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnrKu0waQAAVuLH.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1908060297937694721",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnrKu0yaMAEaWkz.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1908060297933594624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnrKu0xboAAuhel.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "对所有人温良除了现生",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dreamxy_uuup",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dreamxy_uuup",
+                "start": 0,
+                "url": "https://t.co/V4QSiptJcT"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠ltnh（未来最厉害的数学家数学满分版😋）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905913123158298624/ClLLrGxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 291,
+          "like_count": 2721,
+          "listed_count": 2,
+          "media_count": 140,
+          "tweet_count": 1159
+        },
+        "url": "https://t.co/V4QSiptJcT",
+        "username": "Dream_xyuuup",
+        "verified": false
+      }
+    ]
+  }
+}

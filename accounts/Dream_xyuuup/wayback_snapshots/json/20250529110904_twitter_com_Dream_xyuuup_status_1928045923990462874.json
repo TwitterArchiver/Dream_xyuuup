@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1927746316320264277",
+    "created_at": "2025-05-29T11:09:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-29T12:09:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928045923990462874"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1451408516699201552",
+          "start": 0,
+          "username": "TargaryenLiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928045923990462874",
+    "in_reply_to_user_id": "1451408516699201552",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927746316320264277",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TargaryenLiu ？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1831,
+        "media_key": "3_1927746308930207744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsC7DejbAAA6Egf.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1927746316320264277",
+        "created_at": "2025-05-29T11:09:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T12:09:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928045923990462874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1451408516699201552",
+              "start": 0,
+              "username": "TargaryenLiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928045923990462874",
+        "in_reply_to_user_id": "1451408516699201552",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927746316320264277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TargaryenLiu ？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927746308930207744"
+          ]
+        },
+        "author_id": "1451408516699201552",
+        "conversation_id": "1927746316320264277",
+        "created_at": "2025-05-28T15:18:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T16:18:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927746316320264277"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DFCCORrehB",
+              "end": 32,
+              "expanded_url": "https://x.com/TargaryenLiu/status/1927746316320264277/photo/1",
+              "media_key": "3_1927746308930207744",
+              "start": 9,
+              "url": "https://t.co/DFCCORrehB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927746316320264277",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 24945,
+          "like_count": 225,
+          "quote_count": 3,
+          "reply_count": 23,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "擦边男是有本事的 https://t.co/DFCCORrehB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "偏远乡村学校在读 我应该不会再影响别人了 接下来有一个event 成分复杂 对所有人友好除了现生 最可爱的小宝宝@QLing61007 😽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 56,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1917423348302467396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924678380655673348/VxgKyXwf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 438,
+          "like_count": 4750,
+          "listed_count": 1,
+          "media_count": 221,
+          "tweet_count": 2080
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-22T04:42:22.000Z",
+        "description": "直男/纯情小处男",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "targaryenliu.com",
+                "end": 23,
+                "expanded_url": "http://targaryenliu.com",
+                "start": 0,
+                "url": "https://t.co/TBdcJnRtY0"
+              }
+            ]
+          }
+        },
+        "id": "1451408516699201552",
+        "location": "Shanghai",
+        "name": "Gary",
+        "pinned_tweet_id": "1921867337495458077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911744169954959360/3Z9VpPaO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8310,
+          "following_count": 3063,
+          "like_count": 22059,
+          "listed_count": 8,
+          "media_count": 1173,
+          "tweet_count": 9747
+        },
+        "url": "https://t.co/TBdcJnRtY0",
+        "username": "TargaryenLiu",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "2051284782320078970",
+    "created_at": "2026-05-04T13:43:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T14:43:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051296654767333647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1824824275754471424",
+          "start": 0,
+          "username": "LewisLouis74340"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051296654767333647",
+    "in_reply_to_user_id": "1824824275754471424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051284782320078970",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LewisLouis74340 啊啊啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "2051284782320078970",
+        "created_at": "2026-05-04T13:43:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T14:43:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051296654767333647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1824824275754471424",
+              "start": 0,
+              "username": "LewisLouis74340"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051296654767333647",
+        "in_reply_to_user_id": "1824824275754471424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051284782320078970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LewisLouis74340 啊啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824824275754471424",
+        "conversation_id": "2051284782320078970",
+        "created_at": "2026-05-04T12:56:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T13:56:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051284782320078970"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/iestt59627255/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/iestt59627255/status/2051128077821092225",
+              "start": 6,
+              "url": "https://t.co/TDfIPqSJ2Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051284782320078970",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051128077821092225",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑我不行了 https://t.co/TDfIPqSJ2Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "弈鸠，是谁？\nenby,her/they,激女粉红点进就死\n*・x・*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "脚踩你爷爷登顶称王",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041811823687823360/QQkkR0z6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 616,
+          "like_count": 8273,
+          "listed_count": 1,
+          "media_count": 564,
+          "tweet_count": 5528
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-17T15:03:42.000Z",
+        "description": "三无小号CN/EN/ES \n@Mr_boredasfock 停用一个月，我当立\n紧急寻回推友\n友跨友同友鉴证友左友右支黑（解释权归我所有\n爱国互草不爱国也互草",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 14,
+                "username": "Mr_boredasfock"
+              }
+            ]
+          }
+        },
+        "id": "1824824275754471424",
+        "name": "这一世还做撒旦子民",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965935186744676352/hzGbKikT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 83,
+          "like_count": 378,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 1053
+        },
+        "username": "LewisLouis74340",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1942156213086798247",
+    "created_at": "2025-07-07T12:27:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T13:27:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942198829878817267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1554286007096590336",
+          "start": 0,
+          "username": "Mr_LDYS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942198829878817267",
+    "in_reply_to_user_id": "1554286007096590336",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942156213086798247",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mr_LDYS 1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1942156210075303937",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvPsyHfbgAEYkHe.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1942156213086798247",
+        "created_at": "2025-07-07T12:27:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T13:27:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942198829878817267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1554286007096590336",
+              "start": 0,
+              "username": "Mr_LDYS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942198829878817267",
+        "in_reply_to_user_id": "1554286007096590336",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942156213086798247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mr_LDYS 1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942156210075303937"
+          ]
+        },
+        "author_id": "1554286007096590336",
+        "conversation_id": "1942156213086798247",
+        "created_at": "2025-07-07T09:38:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T10:38:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942156213086798247"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FjXvdExVud",
+              "end": 45,
+              "expanded_url": "https://x.com/Mr_LDYS/status/1942156213086798247/photo/1",
+              "media_key": "3_1942156210075303937",
+              "start": 22,
+              "url": "https://t.co/FjXvdExVud"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942156213086798247",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 186,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁想被我抄……ID😋\n留言1for1回复抄 https://t.co/FjXvdExVud"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "yì jīu｜喜欢做梦｜我觉得我很温柔。｜可爱的人@QLing61007",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933432998864826371/0SiPerD5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 505,
+          "like_count": 6129,
+          "listed_count": 0,
+          "media_count": 325,
+          "tweet_count": 2900
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-02T02:00:47.000Z",
+        "description": "欢迎来和我一起Van♂ 😋｜\n男友位空缺｜\n对一切性向和性别认同政治认同友好｜\n欢迎扩列喵｜\n2008/178/75/0.5/m偏0不10（side）/Gay🏳️‍🌈 xp很杂｜\n里推@JasonKazuha｜\n🔞&⚠️情绪低落警告｜\n头像选自@Now_shika_7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 92,
+                "username": "JasonKazuha"
+              },
+              {
+                "end": 134,
+                "start": 122,
+                "username": "Now_shika_7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/John_Kazuha",
+                "end": 23,
+                "expanded_url": "http://t.me/John_Kazuha",
+                "start": 0,
+                "url": "https://t.co/k7YP9BH7Sv"
+              }
+            ]
+          }
+        },
+        "id": "1554286007096590336",
+        "location": "天津市",
+        "name": "John.Kazuha",
+        "pinned_tweet_id": "1878188774687207567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909598615984893952/2YdD-3Bg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1285,
+          "following_count": 2189,
+          "like_count": 4824,
+          "listed_count": 1,
+          "media_count": 483,
+          "tweet_count": 2414
+        },
+        "url": "https://t.co/k7YP9BH7Sv",
+        "username": "Mr_LDYS",
+        "verified": false
+      }
+    ]
+  }
+}

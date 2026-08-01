@@ -1,0 +1,833 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1914562319889391621",
+        "3_1914562319864225795",
+        "3_1914562319872598016"
+      ],
+      "media_source_tweet_id": [
+        "1914562397236551966",
+        "1914562397236551966",
+        "1914562397236551966"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1138142402802143232",
+          "name": "Jang Wonyoung"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1458459580900335616",
+          "name": "IVE"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1138142402802143232",
+          "name": "Jang Wonyoung"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1458459580900335616",
+          "name": "IVE"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Mukbang or muk-bang is an online audiovisual broadcast in which a host eats large amounts of foods while interacting with their audience. Usually done through an internet webcast, mukbang became popular in South Korea in the 2010s (Wikipedia).",
+          "id": "1034513539493322752",
+          "name": "Mukbang"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1138142402802143232",
+          "name": "Jang Wonyoung"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1458459580900335616",
+          "name": "IVE"
+        }
+      }
+    ],
+    "conversation_id": "1916790613887828210",
+    "created_at": "2025-04-28T09:44:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-28T10:44:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916790613887828210"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 28,
+          "tag": "IVE"
+        },
+        {
+          "end": 37,
+          "start": 33,
+          "tag": "아이브"
+        },
+        {
+          "end": 51,
+          "start": 38,
+          "tag": "JANGWONYOUNG"
+        },
+        {
+          "end": 56,
+          "start": 52,
+          "tag": "장원영"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1402183575244468226",
+          "start": 3,
+          "username": "IVE_twt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/w8nJdI9Gjl",
+          "end": 80,
+          "expanded_url": "https://x.com/IVE_twt/status/1914562397236551966/video/1",
+          "media_key": "13_1914562319889391621",
+          "start": 57,
+          "url": "https://t.co/w8nJdI9Gjl"
+        },
+        {
+          "display_url": "pic.x.com/w8nJdI9Gjl",
+          "end": 80,
+          "expanded_url": "https://x.com/IVE_twt/status/1914562397236551966/video/1",
+          "media_key": "3_1914562319864225795",
+          "start": 57,
+          "url": "https://t.co/w8nJdI9Gjl"
+        },
+        {
+          "display_url": "pic.x.com/w8nJdI9Gjl",
+          "end": 80,
+          "expanded_url": "https://x.com/IVE_twt/status/1914562397236551966/video/1",
+          "media_key": "3_1914562319872598016",
+          "start": 57,
+          "url": "https://t.co/w8nJdI9Gjl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916790613887828210",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8836
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914562397236551966",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IVE_twt: 망한 히츠마부시 먹방🍚🥄\n\n#IVE #아이브\n#JANGWONYOUNG #장원영 https://t.co/w8nJdI9Gjl"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16866,
+        "height": 1080,
+        "media_key": "13_1914562319889391621",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1914562319889391621/img/JXCKmCLTH0UcqI7P.jpg",
+        "public_metrics": {
+          "view_count": 320021
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1914562319889391621/vid/avc1/640x360/GfvhjWMdT60Q_Mq0.mp4?tag=16"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1914562319889391621/vid/avc1/1920x1080/Bn9M_0yo3RgFCBWH.mp4?tag=16"
+          },
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1914562319889391621/vid/avc1/480x270/_xGQqxaeO6iFkUuM.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1914562319889391621/pl/3ez2mz90Jfv4NfWK.m3u8?tag=16&v=ca5"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1914562319889391621/vid/avc1/1280x720/3zJ1XZjVtAwkxqnP.mp4?tag=16"
+          }
+        ],
+        "width": 1920
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1914562319864225795",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpHkST_a4AMPNDM.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1914562319872598016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpHkSUBaoAAuMF6.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1914562319889391621",
+            "3_1914562319864225795",
+            "3_1914562319872598016"
+          ],
+          "media_source_tweet_id": [
+            "1914562397236551966",
+            "1914562397236551966",
+            "1914562397236551966"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1138142402802143232",
+              "name": "Jang Wonyoung"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1458459580900335616",
+              "name": "IVE"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1138142402802143232",
+              "name": "Jang Wonyoung"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1458459580900335616",
+              "name": "IVE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Mukbang or muk-bang is an online audiovisual broadcast in which a host eats large amounts of foods while interacting with their audience. Usually done through an internet webcast, mukbang became popular in South Korea in the 2010s (Wikipedia).",
+              "id": "1034513539493322752",
+              "name": "Mukbang"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1138142402802143232",
+              "name": "Jang Wonyoung"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1458459580900335616",
+              "name": "IVE"
+            }
+          }
+        ],
+        "conversation_id": "1916790613887828210",
+        "created_at": "2025-04-28T09:44:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T10:44:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916790613887828210"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 28,
+              "tag": "IVE"
+            },
+            {
+              "end": 37,
+              "start": 33,
+              "tag": "아이브"
+            },
+            {
+              "end": 51,
+              "start": 38,
+              "tag": "JANGWONYOUNG"
+            },
+            {
+              "end": 56,
+              "start": 52,
+              "tag": "장원영"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1402183575244468226",
+              "start": 3,
+              "username": "IVE_twt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/w8nJdI9Gjl",
+              "end": 80,
+              "expanded_url": "https://x.com/IVE_twt/status/1914562397236551966/video/1",
+              "media_key": "13_1914562319889391621",
+              "start": 57,
+              "url": "https://t.co/w8nJdI9Gjl"
+            },
+            {
+              "display_url": "pic.x.com/w8nJdI9Gjl",
+              "end": 80,
+              "expanded_url": "https://x.com/IVE_twt/status/1914562397236551966/video/1",
+              "media_key": "3_1914562319864225795",
+              "start": 57,
+              "url": "https://t.co/w8nJdI9Gjl"
+            },
+            {
+              "display_url": "pic.x.com/w8nJdI9Gjl",
+              "end": 80,
+              "expanded_url": "https://x.com/IVE_twt/status/1914562397236551966/video/1",
+              "media_key": "3_1914562319872598016",
+              "start": 57,
+              "url": "https://t.co/w8nJdI9Gjl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916790613887828210",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8836
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914562397236551966",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IVE_twt: 망한 히츠마부시 먹방🍚🥄\n\n#IVE #아이브\n#JANGWONYOUNG #장원영 https://t.co/w8nJdI9Gjl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1914562319889391621",
+            "3_1914562319864225795",
+            "3_1914562319872598016"
+          ]
+        },
+        "author_id": "1402183575244468226",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1138142402802143232",
+              "name": "Jang Wonyoung"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1458459580900335616",
+              "name": "IVE"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1138142402802143232",
+              "name": "Jang Wonyoung"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1458459580900335616",
+              "name": "IVE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Mukbang or muk-bang is an online audiovisual broadcast in which a host eats large amounts of foods while interacting with their audience. Usually done through an internet webcast, mukbang became popular in South Korea in the 2010s (Wikipedia).",
+              "id": "1034513539493322752",
+              "name": "Mukbang"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1138142402802143232",
+              "name": "Jang Wonyoung"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1458459580900335616",
+              "name": "IVE"
+            }
+          }
+        ],
+        "conversation_id": "1914562397236551966",
+        "created_at": "2025-04-22T06:10:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T07:10:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914562397236551966"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 15,
+              "tag": "IVE"
+            },
+            {
+              "end": 24,
+              "start": 20,
+              "tag": "아이브"
+            },
+            {
+              "end": 38,
+              "start": 25,
+              "tag": "JANGWONYOUNG"
+            },
+            {
+              "end": 43,
+              "start": 39,
+              "tag": "장원영"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/w8nJdI9Gjl",
+              "end": 67,
+              "expanded_url": "https://x.com/IVE_twt/status/1914562397236551966/video/1",
+              "media_key": "13_1914562319889391621",
+              "start": 44,
+              "url": "https://t.co/w8nJdI9Gjl"
+            },
+            {
+              "display_url": "pic.x.com/w8nJdI9Gjl",
+              "end": 67,
+              "expanded_url": "https://x.com/IVE_twt/status/1914562397236551966/video/1",
+              "media_key": "3_1914562319864225795",
+              "start": 44,
+              "url": "https://t.co/w8nJdI9Gjl"
+            },
+            {
+              "display_url": "pic.x.com/w8nJdI9Gjl",
+              "end": 67,
+              "expanded_url": "https://x.com/IVE_twt/status/1914562397236551966/video/1",
+              "media_key": "3_1914562319872598016",
+              "start": 44,
+              "url": "https://t.co/w8nJdI9Gjl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914562397236551966",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2699,
+          "impression_count": 2016955,
+          "like_count": 41994,
+          "quote_count": 1668,
+          "reply_count": 293,
+          "retweet_count": 8836
+        },
+        "reply_settings": "everyone",
+        "text": "망한 히츠마부시 먹방🍚🥄\n\n#IVE #아이브\n#JANGWONYOUNG #장원영 https://t.co/w8nJdI9Gjl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "废话多 随机掉落负能量｜最近在偷偷幸福😼我成分复杂请慢慢研究我｜对所有人友善除了现生。｜最可爱的小宝宝@QLing61007 😽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 51,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠ltnh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905913123158298624/ClLLrGxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 388,
+          "like_count": 3683,
+          "listed_count": 1,
+          "media_count": 183,
+          "tweet_count": 1618
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-08T08:40:08.000Z",
+        "description": "IVE MEMBERS X (TWITTER)",
+        "id": "1402183575244468226",
+        "name": "IVE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883525153587605504/C_cbEr59_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2116783,
+          "following_count": 1,
+          "like_count": 25,
+          "listed_count": 6778,
+          "media_count": 1980,
+          "tweet_count": 2367
+        },
+        "username": "IVE_twt",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1981031402372989085",
+    "created_at": "2025-10-23T06:05:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T07:05:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981240525312446490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1206215796889812992",
+          "start": 0,
+          "username": "xcwannasleep"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981240525312446490",
+    "in_reply_to_user_id": "1206215796889812992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981232105641431247",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xcwannasleep 今天星期四我吃麦干啥！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1981031402372989085",
+        "created_at": "2025-10-23T06:05:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T07:05:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981240525312446490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1206215796889812992",
+              "start": 0,
+              "username": "xcwannasleep"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981240525312446490",
+        "in_reply_to_user_id": "1206215796889812992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981232105641431247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xcwannasleep 今天星期四我吃麦干啥！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1206215796889812992",
+        "conversation_id": "1981031402372989085",
+        "created_at": "2025-10-23T05:31:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T06:31:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981232105641431247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1726051028112744448",
+              "start": 0,
+              "username": "Dream_xyuuup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981232105641431247",
+        "in_reply_to_user_id": "1726051028112744448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981031402372989085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dream_xyuuup 最好是麦当劳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "我自私，病态，阴暗，偏执。所有大度、不在乎都是我的伪装。我窥探你的生活，揣测你的文案，解读你分享的一切，观察你身边的人，盯着你的照片妄想找到蛛丝马迹。我敏感，善变多疑，斤斤计较你多看别人的一眼。我爱你，你本来就应该乖乖待在我身边。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1953828269977219114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 580,
+          "like_count": 7237,
+          "listed_count": 1,
+          "media_count": 445,
+          "tweet_count": 3986
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-15T14:14:01.000Z",
+        "description": "@Octl1bra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "Octl1bra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "spacexc.net",
+                "end": 23,
+                "expanded_url": "http://spacexc.net",
+                "start": 0,
+                "url": "https://t.co/k0fo7vG3C2"
+              }
+            ]
+          }
+        },
+        "id": "1206215796889812992",
+        "name": "叉烧包🔜困困困困困困😴",
+        "pinned_tweet_id": "1958174358448579028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911123981802840065/q1oT0SJ3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 791,
+          "like_count": 11502,
+          "listed_count": 2,
+          "media_count": 276,
+          "tweet_count": 1981
+        },
+        "url": "https://t.co/k0fo7vG3C2",
+        "username": "xcwannasleep",
+        "verified": false
+      }
+    ]
+  }
+}

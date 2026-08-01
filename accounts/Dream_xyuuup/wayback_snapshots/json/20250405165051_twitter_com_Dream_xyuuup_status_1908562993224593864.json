@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1908562147174653985",
+    "created_at": "2025-04-05T16:50:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T17:50:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908562993224593864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1755917692408561664",
+          "start": 0,
+          "username": "oioiii_uuub"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908562993224593864",
+    "in_reply_to_user_id": "1755917692408561664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908562686432207094",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oioiii_uuub 可能是当时她想跟我开玩笑没掌握好分寸吧但当时我看到还真的挺扎心的，现在也断干净了我想起来她之前做的真的好贱啊好贱啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1908562147174653985",
+        "created_at": "2025-04-05T16:50:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T17:50:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908562993224593864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1755917692408561664",
+              "start": 0,
+              "username": "oioiii_uuub"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908562993224593864",
+        "in_reply_to_user_id": "1755917692408561664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908562686432207094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oioiii_uuub 可能是当时她想跟我开玩笑没掌握好分寸吧但当时我看到还真的挺扎心的，现在也断干净了我想起来她之前做的真的好贱啊好贱啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755917692408561664",
+        "conversation_id": "1908562147174653985",
+        "created_at": "2025-04-05T16:49:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T17:49:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908562686432207094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1726051028112744448",
+              "start": 0,
+              "username": "Dream_xyuuup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908562686432207094",
+        "in_reply_to_user_id": "1726051028112744448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908562147174653985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dream_xyuuup 这什么同桌啊。。摸摸老师😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "数学满分是假的数学家也是假的数学没及格过最近一次考试32/100嗯你们不要接了 积极宣扬负能量 对所有人温良除了现生",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠ltnh（未来最厉害的数学家数学满分版😋）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905913123158298624/ClLLrGxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 335,
+          "like_count": 3083,
+          "listed_count": 1,
+          "media_count": 152,
+          "tweet_count": 1292
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-09T11:33:16.000Z",
+        "description": "某人",
+        "id": "1755917692408561664",
+        "name": "❛˓◞˂̵✧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872434941373603840/KTzI1omn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 420,
+          "like_count": 2477,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 37
+        },
+        "username": "oioiii_uuub",
+        "verified": false
+      }
+    ]
+  }
+}

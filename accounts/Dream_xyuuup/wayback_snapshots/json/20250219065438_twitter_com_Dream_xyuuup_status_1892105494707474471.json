@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1891288240931356673"
+      ],
+      "media_source_tweet_id": [
+        "1891288245381533926"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "1892105494707474471",
+    "created_at": "2025-02-19T06:54:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-19T07:54:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892105494707474471"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 28,
+          "normalized_text": "ragingloop",
+          "probability": 0.6824,
+          "start": 19,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 18,
+          "tag": "ragingloop"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1615740297392037888",
+          "start": 3,
+          "username": "jpegwarriors"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hRAYmhnAok",
+          "end": 68,
+          "expanded_url": "https://x.com/jpegwarriors/status/1891288245381533926/photo/1",
+          "media_key": "3_1891288240931356673",
+          "start": 45,
+          "url": "https://t.co/hRAYmhnAok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892105494707474471",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891288245381533926",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jpegwarriors: #ragingloop my good friend https://t.co/hRAYmhnAok"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1328,
+        "media_key": "3_1891288240931356673",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gj80oniWQAEzQvr.jpg",
+        "width": 1289
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1891288240931356673"
+          ],
+          "media_source_tweet_id": [
+            "1891288245381533926"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "1892105494707474471",
+        "created_at": "2025-02-19T06:54:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T07:54:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892105494707474471"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "ragingloop",
+              "probability": 0.6824,
+              "start": 19,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 18,
+              "tag": "ragingloop"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1615740297392037888",
+              "start": 3,
+              "username": "jpegwarriors"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hRAYmhnAok",
+              "end": 68,
+              "expanded_url": "https://x.com/jpegwarriors/status/1891288245381533926/photo/1",
+              "media_key": "3_1891288240931356673",
+              "start": 45,
+              "url": "https://t.co/hRAYmhnAok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892105494707474471",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891288245381533926",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jpegwarriors: #ragingloop my good friend https://t.co/hRAYmhnAok"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1891288240931356673"
+          ]
+        },
+        "author_id": "1615740297392037888",
+        "conversation_id": "1891288245381533926",
+        "created_at": "2025-02-17T00:47:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T01:47:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891288245381533926"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 10,
+              "normalized_text": "ragingloop",
+              "probability": 0.6553,
+              "start": 1,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "ragingloop"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hRAYmhnAok",
+              "end": 50,
+              "expanded_url": "https://x.com/jpegwarriors/status/1891288245381533926/photo/1",
+              "media_key": "3_1891288240931356673",
+              "start": 27,
+              "url": "https://t.co/hRAYmhnAok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891288245381533926",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 1125,
+          "like_count": 93,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "#ragingloop my good friend https://t.co/hRAYmhnAok"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "喵斯/有三次泡菜偶像/INFP/宝宝互fo🥹",
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "ltnh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891933486950330369/xadOgPTE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 21,
+          "like_count": 113,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 20
+        },
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-18T15:58:08.000Z",
+        "description": "HE HIT MY CAR ON THE HIGHWAY AND HE TRYNA LEAVE. BRO FUCK NO. BRO FUCK NO",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/A2jBSCjG-dY?si…",
+                "end": 23,
+                "expanded_url": "https://youtu.be/A2jBSCjG-dY?si=tcPuQA5oT3HJqwo4",
+                "start": 0,
+                "url": "https://t.co/MBRjzc1u2D"
+              }
+            ]
+          }
+        },
+        "id": "1615740297392037888",
+        "name": "yucca",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827179159325454336/Qp_11aoz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 42,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 27
+        },
+        "url": "https://t.co/MBRjzc1u2D",
+        "username": "jpegwarriors",
+        "verified": false
+      }
+    ]
+  }
+}

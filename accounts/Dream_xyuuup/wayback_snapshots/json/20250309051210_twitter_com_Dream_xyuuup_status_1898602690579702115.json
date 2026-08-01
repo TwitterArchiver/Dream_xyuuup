@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1898602600989376512"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "1898602690579702115",
+    "created_at": "2025-03-09T05:12:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T06:12:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1898602690579702115"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/N3vUCPilK8",
+          "end": 28,
+          "expanded_url": "https://x.com/Dream_xyuuup/status/1898602690579702115/video/1",
+          "media_key": "7_1898602600989376512",
+          "start": 5,
+          "url": "https://t.co/N3vUCPilK8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898602690579702115",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我缴械了 https://t.co/N3vUCPilK8"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 34648,
+        "height": 590,
+        "media_key": "7_1898602600989376512",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1898602600989376512/pu/img/xuHtktqfl6vRSazB.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1898602600989376512/pu/vid/avc1/584x270/C8EtgLDT7w__kM9A.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1898602600989376512/pu/vid/avc1/780x360/XQiRuyoQslqw46eL.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1898602600989376512/pu/vid/avc1/1280x590/nwL4sxw9SugRB-ms.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1898602600989376512/pu/pl/WyP3CW9WhCCKEJPu.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1898602600989376512"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "1898602690579702115",
+        "created_at": "2025-03-09T05:12:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T06:12:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898602690579702115"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N3vUCPilK8",
+              "end": 28,
+              "expanded_url": "https://x.com/Dream_xyuuup/status/1898602690579702115/video/1",
+              "media_key": "7_1898602600989376512",
+              "start": 5,
+              "url": "https://t.co/N3vUCPilK8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898602690579702115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我缴械了 https://t.co/N3vUCPilK8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "这是一本日记 喜欢视奸 互fo请赞自介条",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dreamxy_uuup",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dreamxy_uuup",
+                "start": 0,
+                "url": "https://t.co/V4QSiptJcT"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠ltnh",
+        "pinned_tweet_id": "1898320029139214432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896250221824520192/PpwkphAn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 122,
+          "like_count": 613,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 325
+        },
+        "url": "https://t.co/V4QSiptJcT",
+        "username": "Dream_xyuuup",
+        "verified": false
+      }
+    ]
+  }
+}

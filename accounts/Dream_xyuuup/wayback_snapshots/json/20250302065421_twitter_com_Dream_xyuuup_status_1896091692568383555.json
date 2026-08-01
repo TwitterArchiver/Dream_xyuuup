@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1896091692568383555",
+    "created_at": "2025-03-02T06:54:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-02T07:54:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1896091692568383555"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1896091692568383555",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "来个小绿我带飞，主要玩鸡块姐，仔仔熊，用双辅阵容被骂过74次恶心，靠扛毒夺冠二十次，用仔仔熊上过黑铁二，和同学五排打过青铜一高端局，彩色熟练度仔仔熊，胜率35%，我们班段位排第三，小组里排第一，只会挂机的小绿不要。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1896091692568383555",
+        "created_at": "2025-03-02T06:54:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T07:54:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896091692568383555"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1896091692568383555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来个小绿我带飞，主要玩鸡块姐，仔仔熊，用双辅阵容被骂过74次恶心，靠扛毒夺冠二十次，用仔仔熊上过黑铁二，和同学五排打过青铜一高端局，彩色熟练度仔仔熊，胜率35%，我们班段位排第三，小组里排第一，只会挂机的小绿不要。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "这是一本日记 喜欢视奸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dreamxy_uuup",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dreamxy_uuup",
+                "start": 0,
+                "url": "https://t.co/V4QSiptbnl"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠ltnh",
+        "pinned_tweet_id": "1895467310275813494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892121675938004992/fWCivcy4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 100,
+          "like_count": 403,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 208
+        },
+        "url": "https://t.co/V4QSiptbnl",
+        "username": "Dream_xyuuup",
+        "verified": false
+      }
+    ]
+  }
+}

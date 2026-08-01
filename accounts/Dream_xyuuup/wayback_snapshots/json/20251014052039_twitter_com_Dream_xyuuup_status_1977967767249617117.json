@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1977351882499567727",
+    "created_at": "2025-10-14T05:20:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T06:20:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977967767249617117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1769594666977210368",
+          "start": 0,
+          "username": "aiaijiango"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977967767249617117",
+    "in_reply_to_user_id": "1769594666977210368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977351882499567727",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aiaijiango 你自己也是个药娘为啥要问这个问题，不戴口罩那些不pass的不是一眼男吗，就算不在意别人的眼光自己看着也会难受吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1977351882499567727",
+        "created_at": "2025-10-14T05:20:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T06:20:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977967767249617117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1769594666977210368",
+              "start": 0,
+              "username": "aiaijiango"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977967767249617117",
+        "in_reply_to_user_id": "1769594666977210368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977351882499567727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aiaijiango 你自己也是个药娘为啥要问这个问题，不戴口罩那些不pass的不是一眼男吗，就算不在意别人的眼光自己看着也会难受吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1769594666977210368",
+        "conversation_id": "1977351882499567727",
+        "created_at": "2025-10-12T12:33:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T13:33:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977351882499567727"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1977351882499567727",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 32271,
+          "like_count": 220,
+          "quote_count": 3,
+          "reply_count": 85,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "为什么有些男娘药娘女装出门或自拍要戴口罩？🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "我自私，病态，阴暗，偏执。所有大度、不在乎都是我的伪装。我窥探你的生活，揣测你的文案，解读你分享的一切，观察你身边的人，盯着你的照片妄想找到蛛丝马迹。我敏感，善变多疑，斤斤计较你多看别人的一眼。我爱你，你本来就应该乖乖待在我身边。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1953828269977219114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 577,
+          "like_count": 7180,
+          "listed_count": 1,
+          "media_count": 442,
+          "tweet_count": 3939
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-18T05:21:16.000Z",
+        "description": "无证含糖已炸柜 肉肉系 偏4i/INTJ药娘，攒钱做srs，绝赞私信请直接入门 不过🚪不回 私信过🚪128口令红包 支持usdt",
+        "id": "1769594666977210368",
+        "location": "🚪128❤️",
+        "name": "爱爱酱🍥🏳️‍⚧",
+        "pinned_tweet_id": "1977010143201312874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893620196599881728/7N6JyNGt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8906,
+          "following_count": 136,
+          "like_count": 356,
+          "listed_count": 31,
+          "media_count": 106,
+          "tweet_count": 879
+        },
+        "username": "aiaijiango",
+        "verified": true
+      }
+    ]
+  }
+}

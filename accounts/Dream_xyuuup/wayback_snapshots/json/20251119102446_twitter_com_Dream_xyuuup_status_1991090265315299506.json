@@ -1,0 +1,595 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "1991090265315299506",
+    "created_at": "2025-11-19T10:24:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T11:24:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991090265315299506"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 33,
+          "normalized_text": "初音ミク",
+          "probability": 0.5722,
+          "start": 30,
+          "type": "Person"
+        },
+        {
+          "end": 96,
+          "normalized_text": "Hatsune Miku",
+          "probability": 0.5429,
+          "start": 85,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1613771546522451968",
+          "start": 3,
+          "username": "JP_YENA"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/aEGFdL0ew",
+          "end": 139,
+          "start": 117,
+          "url": "https://t.co/aEGFdL0ew"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991090265315299506",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 847
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991068948008460660",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JP_YENA: [📢YENA NOTICE]\n\n初音ミクをゲストに迎えた日本オリジナル曲が11/26にデジタルリリース決定！\n\n💫STAR! (feat. Hatsune Miku)💫\n　2025.11.26 配信スタート\nhttps://t.co/aEGFdL0ew…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1990725502148227072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6B6TADbMAArKDM.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "1991090265315299506",
+        "created_at": "2025-11-19T10:24:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T11:24:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991090265315299506"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 33,
+              "normalized_text": "初音ミク",
+              "probability": 0.5722,
+              "start": 30,
+              "type": "Person"
+            },
+            {
+              "end": 96,
+              "normalized_text": "Hatsune Miku",
+              "probability": 0.5429,
+              "start": 85,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1613771546522451968",
+              "start": 3,
+              "username": "JP_YENA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/aEGFdL0ew",
+              "end": 139,
+              "start": 117,
+              "url": "https://t.co/aEGFdL0ew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991090265315299506",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 847
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991068948008460660",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JP_YENA: [📢YENA NOTICE]\n\n初音ミクをゲストに迎えた日本オリジナル曲が11/26にデジタルリリース決定！\n\n💫STAR! (feat. Hatsune Miku)💫\n　2025.11.26 配信スタート\nhttps://t.co/aEGFdL0ew…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990725502148227072"
+          ]
+        },
+        "author_id": "1613771546522451968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1138142962527789056",
+              "name": "Choi Yena"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1138142962527789056",
+              "name": "Choi Yena"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1138142962527789056",
+              "name": "Choi Yena"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "1991068948008460660",
+        "created_at": "2025-11-19T09:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T10:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991068948008460660"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "初音ミク",
+              "probability": 0.6318,
+              "start": 17,
+              "type": "Person"
+            },
+            {
+              "end": 83,
+              "normalized_text": "Hatsune Miku",
+              "probability": 0.58,
+              "start": 72,
+              "type": "Person"
+            },
+            {
+              "end": 142,
+              "normalized_text": "YENA",
+              "probability": 0.3945,
+              "start": 139,
+              "type": "Person"
+            },
+            {
+              "end": 147,
+              "normalized_text": "初音ミク",
+              "probability": 0.8946,
+              "start": 144,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 164,
+              "start": 159,
+              "tag": "YENA"
+            },
+            {
+              "end": 169,
+              "start": 165,
+              "tag": "イェナ"
+            },
+            {
+              "end": 174,
+              "start": 170,
+              "tag": "최예나"
+            },
+            {
+              "end": 185,
+              "start": 175,
+              "tag": "YENA_STAR"
+            },
+            {
+              "end": 191,
+              "start": 186,
+              "tag": "初音ミク"
+            },
+            {
+              "end": 197,
+              "start": 192,
+              "tag": "おむたつ"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Listen to content by YENA(최예나).",
+              "display_url": "jvcmusic.lnk.to/YENA-STAR",
+              "end": 127,
+              "expanded_url": "https://jvcmusic.lnk.to/YENA-STAR",
+              "images": [
+                {
+                  "height": 220,
+                  "url": "https://pbs.twimg.com/news_img/1991068993265025024/KJ4CKh9P?format=jpg&name=orig",
+                  "width": 440
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1991068993265025024/KJ4CKh9P?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 104,
+              "status": 200,
+              "title": "YENA「STAR! (feat. Hatsune Miku)」",
+              "unwound_url": "https://jvcmusic.lnk.to/YENA-STAR",
+              "url": "https://t.co/aEGFdL0ewR"
+            },
+            {
+              "display_url": "pic.x.com/RmEyU1M9Pi",
+              "end": 221,
+              "expanded_url": "https://x.com/JP_YENA/status/1991068948008460660/photo/1",
+              "media_key": "3_1990725502148227072",
+              "start": 198,
+              "url": "https://t.co/RmEyU1M9Pi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991068948008460660",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 137,
+          "impression_count": 60013,
+          "like_count": 2471,
+          "quote_count": 207,
+          "reply_count": 4,
+          "retweet_count": 847
+        },
+        "reply_settings": "everyone",
+        "text": "[📢YENA NOTICE]\n\n初音ミクをゲストに迎えた日本オリジナル曲が11/26にデジタルリリース決定！\n\n💫STAR! (feat. Hatsune Miku)💫\n　2025.11.26 配信スタート\nhttps://t.co/aEGFdL0ewR\n\nカバーアートはYENAと初音ミクのキュートな2ショット📸\n\n#YENA #イェナ #최예나\n#YENA_STAR #初音ミク #おむたつ https://t.co/RmEyU1M9Pi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "没法活了，一切都是男的骗我，女的欠我，老的冤枉我，小的欺负我，中国的压迫我，外国的引诱我，身边的霸凌我，网上的取笑我，你们全都对不起我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1985535613857382587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 595,
+          "like_count": 7616,
+          "listed_count": 1,
+          "media_count": 464,
+          "tweet_count": 4168
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-13T05:35:14.000Z",
+        "description": "#イェナ (#YENA) JAPAN Official Twitter",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "イェナ"
+              },
+              {
+                "end": 11,
+                "start": 6,
+                "tag": "YENA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "choiyena.jp",
+                "end": 23,
+                "expanded_url": "https://choiyena.jp/",
+                "start": 0,
+                "url": "https://t.co/rlDHrfJw9k"
+              }
+            ]
+          }
+        },
+        "id": "1613771546522451968",
+        "name": "YENA JAPAN OFFICIAL",
+        "pinned_tweet_id": "1991069184520819071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991068957290430464/zLD6POqx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26119,
+          "following_count": 1,
+          "like_count": 1,
+          "listed_count": 147,
+          "media_count": 55,
+          "tweet_count": 343
+        },
+        "url": "https://t.co/rlDHrfJw9k",
+        "username": "JP_YENA",
+        "verified": false
+      }
+    ]
+  }
+}

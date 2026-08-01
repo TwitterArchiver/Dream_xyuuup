@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1939536358537941149",
+    "created_at": "2025-06-30T06:23:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T07:23:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939570507898392972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1595050187529285632",
+          "start": 0,
+          "username": "aliii67285114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939570507898392972",
+    "in_reply_to_user_id": "1595050187529285632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939570396577308977",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aliii67285114 城市"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1939536358537941149",
+        "created_at": "2025-06-30T06:23:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T07:23:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939570507898392972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1595050187529285632",
+              "start": 0,
+              "username": "aliii67285114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939570507898392972",
+        "in_reply_to_user_id": "1595050187529285632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939570396577308977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aliii67285114 城市"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595050187529285632",
+        "conversation_id": "1939536358537941149",
+        "created_at": "2025-06-30T06:23:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T07:23:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939570396577308977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1726051028112744448",
+              "start": 0,
+              "username": "Dream_xyuuup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939570396577308977",
+        "in_reply_to_user_id": "1726051028112744448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939536358537941149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dream_xyuuup 要去哪裡啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "yì jīu｜喜欢做梦｜我觉得我很温柔。｜可爱的人@QLing61007",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933432998864826371/0SiPerD5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 501,
+          "like_count": 6022,
+          "listed_count": 0,
+          "media_count": 315,
+          "tweet_count": 2812
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-22T13:43:02.000Z",
+        "description": "置顶外烟价格表 欢迎随时私讯购买|书信明信片便宜代写代寄 多种字体多种文字皆可选用🏳️‍🌈『我是字符詞句信徒，筆尖紙墨情感的傳達人；文華與愛傳道者，母語跟自由捍衛者，心智未成的不穩定體』💐晉東巫女/正體字/張家口下花園語|里推下方",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/mzhngmng380569…",
+                "end": 23,
+                "expanded_url": "https://x.com/mzhngmng380569?t=MhcppHLWqWMiR_NeE8lJ-Q&s=09",
+                "start": 0,
+                "url": "https://t.co/bOWcGoMqli"
+              }
+            ]
+          }
+        },
+        "id": "1595050187529285632",
+        "location": "对象位长期徐缓招租",
+        "name": "明喵（外烟纸烟代/书信賀卡代写/签名设计）ᠴᠠᠩ ᠮᠢᠩ/장명🔜南京",
+        "pinned_tweet_id": "1933521348514783521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817238063262625792/eqkzuE86_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2860,
+          "following_count": 2077,
+          "like_count": 66977,
+          "listed_count": 2,
+          "media_count": 722,
+          "tweet_count": 13391
+        },
+        "url": "https://t.co/bOWcGoMqli",
+        "username": "aliii67285114",
+        "verified": false
+      }
+    ]
+  }
+}

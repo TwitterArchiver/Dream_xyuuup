@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1960029142210297993",
+    "created_at": "2025-08-26T11:38:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T12:38:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960305896527159365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1554286007096590336",
+          "start": 0,
+          "username": "Mr_LDYS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960305896527159365",
+    "in_reply_to_user_id": "1554286007096590336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960029142210297993",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mr_LDYS 指甲好嫩好嫩"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1960029138389286912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzNsHd8bwAATdB7.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1960029142210297993",
+        "created_at": "2025-08-26T11:38:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T12:38:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960305896527159365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1554286007096590336",
+              "start": 0,
+              "username": "Mr_LDYS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960305896527159365",
+        "in_reply_to_user_id": "1554286007096590336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960029142210297993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mr_LDYS 指甲好嫩好嫩"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960029138389286912"
+          ]
+        },
+        "author_id": "1554286007096590336",
+        "conversation_id": "1960029142210297993",
+        "created_at": "2025-08-25T17:18:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T18:18:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960029142210297993"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oR0IOKTbs0",
+              "end": 47,
+              "expanded_url": "https://x.com/Mr_LDYS/status/1960029142210297993/photo/1",
+              "media_key": "3_1960029138389286912",
+              "start": 24,
+              "url": "https://t.co/oR0IOKTbs0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960029142210297993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 378,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "喝酒喵 哥哥陪我🥺\n可以把我灌醉后随意对待…… https://t.co/oR0IOKTbs0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "yì jīu｜谢谢你喜欢我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1953828269977219114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 554,
+          "like_count": 6821,
+          "listed_count": 1,
+          "media_count": 411,
+          "tweet_count": 3626
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-02T02:00:47.000Z",
+        "description": "欢迎来和我一起Van♂ 😋｜\n男友位空缺｜哥哥…… @zvlha0 ｜麦当劳牛马｜对一切性向和性别认同政治认同友好｜\n欢迎扩列喵｜\n08/178cm/80kg/0.5/m偏0不10（side）/Gay🏳️‍🌈 xp很杂｜\n里@JasonKazuha｜\n🔞&⚠️情绪低落警告｜\n头像选自@Now_shika_7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 26,
+                "username": "zvlha0"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "JasonKazuha"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "Now_shika_7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/John_Kazuha",
+                "end": 23,
+                "expanded_url": "http://t.me/John_Kazuha",
+                "start": 0,
+                "url": "https://t.co/k7YP9BH7Sv"
+              }
+            ]
+          }
+        },
+        "id": "1554286007096590336",
+        "location": "天津市",
+        "name": "John.Kazuha",
+        "pinned_tweet_id": "1952234170568351796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909598615984893952/2YdD-3Bg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1539,
+          "following_count": 2380,
+          "like_count": 5666,
+          "listed_count": 2,
+          "media_count": 581,
+          "tweet_count": 2708
+        },
+        "url": "https://t.co/k7YP9BH7Sv",
+        "username": "Mr_LDYS",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,342 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "2055183484470370407",
+    "created_at": "2026-05-15T07:08:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T08:08:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055183484470370407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "description": "we're here to give until we're empty",
+          "display_url": "x.com/oconnor",
+          "end": 139,
+          "expanded_url": "https://x.com/oconnor",
+          "images": [
+            {
+              "height": 200,
+              "url": "https://pbs.twimg.com/news_img/2044582334322900992/g88vapMn?format=jpg&name=orig",
+              "width": 200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2044582334322900992/g88vapMn?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 125,
+          "status": 200,
+          "title": "matt (@oconnor) on X",
+          "unwound_url": "https://twitter.com/oconnor",
+          "url": "https://t.co/o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055183484470370407",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 50
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054819002648547775",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 5月13日，浙江宣传发文：基本盘不该成为被嘲讽的对象，你我皆是基本盘，爱生活、爱国家值得自豪！\n\n文章称，彷佛给别人贴上“基本盘”的标签，就能彰显“众人跟皆醉我独醒”基本盘不该成为贬义词，每一个认真生活的人… https://t.co/o…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 110387,
+        "height": 2796,
+        "media_key": "13_2054519075854823424",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2054519075854823424/img/OXmrUprF89xU_zbq.jpg",
+        "public_metrics": {
+          "view_count": 47980
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054519075854823424/vid/avc1/480x1040/DrONBuujWUYgjalc.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054519075854823424/vid/avc1/320x692/fU06e9OzxTo0ChsM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2054519075854823424/pl/KP5gt9MAVHpnmdOk.m3u8?v=505"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054519075854823424/vid/avc1/720x1560/7xYNZGqF7KpQrPMM.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054519075854823424/vid/avc1/1290x2796/LxJtBZvOa4DUNeEj.mp4"
+          }
+        ],
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "2055183484470370407",
+        "created_at": "2026-05-15T07:08:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T08:08:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055183484470370407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "description": "we're here to give until we're empty",
+              "display_url": "x.com/oconnor",
+              "end": 139,
+              "expanded_url": "https://x.com/oconnor",
+              "images": [
+                {
+                  "height": 200,
+                  "url": "https://pbs.twimg.com/news_img/2044582334322900992/g88vapMn?format=jpg&name=orig",
+                  "width": 200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2044582334322900992/g88vapMn?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 125,
+              "status": 200,
+              "title": "matt (@oconnor) on X",
+              "unwound_url": "https://twitter.com/oconnor",
+              "url": "https://t.co/o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055183484470370407",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 50
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054819002648547775",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 5月13日，浙江宣传发文：基本盘不该成为被嘲讽的对象，你我皆是基本盘，爱生活、爱国家值得自豪！\n\n文章称，彷佛给别人贴上“基本盘”的标签，就能彰显“众人跟皆醉我独醒”基本盘不该成为贬义词，每一个认真生活的人… https://t.co/o…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2054519075854823424"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2054819002648547775",
+        "created_at": "2026-05-14T07:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T08:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054819002648547775"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oQhhhfA75K",
+              "end": 127,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2054819002648547775/video/1",
+              "media_key": "13_2054519075854823424",
+              "start": 104,
+              "url": "https://t.co/oQhhhfA75K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054819002648547775",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "5月13日，浙江宣传发文：基本盘不该成为被嘲讽的对象，你我皆是基本盘，爱生活、爱国家值得自豪！\n\n文章称，彷佛给别人贴上“基本盘”的标签，就能彰显“众人跟皆醉我独醒”基本盘不该成为贬义词，每一个认真生活的人 努力奋斗的人，都是国家发展的基本盘。他们的存在，让国家在面对风浪时拥有了稳定的根基。这种不可或缺的价值绝不该被“抖机灵”的流量裹挟，被崇洋媚外的挽尊冲淡、更不能被境外势力认知战倒灌。爱自己国家非但不是原罪，更是值得自豪的事。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 125,
+          "impression_count": 697013,
+          "like_count": 562,
+          "quote_count": 19,
+          "reply_count": 240,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "5月13日，浙江宣传发文：基本盘不该成为被嘲讽的对象，你我皆是基本盘，爱生活、爱国家值得自豪！\n\n文章称，彷佛给别人贴上“基本盘”的标签，就能彰显“众人跟皆醉我独醒”基本盘不该成为贬义词，每一个认真生活的人 https://t.co/oQhhhfA75K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "弈鸠，是谁？\nmtx,her/they,激女粉红点进就死\n*・x・*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "脚踩你爷爷登顶称王",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052421075716505600/5gcoclAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 520,
+          "following_count": 631,
+          "like_count": 8346,
+          "listed_count": 0,
+          "media_count": 589,
+          "tweet_count": 5864
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2222900,
+          "following_count": 1054,
+          "like_count": 9528,
+          "listed_count": 8740,
+          "media_count": 46827,
+          "tweet_count": 53941
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

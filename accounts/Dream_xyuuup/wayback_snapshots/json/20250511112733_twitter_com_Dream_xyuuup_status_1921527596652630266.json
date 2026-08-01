@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1921372007519879168"
+      ],
+      "media_source_tweet_id": [
+        "1921372015094641127"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "1921527596652630266",
+    "created_at": "2025-05-11T11:27:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-11T12:27:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921527596652630266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1503354259869671424",
+          "start": 3,
+          "username": "nmixxsy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9lpdoDtSdi",
+          "end": 51,
+          "expanded_url": "https://x.com/nmixxsy/status/1921372015094641127/photo/1",
+          "media_key": "3_1921372007519879168",
+          "start": 28,
+          "url": "https://t.co/9lpdoDtSdi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921527596652630266",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26384
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921372015094641127",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @nmixxsy: 뭐지 엔믹스 트렌드 개빠름 https://t.co/9lpdoDtSdi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 959,
+        "media_key": "3_1921372007519879168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqoVqTWaAAArJu5.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921372007519879168"
+          ],
+          "media_source_tweet_id": [
+            "1921372015094641127"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "1921527596652630266",
+        "created_at": "2025-05-11T11:27:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T12:27:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921527596652630266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1503354259869671424",
+              "start": 3,
+              "username": "nmixxsy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9lpdoDtSdi",
+              "end": 51,
+              "expanded_url": "https://x.com/nmixxsy/status/1921372015094641127/photo/1",
+              "media_key": "3_1921372007519879168",
+              "start": 28,
+              "url": "https://t.co/9lpdoDtSdi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921527596652630266",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26384
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921372015094641127",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @nmixxsy: 뭐지 엔믹스 트렌드 개빠름 https://t.co/9lpdoDtSdi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921372007519879168"
+          ]
+        },
+        "author_id": "1503354259869671424",
+        "conversation_id": "1921372015094641127",
+        "created_at": "2025-05-11T01:09:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T02:09:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921372015094641127"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9lpdoDtSdi",
+              "end": 38,
+              "expanded_url": "https://x.com/nmixxsy/status/1921372015094641127/photo/1",
+              "media_key": "3_1921372007519879168",
+              "start": 15,
+              "url": "https://t.co/9lpdoDtSdi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921372015094641127",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4556,
+          "impression_count": 1720234,
+          "like_count": 66145,
+          "quote_count": 2205,
+          "reply_count": 0,
+          "retweet_count": 26384
+        },
+        "reply_settings": "following",
+        "text": "뭐지 엔믹스 트렌드 개빠름 https://t.co/9lpdoDtSdi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "废话多｜对所有人友好除了现生｜最可爱的小宝宝@QLing61007 😽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠（反酒精）",
+        "pinned_tweet_id": "1917423348302467396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905913123158298624/ClLLrGxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 423,
+          "like_count": 4154,
+          "listed_count": 1,
+          "media_count": 196,
+          "tweet_count": 1820
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-14T12:57:56.000Z",
+        "description": "설탕을 좋아하는 설윤이",
+        "id": "1503354259869671424",
+        "location": " ",
+        "name": "설탕",
+        "pinned_tweet_id": "1902185707466322293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918856205289787392/AI5Z1n3H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13586,
+          "following_count": 67,
+          "like_count": 80,
+          "listed_count": 96,
+          "media_count": 10746,
+          "tweet_count": 18579
+        },
+        "username": "nmixxsy",
+        "verified": false
+      }
+    ]
+  }
+}

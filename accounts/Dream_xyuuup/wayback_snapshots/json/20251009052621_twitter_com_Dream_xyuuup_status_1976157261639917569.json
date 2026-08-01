@@ -1,0 +1,584 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975900378236649472",
+        "3_1975900393550077952"
+      ],
+      "media_source_tweet_id": [
+        "1975900770764771787",
+        "1975900770764771787"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Japanese musician",
+          "id": "1070731969623781376",
+          "name": "DECO*27"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "Japanese musician",
+          "id": "1070731969623781376",
+          "name": "DECO*27"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Anime/Game ",
+          "id": "1138508942156345344",
+          "name": "Anime & game music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Japanese musician",
+          "id": "1070731969623781376",
+          "name": "DECO*27"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Anime/Game ",
+          "id": "1138508942156345344",
+          "name": "Anime & game music"
+        }
+      }
+    ],
+    "conversation_id": "1976157261639917569",
+    "created_at": "2025-10-09T05:26:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T06:26:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976157261639917569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "33290455",
+          "start": 3,
+          "username": "DECO27"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ToVuZtwory",
+          "end": 41,
+          "expanded_url": "https://x.com/DECO27/status/1975900770764771787/photo/1",
+          "media_key": "3_1975900378236649472",
+          "start": 18,
+          "url": "https://t.co/ToVuZtwory"
+        },
+        {
+          "display_url": "pic.x.com/ToVuZtwory",
+          "end": 41,
+          "expanded_url": "https://x.com/DECO27/status/1975900770764771787/photo/1",
+          "media_key": "3_1975900393550077952",
+          "start": 18,
+          "url": "https://t.co/ToVuZtwory"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976157261639917569",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14968
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975900770764771787",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DECO27: 🔫❤️‍🔥 https://t.co/ToVuZtwory"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1125,
+        "media_key": "3_1975900378236649472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2vO7NxbAAAgO1f.jpg",
+        "width": 2000
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1975900393550077952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2vO8G0bYAA7V17.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975900378236649472",
+            "3_1975900393550077952"
+          ],
+          "media_source_tweet_id": [
+            "1975900770764771787",
+            "1975900770764771787"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese musician",
+              "id": "1070731969623781376",
+              "name": "DECO*27"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Japanese musician",
+              "id": "1070731969623781376",
+              "name": "DECO*27"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese musician",
+              "id": "1070731969623781376",
+              "name": "DECO*27"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          }
+        ],
+        "conversation_id": "1976157261639917569",
+        "created_at": "2025-10-09T05:26:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T06:26:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976157261639917569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "33290455",
+              "start": 3,
+              "username": "DECO27"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ToVuZtwory",
+              "end": 41,
+              "expanded_url": "https://x.com/DECO27/status/1975900770764771787/photo/1",
+              "media_key": "3_1975900378236649472",
+              "start": 18,
+              "url": "https://t.co/ToVuZtwory"
+            },
+            {
+              "display_url": "pic.x.com/ToVuZtwory",
+              "end": 41,
+              "expanded_url": "https://x.com/DECO27/status/1975900770764771787/photo/1",
+              "media_key": "3_1975900393550077952",
+              "start": 18,
+              "url": "https://t.co/ToVuZtwory"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976157261639917569",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14968
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975900770764771787",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DECO27: 🔫❤️‍🔥 https://t.co/ToVuZtwory"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975900378236649472",
+            "3_1975900393550077952"
+          ]
+        },
+        "author_id": "33290455",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese musician",
+              "id": "1070731969623781376",
+              "name": "DECO*27"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Japanese musician",
+              "id": "1070731969623781376",
+              "name": "DECO*27"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese musician",
+              "id": "1070731969623781376",
+              "name": "DECO*27"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          }
+        ],
+        "conversation_id": "1975900770764771787",
+        "created_at": "2025-10-08T12:27:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T13:27:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975900770764771787"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ToVuZtwory",
+              "end": 29,
+              "expanded_url": "https://x.com/DECO27/status/1975900770764771787/photo/1",
+              "media_key": "3_1975900378236649472",
+              "start": 6,
+              "url": "https://t.co/ToVuZtwory"
+            },
+            {
+              "display_url": "pic.x.com/ToVuZtwory",
+              "end": 29,
+              "expanded_url": "https://x.com/DECO27/status/1975900770764771787/photo/1",
+              "media_key": "3_1975900393550077952",
+              "start": 6,
+              "url": "https://t.co/ToVuZtwory"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975900770764771787",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7162,
+          "impression_count": 3400911,
+          "like_count": 144303,
+          "quote_count": 1945,
+          "reply_count": 244,
+          "retweet_count": 14968
+        },
+        "reply_settings": "everyone",
+        "text": "🔫❤️‍🔥 https://t.co/ToVuZtwory"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "我自私，病态，阴暗，偏执。所有大度、不在乎都是我的伪装。我窥探你的生活，揣测你的文案，解读你分享的一切，观察你身边的人，盯着你的照片妄想找到蛛丝马迹。我敏感，善变多疑，斤斤计较你多看别人的一眼。我爱你，你本来就应该乖乖待在我身边。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1953828269977219114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 573,
+          "like_count": 7104,
+          "listed_count": 1,
+          "media_count": 439,
+          "tweet_count": 3907
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-19T19:37:59.000Z",
+        "description": "27人いるわけじゃないです\nYouTube: https://t.co/tDVoNjhuCj\nInstagram: https://t.co/CQjW3Abk1S\nTikTok: https://t.co/vLjgzOnWET",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/DECO27Offici…",
+                "end": 46,
+                "expanded_url": "http://youtube.com/c/DECO27Official",
+                "start": 23,
+                "url": "https://t.co/tDVoNjhuCj"
+              },
+              {
+                "display_url": "instagram.com/deco27_39",
+                "end": 81,
+                "expanded_url": "https://www.instagram.com/deco27_39",
+                "start": 58,
+                "url": "https://t.co/CQjW3Abk1S"
+              },
+              {
+                "display_url": "tiktok.com/@deco27_offici…",
+                "end": 113,
+                "expanded_url": "https://www.tiktok.com/@deco27_official",
+                "start": 90,
+                "url": "https://t.co/vLjgzOnWET"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "otoiro.co.jp",
+                "end": 23,
+                "expanded_url": "https://otoiro.co.jp/",
+                "start": 0,
+                "url": "https://t.co/Chf4PUYlpM"
+              }
+            ]
+          }
+        },
+        "id": "33290455",
+        "location": "マシュマロ",
+        "name": "DECO*27",
+        "pinned_tweet_id": "1958832444305809421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1400323907735805954/DzkBzUPR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1116650,
+          "following_count": 586,
+          "like_count": 586,
+          "listed_count": 5828,
+          "media_count": 654,
+          "tweet_count": 1979
+        },
+        "url": "https://t.co/Chf4PUYlpM",
+        "username": "DECO27",
+        "verified": true
+      }
+    ]
+  }
+}

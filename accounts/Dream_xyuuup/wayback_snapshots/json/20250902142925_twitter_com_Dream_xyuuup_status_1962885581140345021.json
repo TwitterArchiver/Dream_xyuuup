@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1962534928740208640"
+      ],
+      "media_source_tweet_id": [
+        "1962535082553733308"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1962885581140345021",
+    "created_at": "2025-09-02T14:29:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T15:29:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962885581140345021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1461605686987530240",
+          "start": 3,
+          "username": "xs0vU"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HlItzdkI33",
+          "end": 43,
+          "expanded_url": "https://x.com/xs0vU/status/1962535082553733308/video/1",
+          "media_key": "13_1962534928740208640",
+          "start": 20,
+          "url": "https://t.co/HlItzdkI33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962885581140345021",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 125
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962535082553733308",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xs0vU: 最速地雷传说（💦 https://t.co/HlItzdkI33"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16516,
+        "height": 720,
+        "media_key": "13_1962534928740208640",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1962534928740208640/img/9jXcuENC70ocDZAQ.jpg",
+        "public_metrics": {
+          "view_count": 69293
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1962534928740208640/vid/avc1/480x270/8T-aTtS36R9jCMFW.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1962534928740208640/vid/avc1/640x360/DNQwAX1ttgsnDlLY.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1962534928740208640/vid/avc1/1280x720/MDHn7h2dzYvAQMYC.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1962534928740208640/pl/yHMB-SUtyXHCMQK8.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1962534928740208640"
+          ],
+          "media_source_tweet_id": [
+            "1962535082553733308"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1962885581140345021",
+        "created_at": "2025-09-02T14:29:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T15:29:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962885581140345021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1461605686987530240",
+              "start": 3,
+              "username": "xs0vU"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HlItzdkI33",
+              "end": 43,
+              "expanded_url": "https://x.com/xs0vU/status/1962535082553733308/video/1",
+              "media_key": "13_1962534928740208640",
+              "start": 20,
+              "url": "https://t.co/HlItzdkI33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962885581140345021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 125
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962535082553733308",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xs0vU: 最速地雷传说（💦 https://t.co/HlItzdkI33"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1962534928740208640"
+          ]
+        },
+        "author_id": "1461605686987530240",
+        "conversation_id": "1962535082553733308",
+        "created_at": "2025-09-01T15:16:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T16:16:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962535082553733308"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HlItzdkI33",
+              "end": 32,
+              "expanded_url": "https://x.com/xs0vU/status/1962535082553733308/video/1",
+              "media_key": "13_1962534928740208640",
+              "start": 9,
+              "url": "https://t.co/HlItzdkI33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962535082553733308",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 243,
+          "impression_count": 153567,
+          "like_count": 1790,
+          "quote_count": 16,
+          "reply_count": 65,
+          "retweet_count": 125
+        },
+        "reply_settings": "everyone",
+        "text": "最速地雷传说（💦 https://t.co/HlItzdkI33"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "yì jīu｜谢谢你喜欢我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1953828269977219114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 552,
+          "like_count": 6855,
+          "listed_count": 1,
+          "media_count": 421,
+          "tweet_count": 3704
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-19T08:02:17.000Z",
+        "description": "🙆‍🙆‍@HC5w57Uoa078565",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 4,
+                "username": "HC5w57Uoa078565"
+              }
+            ]
+          }
+        },
+        "id": "1461605686987530240",
+        "location": "反正不在广州😠",
+        "name": "アカツキ_",
+        "pinned_tweet_id": "1954605284510535797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953675778941759491/lHbrG3ZU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11240,
+          "following_count": 503,
+          "like_count": 11573,
+          "listed_count": 47,
+          "media_count": 363,
+          "tweet_count": 1453
+        },
+        "username": "xs0vU",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1993722902219501845",
+    "created_at": "2025-11-26T16:45:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T17:45:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993722902219501845"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1646433542661115904",
+          "start": 3,
+          "username": "Lanyinwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993722902219501845",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993338311155622280",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lanyinwu: 机器人可以饶了我吗  万达广场到底有谁在啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1993722902219501845",
+        "created_at": "2025-11-26T16:45:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T17:45:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993722902219501845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1646433542661115904",
+              "start": 3,
+              "username": "Lanyinwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993722902219501845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993338311155622280",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lanyinwu: 机器人可以饶了我吗  万达广场到底有谁在啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1646433542661115904",
+        "conversation_id": "1993338311155622280",
+        "created_at": "2025-11-25T15:17:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T16:17:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993338311155622280"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993338311155622280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 133337,
+          "like_count": 600,
+          "quote_count": 5,
+          "reply_count": 190,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "机器人可以饶了我吗  万达广场到底有谁在啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "你能想到的坏习惯我都有",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 603,
+          "like_count": 7825,
+          "listed_count": 1,
+          "media_count": 466,
+          "tweet_count": 4249
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-13T08:42:08.000Z",
+        "description": "兰因误",
+        "id": "1646433542661115904",
+        "location": "私信不开  不提供任何服务",
+        "name": "盛予",
+        "pinned_tweet_id": "1988270176198971627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945455357427400704/VCxXs25A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20356,
+          "following_count": 11,
+          "like_count": 2354,
+          "listed_count": 36,
+          "media_count": 148,
+          "tweet_count": 1915
+        },
+        "username": "Lanyinwu",
+        "verified": false
+      }
+    ]
+  }
+}

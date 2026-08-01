@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1976634763743257077",
+    "created_at": "2025-10-11T15:52:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T16:52:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977039605896798222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1549964508344754176",
+          "start": 0,
+          "username": "sukan_520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977039605896798222",
+    "in_reply_to_user_id": "1549964508344754176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976634763743257077",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sukan_520 爸爸我也想住"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1707,
+        "media_key": "3_1976634757690916865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G25q1ubbgAE1Zbi.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1976634763743257077",
+        "created_at": "2025-10-11T15:52:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T16:52:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977039605896798222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1549964508344754176",
+              "start": 0,
+              "username": "sukan_520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977039605896798222",
+        "in_reply_to_user_id": "1549964508344754176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976634763743257077",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sukan_520 爸爸我也想住"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976634757690916865"
+          ]
+        },
+        "author_id": "1549964508344754176",
+        "conversation_id": "1976634763743257077",
+        "created_at": "2025-10-10T13:03:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T14:03:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976634763743257077"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DPk82Pxq0P",
+              "end": 44,
+              "expanded_url": "https://x.com/sukan_520/status/1976634763743257077/photo/1",
+              "media_key": "3_1976634757690916865",
+              "start": 21,
+              "url": "https://t.co/DPk82Pxq0P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976634763743257077",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 198,
+          "impression_count": 519598,
+          "like_count": 1400,
+          "quote_count": 12,
+          "reply_count": 205,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "以防你不知道一个月六百块的酒店什么水平（ https://t.co/DPk82Pxq0P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "我自私，病态，阴暗，偏执。所有大度、不在乎都是我的伪装。我窥探你的生活，揣测你的文案，解读你分享的一切，观察你身边的人，盯着你的照片妄想找到蛛丝马迹。我敏感，善变多疑，斤斤计较你多看别人的一眼。我爱你，你本来就应该乖乖待在我身边。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1953828269977219114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 577,
+          "like_count": 7162,
+          "listed_count": 1,
+          "media_count": 441,
+          "tweet_count": 3927
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-21T03:48:38.000Z",
+        "description": "「少年心动是仲夏夜的荒原，割不完烧不尽，长风一吹，野草就连成了天。」      \n淡推回归中｜自介条3.0已更新，请关注｜无黄里推@sukean_520 眼熟过",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 65,
+                "username": "sukean_520"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sukan_520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sukan_520",
+                "start": 0,
+                "url": "https://t.co/TGkLXpNRwT"
+              }
+            ]
+          }
+        },
+        "id": "1549964508344754176",
+        "location": "离你的心5.20cm",
+        "name": "素勘（寻心安处ing）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894086494077198336/tqedkT-Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 795,
+          "following_count": 746,
+          "like_count": 50157,
+          "listed_count": 3,
+          "media_count": 117,
+          "tweet_count": 4427
+        },
+        "url": "https://t.co/TGkLXpNRwT",
+        "username": "sukan_520",
+        "verified": false
+      }
+    ]
+  }
+}

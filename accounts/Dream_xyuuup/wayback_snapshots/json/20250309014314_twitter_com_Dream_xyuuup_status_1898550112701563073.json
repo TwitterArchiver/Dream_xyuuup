@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1898550112701563073",
+    "created_at": "2025-03-09T01:43:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T02:43:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1898550112701563073"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1898550112701563073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天有老人来找我清理垃圾，我发现她就下了三个软件：快手抖音微信，剩下全是垃圾软件。有些清理软件是不是太过分了，老人下你这个软件就是用来清理垃圾的结果一堆垃圾弹窗，年轻人眼尖可以关，上了年纪的老人呢，下载清理软件结果手机里的垃圾软件越来越多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1898550112701563073",
+        "created_at": "2025-03-09T01:43:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T02:43:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898550112701563073"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1898550112701563073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天有老人来找我清理垃圾，我发现她就下了三个软件：快手抖音微信，剩下全是垃圾软件。有些清理软件是不是太过分了，老人下你这个软件就是用来清理垃圾的结果一堆垃圾弹窗，年轻人眼尖可以关，上了年纪的老人呢，下载清理软件结果手机里的垃圾软件越来越多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "这是一本日记 喜欢视奸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dreamxy_uuup",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dreamxy_uuup",
+                "start": 0,
+                "url": "https://t.co/V4QSiptbnl"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠ltnh",
+        "pinned_tweet_id": "1898320029139214432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896250221824520192/PpwkphAn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 119,
+          "like_count": 605,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 317
+        },
+        "url": "https://t.co/V4QSiptbnl",
+        "username": "Dream_xyuuup",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1975806051330236748",
+    "created_at": "2025-10-09T05:32:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T06:32:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976158900496879909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1763362185118695424",
+          "start": 0,
+          "username": "kawayiizjqqqq"
+        },
+        {
+          "end": 27,
+          "id": "1870313420807163904",
+          "start": 15,
+          "username": "IzayoiMarin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976158900496879909",
+    "in_reply_to_user_id": "1763362185118695424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975866577888346182",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kawayiizjqqqq @IzayoiMarin 笑死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1975806051330236748",
+        "created_at": "2025-10-09T05:32:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T06:32:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976158900496879909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1763362185118695424",
+              "start": 0,
+              "username": "kawayiizjqqqq"
+            },
+            {
+              "end": 27,
+              "id": "1870313420807163904",
+              "start": 15,
+              "username": "IzayoiMarin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976158900496879909",
+        "in_reply_to_user_id": "1763362185118695424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975866577888346182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kawayiizjqqqq @IzayoiMarin 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763362185118695424",
+        "conversation_id": "1975806051330236748",
+        "created_at": "2025-10-08T10:11:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T11:11:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975866577888346182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870313420807163904",
+              "start": 0,
+              "username": "IzayoiMarin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975866577888346182",
+        "in_reply_to_user_id": "1870313420807163904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2221,
+          "like_count": 65,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975806051330236748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IzayoiMarin 老祖宗遗留的爱好批斗的基因"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "我自私，病态，阴暗，偏执。所有大度、不在乎都是我的伪装。我窥探你的生活，揣测你的文案，解读你分享的一切，观察你身边的人，盯着你的照片妄想找到蛛丝马迹。我敏感，善变多疑，斤斤计较你多看别人的一眼。我爱你，你本来就应该乖乖待在我身边。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1953828269977219114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 574,
+          "like_count": 7113,
+          "listed_count": 1,
+          "media_count": 439,
+          "tweet_count": 3910
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-01T00:34:49.000Z",
+        "description": "03/福冈留学/🇯🇵日本語學習中",
+        "id": "1763362185118695424",
+        "location": "Fukuoka City Chuo Ward",
+        "name": "Ryo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951892290781462528/cWgiUvoQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 143,
+          "like_count": 24524,
+          "listed_count": 1,
+          "media_count": 154,
+          "tweet_count": 2436
+        },
+        "username": "kawayiizjqqqq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-21T03:40:57.000Z",
+        "description": "09/高二（上学白天不在）/物化生/生理性别女/坐标山东/尸体/国籍：🇨🇳/夢：🇯🇵/中国語OK/日本語下手/ちんこ165cm/神经病/不爱鉴证/互fo/フォローバ99.9%/音ゲ/二次元/アニメ/JPOP/纯爱butクズ女/不爱看私信/中文推文/日本語ツイート/碎碎念/各种吐槽/mktdaisuki",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/ep1449270",
+                "end": 23,
+                "expanded_url": "https://b23.tv/ep1449270",
+                "start": 0,
+                "url": "https://t.co/BABPQro7WH"
+              }
+            ]
+          }
+        },
+        "id": "1870313420807163904",
+        "location": "daisuki",
+        "name": "まりん（死体）",
+        "pinned_tweet_id": "1975134571168674016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975116710077161472/Obi-A288_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1058,
+          "following_count": 1377,
+          "like_count": 22656,
+          "listed_count": 3,
+          "media_count": 874,
+          "tweet_count": 10344
+        },
+        "url": "https://t.co/BABPQro7WH",
+        "username": "IzayoiMarin",
+        "verified": false
+      }
+    ]
+  }
+}

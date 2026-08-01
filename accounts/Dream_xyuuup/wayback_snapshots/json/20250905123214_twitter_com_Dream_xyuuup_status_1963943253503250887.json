@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1963943253503250887",
+    "created_at": "2025-09-05T12:32:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T13:32:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1963943253503250887"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/1963546328648015923",
+          "start": 6,
+          "url": "https://t.co/qSIHAhkRTq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963943253503250887",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963546328648015923",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我笑懵逼了 https://t.co/qSIHAhkRTq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1963541173273804800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz_mSzbWwAA6fSi.jpg",
+        "width": 590
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1963541302768738304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz_maV1WoAAiAyA.jpg",
+        "width": 1679
+      },
+      {
+        "height": 2022,
+        "media_key": "3_1963541384201216000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz_mfFMXoAAE55l.jpg",
+        "width": 2090
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1963943253503250887",
+        "created_at": "2025-09-05T12:32:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T13:32:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963943253503250887"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1963546328648015923",
+              "start": 6,
+              "url": "https://t.co/qSIHAhkRTq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963943253503250887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963546328648015923",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我笑懵逼了 https://t.co/qSIHAhkRTq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963541173273804800",
+            "3_1963541302768738304",
+            "3_1963541384201216000"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1963546328648015923",
+        "created_at": "2025-09-04T10:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T11:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963546328648015923"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1guWbQZs6j",
+              "end": 105,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1963546328648015923/photo/1",
+              "media_key": "3_1963541173273804800",
+              "start": 82,
+              "url": "https://t.co/1guWbQZs6j"
+            },
+            {
+              "display_url": "pic.x.com/1guWbQZs6j",
+              "end": 105,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1963546328648015923/photo/1",
+              "media_key": "3_1963541302768738304",
+              "start": 82,
+              "url": "https://t.co/1guWbQZs6j"
+            },
+            {
+              "display_url": "pic.x.com/1guWbQZs6j",
+              "end": 105,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1963546328648015923/photo/1",
+              "media_key": "3_1963541384201216000",
+              "start": 82,
+              "url": "https://t.co/1guWbQZs6j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963546328648015923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1313,
+          "impression_count": 2337005,
+          "like_count": 6730,
+          "quote_count": 108,
+          "reply_count": 1233,
+          "retweet_count": 846
+        },
+        "reply_settings": "everyone",
+        "text": "93阅兵期间，有网友在微信群中评论阅兵：“啥年代了，还在搞这些几把玩意儿。”\n消息发出于上午9点28分，当天中午12点28分该网友即被抓捕，随后被处以10日拘留。 https://t.co/1guWbQZs6j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "yì jīu｜谢谢你喜欢我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1953828269977219114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 551,
+          "like_count": 6877,
+          "listed_count": 1,
+          "media_count": 423,
+          "tweet_count": 3736
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 131,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 108,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1961459295813312811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2096213,
+          "following_count": 985,
+          "like_count": 8044,
+          "listed_count": 8325,
+          "media_count": 34432,
+          "tweet_count": 41210
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

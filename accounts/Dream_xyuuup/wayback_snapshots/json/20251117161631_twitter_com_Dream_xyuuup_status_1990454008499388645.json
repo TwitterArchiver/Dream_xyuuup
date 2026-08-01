@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1990422055716532378",
+    "created_at": "2025-11-17T16:16:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T17:16:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990454008499388645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1916183836079362048",
+          "start": 0,
+          "username": "Bainobxbai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990454008499388645",
+    "in_reply_to_user_id": "1916183836079362048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990442391460069861",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bainobxbai 我也想写这种我好爱自由发挥。感觉怎么写都不会跑题，如果是我我就写个小说立意高深一点，不受约束好爽"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 354,
+        "media_key": "3_1990442381171384320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G594zMOaYAASb5b.jpg",
+        "width": 1182
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1990422055716532378",
+        "created_at": "2025-11-17T16:16:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T17:16:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990454008499388645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1916183836079362048",
+              "start": 0,
+              "username": "Bainobxbai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990454008499388645",
+        "in_reply_to_user_id": "1916183836079362048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990442391460069861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bainobxbai 我也想写这种我好爱自由发挥。感觉怎么写都不会跑题，如果是我我就写个小说立意高深一点，不受约束好爽"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990442381171384320"
+          ]
+        },
+        "author_id": "1916183836079362048",
+        "conversation_id": "1990422055716532378",
+        "created_at": "2025-11-17T15:30:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T16:30:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990442391460069861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870313420807163904",
+              "start": 0,
+              "username": "IzayoiMarin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/A00QBWWkCy",
+              "end": 42,
+              "expanded_url": "https://x.com/Bainobxbai/status/1990442391460069861/photo/1",
+              "media_key": "3_1990442381171384320",
+              "start": 19,
+              "url": "https://t.co/A00QBWWkCy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990442391460069861",
+        "in_reply_to_user_id": "1870313420807163904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990422055716532378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IzayoiMarin 0个人会写 https://t.co/A00QBWWkCy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "没法活了，一切都是男的骗我，女的欠我，老的冤枉我，小的欺负我，中国的压迫我，外国的引诱我，身边的霸凌我，网上的取笑我，你们全都对不起我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1985535613857382587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 595,
+          "like_count": 7551,
+          "listed_count": 1,
+          "media_count": 462,
+          "tweet_count": 4152
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-26T17:33:32.000Z",
+        "description": "MTF🍥｜hrt：2025.5.10｜高二｜INFP｜I follow back🥰｜language:ZH EN JP ID ｜永遠に好きなちょちゃん ❤️｜zutomayo😍｜interest:ACG,vtb,music ,DJ,code,design",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/pkMP6UEq",
+                "end": 23,
+                "expanded_url": "https://discord.gg/pkMP6UEq",
+                "start": 0,
+                "url": "https://t.co/HoatiFYxHN"
+              }
+            ]
+          }
+        },
+        "id": "1916183836079362048",
+        "location": "Nanjing",
+        "name": "白诺Baino",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916185382737350660/y2LI2YIy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 388,
+          "like_count": 2520,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 308
+        },
+        "url": "https://t.co/HoatiFYxHN",
+        "username": "Bainobxbai",
+        "verified": false
+      }
+    ]
+  }
+}

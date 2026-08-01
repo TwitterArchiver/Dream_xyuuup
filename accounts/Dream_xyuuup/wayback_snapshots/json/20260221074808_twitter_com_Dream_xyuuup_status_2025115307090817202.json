@@ -1,0 +1,503 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2022622587889815552"
+      ],
+      "media_source_tweet_id": [
+        "2022622643925680271"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1960941416030375936",
+          "name": "Hearts2Hearts"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1960941416030375936",
+          "name": "Hearts2Hearts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1960941416030375936",
+          "name": "Hearts2Hearts"
+        }
+      }
+    ],
+    "conversation_id": "2025115307090817202",
+    "created_at": "2026-02-21T07:48:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T08:48:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025115307090817202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1763579558974906369",
+          "start": 3,
+          "username": "sjnicln"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ha0WmW54Xp",
+          "end": 54,
+          "expanded_url": "https://x.com/sjnicln/status/2022622643925680271/video/1",
+          "media_key": "13_2022622587889815552",
+          "start": 31,
+          "url": "https://t.co/ha0WmW54Xp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025115307090817202",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1063
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024824774850171164",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sjnicln: SONG OF THE YEAR \nhttps://t.co/ha0WmW54Xp"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8000,
+        "height": 720,
+        "media_key": "13_2022622587889815552",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2022622587889815552/img/fiRyw3bnlHa31kJ_.jpg",
+        "public_metrics": {
+          "view_count": 12109
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022622587889815552/vid/avc1/276x270/-r_DPyaI8DABoQGF.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022622587889815552/vid/avc1/370x360/tMv5x9ALjvrBRYbC.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022622587889815552/vid/avc1/740x720/pMLMrHhKyWveIzui.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2022622587889815552/pl/cFs8-nAR18QsLUMb.m3u8"
+          }
+        ],
+        "width": 740
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2022622587889815552"
+          ],
+          "media_source_tweet_id": [
+            "2022622643925680271"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1960941416030375936",
+              "name": "Hearts2Hearts"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1960941416030375936",
+              "name": "Hearts2Hearts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1960941416030375936",
+              "name": "Hearts2Hearts"
+            }
+          }
+        ],
+        "conversation_id": "2025115307090817202",
+        "created_at": "2026-02-21T07:48:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T08:48:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025115307090817202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1763579558974906369",
+              "start": 3,
+              "username": "sjnicln"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ha0WmW54Xp",
+              "end": 54,
+              "expanded_url": "https://x.com/sjnicln/status/2022622643925680271/video/1",
+              "media_key": "13_2022622587889815552",
+              "start": 31,
+              "url": "https://t.co/ha0WmW54Xp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025115307090817202",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1063
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024824774850171164",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sjnicln: SONG OF THE YEAR \nhttps://t.co/ha0WmW54Xp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2022622587889815552"
+          ],
+          "media_source_tweet_id": [
+            "2022622643925680271"
+          ]
+        },
+        "author_id": "1763579558974906369",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1960941416030375936",
+              "name": "Hearts2Hearts"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1960941416030375936",
+              "name": "Hearts2Hearts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1960941416030375936",
+              "name": "Hearts2Hearts"
+            }
+          }
+        ],
+        "conversation_id": "2024824774850171164",
+        "created_at": "2026-02-20T12:33:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T13:33:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024824774850171164"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ha0WmW54Xp",
+              "end": 41,
+              "expanded_url": "https://x.com/sjnicln/status/2022622643925680271/video/1",
+              "media_key": "13_2022622587889815552",
+              "start": 18,
+              "url": "https://t.co/ha0WmW54Xp"
+            },
+            {
+              "display_url": "x.com/kchartsmaster/…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/kchartsmaster/status/2024789178819711403",
+              "start": 42,
+              "url": "https://t.co/J5JxcL0yeg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024824774850171164",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 129,
+          "impression_count": 45608,
+          "like_count": 4173,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1063
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024789178819711403",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "SONG OF THE YEAR \nhttps://t.co/ha0WmW54Xp https://t.co/J5JxcL0yeg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "有负面💊，歌品感人只是一个爱听kpop/cpop/edm的可怜人，性取向你猜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016795361961230336/4zuFQCyR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 607,
+          "like_count": 8023,
+          "listed_count": 1,
+          "media_count": 481,
+          "tweet_count": 4566
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-01T14:59:28.000Z",
+        "description": "aespo",
+        "id": "1763579558974906369",
+        "location": "ohyulholic",
+        "name": "–m",
+        "pinned_tweet_id": "1927684264193036533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012846678085181440/in-GR8nN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1497,
+          "following_count": 394,
+          "like_count": 12660,
+          "listed_count": 1,
+          "media_count": 5426,
+          "tweet_count": 11134
+        },
+        "username": "sjnicln",
+        "verified": false
+      }
+    ]
+  }
+}

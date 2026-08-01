@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "2003361614872051977",
+    "created_at": "2025-12-23T07:06:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T08:06:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2003361614872051977"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/buhoovo/status…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/buhoovo/status/2003255692908786087",
+          "start": 7,
+          "url": "https://t.co/JFy2ulO9MC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003361614872051977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003255692908786087",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我他妈操死你 https://t.co/JFy2ulO9MC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2003255687879753730",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8z-bzZagAI973i.jpg",
+        "width": 2302
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "2003361614872051977",
+        "created_at": "2025-12-23T07:06:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T08:06:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003361614872051977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/buhoovo/status…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/buhoovo/status/2003255692908786087",
+              "start": 7,
+              "url": "https://t.co/JFy2ulO9MC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003361614872051977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003255692908786087",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我他妈操死你 https://t.co/JFy2ulO9MC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003255687879753730"
+          ]
+        },
+        "author_id": "784583761010761728",
+        "conversation_id": "2003255692908786087",
+        "created_at": "2025-12-23T00:05:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T01:05:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003255692908786087"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qgEP8VB49m",
+              "end": 23,
+              "expanded_url": "https://x.com/BuhoOvO/status/2003255692908786087/photo/1",
+              "media_key": "3_2003255687879753730",
+              "start": 0,
+              "url": "https://t.co/qgEP8VB49m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003255692908786087",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1126,
+          "impression_count": 164030,
+          "like_count": 8388,
+          "quote_count": 58,
+          "reply_count": 3,
+          "retweet_count": 405
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/qgEP8VB49m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "你能想到的坏习惯我都有",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998066182315020289/_eUXKzgo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 601,
+          "like_count": 7971,
+          "listed_count": 1,
+          "media_count": 477,
+          "tweet_count": 4369
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2016-10-08T02:38:40.000Z",
+        "description": "웹작계 @BuhoOvO_2 / 브호_잡덕질 최근 버닝 🎈🌟,사담,낙서 /(협력x)/ 투비 https://t.co/3uKLfkrjZ7 / 포스타입 https://t.co/hbeOuBRLDW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 4,
+                "username": "BuhoOvO_2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tobe.aladin.co.kr/t/735264170",
+                "end": 73,
+                "expanded_url": "https://tobe.aladin.co.kr/t/735264170",
+                "start": 50,
+                "url": "https://t.co/3uKLfkrjZ7"
+              },
+              {
+                "display_url": "buho20.postype.com",
+                "end": 104,
+                "expanded_url": "http://buho20.postype.com",
+                "start": 81,
+                "url": "https://t.co/hbeOuBRLDW"
+              }
+            ]
+          }
+        },
+        "id": "784583761010761728",
+        "location": "🇰🇷",
+        "name": "BH",
+        "pinned_tweet_id": "1948217126030049542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883491458260647936/8fY19x3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65066,
+          "following_count": 298,
+          "like_count": 50304,
+          "listed_count": 181,
+          "media_count": 459,
+          "tweet_count": 68684
+        },
+        "username": "BuhoOvO",
+        "verified": false
+      }
+    ]
+  }
+}

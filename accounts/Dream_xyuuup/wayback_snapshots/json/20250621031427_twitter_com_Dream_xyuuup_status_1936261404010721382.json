@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1936261404010721382",
+    "created_at": "2025-06-21T03:14:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T04:14:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1936261404010721382"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dream_xyuuup/s…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/dream_xyuuup/status/1936261346334847072",
+          "start": 13,
+          "url": "https://t.co/dQVgjcHfTq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936261404010721382",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936261346334847072",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "额，我的手要被手机烫死了 https://t.co/dQVgjcHfTq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1936261404010721382",
+        "created_at": "2025-06-21T03:14:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T04:14:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936261404010721382"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dream_xyuuup/s…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/dream_xyuuup/status/1936261346334847072",
+              "start": 13,
+              "url": "https://t.co/dQVgjcHfTq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936261404010721382",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936261346334847072",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "额，我的手要被手机烫死了 https://t.co/dQVgjcHfTq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1936261346334847072",
+        "created_at": "2025-06-21T03:14:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T04:14:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936261346334847072"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1936261346334847072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嫩妈，我的手机被烫死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "在下弈鸠 只有几天时间就中考(我还挺期待的) 成分复杂爱看棒子 偶尔发血图吓唬你 想出国 对所有人友好 我想交朋友求你们来找我玩🥹下面的链接是赞赏码 最可爱的小宝宝@QLing61007 😽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 82,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1931176332370813214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933432998864826371/0SiPerD5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 482,
+          "like_count": 5813,
+          "listed_count": 0,
+          "media_count": 290,
+          "tweet_count": 2614
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      }
+    ]
+  }
+}

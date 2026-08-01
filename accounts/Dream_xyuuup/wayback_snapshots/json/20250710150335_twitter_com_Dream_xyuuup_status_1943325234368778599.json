@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1943317244450058303",
+    "created_at": "2025-07-10T15:03:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T16:03:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943325234368778599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1893332752000524290",
+          "start": 0,
+          "username": "StarryCloud1123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943325234368778599",
+    "in_reply_to_user_id": "1893332752000524290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943317244450058303",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@StarryCloud1123 牛逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1943317244450058303",
+        "created_at": "2025-07-10T15:03:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T16:03:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943325234368778599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1893332752000524290",
+              "start": 0,
+              "username": "StarryCloud1123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943325234368778599",
+        "in_reply_to_user_id": "1893332752000524290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943317244450058303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryCloud1123 牛逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893332752000524290",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1943317244450058303",
+        "created_at": "2025-07-10T14:31:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T15:31:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943317244450058303"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1943317244450058303",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 137,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "化学全校第五我草"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "yì jīu｜喜欢做梦｜心理变态｜可爱的人@QLing61007",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 21,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933432998864826371/0SiPerD5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 520,
+          "like_count": 6307,
+          "listed_count": 0,
+          "media_count": 333,
+          "tweet_count": 2957
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T16:11:34.000Z",
+        "description": "灿海浮梦，云生万里/07高二/辽宁沈阳/福瑞控/源批/明日方舟/神秘数字4045355/三次看黄男请远离表推/已出柜状态/❤️ @RENCIowo/友链@blueicesama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 64,
+                "username": "RENCIowo"
+              },
+              {
+                "end": 88,
+                "start": 76,
+                "username": "blueicesama"
+              }
+            ]
+          }
+        },
+        "id": "1893332752000524290",
+        "location": "辽宁沈阳",
+        "name": "灿云SCloud",
+        "pinned_tweet_id": "1929341884335313019",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924529509619171329/NT9KPqcZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2560,
+          "following_count": 1013,
+          "like_count": 15142,
+          "listed_count": 3,
+          "media_count": 131,
+          "tweet_count": 2436
+        },
+        "username": "StarryCloud1123",
+        "verified": false
+      }
+    ]
+  }
+}

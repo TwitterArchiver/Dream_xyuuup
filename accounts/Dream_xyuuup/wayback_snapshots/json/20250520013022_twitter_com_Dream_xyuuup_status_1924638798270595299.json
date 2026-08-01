@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1924451897647542681",
+    "created_at": "2025-05-20T01:30:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-20T02:30:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924638798270595299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1595050187529285632",
+          "start": 0,
+          "username": "aliii67285114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924638798270595299",
+    "in_reply_to_user_id": "1595050187529285632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924451897647542681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aliii67285114 在你难过时给你一颗草莓味棒棒糖"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1924451895239995392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrUGzXMbcAAsZ3W.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1924451897647542681",
+        "created_at": "2025-05-20T01:30:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T02:30:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924638798270595299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1595050187529285632",
+              "start": 0,
+              "username": "aliii67285114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924638798270595299",
+        "in_reply_to_user_id": "1595050187529285632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924451897647542681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aliii67285114 在你难过时给你一颗草莓味棒棒糖"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924451895239995392"
+          ]
+        },
+        "author_id": "1595050187529285632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1924451897647542681",
+        "created_at": "2025-05-19T13:07:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T14:07:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924451897647542681"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pjtJ0VndHm",
+              "end": 37,
+              "expanded_url": "https://x.com/aliii67285114/status/1924451897647542681/photo/1",
+              "media_key": "3_1924451895239995392",
+              "start": 14,
+              "url": "https://t.co/pjtJ0VndHm"
+            },
+            {
+              "display_url": "x.com/chen_perserver…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/chen_perservera/status/1924350424007766513",
+              "start": 38,
+              "url": "https://t.co/oz11kGvAiQ"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "8bd61930ae4f642d"
+        },
+        "id": "1924451897647542681",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 303,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924350424007766513",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那我也十分制。\n大家來玩～ https://t.co/pjtJ0VndHm https://t.co/oz11kGvAiQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "废话多｜对所有人友好除了现生｜最可爱的小宝宝@QLing61007 😽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1917423348302467396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905913123158298624/ClLLrGxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 426,
+          "like_count": 4370,
+          "listed_count": 1,
+          "media_count": 204,
+          "tweet_count": 1928
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-22T13:43:02.000Z",
+        "description": "🏳️‍🌈『有連寫草書的字符與我們跟繁盛事物聯結的人生是美麗的』💐大陸人/友萬物/09生/哥哥@Geis_cn /孩子@lalahjAWA/生命要士@K0bayash1K1r1na @nianyeqiu正體字/張家口下花園語/副號裡推@mzhngmng380569晉語×京官/語言方言/信/漢服",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 46,
+                "username": "Geis_cn"
+              },
+              {
+                "end": 68,
+                "start": 58,
+                "username": "lalahjAWA"
+              },
+              {
+                "end": 89,
+                "start": 73,
+                "username": "K0bayash1K1r1na"
+              },
+              {
+                "end": 100,
+                "start": 90,
+                "username": "nianyeqiu"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "mzhngmng380569"
+              }
+            ]
+          }
+        },
+        "id": "1595050187529285632",
+        "location": "天下母親身無枷鎖自由遼闊",
+        "name": "明大王/ᠴᠠᠩ ᠮᠢᠩ/ᠮᠸᠠᡠᠢᡧᠢᡠᠯ/چاڭمىڭ/गेছযেছ（茉莉蜜茶銀釵夢男版）",
+        "pinned_tweet_id": "1913905580105667018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817238063262625792/eqkzuE86_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2751,
+          "following_count": 1814,
+          "like_count": 58724,
+          "listed_count": 3,
+          "media_count": 604,
+          "tweet_count": 11557
+        },
+        "username": "aliii67285114",
+        "verified": false
+      }
+    ]
+  }
+}

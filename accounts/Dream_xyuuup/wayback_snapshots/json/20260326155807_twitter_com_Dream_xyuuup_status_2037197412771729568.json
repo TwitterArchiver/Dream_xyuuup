@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "2037194618237051196",
+    "created_at": "2026-03-26T15:58:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T16:58:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037197412771729568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1555695367152631808",
+          "start": 0,
+          "username": "KZRGMK8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037197412771729568",
+    "in_reply_to_user_id": "1555695367152631808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037196797303808133",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KZRGMK8964 我也是这样想的，我不想再经历住院了，但我想好起来，天天这么想好痛苦。i want,but I can’t"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "2037194618237051196",
+        "created_at": "2026-03-26T15:58:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T16:58:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037197412771729568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1555695367152631808",
+              "start": 0,
+              "username": "KZRGMK8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037197412771729568",
+        "in_reply_to_user_id": "1555695367152631808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037196797303808133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KZRGMK8964 我也是这样想的，我不想再经历住院了，但我想好起来，天天这么想好痛苦。i want,but I can’t"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1555695367152631808",
+        "conversation_id": "2037194618237051196",
+        "created_at": "2026-03-26T15:55:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T16:55:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037196797303808133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1726051028112744448",
+              "start": 0,
+              "username": "Dream_xyuuup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037196797303808133",
+        "in_reply_to_user_id": "1726051028112744448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037194618237051196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dream_xyuuup 如果有更严格的限制措施怎么办"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "enby｜音游｜歌品感人kpop cpop edm都有涉猎｜芙4心2礼3｜165 50｜od｜大爱无疆，欢迎互fo｜*・x・*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030145687112081408/jkx9VSSZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 622,
+          "like_count": 7955,
+          "listed_count": 1,
+          "media_count": 492,
+          "tweet_count": 4790
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-05T23:21:16.000Z",
+        "description": "那遙遠卻不模糊的往日張牙舞爪，試圖嚇退少年前進的腳步。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+MrzQPpI4VV1kY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+MrzQPpI4VV1kY2Y9",
+                "start": 0,
+                "url": "https://t.co/ReCBmLTyxr"
+              }
+            ]
+          }
+        },
+        "id": "1555695367152631808",
+        "location": "我不會再做壞事，只要你來監督我。",
+        "name": "葛城茉生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972264624210022400/QogpLf_7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 672,
+          "like_count": 3312,
+          "listed_count": 2,
+          "media_count": 282,
+          "tweet_count": 8721
+        },
+        "url": "https://t.co/ReCBmLTyxr",
+        "username": "KZRGMK8964",
+        "verified": false
+      }
+    ]
+  }
+}

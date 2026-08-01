@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1906189572368970198",
+    "created_at": "2025-03-30T03:40:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-30T04:40:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906189827864998235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1902643679803867136",
+          "start": 0,
+          "username": "hzzh519720"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906189827864998235",
+    "in_reply_to_user_id": "1902643679803867136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906189572368970198",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hzzh519720 玩家进入了队伍"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1906189572368970198].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1906189572368970198",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1906189572368970198"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1906189572368970198",
+        "created_at": "2025-03-30T03:40:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T04:40:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906189827864998235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1902643679803867136",
+              "start": 0,
+              "username": "hzzh519720"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906189827864998235",
+        "in_reply_to_user_id": "1902643679803867136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906189572368970198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hzzh519720 玩家进入了队伍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "负面情绪碎碎念垃圾场/过着一个你一点都不会羡慕的人生/礼3芙4是我最爱的人🤍我还喜欢农李元芳/音游/内蒙古偏僻农村人我很脆弱不要欺负我/梦想是消除城乡差距/如果你不嫌弃我可以和我扩墙内/用户名好像是串神秘代码？/无论你是谁我都喜欢你/对所有人温良 欢迎互动互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dreamxy_uuup",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dreamxy_uuup",
+                "start": 0,
+                "url": "https://t.co/V4QSiptJcT"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠ltnh",
+        "pinned_tweet_id": "1905574069371896110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905913123158298624/ClLLrGxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 248,
+          "like_count": 1858,
+          "listed_count": 2,
+          "media_count": 111,
+          "tweet_count": 879
+        },
+        "url": "https://t.co/V4QSiptJcT",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-20T08:49:52.000Z",
+        "description": "只过互关",
+        "id": "1902643679803867136",
+        "name": "AFei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902644069853175808/R4Z0_WZ7_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 19,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 40
+        },
+        "username": "hzzh519720",
+        "verified": false
+      }
+    ]
+  }
+}

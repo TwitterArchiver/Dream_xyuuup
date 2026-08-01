@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1905887710923100160"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "1905887718946508931",
+    "created_at": "2025-03-29T07:40:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-29T08:40:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1905887718946508931"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1uRptVAbLl",
+          "end": 32,
+          "expanded_url": "https://x.com/Dream_xyuuup/status/1905887718946508931/photo/1",
+          "media_key": "3_1905887710923100160",
+          "start": 9,
+          "url": "https://t.co/1uRptVAbLl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905887718946508931",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "koz六跑男偿命 https://t.co/1uRptVAbLl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1905887710923100160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnMSxndakAA6FKQ.jpg",
+        "width": 926
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1905887710923100160"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "1905887718946508931",
+        "created_at": "2025-03-29T07:40:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T08:40:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905887718946508931"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1uRptVAbLl",
+              "end": 32,
+              "expanded_url": "https://x.com/Dream_xyuuup/status/1905887718946508931/photo/1",
+              "media_key": "3_1905887710923100160",
+              "start": 9,
+              "url": "https://t.co/1uRptVAbLl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905887718946508931",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "koz六跑男偿命 https://t.co/1uRptVAbLl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "垃圾场/过着一个你一点都不会羡慕的人生/礼3芙4是我最喜欢的人🤍/音游/内蒙古人/对所有人温良 欢迎互动互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dreamxy_uuup",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dreamxy_uuup",
+                "start": 0,
+                "url": "https://t.co/V4QSiptJcT"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠ltnh",
+        "pinned_tweet_id": "1905574069371896110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904925879131836416/htqMqovs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 232,
+          "like_count": 1652,
+          "listed_count": 2,
+          "media_count": 102,
+          "tweet_count": 801
+        },
+        "url": "https://t.co/V4QSiptJcT",
+        "username": "Dream_xyuuup",
+        "verified": false
+      }
+    ]
+  }
+}

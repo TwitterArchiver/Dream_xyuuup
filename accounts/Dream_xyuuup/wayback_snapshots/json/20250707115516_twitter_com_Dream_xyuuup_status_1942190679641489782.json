@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1942172222795420002",
+    "created_at": "2025-07-07T11:55:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T12:55:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942190679641489782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1572252869923057664",
+          "start": 0,
+          "username": "h1kari_t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942190679641489782",
+    "in_reply_to_user_id": "1572252869923057664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942172222795420002",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@h1kari_t 我的舌尖已经感受到白魔爪大人酸酸的味道了🤤🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1942172213609680896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvP7VpTW0AAqWKe.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1942172222795420002",
+        "created_at": "2025-07-07T11:55:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T12:55:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942190679641489782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1572252869923057664",
+              "start": 0,
+              "username": "h1kari_t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942190679641489782",
+        "in_reply_to_user_id": "1572252869923057664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942172222795420002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h1kari_t 我的舌尖已经感受到白魔爪大人酸酸的味道了🤤🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942172213609680896"
+          ]
+        },
+        "author_id": "1572252869923057664",
+        "conversation_id": "1942172222795420002",
+        "created_at": "2025-07-07T10:41:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T11:41:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942172222795420002"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/owJXU7Y6mL",
+              "end": 31,
+              "expanded_url": "https://x.com/h1kari_t/status/1942172222795420002/photo/1",
+              "media_key": "3_1942172213609680896",
+              "start": 8,
+              "url": "https://t.co/owJXU7Y6mL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942172222795420002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "購物這一塊/. https://t.co/owJXU7Y6mL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "yì jīu｜喜欢做梦｜我觉得我很温柔。｜可爱的人@QLing61007",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933432998864826371/0SiPerD5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 505,
+          "like_count": 6127,
+          "listed_count": 0,
+          "media_count": 325,
+          "tweet_count": 2898
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-20T15:54:40.000Z",
+        "description": "黒ロン一生推し⭐︎ ❤️🪽@yuyuyu_ufh ，過門解鎖好友位聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yuyuyu_ufh"
+              }
+            ]
+          }
+        },
+        "id": "1572252869923057664",
+        "location": "🚪300",
+        "name": "仲夏夜之光",
+        "pinned_tweet_id": "1933825423596773730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936737153062477824/zPjZpxFz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 84,
+          "like_count": 7995,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 726
+        },
+        "username": "h1kari_t",
+        "verified": false
+      }
+    ]
+  }
+}

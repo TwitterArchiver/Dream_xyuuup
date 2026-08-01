@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1967551667605495808"
+      ],
+      "media_source_tweet_id": [
+        "1967551836103307759"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "1985031489554362741",
+    "created_at": "2025-11-02T17:09:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T18:09:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985031489554362741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1408028409599467521",
+          "start": 3,
+          "username": "AngelSuicide999"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kOuKvibT5w",
+          "end": 44,
+          "expanded_url": "https://x.com/AngelSuicide999/status/1967551836103307759/video/1",
+          "media_key": "13_1967551667605495808",
+          "start": 21,
+          "url": "https://t.co/kOuKvibT5w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985031489554362741",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1855
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967551836103307759",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AngelSuicide999: https://t.co/kOuKvibT5w"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10000,
+        "height": 1080,
+        "media_key": "13_1967551667605495808",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1967551667605495808/img/fbnOVXPszpS9iv_g.jpg",
+        "public_metrics": {
+          "view_count": 50349
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967551667605495808/vid/avc1/360x270/KSR0dmd8Eeh3CvXM.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967551667605495808/vid/avc1/480x360/z-BinWA--u5b6pdf.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967551667605495808/vid/avc1/960x720/xhIuCsB491Ds9tiH.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1967551667605495808/pl/PUibS62cmpM5LOpH.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1967551667605495808"
+          ],
+          "media_source_tweet_id": [
+            "1967551836103307759"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "1985031489554362741",
+        "created_at": "2025-11-02T17:09:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T18:09:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985031489554362741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1408028409599467521",
+              "start": 3,
+              "username": "AngelSuicide999"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kOuKvibT5w",
+              "end": 44,
+              "expanded_url": "https://x.com/AngelSuicide999/status/1967551836103307759/video/1",
+              "media_key": "13_1967551667605495808",
+              "start": 21,
+              "url": "https://t.co/kOuKvibT5w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985031489554362741",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1855
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967551836103307759",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AngelSuicide999: https://t.co/kOuKvibT5w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1967551667605495808"
+          ]
+        },
+        "author_id": "1408028409599467521",
+        "conversation_id": "1967551836103307759",
+        "created_at": "2025-09-15T11:31:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T12:31:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967551836103307759"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kOuKvibT5w",
+              "end": 23,
+              "expanded_url": "https://x.com/AngelSuicide999/status/1967551836103307759/video/1",
+              "media_key": "13_1967551667605495808",
+              "start": 0,
+              "url": "https://t.co/kOuKvibT5w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967551836103307759",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1130,
+          "impression_count": 133179,
+          "like_count": 8083,
+          "quote_count": 24,
+          "reply_count": 20,
+          "retweet_count": 1855
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/kOuKvibT5w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "没法活了，一切都是男的骗我，女的欠我，老的冤枉我，小的欺负我，中国的压迫我，外国的引诱我，身边的霸凌我，网上的取笑我，你们全都对不起我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1953828269977219114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 584,
+          "like_count": 7376,
+          "listed_count": 1,
+          "media_count": 454,
+          "tweet_count": 4062
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-24T11:45:17.000Z",
+        "description": "天使自殺",
+        "id": "1408028409599467521",
+        "name": "Suicide",
+        "pinned_tweet_id": "1928226696991494247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927572549589688320/90zSepQK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24704,
+          "following_count": 2,
+          "like_count": 92510,
+          "listed_count": 86,
+          "media_count": 764,
+          "tweet_count": 3349
+        },
+        "username": "AngelSuicide999",
+        "verified": false
+      }
+    ]
+  }
+}

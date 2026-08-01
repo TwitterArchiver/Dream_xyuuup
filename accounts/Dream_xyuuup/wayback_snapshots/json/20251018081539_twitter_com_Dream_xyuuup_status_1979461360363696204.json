@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979267908841652224"
+      ],
+      "media_source_tweet_id": [
+        "1979267911622779101"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "1979461360363696204",
+    "created_at": "2025-10-18T08:15:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T09:15:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979461360363696204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "622036546",
+          "start": 3,
+          "username": "overdose_six"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/f9nG5O6o4y",
+          "end": 47,
+          "expanded_url": "https://x.com/overdose_six/status/1979267911622779101/photo/1",
+          "media_key": "3_1979267908841652224",
+          "start": 24,
+          "url": "https://t.co/f9nG5O6o4y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979461360363696204",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979267911622779101",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @overdose_six: 我不是药神 https://t.co/f9nG5O6o4y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1476,
+        "media_key": "3_1979267908841652224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3fFrS3WQAAyKFJ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979267908841652224"
+          ],
+          "media_source_tweet_id": [
+            "1979267911622779101"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "1979461360363696204",
+        "created_at": "2025-10-18T08:15:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T09:15:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979461360363696204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "622036546",
+              "start": 3,
+              "username": "overdose_six"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/f9nG5O6o4y",
+              "end": 47,
+              "expanded_url": "https://x.com/overdose_six/status/1979267911622779101/photo/1",
+              "media_key": "3_1979267908841652224",
+              "start": 24,
+              "url": "https://t.co/f9nG5O6o4y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979461360363696204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979267911622779101",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @overdose_six: 我不是药神 https://t.co/f9nG5O6o4y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979267908841652224"
+          ]
+        },
+        "author_id": "622036546",
+        "conversation_id": "1979267911622779101",
+        "created_at": "2025-10-17T19:26:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T20:26:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979267911622779101"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f9nG5O6o4y",
+              "end": 29,
+              "expanded_url": "https://x.com/overdose_six/status/1979267911622779101/photo/1",
+              "media_key": "3_1979267908841652224",
+              "start": 6,
+              "url": "https://t.co/f9nG5O6o4y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979267911622779101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 789,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我不是药神 https://t.co/f9nG5O6o4y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "我自私，病态，阴暗，偏执。所有大度、不在乎都是我的伪装。我窥探你的生活，揣测你的文案，解读你分享的一切，观察你身边的人，盯着你的照片妄想找到蛛丝马迹。我敏感，善变多疑，斤斤计较你多看别人的一眼。我爱你，你本来就应该乖乖待在我身边。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1953828269977219114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 579,
+          "like_count": 7186,
+          "listed_count": 1,
+          "media_count": 443,
+          "tweet_count": 3951
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-29T16:18:50.000Z",
+        "description": "化学极乐百科:https://t.co/BlAoDIjruc 提问箱:https://t.co/b5c8bbmW1y 里推:@fuck_8964 药物代购可私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "fuck_8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 30,
+                "expanded_url": "http://overdose.day",
+                "start": 7,
+                "url": "https://t.co/BlAoDIjruc"
+              },
+              {
+                "display_url": "ngl.link/oder_six",
+                "end": 58,
+                "expanded_url": "https://ngl.link/oder_six",
+                "start": 35,
+                "url": "https://t.co/b5c8bbmW1y"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://overdose.day",
+                "start": 0,
+                "url": "https://t.co/BlAoDIjruc"
+              }
+            ]
+          }
+        },
+        "id": "622036546",
+        "location": "天国",
+        "name": "椎名",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979317642839171072/ZJnYPYym_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1748,
+          "following_count": 81,
+          "like_count": 10584,
+          "listed_count": 7,
+          "media_count": 399,
+          "tweet_count": 2973
+        },
+        "url": "https://t.co/BlAoDIjruc",
+        "username": "overdose_six",
+        "verified": false
+      }
+    ]
+  }
+}

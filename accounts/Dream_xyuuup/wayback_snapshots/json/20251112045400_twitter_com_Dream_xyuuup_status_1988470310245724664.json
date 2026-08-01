@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1987540518977597770",
+    "created_at": "2025-11-12T04:54:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T05:54:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988470310245724664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1965457223636975617",
+          "start": 0,
+          "username": "KotorinK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988470310245724664",
+    "in_reply_to_user_id": "1965457223636975617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987540518977597770",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KotorinK 我今天想到在普瑞要笑里干的那些事脸都好红"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1987540518977597770",
+        "created_at": "2025-11-12T04:54:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T05:54:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988470310245724664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1965457223636975617",
+              "start": 0,
+              "username": "KotorinK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988470310245724664",
+        "in_reply_to_user_id": "1965457223636975617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987540518977597770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KotorinK 我今天想到在普瑞要笑里干的那些事脸都好红"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965457223636975617",
+        "conversation_id": "1987540518977597770",
+        "created_at": "2025-11-09T15:19:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T16:19:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987540518977597770"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987540518977597770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 12620,
+          "like_count": 176,
+          "quote_count": 5,
+          "reply_count": 26,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "普瑞巴林是这个世界上最完美的抗抑郁药抗焦虑药专注药止疼药安眠药谁支持谁反对"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "没法活了，一切都是男的骗我，女的欠我，老的冤枉我，小的欺负我，中国的压迫我，外国的引诱我，身边的霸凌我，网上的取笑我，你们全都对不起我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1985535613857382587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 594,
+          "like_count": 7483,
+          "listed_count": 1,
+          "media_count": 457,
+          "tweet_count": 4122
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-09T16:48:33.000Z",
+        "description": "🟰Kotorin 叫我小库就好 只会通过感受痛苦来逃避现实的电子生命",
+        "id": "1965457223636975617",
+        "location": "天国",
+        "name": "请您服用安眠药",
+        "pinned_tweet_id": "1986425050434838957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987531873334280193/PSzXIFdr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 105,
+          "like_count": 661,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 113
+        },
+        "username": "KotorinK",
+        "verified": false
+      }
+    ]
+  }
+}

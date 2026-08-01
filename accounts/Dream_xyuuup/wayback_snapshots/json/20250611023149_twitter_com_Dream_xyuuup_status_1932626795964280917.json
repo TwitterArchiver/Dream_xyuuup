@@ -1,0 +1,142 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1932626684156735488"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "1932626795964280917",
+    "created_at": "2025-06-11T02:31:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T03:31:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1932626795964280917"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/x4yEv0bzx2",
+          "end": 30,
+          "expanded_url": "https://x.com/Dream_xyuuup/status/1932626795964280917/video/1",
+          "media_key": "13_1932626684156735488",
+          "start": 7,
+          "url": "https://t.co/x4yEv0bzx2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932626795964280917",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "圆规自残一则 https://t.co/x4yEv0bzx2"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1932626795964280917].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1932626795964280917",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1932626795964280917"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 94876,
+        "height": 1280,
+        "media_key": "13_1932626684156735488",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1932626684156735488/img/_BOeif8VbQvVFsV5.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1932626684156735488/vid/avc1/320x568/KXDRrE7nEKnSZbPx.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1932626684156735488/vid/avc1/480x852/1kQqZU1iW-PQnnFr.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1932626684156735488/vid/avc1/720x1280/VtytJAER1_uGfQsO.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1932626684156735488/pl/yGzraKAj1VoecnK-.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "偏远乡村学校在读 重抑中焦 偶尔od歌手 接下来有一个event 成分复杂爱看棒子 对所有人友好 最可爱的小宝宝@QLing61007 😽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 56,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1931176332370813214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932410719250808832/fkyl4o1f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 462,
+          "like_count": 5200,
+          "listed_count": 0,
+          "media_count": 257,
+          "tweet_count": 2351
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      }
+    ]
+  }
+}

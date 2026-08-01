@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1994339452689526784"
+      ],
+      "media_source_tweet_id": [
+        "1994339516182589539"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "1994963935217451056",
+    "created_at": "2025-11-30T02:57:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T03:57:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994963935217451056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1687320520239505408",
+          "start": 3,
+          "username": "twoonehee"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kaZ6h142ou",
+          "end": 42,
+          "expanded_url": "https://x.com/twoonehee/status/1994339516182589539/video/1",
+          "media_key": "13_1994339452689526784",
+          "start": 19,
+          "url": "https://t.co/kaZ6h142ou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994963935217451056",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7192
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994339516182589539",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @twoonehee: 뭐야? https://t.co/kaZ6h142ou"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6936,
+        "height": 866,
+        "media_key": "13_1994339452689526784",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1994339452689526784/img/2S0HXlRkm8B9-dMg.jpg",
+        "public_metrics": {
+          "view_count": 355871
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994339452689526784/vid/avc1/1182x866/A9AL-GI6kfosIdf0.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1994339452689526784/pl/9MhTVV_lKoRx6YAO.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994339452689526784/vid/avc1/982x720/FIcGVCArkZYylcAs.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994339452689526784/vid/avc1/368x270/FXer1v0W-VJBDQqh.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994339452689526784/vid/avc1/490x360/Mhlb-Ac8NCYAEUvP.mp4"
+          }
+        ],
+        "width": 1182
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1994339452689526784"
+          ],
+          "media_source_tweet_id": [
+            "1994339516182589539"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "1994963935217451056",
+        "created_at": "2025-11-30T02:57:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T03:57:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994963935217451056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1687320520239505408",
+              "start": 3,
+              "username": "twoonehee"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kaZ6h142ou",
+              "end": 42,
+              "expanded_url": "https://x.com/twoonehee/status/1994339516182589539/video/1",
+              "media_key": "13_1994339452689526784",
+              "start": 19,
+              "url": "https://t.co/kaZ6h142ou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994963935217451056",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7192
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994339516182589539",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @twoonehee: 뭐야? https://t.co/kaZ6h142ou"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1994339452689526784"
+          ]
+        },
+        "author_id": "1687320520239505408",
+        "conversation_id": "1994339516182589539",
+        "created_at": "2025-11-28T09:36:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T10:36:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994339516182589539"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kaZ6h142ou",
+              "end": 27,
+              "expanded_url": "https://x.com/twoonehee/status/1994339516182589539/video/1",
+              "media_key": "13_1994339452689526784",
+              "start": 4,
+              "url": "https://t.co/kaZ6h142ou"
+            },
+            {
+              "display_url": "x.com/twoonehee/stat…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/twoonehee/status/1994336263655305396",
+              "start": 28,
+              "url": "https://t.co/DkBbMF7IeI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994339516182589539",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1761,
+          "impression_count": 1725226,
+          "like_count": 22719,
+          "quote_count": 1360,
+          "reply_count": 0,
+          "retweet_count": 7192
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994336263655305396",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "뭐야? https://t.co/kaZ6h142ou https://t.co/DkBbMF7IeI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "你能想到的坏习惯我都有",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 606,
+          "like_count": 7883,
+          "listed_count": 1,
+          "media_count": 468,
+          "tweet_count": 4278
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-04T04:32:27.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/user070626",
+                "end": 23,
+                "expanded_url": "http://spin-spin.com/user070626",
+                "start": 0,
+                "url": "https://t.co/evUUX329V9"
+              }
+            ]
+          }
+        },
+        "id": "1687320520239505408",
+        "name": "원숭",
+        "pinned_tweet_id": "1987480982367433084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986772368057085952/IeC9W5MX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17387,
+          "following_count": 51,
+          "like_count": 710,
+          "listed_count": 55,
+          "media_count": 2527,
+          "tweet_count": 3619
+        },
+        "url": "https://t.co/evUUX329V9",
+        "username": "twoonehee",
+        "verified": false
+      }
+    ]
+  }
+}

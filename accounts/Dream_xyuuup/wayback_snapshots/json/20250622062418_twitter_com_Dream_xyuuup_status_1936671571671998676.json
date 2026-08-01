@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1936653143552688502",
+    "created_at": "2025-06-22T06:24:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T07:24:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936671571671998676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1206215796889812992",
+          "start": 0,
+          "username": "xcwannasleep"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936671571671998676",
+    "in_reply_to_user_id": "1206215796889812992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936671269841510606",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xcwannasleep 我早睡早起🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1936653143552688502",
+        "created_at": "2025-06-22T06:24:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T07:24:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936671571671998676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1206215796889812992",
+              "start": 0,
+              "username": "xcwannasleep"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936671571671998676",
+        "in_reply_to_user_id": "1206215796889812992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936671269841510606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xcwannasleep 我早睡早起🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1206215796889812992",
+        "conversation_id": "1936653143552688502",
+        "created_at": "2025-06-22T06:23:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T07:23:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936671269841510606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1726051028112744448",
+              "start": 0,
+              "username": "Dream_xyuuup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936671269841510606",
+        "in_reply_to_user_id": "1726051028112744448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936653143552688502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dream_xyuuup 愈合力好强"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "【拼多多】获得8元现金券。因购买的喜思平 普瑞巴林胶囊 75mg…可能存在配送延迟，我们赠送您一张现金券以表歉意",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1931176332370813214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933432998864826371/0SiPerD5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 484,
+          "like_count": 5874,
+          "listed_count": 0,
+          "media_count": 298,
+          "tweet_count": 2703
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-15T14:14:01.000Z",
+        "description": "Overwhelmed.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spacexc.net",
+                "end": 23,
+                "expanded_url": "http://spacexc.net",
+                "start": 0,
+                "url": "https://t.co/k0fo7vGBrA"
+              }
+            ]
+          }
+        },
+        "id": "1206215796889812992",
+        "name": "困困困困困困困困🔜😴",
+        "pinned_tweet_id": "1931011135928783201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911123981802840065/q1oT0SJ3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 616,
+          "like_count": 2814,
+          "listed_count": 2,
+          "media_count": 244,
+          "tweet_count": 1148
+        },
+        "url": "https://t.co/k0fo7vGBrA",
+        "username": "xcwannasleep",
+        "verified": false
+      }
+    ]
+  }
+}

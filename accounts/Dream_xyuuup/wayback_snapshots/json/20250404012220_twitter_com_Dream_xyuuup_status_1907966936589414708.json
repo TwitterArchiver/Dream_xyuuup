@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1907966936589414708",
+    "created_at": "2025-04-04T01:22:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-04T02:22:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1907966936589414708"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/monsterenergyj…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/monsterenergyjp/status/1906780534564647390",
+          "start": 4,
+          "url": "https://t.co/UaGRcmKFZe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907966936589414708",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906780534564647390",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我要喝 https://t.co/UaGRcmKFZe"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15000,
+        "height": 1080,
+        "media_key": "13_1906779222116577280",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1906779222116577280/img/6GhweY2yAeyo9KWU.jpg",
+        "public_metrics": {
+          "view_count": 237294
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1906779222116577280/vid/avc1/320x320/VKBtc5GF_uweaAHI.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1906779222116577280/vid/avc1/540x540/CrEeIZrPCYoOltjX.mp4?tag=14"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1906779222116577280/vid/avc1/720x720/P--2u2k6Eo1_bkhu.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1906779222116577280/pl/FSaudHbhxgjl5Mae.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1907966936589414708",
+        "created_at": "2025-04-04T01:22:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T02:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907966936589414708"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/monsterenergyj…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/monsterenergyjp/status/1906780534564647390",
+              "start": 4,
+              "url": "https://t.co/UaGRcmKFZe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907966936589414708",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906780534564647390",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要喝 https://t.co/UaGRcmKFZe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1906779222116577280"
+          ]
+        },
+        "author_id": "384742248",
+        "conversation_id": "1906780534564647390",
+        "created_at": "2025-03-31T18:48:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T19:48:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906780534564647390"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 26,
+              "normalized_text": "日本",
+              "probability": 0.7568,
+              "start": 25,
+              "type": "Place"
+            },
+            {
+              "end": 73,
+              "normalized_text": "ウルトラ",
+              "probability": 0.4897,
+              "start": 70,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 6,
+              "tag": "ウルトラファンタジールビーレッド"
+            },
+            {
+              "end": 115,
+              "start": 101,
+              "tag": "MonsterEnergy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oC4QZipp5s",
+              "end": 139,
+              "expanded_url": "https://x.com/MonsterEnergyJP/status/1906780534564647390/video/1",
+              "media_key": "13_1906779222116577280",
+              "start": 116,
+              "url": "https://t.co/oC4QZipp5s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906780534564647390",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 87,
+          "impression_count": 2041596,
+          "like_count": 802,
+          "quote_count": 81,
+          "reply_count": 3,
+          "retweet_count": 124
+        },
+        "reply_settings": "everyone",
+        "text": "モンスター #ウルトラファンタジールビーレッド が日本上陸 ❤️💙\n \n0カロリー&amp;0シュガー⚡️\nピンクグレープフルーツ風味の『ウルトラ』シリーズ新作😎\n爽やかな新フレーバーを体感してくれ🔥\n#MonsterEnergy https://t.co/oC4QZipp5s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "数学满分是假的，数学家也是假的，我的一切都是假的，我有很多幅面孔，你们都被我骗了。碎碎念垃圾场｜过着一个你一点都不会羡慕的人生｜礼3芙4是我最爱的人🤍｜音游｜内蒙古偏僻农村人我很脆弱不要欺负我｜梦想是消除城乡差距｜无论你是谁我都喜欢你｜如果消失就是穷到梯都养不起了 对所有人温良 可不可以不要讨厌我就算讨厌我也不要骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dreamxy_uuup",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dreamxy_uuup",
+                "start": 0,
+                "url": "https://t.co/V4QSiptJcT"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠ltnh（未来最厉害的数学家数学满分版😋）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905913123158298624/ClLLrGxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 284,
+          "like_count": 2610,
+          "listed_count": 2,
+          "media_count": 135,
+          "tweet_count": 1102
+        },
+        "url": "https://t.co/V4QSiptJcT",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2011-10-04T07:33:47.000Z",
+        "description": "#UnleashTheBeast\n野性を解き放て！",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 16,
+                "start": 0,
+                "tag": "UnleashTheBeast"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkpages.pro/MonsterEnergyJ…",
+                "end": 23,
+                "expanded_url": "https://linkpages.pro/MonsterEnergyJapan",
+                "start": 0,
+                "url": "https://t.co/GAY15XCW4H"
+              }
+            ]
+          }
+        },
+        "id": "384742248",
+        "location": "Japan",
+        "name": "Monster Energy Japan",
+        "pinned_tweet_id": "1906889256011788334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1618373649110798336/3eM63BqY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481232,
+          "following_count": 2175,
+          "like_count": 2544,
+          "listed_count": 769,
+          "media_count": 4214,
+          "tweet_count": 6767
+        },
+        "url": "https://t.co/GAY15XCW4H",
+        "username": "MonsterEnergyJP",
+        "verified": true
+      }
+    ]
+  }
+}

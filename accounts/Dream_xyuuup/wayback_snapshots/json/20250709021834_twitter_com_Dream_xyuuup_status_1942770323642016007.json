@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1942770311826661381"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "1942770323642016007",
+    "created_at": "2025-07-09T02:18:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T03:18:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1942770323642016007"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jAi0RizJPB",
+          "end": 98,
+          "expanded_url": "https://x.com/Dream_xyuuup/status/1942770323642016007/photo/1",
+          "media_key": "3_1942770311826661381",
+          "start": 75,
+          "url": "https://t.co/jAi0RizJPB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942770323642016007",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "吃pr让我相册里多了好多我的自拍\n现在我妈严厉管控我，取任何快递都要检查一下是不是药，我要迈向健全了，目前只剩6t，o是不可能了，每焦虑就吃1t吧。 https://t.co/jAi0RizJPB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1942770311826661381",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvYbTiyaYAUhYal.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942770311826661381"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "1942770323642016007",
+        "created_at": "2025-07-09T02:18:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T03:18:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942770323642016007"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jAi0RizJPB",
+              "end": 98,
+              "expanded_url": "https://x.com/Dream_xyuuup/status/1942770323642016007/photo/1",
+              "media_key": "3_1942770311826661381",
+              "start": 75,
+              "url": "https://t.co/jAi0RizJPB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942770323642016007",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃pr让我相册里多了好多我的自拍\n现在我妈严厉管控我，取任何快递都要检查一下是不是药，我要迈向健全了，目前只剩6t，o是不可能了，每焦虑就吃1t吧。 https://t.co/jAi0RizJPB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "yì jīu｜喜欢做梦｜我觉得我很温柔。｜可爱的人@QLing61007",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933432998864826371/0SiPerD5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 512,
+          "like_count": 6223,
+          "listed_count": 0,
+          "media_count": 328,
+          "tweet_count": 2920
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      }
+    ]
+  }
+}

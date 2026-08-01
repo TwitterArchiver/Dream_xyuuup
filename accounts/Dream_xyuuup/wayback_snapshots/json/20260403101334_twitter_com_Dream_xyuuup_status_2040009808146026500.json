@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "2039533195121553809",
+    "created_at": "2026-04-03T10:13:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T11:13:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040009808146026500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1429716450789400579",
+          "start": 0,
+          "username": "green75523929"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040009808146026500",
+    "in_reply_to_user_id": "1429716450789400579",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039533195121553809",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@green75523929 接"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "2039533195121553809",
+        "created_at": "2026-04-03T10:13:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T11:13:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040009808146026500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1429716450789400579",
+              "start": 0,
+              "username": "green75523929"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040009808146026500",
+        "in_reply_to_user_id": "1429716450789400579",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039533195121553809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@green75523929 接"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429716450789400579",
+        "conversation_id": "2039533195121553809",
+        "created_at": "2026-04-02T02:39:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T03:39:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039533195121553809"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039533195121553809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 159,
+          "impression_count": 478634,
+          "like_count": 6289,
+          "quote_count": 112,
+          "reply_count": 277,
+          "retweet_count": 397
+        },
+        "reply_settings": "everyone",
+        "text": "四月我家突然莫名其妙有钱了，我妈说不知道毕业干什么就去韩国读研吧，爸爸妈妈可以养你一辈子，做你想做的事情吧。然后我没刻意减肥但是瘦到了85斤，鼻头居然也变得尖尖小小的。我爸妈每天莫名其妙给我转钱，我转头就买一堆衣服包包还有签售演唱会"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "enby｜音游｜歌品感人kpop cpop edm都有涉猎｜芙4心2礼3｜165 50｜*・x・*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030145687112081408/jkx9VSSZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 625,
+          "like_count": 8000,
+          "listed_count": 1,
+          "media_count": 495,
+          "tweet_count": 4830
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-23T08:05:56.000Z",
+        "description": "INFP-T ｜no music no life🎶 ｜记录没好生活\n来追星的｜不刷了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kkkcasey1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kkkcasey1",
+                "start": 0,
+                "url": "https://t.co/p4UOkCc7f1"
+              }
+            ]
+          }
+        },
+        "id": "1429716450789400579",
+        "name": "没好生活",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1672945267975372800/2MnPgA5O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 291,
+          "like_count": 2165,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 2029
+        },
+        "url": "https://t.co/p4UOkCc7f1",
+        "username": "green75523929",
+        "verified": false
+      }
+    ]
+  }
+}

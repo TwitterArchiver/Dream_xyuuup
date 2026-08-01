@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1936646821969019282",
+    "created_at": "2025-06-22T22:59:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T23:59:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936921949097390389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1790370144755351552",
+          "start": 0,
+          "username": "FurinaDF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936921949097390389",
+    "in_reply_to_user_id": "1790370144755351552",
+    "lang": "it",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936646821969019282",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FurinaDF ononon"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1936646812363882496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuBaA9pXgAAB-Rp.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1936646821969019282",
+        "created_at": "2025-06-22T22:59:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T23:59:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936921949097390389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1790370144755351552",
+              "start": 0,
+              "username": "FurinaDF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936921949097390389",
+        "in_reply_to_user_id": "1790370144755351552",
+        "lang": "it",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936646821969019282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FurinaDF ononon"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936646812363882496"
+          ]
+        },
+        "author_id": "1790370144755351552",
+        "conversation_id": "1936646821969019282",
+        "created_at": "2025-06-22T04:45:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T05:45:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936646821969019282"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iN74Tt6b4e",
+              "end": 40,
+              "expanded_url": "https://x.com/FurinaDF/status/1936646821969019282/photo/1",
+              "media_key": "3_1936646812363882496",
+              "start": 17,
+              "url": "https://t.co/iN74Tt6b4e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936646821969019282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 94,
+          "impression_count": 265787,
+          "like_count": 1084,
+          "quote_count": 5,
+          "reply_count": 78,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "东莞禁毒，但是对毒品say on https://t.co/iN74Tt6b4e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "【拼多多】获得8元现金券。因购买的喜思平 普瑞巴林胶囊 75mg…可能存在配送延迟，我们赠送您一张现金券以表歉意",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1931176332370813214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933432998864826371/0SiPerD5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 486,
+          "like_count": 5888,
+          "listed_count": 0,
+          "media_count": 299,
+          "tweet_count": 2711
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T13:15:08.000Z",
+        "description": "心怀良善与智慧，行事正直有担当",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zgysd1",
+                "end": 23,
+                "expanded_url": "https://t.me/zgysd1",
+                "start": 0,
+                "url": "https://t.co/UXOSrcIdSv"
+              }
+            ]
+          }
+        },
+        "id": "1790370144755351552",
+        "location": "San Jose",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909485043128434688/z-ZbsFFG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31935,
+          "following_count": 2215,
+          "like_count": 26582,
+          "listed_count": 90,
+          "media_count": 5256,
+          "tweet_count": 9459
+        },
+        "url": "https://t.co/UXOSrcIdSv",
+        "username": "FurinaDF",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1994542737031663956",
+    "created_at": "2025-11-28T23:03:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T00:03:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994542737031663956"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/marupo000/stat…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/marupo000/status/1994360621656314222",
+          "start": 5,
+          "url": "https://t.co/uPuXaxT3g3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994542737031663956",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994360621656314222",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "卧槽狠人 https://t.co/uPuXaxT3g3"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 37986,
+        "height": 720,
+        "media_key": "13_1978016528932171776",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1978016528932171776/img/jaLfy4s_jFVGPeuz.jpg",
+        "public_metrics": {
+          "view_count": 40237
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1978016528932171776/vid/avc1/480x270/aYoeduWiSEtH1OZu.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1978016528932171776/vid/avc1/640x360/7fYiO0ULrHSIp1QE.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1978016528932171776/vid/avc1/1280x720/5IMgtR6scai7ZgIP.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1978016528932171776/pl/rFejvtWR2sj49R5F.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1994542737031663956",
+        "created_at": "2025-11-28T23:03:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T00:03:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994542737031663956"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/marupo000/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/marupo000/status/1994360621656314222",
+              "start": 5,
+              "url": "https://t.co/uPuXaxT3g3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994542737031663956",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994360621656314222",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卧槽狠人 https://t.co/uPuXaxT3g3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1978016528932171776"
+          ]
+        },
+        "author_id": "1427182786956251136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1994360621656314222",
+        "created_at": "2025-11-28T11:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T12:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994360621656314222"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 60,
+              "start": 53,
+              "tag": "maimai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/L7Buw4dBTT",
+              "end": 84,
+              "expanded_url": "https://x.com/marupo000/status/1994360621656314222/video/1",
+              "media_key": "13_1978016528932171776",
+              "start": 61,
+              "url": "https://t.co/L7Buw4dBTT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994360621656314222",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 72784,
+          "like_count": 580,
+          "quote_count": 9,
+          "reply_count": 8,
+          "retweet_count": 75
+        },
+        "reply_settings": "everyone",
+        "text": "Q.Southern Cross(RE:MAS)の間奏中に「𰻞𰻞麺」を書けるのか？\n→挑戦してみました。\n#maimai https://t.co/L7Buw4dBTT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "你能想到的坏习惯我都有",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 606,
+          "like_count": 7868,
+          "listed_count": 1,
+          "media_count": 468,
+          "tweet_count": 4266
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-16T08:18:00.000Z",
+        "description": "動画とか作ってます",
+        "id": "1427182786956251136",
+        "name": "marupo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887100097277861888/fibLSo3Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20208,
+          "following_count": 10196,
+          "like_count": 25137,
+          "listed_count": 32,
+          "media_count": 2492,
+          "tweet_count": 7703
+        },
+        "username": "marupo000",
+        "verified": false
+      }
+    ]
+  }
+}

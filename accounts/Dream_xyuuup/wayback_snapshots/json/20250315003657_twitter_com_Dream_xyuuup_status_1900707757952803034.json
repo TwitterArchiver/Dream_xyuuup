@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1900707748859576320",
+        "3_1900707749144809472"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "1900707757952803034",
+    "created_at": "2025-03-15T00:36:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-15T01:36:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1900707757952803034"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8zZ5hydV2c",
+          "end": 32,
+          "expanded_url": "https://x.com/Dream_xyuuup/status/1900707757952803034/photo/1",
+          "media_key": "3_1900707748859576320",
+          "start": 9,
+          "url": "https://t.co/8zZ5hydV2c"
+        },
+        {
+          "display_url": "pic.x.com/8zZ5hydV2c",
+          "end": 32,
+          "expanded_url": "https://x.com/Dream_xyuuup/status/1900707757952803034/photo/1",
+          "media_key": "3_1900707749144809472",
+          "start": 9,
+          "url": "https://t.co/8zZ5hydV2c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900707757952803034",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "厚颜无耻被骂了😸 https://t.co/8zZ5hydV2c"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1037,
+        "media_key": "3_1900707748859576320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmCroJCbgAADoBC.jpg",
+        "width": 1125
+      },
+      {
+        "height": 1162,
+        "media_key": "3_1900707749144809472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmCroKGb0AA0EUF.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1900707748859576320",
+            "3_1900707749144809472"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "1900707757952803034",
+        "created_at": "2025-03-15T00:36:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T01:36:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900707757952803034"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8zZ5hydV2c",
+              "end": 32,
+              "expanded_url": "https://x.com/Dream_xyuuup/status/1900707757952803034/photo/1",
+              "media_key": "3_1900707748859576320",
+              "start": 9,
+              "url": "https://t.co/8zZ5hydV2c"
+            },
+            {
+              "display_url": "pic.x.com/8zZ5hydV2c",
+              "end": 32,
+              "expanded_url": "https://x.com/Dream_xyuuup/status/1900707757952803034/photo/1",
+              "media_key": "3_1900707749144809472",
+              "start": 9,
+              "url": "https://t.co/8zZ5hydV2c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900707757952803034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "厚颜无耻被骂了😸 https://t.co/8zZ5hydV2c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "这是一本日记 喜欢视奸 互fo请赞自介条",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dreamxy_uuup",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dreamxy_uuup",
+                "start": 0,
+                "url": "https://t.co/V4QSiptJcT"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠ltnh",
+        "pinned_tweet_id": "1898320029139214432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896250221824520192/PpwkphAn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 129,
+          "like_count": 717,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 401
+        },
+        "url": "https://t.co/V4QSiptJcT",
+        "username": "Dream_xyuuup",
+        "verified": false
+      }
+    ]
+  }
+}

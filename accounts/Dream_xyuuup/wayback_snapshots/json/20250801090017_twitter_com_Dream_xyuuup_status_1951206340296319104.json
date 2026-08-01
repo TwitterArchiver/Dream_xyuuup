@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1950819157005815837",
+    "created_at": "2025-08-01T09:00:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-01T10:00:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951206340296319104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1908668668919398400",
+          "start": 0,
+          "username": "Kazumasski"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951206340296319104",
+    "in_reply_to_user_id": "1908668668919398400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950819157005815837",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kazumasski 好帅气"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_1950819140350189568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxKzrBmbIAArurX.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1950819157005815837",
+        "created_at": "2025-08-01T09:00:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T10:00:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951206340296319104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1908668668919398400",
+              "start": 0,
+              "username": "Kazumasski"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951206340296319104",
+        "in_reply_to_user_id": "1908668668919398400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950819157005815837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kazumasski 好帅气"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950819140350189568"
+          ]
+        },
+        "author_id": "1908668668919398400",
+        "conversation_id": "1950819157005815837",
+        "created_at": "2025-07-31T07:21:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T08:21:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950819157005815837"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/svJEdoi28e",
+              "end": 34,
+              "expanded_url": "https://x.com/Kazumasski/status/1950819157005815837/photo/1",
+              "media_key": "3_1950819140350189568",
+              "start": 11,
+              "url": "https://t.co/svJEdoi28e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950819157005815837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 456,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很像小学生的英文字体 https://t.co/svJEdoi28e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "yì jīu｜不知道什么圈子，谢谢你的喜欢我也喜欢你喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 542,
+          "like_count": 6631,
+          "listed_count": 0,
+          "media_count": 362,
+          "tweet_count": 3260
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-05T23:50:54.000Z",
+        "description": "平成24年（2012年）生まれの13歳🚹の中2生。| とても大切な人@chaox1220_2nd🥰 | 📬DMはFF/認証済みアカウントのみ | #あつ森 #音ゲー #プロセカ #日本語間違えてたら教えて | 🫠@hhaaiibot 🎵@BbLlOoCcKk_ 选择性回fo 我可以帮骂",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 77,
+                "start": 73,
+                "tag": "あつ森"
+              },
+              {
+                "end": 82,
+                "start": 78,
+                "tag": "音ゲー"
+              },
+              {
+                "end": 88,
+                "start": 83,
+                "tag": "プロセカ"
+              },
+              {
+                "end": 102,
+                "start": 89,
+                "tag": "日本語間違えてたら教えて"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 48,
+                "start": 34,
+                "username": "chaox1220_2nd"
+              },
+              {
+                "end": 116,
+                "start": 106,
+                "username": "hhaaiibot"
+              },
+              {
+                "end": 130,
+                "start": 118,
+                "username": "BbLlOoCcKk_"
+              }
+            ]
+          }
+        },
+        "id": "1908668668919398400",
+        "location": "叫我「佐佐木大将军/大统领」就好",
+        "name": "𝑲𝒂𝒛𝒖𝒎𝒂 𝑺𝒂𝒔𝒂𝒌𝒊 🏳️‍🌈",
+        "pinned_tweet_id": "1940757723765002505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951189762712412161/SHDE_xrH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1390,
+          "following_count": 3084,
+          "like_count": 2306,
+          "listed_count": 0,
+          "media_count": 641,
+          "tweet_count": 3295
+        },
+        "username": "Kazumasski",
+        "verified": true
+      }
+    ]
+  }
+}

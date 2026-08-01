@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989703904515547136"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "1989703914200146384",
+    "created_at": "2025-11-15T14:35:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T15:35:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989703914200146384"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZfImCCgepA",
+          "end": 23,
+          "expanded_url": "https://x.com/Dream_xyuuup/status/1989703914200146384/photo/1",
+          "media_key": "3_1989703904515547136",
+          "start": 0,
+          "url": "https://t.co/ZfImCCgepA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989703914200146384",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/ZfImCCgepA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 538,
+        "media_key": "3_1989703904515547136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5zZKMTbYAAf1Ca.jpg",
+        "width": 1180
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989703904515547136"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "1989703914200146384",
+        "created_at": "2025-11-15T14:35:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T15:35:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989703914200146384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZfImCCgepA",
+              "end": 23,
+              "expanded_url": "https://x.com/Dream_xyuuup/status/1989703914200146384/photo/1",
+              "media_key": "3_1989703904515547136",
+              "start": 0,
+              "url": "https://t.co/ZfImCCgepA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989703914200146384",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ZfImCCgepA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "没法活了，一切都是男的骗我，女的欠我，老的冤枉我，小的欺负我，中国的压迫我，外国的引诱我，身边的霸凌我，网上的取笑我，你们全都对不起我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1985535613857382587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 594,
+          "like_count": 7516,
+          "listed_count": 1,
+          "media_count": 459,
+          "tweet_count": 4136
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      }
+    ]
+  }
+}

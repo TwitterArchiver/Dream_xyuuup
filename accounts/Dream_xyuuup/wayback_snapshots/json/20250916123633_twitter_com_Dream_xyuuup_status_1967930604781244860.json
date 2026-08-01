@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1967930604781244860",
+    "created_at": "2025-09-16T12:36:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T13:36:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967930604781244860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1590939682568736769",
+          "start": 3,
+          "username": "ColesPerson"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967930604781244860",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967815784950010001",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ColesPerson: 我要是一出生就能透过落地窗看到上海外滩夜景或者天安门上的毛泽东大头照，那中国就是世界上最美丽的国家，不赢都不行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1967930604781244860",
+        "created_at": "2025-09-16T12:36:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T13:36:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967930604781244860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1590939682568736769",
+              "start": 3,
+              "username": "ColesPerson"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967930604781244860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967815784950010001",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ColesPerson: 我要是一出生就能透过落地窗看到上海外滩夜景或者天安门上的毛泽东大头照，那中国就是世界上最美丽的国家，不赢都不行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1590939682568736769",
+        "conversation_id": "1967815784950010001",
+        "created_at": "2025-09-16T05:00:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T06:00:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967815784950010001"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1967815784950010001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 660,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我要是一出生就能透过落地窗看到上海外滩夜景或者天安门上的毛泽东大头照，那中国就是世界上最美丽的国家，不赢都不行"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "yì jīu｜偏远地区高中生｜我正在努力变成你喜欢的样子…｜重抑治疗戒o割中｜我特别爱你们，爱你们，爱你们。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1953828269977219114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 554,
+          "like_count": 6923,
+          "listed_count": 1,
+          "media_count": 427,
+          "tweet_count": 3778
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-11T05:29:24.000Z",
+        "description": "啥意思",
+        "id": "1590939682568736769",
+        "location": "Manhattan, NY",
+        "name": "4000年难遇的老实人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966324061379899395/5ckbxTzV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1484,
+          "following_count": 1412,
+          "like_count": 26338,
+          "listed_count": 4,
+          "media_count": 834,
+          "tweet_count": 9424
+        },
+        "username": "ColesPerson",
+        "verified": false
+      }
+    ]
+  }
+}

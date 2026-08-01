@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1986110546966392950",
+    "created_at": "2025-11-06T19:38:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T20:38:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986518612400873652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1775154241415639040",
+          "start": 0,
+          "username": "pardonmeok"
+        },
+        {
+          "end": 23,
+          "id": "1535701819812462600",
+          "start": 12,
+          "username": "Kenntnis22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986518612400873652",
+    "in_reply_to_user_id": "1775154241415639040",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986366580645859606",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pardonmeok @Kenntnis22 隐藏款"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 533,
+        "media_key": "3_1986366574601949185",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5D94Bjb0AEr3Gk.jpg",
+        "width": 838
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1986110546966392950",
+        "created_at": "2025-11-06T19:38:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T20:38:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986518612400873652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1775154241415639040",
+              "start": 0,
+              "username": "pardonmeok"
+            },
+            {
+              "end": 23,
+              "id": "1535701819812462600",
+              "start": 12,
+              "username": "Kenntnis22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986518612400873652",
+        "in_reply_to_user_id": "1775154241415639040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986366580645859606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pardonmeok @Kenntnis22 隐藏款"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986366574601949185"
+          ]
+        },
+        "author_id": "1775154241415639040",
+        "conversation_id": "1986110546966392950",
+        "created_at": "2025-11-06T09:34:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T10:34:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986366580645859606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1535701819812462600",
+              "start": 0,
+              "username": "Kenntnis22"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/05VibFKaz9",
+              "end": 48,
+              "expanded_url": "https://x.com/pardonmeok/status/1986366580645859606/photo/1",
+              "media_key": "3_1986366574601949185",
+              "start": 25,
+              "url": "https://t.co/05VibFKaz9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986366580645859606",
+        "in_reply_to_user_id": "1535701819812462600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5609,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986110546966392950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kenntnis22 怎么我搜的靠山国家是台湾 https://t.co/05VibFKaz9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "没法活了，一切都是男的骗我，女的欠我，老的冤枉我，小的欺负我，中国的压迫我，外国的引诱我，身边的霸凌我，网上的取笑我，你们全都对不起我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1985535613857382587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 590,
+          "like_count": 7449,
+          "listed_count": 1,
+          "media_count": 456,
+          "tweet_count": 4104
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-02T13:32:18.000Z",
+        "description": "",
+        "id": "1775154241415639040",
+        "name": "Aokizy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961039941565366272/ePeQD90u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 10,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 6
+        },
+        "username": "pardonmeok",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-11T19:13:51.000Z",
+        "description": "朋友们的小圈子。不严肃、谢谢😑",
+        "id": "1535701819812462600",
+        "location": "London",
+        "name": "Iggie🚁",
+        "pinned_tweet_id": "1986236661341073571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1675314941966925824/0Sl6rg69_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42175,
+          "following_count": 340,
+          "like_count": 34127,
+          "listed_count": 207,
+          "media_count": 7100,
+          "tweet_count": 11104
+        },
+        "username": "Kenntnis22",
+        "verified": true
+      }
+    ]
+  }
+}

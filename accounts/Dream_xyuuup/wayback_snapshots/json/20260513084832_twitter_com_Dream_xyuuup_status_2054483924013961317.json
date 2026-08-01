@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "2054482996246491545",
+    "created_at": "2026-05-13T08:48:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T09:48:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054483924013961317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1724632804141785088",
+          "start": 0,
+          "username": "wdswbb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054483924013961317",
+    "in_reply_to_user_id": "1724632804141785088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054482996246491545",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wdswbb 为什么不说话！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "2054482996246491545",
+        "created_at": "2026-05-13T08:48:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T09:48:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054483924013961317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1724632804141785088",
+              "start": 0,
+              "username": "wdswbb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054483924013961317",
+        "in_reply_to_user_id": "1724632804141785088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054482996246491545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wdswbb 为什么不说话！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1724632804141785088",
+        "conversation_id": "2054482996246491545",
+        "created_at": "2026-05-13T08:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T09:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054482996246491545"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "LC’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1DxLd…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1DxLdvpYllRxm",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2054482997530050560/ax-F3vQA?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2054482997530050560/ax-F3vQA?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 他写的那首歌，是划破生死的纸",
+              "unwound_url": "https://twitter.com/i/spaces/1DxLdvpYllRxm/peek",
+              "url": "https://t.co/UjFFFs9auX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054482996246491545",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/UjFFFs9auX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "弈鸠，是谁？\nmtx,her/they,激女粉红点进就死\n*・x・*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "脚踩你爷爷登顶称王",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052421075716505600/5gcoclAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 517,
+          "following_count": 630,
+          "like_count": 8343,
+          "listed_count": 0,
+          "media_count": 588,
+          "tweet_count": 5842
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-15T03:38:05.000Z",
+        "description": "",
+        "id": "1724632804141785088",
+        "name": "LC",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787033321375145984/K8Xfgv2K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1138,
+          "following_count": 137,
+          "like_count": 2686,
+          "listed_count": 4,
+          "media_count": 163,
+          "tweet_count": 1108
+        },
+        "username": "wdswbb",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2016785894481752064"
+      ],
+      "media_source_tweet_id": [
+        "2016786042414928073"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2016840257875181947",
+    "created_at": "2026-01-29T11:46:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T12:46:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016840257875181947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1811888010088316932",
+          "start": 3,
+          "username": "cuichenghao7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UBcB0apPFC",
+          "end": 61,
+          "expanded_url": "https://x.com/cuichenghao7/status/2016786042414928073/video/1",
+          "media_key": "13_2016785894481752064",
+          "start": 38,
+          "url": "https://t.co/UBcB0apPFC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016840257875181947",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 39
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016786042414928073",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cuichenghao7: 玩具厂流出视频，网友看了连呼“解压”。 https://t.co/UBcB0apPFC"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28866,
+        "height": 1920,
+        "media_key": "13_2016785894481752064",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2016785894481752064/img/ndoOksyGNf2g6QyY.jpg",
+        "public_metrics": {
+          "view_count": 90860
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016785894481752064/vid/avc1/720x1556/94qnkBZZMgejzzfO.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016785894481752064/vid/avc1/320x690/J9gmcjPB2xewLQ58.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2016785894481752064/pl/ZH_Tyi123M83LvIt.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016785894481752064/vid/avc1/480x1036/miWQppwLq5en4bqb.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016785894481752064/vid/avc1/888x1920/XG1RPpEwE_NIls3O.mp4"
+          }
+        ],
+        "width": 888
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2016785894481752064"
+          ],
+          "media_source_tweet_id": [
+            "2016786042414928073"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2016840257875181947",
+        "created_at": "2026-01-29T11:46:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T12:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016840257875181947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1811888010088316932",
+              "start": 3,
+              "username": "cuichenghao7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UBcB0apPFC",
+              "end": 61,
+              "expanded_url": "https://x.com/cuichenghao7/status/2016786042414928073/video/1",
+              "media_key": "13_2016785894481752064",
+              "start": 38,
+              "url": "https://t.co/UBcB0apPFC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016840257875181947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 39
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016786042414928073",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cuichenghao7: 玩具厂流出视频，网友看了连呼“解压”。 https://t.co/UBcB0apPFC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2016785894481752064"
+          ]
+        },
+        "author_id": "1811888010088316932",
+        "conversation_id": "2016786042414928073",
+        "created_at": "2026-01-29T08:10:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T09:10:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016786042414928073"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UBcB0apPFC",
+              "end": 43,
+              "expanded_url": "https://x.com/cuichenghao7/status/2016786042414928073/video/1",
+              "media_key": "13_2016785894481752064",
+              "start": 20,
+              "url": "https://t.co/UBcB0apPFC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016786042414928073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 107,
+          "impression_count": 161371,
+          "like_count": 576,
+          "quote_count": 6,
+          "reply_count": 41,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "玩具厂流出视频，网友看了连呼“解压”。 https://t.co/UBcB0apPFC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "w39不想冲w4的wmc，有负面💊，歌品感人只是一个爱听kpop/cpop/edm的可怜人，性取向你猜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016795361961230336/4zuFQCyR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 599,
+          "like_count": 8013,
+          "listed_count": 1,
+          "media_count": 479,
+          "tweet_count": 4512
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T22:19:15.000Z",
+        "description": "心系平壤，从未离开。Heart in Pyongyang ,never left.",
+        "id": "1811888010088316932",
+        "location": "Kyoto",
+        "name": "作家崔成浩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926255631092092928/w0e8RIvy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78201,
+          "following_count": 594,
+          "like_count": 4365,
+          "listed_count": 269,
+          "media_count": 1999,
+          "tweet_count": 2144
+        },
+        "username": "cuichenghao7",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1893293087981740290",
+    "created_at": "2025-02-22T13:37:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-22T14:37:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893294088880873851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1875512847503073280",
+          "start": 0,
+          "username": "cinianxiaogou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893294088880873851",
+    "in_reply_to_user_id": "1875512847503073280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893293087981740290",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cinianxiaogou 玩得开心🥳"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 668,
+        "media_key": "3_1893293071200047105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkZUBGSWUAEEjLh.jpg",
+        "width": 1484
+      },
+      {
+        "height": 668,
+        "media_key": "3_1893293071925686272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkZUBI_WsAA2goT.jpg",
+        "width": 1484
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1893293072076939267",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkZUBJjaoAMUofY.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1893293080880480256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkZUBqWWAAAJ_jy.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1893293087981740290",
+        "created_at": "2025-02-22T13:37:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T14:37:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893294088880873851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1875512847503073280",
+              "start": 0,
+              "username": "cinianxiaogou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893294088880873851",
+        "in_reply_to_user_id": "1875512847503073280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893293087981740290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cinianxiaogou 玩得开心🥳"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893293071200047105",
+            "3_1893293071925686272",
+            "3_1893293072076939267",
+            "3_1893293080880480256"
+          ]
+        },
+        "author_id": "1875512847503073280",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1893293087981740290",
+        "created_at": "2025-02-22T13:33:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T14:33:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893293087981740290"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OIRDUX1dWu",
+              "end": 29,
+              "expanded_url": "https://x.com/cinianxiaogou/status/1893293087981740290/photo/1",
+              "media_key": "3_1893293071200047105",
+              "start": 6,
+              "url": "https://t.co/OIRDUX1dWu"
+            },
+            {
+              "display_url": "pic.x.com/OIRDUX1dWu",
+              "end": 29,
+              "expanded_url": "https://x.com/cinianxiaogou/status/1893293087981740290/photo/1",
+              "media_key": "3_1893293071925686272",
+              "start": 6,
+              "url": "https://t.co/OIRDUX1dWu"
+            },
+            {
+              "display_url": "pic.x.com/OIRDUX1dWu",
+              "end": 29,
+              "expanded_url": "https://x.com/cinianxiaogou/status/1893293087981740290/photo/1",
+              "media_key": "3_1893293072076939267",
+              "start": 6,
+              "url": "https://t.co/OIRDUX1dWu"
+            },
+            {
+              "display_url": "pic.x.com/OIRDUX1dWu",
+              "end": 29,
+              "expanded_url": "https://x.com/cinianxiaogou/status/1893293087981740290/photo/1",
+              "media_key": "3_1893293080880480256",
+              "start": 6,
+              "url": "https://t.co/OIRDUX1dWu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893293087981740290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为同学庆生 https://t.co/OIRDUX1dWu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "这是一本日记 可以把我视为现充 喜欢视奸#喵斯#有三次偶像#ISFP#🏳️‍🌈0.5",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dreamxy_uuup",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dreamxy_uuup",
+                "start": 0,
+                "url": "https://t.co/V4QSiptJcT"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠ltnh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892121675938004992/fWCivcy4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 78,
+          "like_count": 198,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 91
+        },
+        "url": "https://t.co/V4QSiptJcT",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-04T12:01:37.000Z",
+        "description": "It's GawenTruniK BITCH │汉语 English 한국어 Français（在学\n│🌈│♂│vers偏top│高中生│183 57│爱生活 喜欢记录生活 有强分享欲 喜欢交友但是不擅长说话聊天找话题│里@cinianniannian 过熟人 钞除外│小号@GawenTruniK_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 111,
+                "username": "cinianniannian"
+              },
+              {
+                "end": 150,
+                "start": 137,
+                "username": "GawenTruniK_"
+              }
+            ]
+          }
+        },
+        "id": "1875512847503073280",
+        "name": "辞年",
+        "pinned_tweet_id": "1890657734191681871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888286884604051456/w8jlKkVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 58,
+          "like_count": 1067,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 293
+        },
+        "username": "cinianxiaogou",
+        "verified": false
+      }
+    ]
+  }
+}

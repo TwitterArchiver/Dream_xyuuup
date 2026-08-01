@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1924630599081591146",
+    "created_at": "2025-05-20T01:07:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-20T02:07:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924633067903451612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1518205286896570368",
+          "start": 0,
+          "username": "ricaeing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924633067903451612",
+    "in_reply_to_user_id": "1518205286896570368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924631987421380703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ricaeing 我昨天在学校一直很焦虑不快乐投入不了学习，想请假班主任还不在，我就今天早上去请的假我想在家待几天休息我就跟我妈说我妈就一直在叫我学在家学好像我不会累似的听不懂话，如果我可以去看心理科就好了但我不敢说，去诊所开了一堆管气虚失眠的口服液"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1924630599081591146",
+        "created_at": "2025-05-20T01:07:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T02:07:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924633067903451612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1518205286896570368",
+              "start": 0,
+              "username": "ricaeing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924633067903451612",
+        "in_reply_to_user_id": "1518205286896570368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924631987421380703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ricaeing 我昨天在学校一直很焦虑不快乐投入不了学习，想请假班主任还不在，我就今天早上去请的假我想在家待几天休息我就跟我妈说我妈就一直在叫我学在家学好像我不会累似的听不懂话，如果我可以去看心理科就好了但我不敢说，去诊所开了一堆管气虚失眠的口服液"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518205286896570368",
+        "conversation_id": "1924630599081591146",
+        "created_at": "2025-05-20T01:03:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T02:03:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924631987421380703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1726051028112744448",
+              "start": 0,
+              "username": "Dream_xyuuup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924631987421380703",
+        "in_reply_to_user_id": "1726051028112744448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924630599081591146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dream_xyuuup 怎么了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "废话多｜对所有人友好除了现生｜最可爱的小宝宝@QLing61007 😽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1917423348302467396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905913123158298624/ClLLrGxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 426,
+          "like_count": 4361,
+          "listed_count": 1,
+          "media_count": 204,
+          "tweet_count": 1923
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-24T12:28:57.000Z",
+        "description": "💐\n匿名👉🏻https://t.co/Vn9bHRzSFR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ricaeing",
+                "end": 29,
+                "expanded_url": "https://ngl.link/ricaeing",
+                "start": 6,
+                "url": "https://t.co/Vn9bHRzSFR"
+              }
+            ]
+          }
+        },
+        "id": "1518205286896570368",
+        "name": "朝桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921802394746150913/kich2dad_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 218,
+          "like_count": 1664,
+          "listed_count": 1,
+          "media_count": 142,
+          "tweet_count": 1676
+        },
+        "username": "ricaeing",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1941333174530998416",
+    "created_at": "2025-07-05T04:38:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T05:38:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941356068849975553"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1618314905475743749",
+          "start": 0,
+          "username": "CuOqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941356068849975553",
+    "in_reply_to_user_id": "1618314905475743749",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941355329314578516",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CuOqwq 我知道了 谢谢🥹🥹爱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1941333174530998416",
+        "created_at": "2025-07-05T04:38:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T05:38:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941356068849975553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1618314905475743749",
+              "start": 0,
+              "username": "CuOqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941356068849975553",
+        "in_reply_to_user_id": "1618314905475743749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941355329314578516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CuOqwq 我知道了 谢谢🥹🥹爱你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1618314905475743749",
+        "conversation_id": "1941333174530998416",
+        "created_at": "2025-07-05T04:35:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T05:35:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941355329314578516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1726051028112744448",
+              "start": 0,
+              "username": "Dream_xyuuup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941355329314578516",
+        "in_reply_to_user_id": "1726051028112744448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941333174530998416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dream_xyuuup 不要再割了，会很难看的qwq\n要好好处理一下啊不要感染力，特别是现在夏天热"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "yì jīu｜喜欢做梦｜我觉得我很温柔。｜可爱的人@QLing61007",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933432998864826371/0SiPerD5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 504,
+          "like_count": 6041,
+          "listed_count": 0,
+          "media_count": 321,
+          "tweet_count": 2859
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-25T18:28:45.000Z",
+        "description": "我是神经病qwq",
+        "id": "1618314905475743749",
+        "location": "重庆",
+        "name": "CuO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940797879205109760/v0Wl0hDL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 110,
+          "like_count": 355,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 63
+        },
+        "username": "CuOqwq",
+        "verified": false
+      }
+    ]
+  }
+}

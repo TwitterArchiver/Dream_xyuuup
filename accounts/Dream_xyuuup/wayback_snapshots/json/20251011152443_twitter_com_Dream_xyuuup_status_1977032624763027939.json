@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1976797694934106113"
+      ],
+      "media_source_tweet_id": [
+        "1976797742006772025"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1977032624763027939",
+    "created_at": "2025-10-11T15:24:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T16:24:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977032624763027939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1790370144755351552",
+          "start": 3,
+          "username": "FurinaDF"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/poAKewo2rp",
+          "end": 37,
+          "expanded_url": "https://x.com/FurinaDF/status/1976797742006772025/video/1",
+          "media_key": "13_1976797694934106113",
+          "start": 14,
+          "url": "https://t.co/poAKewo2rp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977032624763027939",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 51
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976797742006772025",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FurinaDF: https://t.co/poAKewo2rp"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9900,
+        "height": 464,
+        "media_key": "13_1976797694934106113",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1976797694934106113/img/7pyixzsLU9lBfCl3.jpg",
+        "public_metrics": {
+          "view_count": 8400
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1976797694934106113/vid/avc1/492x270/fXHL9C_DNuDsUTd3.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1976797694934106113/vid/avc1/848x464/s6Pyndk9bXFY__o1.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1976797694934106113/pl/QtLrGRGjC5KOj8f4.m3u8?tag=14"
+          }
+        ],
+        "width": 848
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1976797694934106113"
+          ],
+          "media_source_tweet_id": [
+            "1976797742006772025"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1977032624763027939",
+        "created_at": "2025-10-11T15:24:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T16:24:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977032624763027939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1790370144755351552",
+              "start": 3,
+              "username": "FurinaDF"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/poAKewo2rp",
+              "end": 37,
+              "expanded_url": "https://x.com/FurinaDF/status/1976797742006772025/video/1",
+              "media_key": "13_1976797694934106113",
+              "start": 14,
+              "url": "https://t.co/poAKewo2rp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977032624763027939",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 51
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976797742006772025",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FurinaDF: https://t.co/poAKewo2rp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1976797694934106113"
+          ]
+        },
+        "author_id": "1790370144755351552",
+        "conversation_id": "1976797742006772025",
+        "created_at": "2025-10-10T23:51:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T00:51:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976797742006772025"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/poAKewo2rp",
+              "end": 23,
+              "expanded_url": "https://x.com/FurinaDF/status/1976797742006772025/video/1",
+              "media_key": "13_1976797694934106113",
+              "start": 0,
+              "url": "https://t.co/poAKewo2rp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976797742006772025",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 84,
+          "impression_count": 22352,
+          "like_count": 390,
+          "quote_count": 3,
+          "reply_count": 36,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/poAKewo2rp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "我自私，病态，阴暗，偏执。所有大度、不在乎都是我的伪装。我窥探你的生活，揣测你的文案，解读你分享的一切，观察你身边的人，盯着你的照片妄想找到蛛丝马迹。我敏感，善变多疑，斤斤计较你多看别人的一眼。我爱你，你本来就应该乖乖待在我身边。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1953828269977219114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 577,
+          "like_count": 7156,
+          "listed_count": 1,
+          "media_count": 441,
+          "tweet_count": 3925
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T13:15:08.000Z",
+        "description": "偷井盖专家，河南驻马店实验小学四年级在读@yongchuTaffyOwO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "yongchuTaffyOwO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/langrenxinwenc…",
+                "end": 23,
+                "expanded_url": "http://t.me/langrenxinwenchonglangtv",
+                "start": 0,
+                "url": "https://t.co/69nE3RLR6O"
+              }
+            ]
+          }
+        },
+        "id": "1790370144755351552",
+        "location": "Oregon",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909485043128434688/z-ZbsFFG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55434,
+          "following_count": 2341,
+          "like_count": 29116,
+          "listed_count": 159,
+          "media_count": 7107,
+          "tweet_count": 11602
+        },
+        "url": "https://t.co/69nE3RLR6O",
+        "username": "FurinaDF",
+        "verified": false
+      }
+    ]
+  }
+}

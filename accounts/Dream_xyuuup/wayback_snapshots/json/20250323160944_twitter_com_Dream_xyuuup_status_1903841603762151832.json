@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1903841475454198081",
+    "created_at": "2025-03-23T16:09:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-23T17:09:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903841603762151832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1614826297091592198",
+          "start": 0,
+          "username": "Winter_yoki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903841603762151832",
+    "in_reply_to_user_id": "1614826297091592198",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903841475454198081",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Winter_yoki 是酷麦！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1903841462195978240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmvNuQ7aAAAAmwp.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1903841475454198081",
+        "created_at": "2025-03-23T16:09:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T17:09:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903841603762151832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1614826297091592198",
+              "start": 0,
+              "username": "Winter_yoki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903841603762151832",
+        "in_reply_to_user_id": "1614826297091592198",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903841475454198081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Winter_yoki 是酷麦！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1903841462195978240"
+          ]
+        },
+        "author_id": "1614826297091592198",
+        "conversation_id": "1903841475454198081",
+        "created_at": "2025-03-23T16:09:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T17:09:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903841475454198081"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "新头像"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z6EpAEdSVQ",
+              "end": 28,
+              "expanded_url": "https://x.com/Winter_yoki/status/1903841475454198081/photo/1",
+              "media_key": "3_1903841462195978240",
+              "start": 5,
+              "url": "https://t.co/Z6EpAEdSVQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903841475454198081",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#新头像 https://t.co/Z6EpAEdSVQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "喜欢你૮ •𖥦• აᐝ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dreamxy_uuup",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dreamxy_uuup",
+                "start": 0,
+                "url": "https://t.co/V4QSiptbnl"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠ltnh",
+        "pinned_tweet_id": "1898320029139214432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896250221824520192/PpwkphAn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 205,
+          "like_count": 1383,
+          "listed_count": 2,
+          "media_count": 95,
+          "tweet_count": 700
+        },
+        "url": "https://t.co/V4QSiptbnl",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-16T03:26:15.000Z",
+        "description": "I really really really really really really like you",
+        "id": "1614826297091592198",
+        "name": "Ms.winter",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903841441937502208/cqauzzrE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1752,
+          "following_count": 536,
+          "like_count": 9034,
+          "listed_count": 2,
+          "media_count": 221,
+          "tweet_count": 3774
+        },
+        "username": "Winter_yoki",
+        "verified": false
+      }
+    ]
+  }
+}

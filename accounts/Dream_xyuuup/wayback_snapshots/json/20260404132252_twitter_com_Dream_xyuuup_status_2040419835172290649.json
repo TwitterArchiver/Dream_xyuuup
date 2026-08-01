@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040280587068674048",
+        "3_2040280587081273344"
+      ],
+      "media_source_tweet_id": [
+        "2040280600402337926",
+        "2040280600402337926"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "2040419835172290649",
+    "created_at": "2026-04-04T13:22:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T14:22:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040419835172290649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1966023688006078464",
+          "start": 3,
+          "username": "callme_mom_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/61slKfp2EG",
+          "end": 65,
+          "expanded_url": "https://x.com/callme_mom_/status/2040280600402337926/photo/1",
+          "media_key": "3_2040280587068674048",
+          "start": 42,
+          "url": "https://t.co/61slKfp2EG"
+        },
+        {
+          "display_url": "pic.x.com/61slKfp2EG",
+          "end": 65,
+          "expanded_url": "https://x.com/callme_mom_/status/2040280600402337926/photo/1",
+          "media_key": "3_2040280587081273344",
+          "start": 42,
+          "url": "https://t.co/61slKfp2EG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040419835172290649",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040280600402337926",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @callme_mom_: 至今不理解喷张元英的人到底啥心理？美的我目瞪口呆 https://t.co/61slKfp2EG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2040280587068674048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFCIYlJakAA-6zn.jpg",
+        "width": 1381
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2040280587081273344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFCIYlMa0AAdUSa.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040280587068674048",
+            "3_2040280587081273344"
+          ],
+          "media_source_tweet_id": [
+            "2040280600402337926",
+            "2040280600402337926"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "2040419835172290649",
+        "created_at": "2026-04-04T13:22:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T14:22:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040419835172290649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1966023688006078464",
+              "start": 3,
+              "username": "callme_mom_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/61slKfp2EG",
+              "end": 65,
+              "expanded_url": "https://x.com/callme_mom_/status/2040280600402337926/photo/1",
+              "media_key": "3_2040280587068674048",
+              "start": 42,
+              "url": "https://t.co/61slKfp2EG"
+            },
+            {
+              "display_url": "pic.x.com/61slKfp2EG",
+              "end": 65,
+              "expanded_url": "https://x.com/callme_mom_/status/2040280600402337926/photo/1",
+              "media_key": "3_2040280587081273344",
+              "start": 42,
+              "url": "https://t.co/61slKfp2EG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040419835172290649",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040280600402337926",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @callme_mom_: 至今不理解喷张元英的人到底啥心理？美的我目瞪口呆 https://t.co/61slKfp2EG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040280587068674048",
+            "3_2040280587081273344"
+          ]
+        },
+        "author_id": "1966023688006078464",
+        "conversation_id": "2040280600402337926",
+        "created_at": "2026-04-04T04:09:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T05:09:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040280600402337926"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/61slKfp2EG",
+              "end": 48,
+              "expanded_url": "https://x.com/callme_mom_/status/2040280600402337926/photo/1",
+              "media_key": "3_2040280587068674048",
+              "start": 25,
+              "url": "https://t.co/61slKfp2EG"
+            },
+            {
+              "display_url": "pic.x.com/61slKfp2EG",
+              "end": 48,
+              "expanded_url": "https://x.com/callme_mom_/status/2040280600402337926/photo/1",
+              "media_key": "3_2040280587081273344",
+              "start": 25,
+              "url": "https://t.co/61slKfp2EG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040280600402337926",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 32028,
+          "like_count": 566,
+          "quote_count": 1,
+          "reply_count": 23,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "至今不理解喷张元英的人到底啥心理？美的我目瞪口呆 https://t.co/61slKfp2EG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "enby｜音游｜歌品感人kpop cpop edm都有涉猎｜芙4心2礼3｜165 50｜*・x・*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030145687112081408/jkx9VSSZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 624,
+          "like_count": 7994,
+          "listed_count": 1,
+          "media_count": 495,
+          "tweet_count": 4831
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-11T06:19:22.000Z",
+        "description": "励志戒色者 辱追心肝者 屁话很多者 粉籍混乱者 原创博文者",
+        "id": "1966023688006078464",
+        "location": "纪实生活",
+        "name": "豆比（戒色Ⅱday11）",
+        "pinned_tweet_id": "2014700169649131645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032026850042724352/ae3c6yko_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1931,
+          "following_count": 101,
+          "like_count": 2796,
+          "listed_count": 0,
+          "media_count": 169,
+          "tweet_count": 2290
+        },
+        "username": "callme_mom_",
+        "verified": false
+      }
+    ]
+  }
+}

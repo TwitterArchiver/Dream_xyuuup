@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1913130544273199613",
+    "created_at": "2025-04-18T08:49:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-18T09:49:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913152805281681883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1907759499232030722",
+          "start": 0,
+          "username": "kohaku12345666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913152805281681883",
+    "in_reply_to_user_id": "1907759499232030722",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913130544273199613",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kohaku12345666 天哪萌死了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9300,
+        "height": 1280,
+        "media_key": "13_1913130440476725248",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1913130440476725248/img/s1dxo6ZrUl9QQ59o.jpg",
+        "public_metrics": {
+          "view_count": 2
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1913130440476725248/vid/avc1/320x568/urMcVRKjP-27PU3a.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1913130440476725248/vid/avc1/480x852/uHFCR7E84wDhPxtt.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1913130440476725248/vid/avc1/720x1280/tKQvWlsHzYn9W-CE.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1913130440476725248/pl/uFKAdtWGPkd1tcz-.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1913130544273199613",
+        "created_at": "2025-04-18T08:49:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T09:49:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913152805281681883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1907759499232030722",
+              "start": 0,
+              "username": "kohaku12345666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913152805281681883",
+        "in_reply_to_user_id": "1907759499232030722",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913130544273199613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kohaku12345666 天哪萌死了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1913130440476725248"
+          ]
+        },
+        "author_id": "1907759499232030722",
+        "conversation_id": "1913130544273199613",
+        "created_at": "2025-04-18T07:20:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T08:20:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913130544273199613"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BUec0Eeoi2",
+              "end": 29,
+              "expanded_url": "https://x.com/kohaku12345666/status/1913130544273199613/video/1",
+              "media_key": "13_1913130440476725248",
+              "start": 6,
+              "url": "https://t.co/BUec0Eeoi2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913130544273199613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真是没救了 https://t.co/BUec0Eeoi2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "负能多废话多，对所有人友善除了现生。｜最可爱的小宝宝@QLing61007 😽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠ltnh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905913123158298624/ClLLrGxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 373,
+          "like_count": 3474,
+          "listed_count": 1,
+          "media_count": 171,
+          "tweet_count": 1507
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-03T11:38:18.000Z",
+        "description": "^ ⦁ ⩊ ⦁ ^喜欢我是不会错的",
+        "id": "1907759499232030722",
+        "location": "天國",
+        "name": "喜歡的就是如此可愛的你",
+        "pinned_tweet_id": "1912032367189041517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907760340143882240/ds_nzbEK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 27,
+          "like_count": 173,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 199
+        },
+        "username": "kohaku12345666",
+        "verified": false
+      }
+    ]
+  }
+}

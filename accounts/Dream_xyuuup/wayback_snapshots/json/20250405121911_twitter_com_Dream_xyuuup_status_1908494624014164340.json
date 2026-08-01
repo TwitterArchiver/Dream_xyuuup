@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1908493643243298848",
+    "created_at": "2025-04-05T12:19:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T13:19:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908494624014164340"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1806972371607474176",
+          "start": 0,
+          "username": "QiongliBAKA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908494624014164340",
+    "in_reply_to_user_id": "1806972371607474176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908493643243298848",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QiongliBAKA 可以拍恐怖片的程度"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25695,
+        "height": 1280,
+        "media_key": "13_1908493518760484864",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1908493518760484864/img/xdpZAfcT6A0ZIfQR.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1908493518760484864/vid/avc1/320x568/8bWW2_dRaWXTxQU1.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1908493518760484864/vid/avc1/480x852/HOT2Pr_YpsnyDbJE.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1908493518760484864/vid/avc1/720x1280/cRIRSOBCD2fzfH6N.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1908493518760484864/pl/hhTXHBj8rMsN2vSE.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1908493643243298848",
+        "created_at": "2025-04-05T12:19:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T13:19:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908494624014164340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1806972371607474176",
+              "start": 0,
+              "username": "QiongliBAKA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908494624014164340",
+        "in_reply_to_user_id": "1806972371607474176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908493643243298848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QiongliBAKA 可以拍恐怖片的程度"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1908493518760484864"
+          ]
+        },
+        "author_id": "1806972371607474176",
+        "conversation_id": "1908493643243298848",
+        "created_at": "2025-04-05T12:15:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T13:15:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908493643243298848"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5g820qqumY",
+              "end": 28,
+              "expanded_url": "https://x.com/QiongliBAKA/status/1908493643243298848/video/1",
+              "media_key": "13_1908493518760484864",
+              "start": 5,
+              "url": "https://t.co/5g820qqumY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908493643243298848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "经典报音 https://t.co/5g820qqumY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "数学满分是假的数学家也是假的数学没及格过最近一次考试32/100嗯你们不要接了 积极宣扬负能量 对所有人温良除了现生",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠ltnh（未来最厉害的数学家数学满分版😋）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905913123158298624/ClLLrGxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 332,
+          "like_count": 3053,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 1276
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T08:46:10.000Z",
+        "description": "在网络的海洋里游啊,超级笨蛋，10后（10/06/15）14岁，必回关！想交朋友QAQ！辽宁海城人‖INFP‖可Q，想聊天！有偏执，容易怀疑别人『望涨fo』 |||提问我：https://t.co/HvlLXADoLR ||| 全是好朋友（无证含糖🍥）HRT:2025/3/19深柜中｛断糖｝⬇️赞赏码（小声",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qiongli",
+                "end": 109,
+                "expanded_url": "https://ngl.link/qiongli",
+                "start": 86,
+                "url": "https://t.co/HvlLXADoLR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/acgbaka233ba/s…",
+                "end": 23,
+                "expanded_url": "https://x.com/acgbaka233ba/status/1903093167500694007?s=46",
+                "start": 0,
+                "url": "https://t.co/44irzZpvFS"
+              }
+            ]
+          }
+        },
+        "id": "1806972371607474176",
+        "location": "fufu软软的脑袋上",
+        "name": "是穹璃捏🍥🏳‍⚧",
+        "pinned_tweet_id": "1903093167500694007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908354645971648512/KDoNGfir_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 971,
+          "following_count": 1049,
+          "like_count": 7149,
+          "listed_count": 3,
+          "media_count": 152,
+          "tweet_count": 2149
+        },
+        "url": "https://t.co/44irzZpvFS",
+        "username": "QiongliBAKA",
+        "verified": false
+      }
+    ]
+  }
+}

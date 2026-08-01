@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1932403073739268160",
+    "created_at": "2025-06-10T12:06:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T13:06:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932408926261383292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1888908122947010560",
+          "start": 0,
+          "username": "AFeiSigniFy__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932408926261383292",
+    "in_reply_to_user_id": "1888908122947010560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932403073739268160",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AFeiSigniFy__ 可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1932403068907425792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtFGWlUaEAAnM-M.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1932403073739268160",
+        "created_at": "2025-06-10T12:06:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T13:06:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932408926261383292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1888908122947010560",
+              "start": 0,
+              "username": "AFeiSigniFy__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932408926261383292",
+        "in_reply_to_user_id": "1888908122947010560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932403073739268160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AFeiSigniFy__ 可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932403068907425792"
+          ]
+        },
+        "author_id": "1888908122947010560",
+        "conversation_id": "1932403073739268160",
+        "created_at": "2025-06-10T11:42:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T12:42:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932403073739268160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rQUAx2kRzB",
+              "end": 31,
+              "expanded_url": "https://x.com/AFeiSigniFy__/status/1932403073739268160/photo/1",
+              "media_key": "3_1932403068907425792",
+              "start": 8,
+              "url": "https://t.co/rQUAx2kRzB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932403073739268160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "俊雄小屁孩时候 https://t.co/rQUAx2kRzB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "偏远乡村学校在读 我应该不会再影响别人了 接下来有一个event 成分复杂 对所有人友好除了现生 最可爱的小宝宝@QLing61007 😽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 56,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "胜利的弈鸠",
+        "pinned_tweet_id": "1931176332370813214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924678380655673348/VxgKyXwf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 461,
+          "like_count": 5216,
+          "listed_count": 0,
+          "media_count": 256,
+          "tweet_count": 2339
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-10T11:09:37.000Z",
+        "description": "你好 这里是俊雄 ✨：@falltal979 拒绝高浓度鉴证  好盆友们：@luoyu1212 @huai_anyimeng @zi_bu84309 @hyper114514 @cinianxiaogou @weitianOVO02 负能推@hzzh519720 神秘传送门@xingjn554471",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "falltal979"
+              },
+              {
+                "end": 47,
+                "start": 37,
+                "username": "luoyu1212"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "huai_anyimeng"
+              },
+              {
+                "end": 74,
+                "start": 63,
+                "username": "zi_bu84309"
+              },
+              {
+                "end": 87,
+                "start": 75,
+                "username": "hyper114514"
+              },
+              {
+                "end": 102,
+                "start": 88,
+                "username": "cinianxiaogou"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "weitianOVO02"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "hzzh519720"
+              },
+              {
+                "end": 150,
+                "start": 137,
+                "username": "xingjn554471"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "music.163.com/artist?id=3443…",
+                "end": 23,
+                "expanded_url": "http://music.163.com/artist?id=34439537&userid=2074403262",
+                "start": 0,
+                "url": "https://t.co/JyLeCILb0q"
+              }
+            ]
+          }
+        },
+        "id": "1888908122947010560",
+        "location": "乌苏里江里",
+        "name": "俊雄雄雄_AFeiSigniFy",
+        "pinned_tweet_id": "1924135154689445896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895779842253340672/ohAX2aGP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 978,
+          "following_count": 1186,
+          "like_count": 19503,
+          "listed_count": 1,
+          "media_count": 380,
+          "tweet_count": 4105
+        },
+        "url": "https://t.co/JyLeCILb0q",
+        "username": "AFeiSigniFy__",
+        "verified": false
+      }
+    ]
+  }
+}

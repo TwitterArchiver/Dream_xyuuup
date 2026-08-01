@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987798243661824000"
+      ],
+      "media_source_tweet_id": [
+        "1987798252138398212"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "1988101403366359085",
+    "created_at": "2025-11-11T04:28:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T05:28:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988101403366359085"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1619337971039350784",
+          "start": 3,
+          "username": "LEEROUXIMoe1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OX3m9tfSB1",
+          "end": 46,
+          "expanded_url": "https://x.com/LEEROUXIMoe1/status/1987798252138398212/photo/1",
+          "media_key": "3_1987798243661824000",
+          "start": 23,
+          "url": "https://t.co/OX3m9tfSB1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988101403366359085",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 67
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987798252138398212",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LEEROUXIMoe1: 我目前： https://t.co/OX3m9tfSB1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1987798243661824000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5YT-IabwAACNUy.jpg",
+        "width": 1066
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987798243661824000"
+          ],
+          "media_source_tweet_id": [
+            "1987798252138398212"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "1988101403366359085",
+        "created_at": "2025-11-11T04:28:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T05:28:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988101403366359085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1619337971039350784",
+              "start": 3,
+              "username": "LEEROUXIMoe1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OX3m9tfSB1",
+              "end": 46,
+              "expanded_url": "https://x.com/LEEROUXIMoe1/status/1987798252138398212/photo/1",
+              "media_key": "3_1987798243661824000",
+              "start": 23,
+              "url": "https://t.co/OX3m9tfSB1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988101403366359085",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 67
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987798252138398212",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LEEROUXIMoe1: 我目前： https://t.co/OX3m9tfSB1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987798243661824000"
+          ]
+        },
+        "author_id": "1619337971039350784",
+        "conversation_id": "1987798252138398212",
+        "created_at": "2025-11-10T08:23:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T09:23:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987798252138398212"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OX3m9tfSB1",
+              "end": 28,
+              "expanded_url": "https://x.com/LEEROUXIMoe1/status/1987798252138398212/photo/1",
+              "media_key": "3_1987798243661824000",
+              "start": 5,
+              "url": "https://t.co/OX3m9tfSB1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987798252138398212",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 75,
+          "impression_count": 15844,
+          "like_count": 1388,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 67
+        },
+        "reply_settings": "everyone",
+        "text": "我目前： https://t.co/OX3m9tfSB1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "没法活了，一切都是男的骗我，女的欠我，老的冤枉我，小的欺负我，中国的压迫我，外国的引诱我，身边的霸凌我，网上的取笑我，你们全都对不起我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1985535613857382587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 594,
+          "like_count": 7473,
+          "listed_count": 1,
+          "media_count": 457,
+          "tweet_count": 4118
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-28T14:14:33.000Z",
+        "description": "=洛意 嘴贱乐子人一个 上推就是说我想说的而已蒽",
+        "id": "1619337971039350784",
+        "name": "Shirayuki Shizuku",
+        "pinned_tweet_id": "1944039207158395257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934061783238742016/stHrJrvt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 524,
+          "like_count": 3239,
+          "listed_count": 3,
+          "media_count": 40,
+          "tweet_count": 2640
+        },
+        "username": "LEEROUXIMoe1",
+        "verified": false
+      }
+    ]
+  }
+}

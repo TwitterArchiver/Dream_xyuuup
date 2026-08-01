@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1901593786960228352"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "1901593857403625795",
+    "created_at": "2025-03-17T11:18:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-17T12:18:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1901593857403625795"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sFvcKJA6HA",
+          "end": 39,
+          "expanded_url": "https://x.com/Dream_xyuuup/status/1901593857403625795/video/1",
+          "media_key": "13_1901593786960228352",
+          "start": 16,
+          "url": "https://t.co/sFvcKJA6HA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901593857403625795",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "那些能打得过我的，我不跟你打。 https://t.co/sFvcKJA6HA"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15418,
+        "height": 720,
+        "media_key": "13_1901593786960228352",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1901593786960228352/img/0uF2FF5yE2CkWrhe.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1901593786960228352/vid/avc1/480x270/jGgDjpA_uW4pPSzx.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1901593786960228352/vid/avc1/640x360/NgE0j9fa4JT1NRa-.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1901593786960228352/vid/avc1/1280x720/iK0x8bTunYcJs8Vr.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1901593786960228352/pl/fqX9xQdbEP7aw8ta.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1901593786960228352"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "1901593857403625795",
+        "created_at": "2025-03-17T11:18:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T12:18:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901593857403625795"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sFvcKJA6HA",
+              "end": 39,
+              "expanded_url": "https://x.com/Dream_xyuuup/status/1901593857403625795/video/1",
+              "media_key": "13_1901593786960228352",
+              "start": 16,
+              "url": "https://t.co/sFvcKJA6HA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901593857403625795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那些能打得过我的，我不跟你打。 https://t.co/sFvcKJA6HA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "这是一本日记 喜欢视奸 互fo请赞自介条",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dreamxy_uuup",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dreamxy_uuup",
+                "start": 0,
+                "url": "https://t.co/V4QSiptJcT"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠ltnh",
+        "pinned_tweet_id": "1898320029139214432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896250221824520192/PpwkphAn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 191,
+          "like_count": 1154,
+          "listed_count": 1,
+          "media_count": 80,
+          "tweet_count": 583
+        },
+        "url": "https://t.co/V4QSiptJcT",
+        "username": "Dream_xyuuup",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1772210272008343552"
+      ],
+      "media_source_tweet_id": [
+        "1772210329759404183"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "1910790846540362099",
+    "created_at": "2025-04-11T20:23:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-11T21:23:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910790846540362099"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 32,
+          "normalized_text": "lucky girl syndrome",
+          "probability": 0.7004,
+          "start": 14,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1668296253615263745",
+          "start": 3,
+          "username": "mokaspic"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FF2OgYN9BJ",
+          "end": 58,
+          "expanded_url": "https://x.com/m0kas2/status/1772210329759404183/video/1",
+          "media_key": "13_1772210272008343552",
+          "start": 35,
+          "url": "https://t.co/FF2OgYN9BJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910790846540362099",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 308
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910244392809472164",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mokaspic: lucky girl syndrome \nhttps://t.co/FF2OgYN9BJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4015,
+        "height": 886,
+        "media_key": "13_1772210272008343552",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1772210272008343552/img/F4gcPi1WTf45hvFc.jpg",
+        "public_metrics": {
+          "view_count": 50757
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1772210272008343552/vid/avc1/320x320/x281ePJagfCO_2ru.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1772210272008343552/vid/avc1/540x540/PBiQ848WZctNvMAA.mp4?tag=14"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1772210272008343552/vid/avc1/720x720/ZBphceSRqJmbAFs7.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1772210272008343552/pl/VaXPMw9RLmAV1pDh.m3u8?tag=14"
+          }
+        ],
+        "width": 886
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1772210272008343552"
+          ],
+          "media_source_tweet_id": [
+            "1772210329759404183"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "1910790846540362099",
+        "created_at": "2025-04-11T20:23:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-11T21:23:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910790846540362099"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "lucky girl syndrome",
+              "probability": 0.7004,
+              "start": 14,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1668296253615263745",
+              "start": 3,
+              "username": "mokaspic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FF2OgYN9BJ",
+              "end": 58,
+              "expanded_url": "https://x.com/m0kas2/status/1772210329759404183/video/1",
+              "media_key": "13_1772210272008343552",
+              "start": 35,
+              "url": "https://t.co/FF2OgYN9BJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910790846540362099",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 308
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910244392809472164",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mokaspic: lucky girl syndrome \nhttps://t.co/FF2OgYN9BJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1772210272008343552"
+          ],
+          "media_source_tweet_id": [
+            "1772210329759404183"
+          ]
+        },
+        "author_id": "1668296253615263745",
+        "conversation_id": "1910244392809472164",
+        "created_at": "2025-04-10T08:12:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-10T09:12:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1910244392809472164"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "lucky girl syndrome",
+              "probability": 0.8456,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FF2OgYN9BJ",
+              "end": 44,
+              "expanded_url": "https://x.com/m0kas2/status/1772210329759404183/video/1",
+              "media_key": "13_1772210272008343552",
+              "start": 21,
+              "url": "https://t.co/FF2OgYN9BJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910244392809472164",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 118,
+          "impression_count": 24513,
+          "like_count": 2133,
+          "quote_count": 13,
+          "reply_count": 0,
+          "retweet_count": 308
+        },
+        "reply_settings": "everyone",
+        "text": "lucky girl syndrome \nhttps://t.co/FF2OgYN9BJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "矮子，对所有人友好，话多，喜欢看棒子和打音游",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠ltnh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905913123158298624/ClLLrGxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 350,
+          "like_count": 3197,
+          "listed_count": 1,
+          "media_count": 153,
+          "tweet_count": 1363
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-12T16:37:13.000Z",
+        "description": "—  for ILLIT's #모카  .𖥔 ݁ ˖  bu: @mokapicss 𐙚",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 18,
+                "start": 15,
+                "tag": "모카"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 42,
+                "start": 32,
+                "username": "mokapicss"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mokaspic.carrd.co",
+                "end": 23,
+                "expanded_url": "http://mokaspic.carrd.co",
+                "start": 0,
+                "url": "https://t.co/6RuKPvoXdR"
+              }
+            ]
+          }
+        },
+        "id": "1668296253615263745",
+        "name": "moka pics",
+        "pinned_tweet_id": "1882386812905374021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895091721186201600/xapBSrt2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27801,
+          "following_count": 37,
+          "like_count": 4344,
+          "listed_count": 148,
+          "media_count": 3268,
+          "tweet_count": 4071
+        },
+        "url": "https://t.co/6RuKPvoXdR",
+        "username": "mokaspic",
+        "verified": false
+      }
+    ]
+  }
+}

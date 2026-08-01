@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1931326189597347840"
+      ],
+      "media_source_tweet_id": [
+        "1931326337702322391"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "1931548341709725722",
+    "created_at": "2025-06-08T03:06:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T04:06:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931548341709725722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1668296253615263745",
+          "start": 3,
+          "username": "mokaspic"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/r9P6RBHubT",
+          "end": 41,
+          "expanded_url": "https://x.com/cllurzoldyck/status/1931326337702322391/video/1",
+          "media_key": "13_1931326189597347840",
+          "start": 18,
+          "url": "https://t.co/r9P6RBHubT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931548341709725722",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 194
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931338094663303530",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mokaspic: 大好き https://t.co/r9P6RBHubT"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1766,
+        "height": 1280,
+        "media_key": "13_1931326189597347840",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1931326189597347840/img/OklZNKIKKWvDvL7b.jpg",
+        "public_metrics": {
+          "view_count": 16075
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1931326189597347840/vid/avc1/320x568/4XY0mdbuRksGegse.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1931326189597347840/vid/avc1/480x852/JY2zJDd3pStnQtqE.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1931326189597347840/vid/avc1/720x1280/DRN5-njN5ruCodyj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1931326189597347840/pl/ersu5IQlvTkKLzcS.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1931326189597347840"
+          ],
+          "media_source_tweet_id": [
+            "1931326337702322391"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "1931548341709725722",
+        "created_at": "2025-06-08T03:06:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T04:06:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931548341709725722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1668296253615263745",
+              "start": 3,
+              "username": "mokaspic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r9P6RBHubT",
+              "end": 41,
+              "expanded_url": "https://x.com/cllurzoldyck/status/1931326337702322391/video/1",
+              "media_key": "13_1931326189597347840",
+              "start": 18,
+              "url": "https://t.co/r9P6RBHubT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931548341709725722",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 194
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931338094663303530",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mokaspic: 大好き https://t.co/r9P6RBHubT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1931326189597347840"
+          ],
+          "media_source_tweet_id": [
+            "1931326337702322391"
+          ]
+        },
+        "author_id": "1668296253615263745",
+        "conversation_id": "1931338094663303530",
+        "created_at": "2025-06-07T13:10:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T14:10:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931338094663303530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r9P6RBHubT",
+              "end": 27,
+              "expanded_url": "https://x.com/cllurzoldyck/status/1931326337702322391/video/1",
+              "media_key": "13_1931326189597347840",
+              "start": 4,
+              "url": "https://t.co/r9P6RBHubT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931338094663303530",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 186,
+          "impression_count": 20480,
+          "like_count": 1724,
+          "quote_count": 15,
+          "reply_count": 1,
+          "retweet_count": 194
+        },
+        "reply_settings": "everyone",
+        "text": "大好き https://t.co/r9P6RBHubT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "偏远乡村学校在读 我应该不会再影响别人了 接下来有一个event 成分复杂 对所有人友好除了现生 最可爱的小宝宝@QLing61007 😽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 56,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "想回到家乡，我不要在这个冰冷无情的医院里了，我是健全的弈鸠",
+        "pinned_tweet_id": "1931176332370813214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924678380655673348/VxgKyXwf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 459,
+          "like_count": 5066,
+          "listed_count": 0,
+          "media_count": 246,
+          "tweet_count": 2271
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-12T16:37:13.000Z",
+        "description": "— for ILLIT's ace #모카 𖥔 bu: @mokapicss 𐙚",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 21,
+                "start": 18,
+                "tag": "모카"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 38,
+                "start": 28,
+                "username": "mokapicss"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mokaspic.carrd.co",
+                "end": 23,
+                "expanded_url": "http://mokaspic.carrd.co",
+                "start": 0,
+                "url": "https://t.co/6RuKPvoXdR"
+              }
+            ]
+          }
+        },
+        "id": "1668296253615263745",
+        "name": "moka pics",
+        "pinned_tweet_id": "1882386812905374021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920575691474571264/FTfuB102_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30815,
+          "following_count": 38,
+          "like_count": 4849,
+          "listed_count": 161,
+          "media_count": 3603,
+          "tweet_count": 4466
+        },
+        "url": "https://t.co/6RuKPvoXdR",
+        "username": "mokaspic",
+        "verified": false
+      }
+    ]
+  }
+}

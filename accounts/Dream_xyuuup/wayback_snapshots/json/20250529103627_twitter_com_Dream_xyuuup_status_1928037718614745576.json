@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1928037613325484032"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "1928037718614745576",
+    "created_at": "2025-05-29T10:36:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-29T11:36:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1928037718614745576"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3hZq2Upvkm",
+          "end": 25,
+          "expanded_url": "https://x.com/Dream_xyuuup/status/1928037718614745576/video/1",
+          "media_key": "13_1928037613325484032",
+          "start": 2,
+          "url": "https://t.co/3hZq2Upvkm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928037718614745576",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "。 https://t.co/3hZq2Upvkm"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18593,
+        "height": 590,
+        "media_key": "13_1928037613325484032",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1928037613325484032/img/uB0RvQUHOrEOawkK.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1928037613325484032/vid/avc1/584x270/jscdEXzJZw2_Y_Zh.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1928037613325484032/vid/avc1/780x360/BQX0PVtzZRVlWxh2.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1928037613325484032/vid/avc1/1280x590/xoTgbUAvc1oLOio_.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1928037613325484032/pl/Zlj44hKG1_a2U61m.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1928037613325484032"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "1928037718614745576",
+        "created_at": "2025-05-29T10:36:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T11:36:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928037718614745576"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3hZq2Upvkm",
+              "end": 25,
+              "expanded_url": "https://x.com/Dream_xyuuup/status/1928037718614745576/video/1",
+              "media_key": "13_1928037613325484032",
+              "start": 2,
+              "url": "https://t.co/3hZq2Upvkm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928037718614745576",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "。 https://t.co/3hZq2Upvkm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "偏远乡村学校在读 我应该不会再影响别人了 接下来有一个event 成分复杂 对所有人友好除了现生 最可爱的小宝宝@QLing61007 😽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 56,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1917423348302467396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924678380655673348/VxgKyXwf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 438,
+          "like_count": 4745,
+          "listed_count": 1,
+          "media_count": 221,
+          "tweet_count": 2078
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1939469470164263108",
+    "created_at": "2025-06-30T01:25:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T02:25:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939495545736950022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1882563916632666112",
+          "start": 0,
+          "username": "hhjnjkoguyunmo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939495545736950022",
+    "in_reply_to_user_id": "1882563916632666112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939469470164263108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hhjnjkoguyunmo 时代的眼泪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1939469466166849536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuphNCeXcAAbYXR.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_1939469292141252608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuphC6LbkAALVjk.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_1939469293617344513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuphC_rW8AExapz.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_1939469302878408704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuphDiLXkAALxzV.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1939469470164263108",
+        "created_at": "2025-06-30T01:25:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T02:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939495545736950022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1882563916632666112",
+              "start": 0,
+              "username": "hhjnjkoguyunmo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939495545736950022",
+        "in_reply_to_user_id": "1882563916632666112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939469470164263108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hhjnjkoguyunmo 时代的眼泪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939469466166849536",
+            "3_1939469292141252608",
+            "3_1939469293617344513",
+            "3_1939469302878408704"
+          ]
+        },
+        "author_id": "1882563916632666112",
+        "conversation_id": "1939469470164263108",
+        "created_at": "2025-06-29T23:42:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T00:42:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939469470164263108"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eWFrUscZZU",
+              "end": 165,
+              "expanded_url": "https://x.com/hhjnjkoguyunmo/status/1939469470164263108/photo/1",
+              "media_key": "3_1939469466166849536",
+              "start": 142,
+              "url": "https://t.co/eWFrUscZZU"
+            },
+            {
+              "display_url": "pic.x.com/eWFrUscZZU",
+              "end": 165,
+              "expanded_url": "https://x.com/hhjnjkoguyunmo/status/1939469470164263108/photo/1",
+              "media_key": "3_1939469292141252608",
+              "start": 142,
+              "url": "https://t.co/eWFrUscZZU"
+            },
+            {
+              "display_url": "pic.x.com/eWFrUscZZU",
+              "end": 165,
+              "expanded_url": "https://x.com/hhjnjkoguyunmo/status/1939469470164263108/photo/1",
+              "media_key": "3_1939469293617344513",
+              "start": 142,
+              "url": "https://t.co/eWFrUscZZU"
+            },
+            {
+              "display_url": "pic.x.com/eWFrUscZZU",
+              "end": 165,
+              "expanded_url": "https://x.com/hhjnjkoguyunmo/status/1939469470164263108/photo/1",
+              "media_key": "3_1939469302878408704",
+              "start": 142,
+              "url": "https://t.co/eWFrUscZZU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939469470164263108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们这的钢厂2024年破产了，然后成千上万的人就这样失业了，曾经周围热闹非凡，现在一片死寂，钢厂的入口都用彩钢瓦封起来了，临村的经济基本上已经垮了，以前周围村里很多人都靠这座钢厂得到了工作，我的父母曾经也是这座钢厂的老员工，周围村里的供暖也全靠钢厂，它一倒我们这的年轻人全跑光了。😞 https://t.co/eWFrUscZZU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "喜欢做梦｜我觉得我很温柔。｜可爱的人@QLing61007",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933432998864826371/0SiPerD5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 501,
+          "like_count": 6021,
+          "listed_count": 0,
+          "media_count": 313,
+          "tweet_count": 2804
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-23T23:00:12.000Z",
+        "description": "大家好呀，我会尽量包容所有人的，请多多指教哦~🥰",
+        "id": "1882563916632666112",
+        "name": "变成阿良河的顾云沫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909435314600644608/kr_0pOtE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 781,
+          "following_count": 409,
+          "like_count": 141258,
+          "listed_count": 7,
+          "media_count": 102,
+          "tweet_count": 15910
+        },
+        "username": "hhjnjkoguyunmo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1997669800164876288"
+      ],
+      "media_source_tweet_id": [
+        "1997670051864850501"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1997917738740875339",
+    "created_at": "2025-12-08T06:34:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T07:34:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997917738740875339"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1408028409599467521",
+          "start": 3,
+          "username": "AngelSuicide999"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/01LFoeBEww",
+          "end": 44,
+          "expanded_url": "https://x.com/AngelSuicide999/status/1997670051864850501/video/1",
+          "media_key": "13_1997669800164876288",
+          "start": 21,
+          "url": "https://t.co/01LFoeBEww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997917738740875339",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 340
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997670051864850501",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AngelSuicide999: https://t.co/01LFoeBEww"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10866,
+        "height": 1080,
+        "media_key": "13_1997669800164876288",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1997669800164876288/img/1lCjGAVNjk5OAjG2.jpg",
+        "public_metrics": {
+          "view_count": 4952
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1997669800164876288/pl/DjCladNbjgldd6lX.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1997669800164876288/vid/avc1/480x360/ug27xthUFqOOA8Pj.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1997669800164876288/vid/avc1/360x270/WaGkVnE76yiSpRPw.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1997669800164876288/vid/avc1/960x720/X-hLha_I0j7cQ3vW.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1997669800164876288/vid/avc1/1440x1080/zwpvdKTPQDT_43Fl.mp4"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1997669800164876288"
+          ],
+          "media_source_tweet_id": [
+            "1997670051864850501"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1997917738740875339",
+        "created_at": "2025-12-08T06:34:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T07:34:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997917738740875339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1408028409599467521",
+              "start": 3,
+              "username": "AngelSuicide999"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/01LFoeBEww",
+              "end": 44,
+              "expanded_url": "https://x.com/AngelSuicide999/status/1997670051864850501/video/1",
+              "media_key": "13_1997669800164876288",
+              "start": 21,
+              "url": "https://t.co/01LFoeBEww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997917738740875339",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 340
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997670051864850501",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AngelSuicide999: https://t.co/01LFoeBEww"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1997669800164876288"
+          ]
+        },
+        "author_id": "1408028409599467521",
+        "conversation_id": "1997670051864850501",
+        "created_at": "2025-12-07T14:10:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T15:10:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997670051864850501"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/01LFoeBEww",
+              "end": 23,
+              "expanded_url": "https://x.com/AngelSuicide999/status/1997670051864850501/video/1",
+              "media_key": "13_1997669800164876288",
+              "start": 0,
+              "url": "https://t.co/01LFoeBEww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997670051864850501",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 170,
+          "impression_count": 11838,
+          "like_count": 1627,
+          "quote_count": 3,
+          "reply_count": 4,
+          "retweet_count": 340
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/01LFoeBEww"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "你能想到的坏习惯我都有",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 608,
+          "like_count": 7876,
+          "listed_count": 1,
+          "media_count": 469,
+          "tweet_count": 4299
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-24T11:45:17.000Z",
+        "description": "天使自殺⁡⁡です⁡。in tokio.\n⁡音楽、平面、映像、写像、。\n⁡お仕事やブッキング、⁡\n⁡喜んでお受けします⁡。\n⁡見つけれてくれて、ありがとう。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tunecore.co.jp/artists/angels…",
+                "end": 23,
+                "expanded_url": "https://www.tunecore.co.jp/artists/angelsuicide999",
+                "start": 0,
+                "url": "https://t.co/1XH3J5n5Au"
+              }
+            ]
+          }
+        },
+        "id": "1408028409599467521",
+        "name": "Suicide",
+        "pinned_tweet_id": "1993229130155049446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927572549589688320/90zSepQK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28570,
+          "following_count": 2,
+          "like_count": 92589,
+          "listed_count": 95,
+          "media_count": 786,
+          "tweet_count": 3393
+        },
+        "url": "https://t.co/1XH3J5n5Au",
+        "username": "AngelSuicide999",
+        "verified": true
+      }
+    ]
+  }
+}

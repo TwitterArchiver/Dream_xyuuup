@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1908415979551359301",
+    "created_at": "2025-04-05T07:12:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T08:12:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908417508597526643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1828062670580543488",
+          "start": 0,
+          "username": "CallHtheXtime"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908417508597526643",
+    "in_reply_to_user_id": "1828062670580543488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908415979551359301",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CallHtheXtime 下海但倒贴"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 129384,
+        "height": 964,
+        "media_key": "13_1908415880515772416",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1908415880515772416/img/0GZ3gr1IoOzNyPrO.jpg",
+        "public_metrics": {
+          "view_count": 7
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1908415880515772416/vid/avc1/320x584/1s7GDbSj7gXa_NdV.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1908415880515772416/vid/avc1/528x964/mLgagAaqP_FTOjlx.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1908415880515772416/pl/7GXCjluO0SiK0-Vm.m3u8?tag=14"
+          }
+        ],
+        "width": 528
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1908415979551359301",
+        "created_at": "2025-04-05T07:12:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T08:12:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908417508597526643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1828062670580543488",
+              "start": 0,
+              "username": "CallHtheXtime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908417508597526643",
+        "in_reply_to_user_id": "1828062670580543488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908415979551359301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CallHtheXtime 下海但倒贴"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1908415880515772416"
+          ]
+        },
+        "author_id": "1828062670580543488",
+        "conversation_id": "1908415979551359301",
+        "created_at": "2025-04-05T07:06:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T08:06:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908415979551359301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NLuhcLPl3J",
+              "end": 28,
+              "expanded_url": "https://x.com/CallHtheXtime/status/1908415979551359301/video/1",
+              "media_key": "13_1908415880515772416",
+              "start": 5,
+              "url": "https://t.co/NLuhcLPl3J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908415979551359301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这你们谁 https://t.co/NLuhcLPl3J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "数学满分是假的数学家也是假的数学没及格过最近一次考试32/100嗯你们不要接了 对所有人温良除了现生",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠ltnh（未来最厉害的数学家数学满分版😋）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905913123158298624/ClLLrGxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 322,
+          "like_count": 2994,
+          "listed_count": 1,
+          "media_count": 146,
+          "tweet_count": 1247
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-26T13:31:28.000Z",
+        "description": "本人与二次元人物喵梦无直接关系 皮下精神病患者少跟我计较 欢迎找我聊天🫶看心情回fo 有事请留言",
+        "id": "1828062670580543488",
+        "location": "熊本县",
+        "name": "风情主播喵梦Nyamuchi💙💜🖤",
+        "pinned_tweet_id": "1898222605204963660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900403837292195840/fwhiZF2u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1055,
+          "following_count": 315,
+          "like_count": 4655,
+          "listed_count": 5,
+          "media_count": 392,
+          "tweet_count": 5702
+        },
+        "username": "CallHtheXtime",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059812776097488896"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "2059812782758044037",
+    "created_at": "2026-05-28T01:43:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T02:43:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059812782758044037"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 4,
+          "start": 0,
+          "tag": "新头像"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yVMudPEq9f",
+          "end": 28,
+          "expanded_url": "https://x.com/Dream_xyuuup/status/2059812782758044037/photo/1",
+          "media_key": "3_2059812776097488896",
+          "start": 5,
+          "url": "https://t.co/yVMudPEq9f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059812782758044037",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#新头像 https://t.co/yVMudPEq9f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_2059812776097488896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJXszncaIAAjDVj.jpg",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059812776097488896"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "2059812782758044037",
+        "created_at": "2026-05-28T01:43:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T02:43:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059812782758044037"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "新头像"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yVMudPEq9f",
+              "end": 28,
+              "expanded_url": "https://x.com/Dream_xyuuup/status/2059812782758044037/photo/1",
+              "media_key": "3_2059812776097488896",
+              "start": 5,
+              "url": "https://t.co/yVMudPEq9f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059812782758044037",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#新头像 https://t.co/yVMudPEq9f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "mtx,her/they\n我太傻了不会说话抱歉\n*・x・*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "弈鸠",
+        "pinned_tweet_id": "2055264508608970925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059812742102695936/C2vFwzyC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 534,
+          "following_count": 632,
+          "like_count": 8395,
+          "listed_count": 0,
+          "media_count": 625,
+          "tweet_count": 6219
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      }
+    ]
+  }
+}

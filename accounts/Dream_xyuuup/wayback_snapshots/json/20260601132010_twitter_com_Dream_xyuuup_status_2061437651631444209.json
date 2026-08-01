@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "2061437651631444209",
+    "created_at": "2026-06-01T13:20:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T14:20:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061437651631444209"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dream_xyuuup/s…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/dream_xyuuup/status/2061411557259841797",
+          "start": 24,
+          "url": "https://t.co/ACcQ2c053M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061437651631444209",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061411557259841797",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我才发现比耶比反了，你们看到了别应激好吗我错了 https://t.co/ACcQ2c053M"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2061411538343497728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJua307bEAA6v1E.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "2061437651631444209",
+        "created_at": "2026-06-01T13:20:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T14:20:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061437651631444209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dream_xyuuup/s…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/dream_xyuuup/status/2061411557259841797",
+              "start": 24,
+              "url": "https://t.co/ACcQ2c053M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061437651631444209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061411557259841797",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我才发现比耶比反了，你们看到了别应激好吗我错了 https://t.co/ACcQ2c053M"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061411538343497728"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "2061411557259841797",
+        "created_at": "2026-06-01T11:36:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T12:36:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061411557259841797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2032151438584070144",
+              "start": 5,
+              "username": "WanqingS33922"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eOd0qvNtzW",
+              "end": 48,
+              "expanded_url": "https://x.com/Dream_xyuuup/status/2061411557259841797/photo/1",
+              "media_key": "3_2061411538343497728",
+              "start": 25,
+              "url": "https://t.co/eOd0qvNtzW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061411557259841797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "偶遇小跨妹@WanqingS33922 \n激动呀 https://t.co/eOd0qvNtzW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "*・x・*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "弈鸠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059924129340592128/ItWjnHnF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 638,
+          "like_count": 8400,
+          "listed_count": 0,
+          "media_count": 643,
+          "tweet_count": 6336
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      }
+    ]
+  }
+}

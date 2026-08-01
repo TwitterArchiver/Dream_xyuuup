@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1992547188669403422",
+    "created_at": "2025-11-23T10:54:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T11:54:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992547188669403422"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hitomi_011666/…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/hitomi_011666/status/1992185828928610805",
+          "start": 7,
+          "url": "https://t.co/w1kyuNqKsw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992547188669403422",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992185828928610805",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "女孩，停下。 https://t.co/w1kyuNqKsw"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13491,
+        "height": 1280,
+        "media_key": "13_1951979967635677185",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1951979967635677185/img/iS_niP2d9JNJjS4K.jpg",
+        "public_metrics": {
+          "view_count": 6435332
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1951979967635677185/vid/avc1/320x568/tEBjPX0nYRVxSesn.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1951979967635677185/vid/avc1/480x852/jz0pqs1vJ2_lK8T4.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1951979967635677185/vid/avc1/720x1280/z5p9CtjQfSHnqhPn.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1951979967635677185/pl/XOUB5LRRq4wFhEpz.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1992547188669403422",
+        "created_at": "2025-11-23T10:54:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T11:54:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992547188669403422"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hitomi_011666/…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/hitomi_011666/status/1992185828928610805",
+              "start": 7,
+              "url": "https://t.co/w1kyuNqKsw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992547188669403422",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992185828928610805",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "女孩，停下。 https://t.co/w1kyuNqKsw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1951979967635677185"
+          ],
+          "media_source_tweet_id": [
+            "1951980111932293189"
+          ]
+        },
+        "author_id": "1598333873905364993",
+        "conversation_id": "1992185828928610805",
+        "created_at": "2025-11-22T10:58:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T11:58:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992185828928610805"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lf7TOYndgg",
+              "end": 35,
+              "expanded_url": "https://x.com/_kaname_03/status/1951980111932293189/video/1",
+              "media_key": "13_1951979967635677185",
+              "start": 12,
+              "url": "https://t.co/lf7TOYndgg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992185828928610805",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1421,
+          "impression_count": 2284732,
+          "like_count": 6497,
+          "quote_count": 228,
+          "reply_count": 747,
+          "retweet_count": 370
+        },
+        "reply_settings": "everyone",
+        "text": "親が泣いてしまう動画\n https://t.co/lf7TOYndgg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "你能想到的坏习惯我都有",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 598,
+          "like_count": 7775,
+          "listed_count": 1,
+          "media_count": 465,
+          "tweet_count": 4217
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-01T15:11:48.000Z",
+        "description": "おいおい凍結マジかよ… 明日には鍵垢",
+        "id": "1598333873905364993",
+        "name": "マジかよbot",
+        "pinned_tweet_id": "1974708454637068733",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988885633990049792/7bUAde7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37226,
+          "following_count": 86,
+          "like_count": 7475,
+          "listed_count": 169,
+          "media_count": 99,
+          "tweet_count": 2215
+        },
+        "username": "hitomi_011666",
+        "verified": false
+      }
+    ]
+  }
+}

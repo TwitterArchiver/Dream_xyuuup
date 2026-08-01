@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1944918148718932158",
+    "created_at": "2025-07-18T12:54:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T13:54:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946191951205671228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "378340116",
+          "start": 0,
+          "username": "4_ACO_DMT"
+        },
+        {
+          "end": 26,
+          "id": "1894359849812856834",
+          "start": 11,
+          "username": "x_overdose_day"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946191951205671228",
+    "in_reply_to_user_id": "378340116",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 8,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944918148718932158",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4_ACO_DMT @x_overdose_day 这不得苦死"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1944918136970731521",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv28va9a4AEGQFq.jpg",
+        "width": 1004
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1944918137838669826",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv28veMWkAImuT7.jpg",
+        "width": 985
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1944918148718932158",
+        "created_at": "2025-07-18T12:54:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T13:54:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946191951205671228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "378340116",
+              "start": 0,
+              "username": "4_ACO_DMT"
+            },
+            {
+              "end": 26,
+              "id": "1894359849812856834",
+              "start": 11,
+              "username": "x_overdose_day"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946191951205671228",
+        "in_reply_to_user_id": "378340116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944918148718932158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4_ACO_DMT @x_overdose_day 这不得苦死"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944918136970731521",
+            "3_1944918137838669826"
+          ]
+        },
+        "author_id": "378340116",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1944918148718932158",
+        "created_at": "2025-07-15T00:33:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T01:33:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944918148718932158"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y24fHVuPHL",
+              "end": 44,
+              "expanded_url": "https://x.com/4_ACO_DMT/status/1944918148718932158/photo/1",
+              "media_key": "3_1944918136970731521",
+              "start": 21,
+              "url": "https://t.co/y24fHVuPHL"
+            },
+            {
+              "display_url": "pic.x.com/y24fHVuPHL",
+              "end": 44,
+              "expanded_url": "https://x.com/4_ACO_DMT/status/1944918148718932158/photo/1",
+              "media_key": "3_1944918137838669826",
+              "start": 21,
+              "url": "https://t.co/y24fHVuPHL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944918148718932158",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4787,
+          "like_count": 80,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "抖妹也会玩哔哩哔哩了\n还有这么能吃的吗？ https://t.co/y24fHVuPHL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "yì jīu｜这里全是负能量没有正能量｜可爱的人@QLing61007",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 24,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933432998864826371/0SiPerD5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 521,
+          "like_count": 6421,
+          "listed_count": 0,
+          "media_count": 348,
+          "tweet_count": 3069
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2011-09-23T01:31:13.000Z",
+        "description": "",
+        "id": "378340116",
+        "location": "✝️天国 ✝️",
+        "name": "✝️Sakura ✝️",
+        "pinned_tweet_id": "1942466107518116200",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942454408991891456/6UbN_3JP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 274,
+          "like_count": 50,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 69
+        },
+        "username": "4_ACO_DMT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T12:12:45.000Z",
+        "description": "药物百科\nwiki主沐雨:@drug_artist\n副wiki主:Sakura\n投稿请私信我\n欢迎访问https://t.co/kpcYDRTGSo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 13,
+                "username": "drug_artist"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 74,
+                "expanded_url": "http://overdose.day",
+                "start": 51,
+                "url": "https://t.co/kpcYDRTGSo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://overdose.day",
+                "start": 0,
+                "url": "https://t.co/kpcYDRTGSo"
+              }
+            ]
+          }
+        },
+        "id": "1894359849812856834",
+        "location": "Xanax天国",
+        "name": "drug百科",
+        "pinned_tweet_id": "1943953427878260798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942170925098536960/cpWSRmjm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1383,
+          "following_count": 124,
+          "like_count": 111,
+          "listed_count": 3,
+          "media_count": 18,
+          "tweet_count": 128
+        },
+        "url": "https://t.co/kpcYDRTGSo",
+        "username": "x_overdose_day",
+        "verified": false
+      }
+    ]
+  }
+}

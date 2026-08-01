@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "2031343816209567745",
+    "created_at": "2026-03-10T12:18:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T13:18:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031343816209567745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1802704441961017344",
+          "start": 3,
+          "username": "hikawakaede3"
+        },
+        {
+          "end": 30,
+          "id": "1780369819310981120",
+          "start": 18,
+          "username": "520illusion"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031343816209567745",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031097458609238042",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hikawakaede3: @520illusion 又在玩弄n55的感情了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "2031343816209567745",
+        "created_at": "2026-03-10T12:18:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T13:18:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031343816209567745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1802704441961017344",
+              "start": 3,
+              "username": "hikawakaede3"
+            },
+            {
+              "end": 30,
+              "id": "1780369819310981120",
+              "start": 18,
+              "username": "520illusion"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031343816209567745",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031097458609238042",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hikawakaede3: @520illusion 又在玩弄n55的感情了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1802704441961017344",
+        "conversation_id": "2031067948169965949",
+        "created_at": "2026-03-09T19:59:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T20:59:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031097458609238042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1780369819310981120",
+              "start": 0,
+              "username": "520illusion"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031097458609238042",
+        "in_reply_to_user_id": "1780369819310981120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1186,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031067948169965949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@520illusion 又在玩弄n55的感情了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "enby｜音游｜歌品感人kpop cpop edm都有涉猎｜芙4心2礼3｜165 50｜od｜大爱无疆，欢迎互fo｜*・x・*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030145687112081408/jkx9VSSZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 624,
+          "like_count": 7899,
+          "listed_count": 1,
+          "media_count": 490,
+          "tweet_count": 4706
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-17T14:06:56.000Z",
+        "description": "2025.11.14 enby oder｜欲行动而不知，欲全知而不得，虚无，虚无，可识人心真面目？｜精神状态奇异 政治倾向奇特 想成为不走极端的人 喜欢我的请来和我交朋友 如果我发疯对不起请原谅我 狗猫：@PrimAsdue",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "PrimAsdue"
+              }
+            ]
+          }
+        },
+        "id": "1802704441961017344",
+        "location": "燃素与以太之地",
+        "name": "冰川枫🏳️‍⚧️#天车一",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029333996317065216/UHUJborI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 853,
+          "following_count": 792,
+          "like_count": 21538,
+          "listed_count": 4,
+          "media_count": 181,
+          "tweet_count": 6180
+        },
+        "username": "hikawakaede3",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-16T22:57:15.000Z",
+        "description": "binance OKX bitget | All in crypto | 08 | 🏳‍⚧ | 杂鱼交易员 | 坐标杭州 同类贴贴 | illusion | 抑郁自杀向 | 坠落星空 | 梦幻主义 | 蓝 | 氯硝西泮 | 终将成为你 | 祈愿岁岁平安",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okx_ill",
+                "end": 23,
+                "expanded_url": "http://t.me/okx_ill",
+                "start": 0,
+                "url": "https://t.co/nU7hYu6VHJ"
+              }
+            ]
+          }
+        },
+        "id": "1780369819310981120",
+        "location": "浙江省杭州市 杭州萧山国际机场",
+        "name": "ill",
+        "pinned_tweet_id": "2030136013293768844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028863680889372672/zT5FAaR9_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3917,
+          "following_count": 438,
+          "like_count": 8491,
+          "listed_count": 7,
+          "media_count": 687,
+          "tweet_count": 5165
+        },
+        "url": "https://t.co/nU7hYu6VHJ",
+        "username": "520illusion",
+        "verified": true
+      }
+    ]
+  }
+}

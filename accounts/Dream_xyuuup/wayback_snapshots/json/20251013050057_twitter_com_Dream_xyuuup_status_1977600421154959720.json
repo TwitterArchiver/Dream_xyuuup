@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1977391962626933077",
+    "created_at": "2025-10-13T05:00:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T06:00:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977600421154959720"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1490976522362302465",
+          "start": 0,
+          "username": "whyuounot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977600421154959720",
+    "in_reply_to_user_id": "1490976522362302465",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977391962626933077",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyuounot 你是不是都符合"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1977391962626933077",
+        "created_at": "2025-10-13T05:00:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T06:00:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977600421154959720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1490976522362302465",
+              "start": 0,
+              "username": "whyuounot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977600421154959720",
+        "in_reply_to_user_id": "1490976522362302465",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977391962626933077",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyuounot 你是不是都符合"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1490976522362302465",
+        "conversation_id": "1977391962626933077",
+        "created_at": "2025-10-12T15:12:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T16:12:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977391962626933077"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1977391962626933077",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2013,
+          "like_count": 42,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是真心觉得穷、丑、gay、性格差、生理缺陷、年龄太小、单一性别环境，至少有一样符合的很可怜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "我自私，病态，阴暗，偏执。所有大度、不在乎都是我的伪装。我窥探你的生活，揣测你的文案，解读你分享的一切，观察你身边的人，盯着你的照片妄想找到蛛丝马迹。我敏感，善变多疑，斤斤计较你多看别人的一眼。我爱你，你本来就应该乖乖待在我身边。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1953828269977219114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 578,
+          "like_count": 7165,
+          "listed_count": 1,
+          "media_count": 441,
+          "tweet_count": 3931
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-08T09:11:27.000Z",
+        "description": "临场发挥第一名",
+        "id": "1490976522362302465",
+        "name": "蛋炒饭",
+        "pinned_tweet_id": "1939668050128908726",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960145987307286528/cDwEnK1f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7529,
+          "following_count": 1148,
+          "like_count": 7975,
+          "listed_count": 16,
+          "media_count": 2071,
+          "tweet_count": 14159
+        },
+        "username": "whyuounot",
+        "verified": false
+      }
+    ]
+  }
+}

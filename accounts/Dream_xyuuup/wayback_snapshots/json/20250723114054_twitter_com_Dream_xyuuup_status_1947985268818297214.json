@@ -1,0 +1,440 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1947985143924478043",
+    "created_at": "2025-07-23T11:40:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-23T12:40:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947985268818297214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1572252869923057664",
+          "start": 0,
+          "username": "h1kari_t"
+        },
+        {
+          "end": 25,
+          "id": "1573863666000224256",
+          "start": 10,
+          "username": "Futuristic2007"
+        },
+        {
+          "end": 37,
+          "id": "1662733551199227905",
+          "start": 26,
+          "username": "yuyuyu_ufh"
+        },
+        {
+          "end": 52,
+          "id": "1862861397304225792",
+          "start": 38,
+          "username": "Z3r0_UWU_0r3Z"
+        },
+        {
+          "end": 63,
+          "id": "1115809099482980353",
+          "start": 53,
+          "username": "DKR_World"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947985268818297214",
+    "in_reply_to_user_id": "1572252869923057664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947985143924478043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@h1kari_t @Futuristic2007 @yuyuyu_ufh @Z3r0_UWU_0r3Z @DKR_World 闺儿！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_1947985140501946368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwiiKhdboAAVylj.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1947985143924478043",
+        "created_at": "2025-07-23T11:40:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T12:40:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947985268818297214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1572252869923057664",
+              "start": 0,
+              "username": "h1kari_t"
+            },
+            {
+              "end": 25,
+              "id": "1573863666000224256",
+              "start": 10,
+              "username": "Futuristic2007"
+            },
+            {
+              "end": 37,
+              "id": "1662733551199227905",
+              "start": 26,
+              "username": "yuyuyu_ufh"
+            },
+            {
+              "end": 52,
+              "id": "1862861397304225792",
+              "start": 38,
+              "username": "Z3r0_UWU_0r3Z"
+            },
+            {
+              "end": 63,
+              "id": "1115809099482980353",
+              "start": 53,
+              "username": "DKR_World"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947985268818297214",
+        "in_reply_to_user_id": "1572252869923057664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947985143924478043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h1kari_t @Futuristic2007 @yuyuyu_ufh @Z3r0_UWU_0r3Z @DKR_World 闺儿！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947985140501946368"
+          ]
+        },
+        "author_id": "1572252869923057664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1947985143924478043",
+        "created_at": "2025-07-23T11:40:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T12:40:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947985143924478043"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "�� My T",
+              "probability": 0.9242,
+              "start": -1,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 53,
+              "id": "1573863666000224256",
+              "start": 38,
+              "username": "Futuristic2007"
+            },
+            {
+              "end": 67,
+              "id": "1726051028112744448",
+              "start": 54,
+              "username": "Dream_xyuuup"
+            },
+            {
+              "end": 89,
+              "id": "1662733551199227905",
+              "start": 78,
+              "username": "yuyuyu_ufh"
+            },
+            {
+              "end": 116,
+              "id": "1862861397304225792",
+              "start": 102,
+              "username": "Z3r0_UWU_0r3Z"
+            },
+            {
+              "end": 127,
+              "id": "1115809099482980353",
+              "start": 117,
+              "username": "DKR_World"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infintytweet.me/family-tree",
+              "end": 155,
+              "expanded_url": "https://infintytweet.me/family-tree",
+              "start": 132,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infintytweet.me/family-tree",
+              "url": "https://t.co/UwLnksGDWn"
+            },
+            {
+              "display_url": "pic.x.com/l6A6wWdp6i",
+              "end": 179,
+              "expanded_url": "https://x.com/h1kari_t/status/1947985143924478043/photo/1",
+              "media_key": "3_1947985140501946368",
+              "start": 156,
+              "url": "https://t.co/l6A6wWdp6i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947985143924478043",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 My Twitter Family:\n👫 Parents: @Futuristic2007 @Dream_xyuuup\n👰 Spouse: @yuyuyu_ufh\n👶 Children: @Z3r0_UWU_0r3Z @DKR_World\n\n➡️ https://t.co/UwLnksGDWn https://t.co/l6A6wWdp6i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "yì jīu｜不知道自己是不是个有趣的人｜你们可以找我玩😽｜会有负能｜我不知道什么是好什么是坏，因为我只是什么圈子都想混｜最喜欢的事是在开着空调的天气喝一瓶强爽幸福地睡觉｜我喜欢长发男｜音游phi milthm maimai｜kpop礼芙我爱你们｜求你们接待，我喜欢所有人喵｜可爱的人@QLing61007",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 142,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933432998864826371/0SiPerD5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 533,
+          "like_count": 6497,
+          "listed_count": 0,
+          "media_count": 353,
+          "tweet_count": 3162
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-20T15:54:40.000Z",
+        "description": "@yuyuyu_ufh 命を燃やし、酒を飲む、overdose",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "yuyuyu_ufh"
+              }
+            ]
+          }
+        },
+        "id": "1572252869923057664",
+        "location": "天国",
+        "name": "光逝去的青春🪦",
+        "pinned_tweet_id": "1945361089887158322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945437429692837888/y2B21bwa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 92,
+          "like_count": 8392,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 943
+        },
+        "username": "h1kari_t",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-25T02:36:14.000Z",
+        "description": "26届高三牲😭/dser/最近很幸福✨/希望大家也都可以找到自己热爱的事情并过上充实的生活哦❤️/永远是中推圈的过客🥹",
+        "id": "1573863666000224256",
+        "location": "People's Republic of China",
+        "name": "过客·Futuristic History",
+        "pinned_tweet_id": "1890321283470266672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915598098606546945/Hm_FVz3k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1558,
+          "following_count": 605,
+          "like_count": 124853,
+          "listed_count": 2,
+          "media_count": 1009,
+          "tweet_count": 23239
+        },
+        "username": "Futuristic2007",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-28T08:12:38.000Z",
+        "description": "イビーカ\n\n喜欢猫，业余写曲的，这个号全是内耗内容和无聊动态,\n愛する@h1kari_t",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 35,
+                "username": "h1kari_t"
+              }
+            ]
+          }
+        },
+        "id": "1662733551199227905",
+        "location": "幻想鄉",
+        "name": "ib_kaaaa",
+        "pinned_tweet_id": "1938585027048329531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875171690130653184/MMITcVs8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 162,
+          "like_count": 602,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 291
+        },
+        "username": "yuyuyu_ufh",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T14:14:09.000Z",
+        "description": "Psychopath. One day I'm gonna put a bullet right through my brain. Money can not only buy power, but also death. (OvO)",
+        "id": "1862861397304225792",
+        "name": "Z3r0",
+        "pinned_tweet_id": "1915741545405517889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910947005255274496/PXLGTnFy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 136,
+          "like_count": 9877,
+          "listed_count": 1,
+          "media_count": 270,
+          "tweet_count": 2671
+        },
+        "username": "Z3r0_UWU_0r3Z",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-10T02:49:54.000Z",
+        "description": "二律背反的執行日期。🚪89.64",
+        "id": "1115809099482980353",
+        "location": "無",
+        "name": "「二律背反実行日」",
+        "pinned_tweet_id": "1945288924642811924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946019177795317760/yobsoeOt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1271,
+          "following_count": 550,
+          "like_count": 20969,
+          "listed_count": 7,
+          "media_count": 290,
+          "tweet_count": 3842
+        },
+        "username": "DKR_World",
+        "verified": false
+      }
+    ]
+  }
+}

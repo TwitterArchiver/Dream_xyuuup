@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054915402405416960"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "2054915414174621697",
+    "created_at": "2026-05-14T13:23:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T14:23:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054915414174621697"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/snFnyRwSHf",
+          "end": 52,
+          "expanded_url": "https://x.com/Dream_xyuuup/status/2054915414174621697/photo/1",
+          "media_key": "3_2054915402405416960",
+          "start": 29,
+          "url": "https://t.co/snFnyRwSHf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054915414174621697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这群支那猪就吃吃吃吃喝喝喝喝喝小支那给大支那做臭支那汉堡 https://t.co/snFnyRwSHf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054915402405416960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HISGq8vakAAOHpC.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054915402405416960"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "2054915414174621697",
+        "created_at": "2026-05-14T13:23:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T14:23:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054915414174621697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/snFnyRwSHf",
+              "end": 52,
+              "expanded_url": "https://x.com/Dream_xyuuup/status/2054915414174621697/photo/1",
+              "media_key": "3_2054915402405416960",
+              "start": 29,
+              "url": "https://t.co/snFnyRwSHf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054915414174621697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这群支那猪就吃吃吃吃喝喝喝喝喝小支那给大支那做臭支那汉堡 https://t.co/snFnyRwSHf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "弈鸠，是谁？\nmtx,her/they,激女粉红点进就死\n*・x・*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "脚踩你爷爷登顶称王",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052421075716505600/5gcoclAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 629,
+          "like_count": 8348,
+          "listed_count": 0,
+          "media_count": 590,
+          "tweet_count": 5857
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      }
+    ]
+  }
+}

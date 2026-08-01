@@ -1,0 +1,126 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984901555670425600",
+        "3_1984901555716591616"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "1984901566441328702",
+    "created_at": "2025-11-02T08:33:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T09:33:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1984901566441328702"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/s3qlGFKZPR",
+          "end": 27,
+          "expanded_url": "https://x.com/Dream_xyuuup/status/1984901566441328702/photo/1",
+          "media_key": "3_1984901555670425600",
+          "start": 4,
+          "url": "https://t.co/s3qlGFKZPR"
+        },
+        {
+          "display_url": "pic.x.com/s3qlGFKZPR",
+          "end": 27,
+          "expanded_url": "https://x.com/Dream_xyuuup/status/1984901566441328702/photo/1",
+          "media_key": "3_1984901555716591616",
+          "start": 4,
+          "url": "https://t.co/s3qlGFKZPR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984901566441328702",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小狗帽 https://t.co/s3qlGFKZPR"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1984901566441328702].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1984901566441328702",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1984901566441328702"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1984901555670425600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4vJcsvbIAA8l_r.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1984901555716591616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4vJcs6bkAA5TCF.jpg",
+        "width": 768
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "没法活了，一切都是男的骗我，女的欠我，老的冤枉我，小的欺负我，中国的压迫我，外国的引诱我，身边的霸凌我，网上的取笑我，你们全都对不起我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1953828269977219114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 583,
+          "like_count": 7376,
+          "listed_count": 1,
+          "media_count": 454,
+          "tweet_count": 4060
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      }
+    ]
+  }
+}

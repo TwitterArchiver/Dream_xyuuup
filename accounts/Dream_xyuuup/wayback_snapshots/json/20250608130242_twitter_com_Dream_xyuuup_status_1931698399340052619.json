@@ -1,0 +1,550 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1931260452996300800"
+      ],
+      "media_source_tweet_id": [
+        "1931260564828979513"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1248370550247849988",
+          "name": "Tokusatsu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1296035544485392384",
+          "name": "Kaiju"
+        }
+      }
+    ],
+    "conversation_id": "1931698399340052619",
+    "created_at": "2025-06-08T13:02:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T14:02:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931698399340052619"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 54,
+          "start": 48,
+          "tag": "ILLIT"
+        },
+        {
+          "end": 59,
+          "start": 55,
+          "tag": "아일릿"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1684891834538147840",
+          "start": 3,
+          "username": "freshmintju"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fCQ8nYUGEW",
+          "end": 83,
+          "expanded_url": "https://x.com/freshmintju/status/1931260564828979513/video/1",
+          "media_key": "7_1931260452996300800",
+          "start": 60,
+          "url": "https://t.co/fCQ8nYUGEW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931698399340052619",
+    "lang": "tl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 289
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931260564828979513",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @freshmintju: Little Monster x Madoka Magica\n#ILLIT #아일릿 https://t.co/fCQ8nYUGEW"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 69034,
+        "height": 576,
+        "media_key": "7_1931260452996300800",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1931260452996300800/pu/img/lNpklZFyE8RjqTi5.jpg",
+        "public_metrics": {
+          "view_count": 7666
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1931260452996300800/pu/vid/avc1/496x270/CWVGcMh7pXaSmNSn.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1931260452996300800/pu/vid/avc1/662x360/7Ntk1lf3J9gFpui-.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1931260452996300800/pu/vid/avc1/1060x576/1BABvzFMgYP9dUYP.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1931260452996300800/pu/pl/keaKStNTieVWtd32.m3u8?tag=12&v=fb8"
+          }
+        ],
+        "width": 1060
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1931260452996300800"
+          ],
+          "media_source_tweet_id": [
+            "1931260564828979513"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1248370550247849988",
+              "name": "Tokusatsu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296035544485392384",
+              "name": "Kaiju"
+            }
+          }
+        ],
+        "conversation_id": "1931698399340052619",
+        "created_at": "2025-06-08T13:02:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T14:02:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931698399340052619"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 54,
+              "start": 48,
+              "tag": "ILLIT"
+            },
+            {
+              "end": 59,
+              "start": 55,
+              "tag": "아일릿"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1684891834538147840",
+              "start": 3,
+              "username": "freshmintju"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fCQ8nYUGEW",
+              "end": 83,
+              "expanded_url": "https://x.com/freshmintju/status/1931260564828979513/video/1",
+              "media_key": "7_1931260452996300800",
+              "start": 60,
+              "url": "https://t.co/fCQ8nYUGEW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931698399340052619",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 289
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931260564828979513",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @freshmintju: Little Monster x Madoka Magica\n#ILLIT #아일릿 https://t.co/fCQ8nYUGEW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1931260452996300800"
+          ]
+        },
+        "author_id": "1684891834538147840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1248370550247849988",
+              "name": "Tokusatsu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296035544485392384",
+              "name": "Kaiju"
+            }
+          }
+        ],
+        "conversation_id": "1931260564828979513",
+        "created_at": "2025-06-07T08:02:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T09:02:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931260564828979513"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 31,
+              "tag": "ILLIT"
+            },
+            {
+              "end": 42,
+              "start": 38,
+              "tag": "아일릿"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fCQ8nYUGEW",
+              "end": 66,
+              "expanded_url": "https://x.com/freshmintju/status/1931260564828979513/video/1",
+              "media_key": "7_1931260452996300800",
+              "start": 43,
+              "url": "https://t.co/fCQ8nYUGEW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931260564828979513",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 111,
+          "impression_count": 19183,
+          "like_count": 1189,
+          "quote_count": 20,
+          "reply_count": 7,
+          "retweet_count": 289
+        },
+        "reply_settings": "everyone",
+        "text": "Little Monster x Madoka Magica\n#ILLIT #아일릿 https://t.co/fCQ8nYUGEW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "偏远乡村学校在读 我应该不会再影响别人了 接下来有一个event 成分复杂 对所有人友好除了现生 最可爱的小宝宝@QLing61007 😽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 56,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "想回到家乡，我不要在这个冰冷无情的医院里了，我是健全的弈鸠",
+        "pinned_tweet_id": "1931176332370813214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924678380655673348/VxgKyXwf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 461,
+          "like_count": 5101,
+          "listed_count": 0,
+          "media_count": 251,
+          "tweet_count": 2288
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T11:41:40.000Z",
+        "description": "lucky girl syndrome",
+        "id": "1684891834538147840",
+        "location": "she",
+        "name": "mira",
+        "pinned_tweet_id": "1867109724501708823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924299153305141248/G1RSx9nA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2226,
+          "following_count": 1217,
+          "like_count": 92728,
+          "listed_count": 7,
+          "media_count": 5679,
+          "tweet_count": 44135
+        },
+        "username": "freshmintju",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1961221227877712378",
+    "created_at": "2025-08-29T00:15:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T01:15:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1961221227877712378"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/haruta_setuki/…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/haruta_setuki/status/1960681287729209791",
+          "start": 7,
+          "url": "https://t.co/gZ3QvESY3z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961221227877712378",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960681287729209791",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "卧槽我想操你 https://t.co/gZ3QvESY3z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1216,
+        "media_key": "3_1960681282104643584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzW9POma0AAHKzW.jpg",
+        "width": 832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1961221227877712378",
+        "created_at": "2025-08-29T00:15:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T01:15:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961221227877712378"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/haruta_setuki/…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/haruta_setuki/status/1960681287729209791",
+              "start": 7,
+              "url": "https://t.co/gZ3QvESY3z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961221227877712378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960681287729209791",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卧槽我想操你 https://t.co/gZ3QvESY3z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960681282104643584"
+          ]
+        },
+        "author_id": "1780908679845597184",
+        "conversation_id": "1960681287729209791",
+        "created_at": "2025-08-27T12:30:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T13:30:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960681287729209791"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/20aTsR7to0",
+              "end": 34,
+              "expanded_url": "https://x.com/Haruta_setuki/status/1960681287729209791/photo/1",
+              "media_key": "3_1960681282104643584",
+              "start": 11,
+              "url": "https://t.co/20aTsR7to0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960681287729209791",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 221,
+          "impression_count": 25778,
+          "like_count": 1674,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 119
+        },
+        "reply_settings": "everyone",
+        "text": "久々にアイス食べた🍨 https://t.co/20aTsR7to0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "yì jīu｜谢谢你喜欢我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1953828269977219114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 554,
+          "like_count": 6853,
+          "listed_count": 1,
+          "media_count": 413,
+          "tweet_count": 3648
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-18T10:38:29.000Z",
+        "description": "■\"好き\" をAIの力を借りて生成→投稿してます。 ■定期的に影入りします。■DM開放してません。■使用AI：nijijourney＆NovelAI /※無断使用および転載・商用利用は禁止 ※No unauthorized reproduction.",
+        "id": "1780908679845597184",
+        "name": "はるた@AI絵",
+        "pinned_tweet_id": "1922540715898179891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920819224907575297/VVWxBu8h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22082,
+          "following_count": 77,
+          "like_count": 13459,
+          "listed_count": 95,
+          "media_count": 2257,
+          "tweet_count": 4532
+        },
+        "username": "Haruta_setuki",
+        "verified": false
+      }
+    ]
+  }
+}

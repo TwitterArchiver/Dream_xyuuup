@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2047942083374460928"
+      ],
+      "media_source_tweet_id": [
+        "2047942202136170758"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "2048381431676846190",
+    "created_at": "2026-04-26T12:39:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T13:39:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048381431676846190"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1944225210284314624",
+          "start": 3,
+          "username": "NMD_China"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EqKKiW6PJP",
+          "end": 50,
+          "expanded_url": "https://x.com/NMD_China/status/2047942202136170758/video/1",
+          "media_key": "13_2047942083374460928",
+          "start": 27,
+          "url": "https://t.co/EqKKiW6PJP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048381431676846190",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047942202136170758",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NMD_China: 经典回顾之我要砸这条狗 https://t.co/EqKKiW6PJP"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6872,
+        "height": 384,
+        "media_key": "13_2047942083374460928",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2047942083374460928/img/NtLkHrlNHx6Ej2Eh.jpg",
+        "public_metrics": {
+          "view_count": 25680
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047942083374460928/vid/avc1/272x384/aE1S7GweXDduF5aE.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2047942083374460928/pl/FRawZnzsX15A6ywD.m3u8?tag=14"
+          }
+        ],
+        "width": 272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2047942083374460928"
+          ],
+          "media_source_tweet_id": [
+            "2047942202136170758"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "2048381431676846190",
+        "created_at": "2026-04-26T12:39:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T13:39:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048381431676846190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1944225210284314624",
+              "start": 3,
+              "username": "NMD_China"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EqKKiW6PJP",
+              "end": 50,
+              "expanded_url": "https://x.com/NMD_China/status/2047942202136170758/video/1",
+              "media_key": "13_2047942083374460928",
+              "start": 27,
+              "url": "https://t.co/EqKKiW6PJP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048381431676846190",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047942202136170758",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NMD_China: 经典回顾之我要砸这条狗 https://t.co/EqKKiW6PJP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2047942083374460928"
+          ]
+        },
+        "author_id": "1944225210284314624",
+        "conversation_id": "2047942202136170758",
+        "created_at": "2026-04-25T07:34:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T08:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047942202136170758"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EqKKiW6PJP",
+              "end": 35,
+              "expanded_url": "https://x.com/NMD_China/status/2047942202136170758/video/1",
+              "media_key": "13_2047942083374460928",
+              "start": 12,
+              "url": "https://t.co/EqKKiW6PJP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047942202136170758",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 169,
+          "impression_count": 58255,
+          "like_count": 965,
+          "quote_count": 1,
+          "reply_count": 173,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "经典回顾之我要砸这条狗 https://t.co/EqKKiW6PJP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "弈鸠，是谁？\nenby,her/they,kpop,激女粉红点进就死\n*・x・*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "脚踩你爷爷登顶称王",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041811823687823360/QQkkR0z6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 610,
+          "like_count": 8177,
+          "listed_count": 1,
+          "media_count": 528,
+          "tweet_count": 5159
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-13T02:40:02.000Z",
+        "description": "双商负数。/🏳️‍🌈？。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "114514.com",
+                "end": 23,
+                "expanded_url": "http://114514.com",
+                "start": 0,
+                "url": "https://t.co/APOiQu7DxP"
+              }
+            ]
+          }
+        },
+        "id": "1944225210284314624",
+        "location": "野獸邸",
+        "name": "鱼",
+        "pinned_tweet_id": "2020139501327192168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041026221488918528/MFIE1Xyi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2661,
+          "following_count": 861,
+          "like_count": 148147,
+          "listed_count": 24,
+          "media_count": 1187,
+          "tweet_count": 4421
+        },
+        "url": "https://t.co/APOiQu7DxP",
+        "username": "NMD_China",
+        "verified": false
+      }
+    ]
+  }
+}

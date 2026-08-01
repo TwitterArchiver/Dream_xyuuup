@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030151683351932928",
+        "3_2030151683360296960",
+        "3_2030151683108732928",
+        "3_2030151683347771392"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      }
+    ],
+    "conversation_id": "2030151698833100840",
+    "created_at": "2026-03-07T05:20:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T06:20:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030151698833100840"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DYAodAC1TJ",
+          "end": 73,
+          "expanded_url": "https://x.com/Dream_xyuuup/status/2030151698833100840/photo/1",
+          "media_key": "3_2030151683351932928",
+          "start": 50,
+          "url": "https://t.co/DYAodAC1TJ"
+        },
+        {
+          "display_url": "pic.x.com/DYAodAC1TJ",
+          "end": 73,
+          "expanded_url": "https://x.com/Dream_xyuuup/status/2030151698833100840/photo/1",
+          "media_key": "3_2030151683360296960",
+          "start": 50,
+          "url": "https://t.co/DYAodAC1TJ"
+        },
+        {
+          "display_url": "pic.x.com/DYAodAC1TJ",
+          "end": 73,
+          "expanded_url": "https://x.com/Dream_xyuuup/status/2030151698833100840/photo/1",
+          "media_key": "3_2030151683108732928",
+          "start": 50,
+          "url": "https://t.co/DYAodAC1TJ"
+        },
+        {
+          "display_url": "pic.x.com/DYAodAC1TJ",
+          "end": 73,
+          "expanded_url": "https://x.com/Dream_xyuuup/status/2030151698833100840/photo/1",
+          "media_key": "3_2030151683347771392",
+          "start": 50,
+          "url": "https://t.co/DYAodAC1TJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030151698833100840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "hrt260307\n热爱kpop的一个可怜人\n大爱无疆互fo欢迎\n（p4非本人她是我的光我的力量） https://t.co/DYAodAC1TJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 840,
+        "media_key": "3_2030151683351932928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCyMMyZacAAzbnT.jpg",
+        "width": 1248
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2030151683360296960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCyMMybaEAAgUgm.jpg",
+        "width": 1536
+      },
+      {
+        "height": 960,
+        "media_key": "3_2030151683108732928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCyMMxfbgAAXV7Z.jpg",
+        "width": 984
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2030151683347771392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCyMMyYa8AAWSJ3.jpg",
+        "width": 1023
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030151683351932928",
+            "3_2030151683360296960",
+            "3_2030151683108732928",
+            "3_2030151683347771392"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          }
+        ],
+        "conversation_id": "2030151698833100840",
+        "created_at": "2026-03-07T05:20:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T06:20:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030151698833100840"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DYAodAC1TJ",
+              "end": 73,
+              "expanded_url": "https://x.com/Dream_xyuuup/status/2030151698833100840/photo/1",
+              "media_key": "3_2030151683351932928",
+              "start": 50,
+              "url": "https://t.co/DYAodAC1TJ"
+            },
+            {
+              "display_url": "pic.x.com/DYAodAC1TJ",
+              "end": 73,
+              "expanded_url": "https://x.com/Dream_xyuuup/status/2030151698833100840/photo/1",
+              "media_key": "3_2030151683360296960",
+              "start": 50,
+              "url": "https://t.co/DYAodAC1TJ"
+            },
+            {
+              "display_url": "pic.x.com/DYAodAC1TJ",
+              "end": 73,
+              "expanded_url": "https://x.com/Dream_xyuuup/status/2030151698833100840/photo/1",
+              "media_key": "3_2030151683108732928",
+              "start": 50,
+              "url": "https://t.co/DYAodAC1TJ"
+            },
+            {
+              "display_url": "pic.x.com/DYAodAC1TJ",
+              "end": 73,
+              "expanded_url": "https://x.com/Dream_xyuuup/status/2030151698833100840/photo/1",
+              "media_key": "3_2030151683347771392",
+              "start": 50,
+              "url": "https://t.co/DYAodAC1TJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030151698833100840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "hrt260307\n热爱kpop的一个可怜人\n大爱无疆互fo欢迎\n（p4非本人她是我的光我的力量） https://t.co/DYAodAC1TJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "没法活了，一切都是男的骗我，女的欠我，老的冤枉我，小的欺负我，中国的压迫我，外国的引诱我，身边的霸凌我，网上的取笑我，你们全都对不起我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030145687112081408/jkx9VSSZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 615,
+          "like_count": 7860,
+          "listed_count": 1,
+          "media_count": 490,
+          "tweet_count": 4681
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1936383940081991918",
+    "created_at": "2025-06-21T11:21:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T12:21:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1936383940081991918"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/niseewhat/stat…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/niseewhat/status/1936038306166251857",
+          "start": 7,
+          "url": "https://t.co/819VHsPa0r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936383940081991918",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936038306166251857",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哥来观摩一下 https://t.co/819VHsPa0r"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 65782,
+        "height": 720,
+        "media_key": "7_1936038205934960640",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1936038205934960640/pu/img/5c8VrsSvayrjsN7S.jpg",
+        "public_metrics": {
+          "view_count": 50368
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1936038205934960640/pu/vid/avc1/370x270/MSqqdGViBtgLs0QU.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1936038205934960640/pu/vid/avc1/494x360/qJMnUSs7vfqkAwa0.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1936038205934960640/pu/vid/avc1/990x720/7lJAVk7vzNae8J7Q.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1936038205934960640/pu/pl/tTTAJgONHNx07ore.m3u8?tag=12&v=ed0"
+          }
+        ],
+        "width": 990
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1936383940081991918",
+        "created_at": "2025-06-21T11:21:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T12:21:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936383940081991918"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/niseewhat/stat…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/niseewhat/status/1936038306166251857",
+              "start": 7,
+              "url": "https://t.co/819VHsPa0r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936383940081991918",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936038306166251857",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哥来观摩一下 https://t.co/819VHsPa0r"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1936038205934960640"
+          ]
+        },
+        "author_id": "1134362269",
+        "conversation_id": "1936038306166251857",
+        "created_at": "2025-06-20T12:27:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T13:27:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936038306166251857"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Khdq3v6gAa",
+              "end": 52,
+              "expanded_url": "https://x.com/niseewhat/status/1936038306166251857/video/1",
+              "media_key": "7_1936038205934960640",
+              "start": 29,
+              "url": "https://t.co/Khdq3v6gAa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936038306166251857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 114572,
+          "like_count": 527,
+          "quote_count": 5,
+          "reply_count": 156,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "我到现在也没想明白，蛙岛是怎么培养出三观这么正的周杰伦？ https://t.co/Khdq3v6gAa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "【拼多多】获得8元现金券。因购买的喜思平 普瑞巴林胶囊 75mg…可能存在配送延迟，我们赠送您一张现金券以表歉意",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1931176332370813214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933432998864826371/0SiPerD5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 480,
+          "like_count": 5853,
+          "listed_count": 0,
+          "media_count": 294,
+          "tweet_count": 2668
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2013-01-30T15:12:49.000Z",
+        "description": "一身转战三千里，\n一剑曾当百万师。",
+        "id": "1134362269",
+        "name": "u see what",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917523368376446976/820eMxj4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2422,
+          "following_count": 63,
+          "like_count": 7470,
+          "listed_count": 26,
+          "media_count": 2953,
+          "tweet_count": 11123
+        },
+        "username": "niseewhat",
+        "verified": false
+      }
+    ]
+  }
+}

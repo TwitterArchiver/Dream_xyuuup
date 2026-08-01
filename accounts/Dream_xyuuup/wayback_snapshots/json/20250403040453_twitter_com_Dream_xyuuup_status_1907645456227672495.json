@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1907645456227672495",
+    "created_at": "2025-04-03T04:04:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T05:04:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1907645456227672495"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ruters0615/sta…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/ruters0615/status/1907644229095952436",
+          "start": 3,
+          "url": "https://t.co/g3rsZGrYYg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907645456227672495",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907644229095952436",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "救命 https://t.co/g3rsZGrYYg"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14433,
+        "height": 936,
+        "media_key": "7_1907503269368442882",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1907503269368442882/pu/img/FS6FWNUyOMWJ0WLE.jpg",
+        "public_metrics": {
+          "view_count": 130
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1907503269368442882/pu/vid/avc1/320x416/HKdU4wu-oHuEIyU-.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1907503269368442882/pu/vid/avc1/480x624/n3zj-QI5KiRnHhWP.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1907503269368442882/pu/vid/avc1/720x936/WU8Plm3-RPf7yu-j.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1907503269368442882/pu/pl/G16iaUU2YXuOvxMW.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1907645456227672495",
+        "created_at": "2025-04-03T04:04:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T05:04:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907645456227672495"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ruters0615/sta…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/ruters0615/status/1907644229095952436",
+              "start": 3,
+              "url": "https://t.co/g3rsZGrYYg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907645456227672495",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907644229095952436",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "救命 https://t.co/g3rsZGrYYg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1907503269368442882"
+          ]
+        },
+        "author_id": "1153970326604144640",
+        "conversation_id": "1907644229095952436",
+        "created_at": "2025-04-03T04:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T05:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907644229095952436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VMKuSkOPOX",
+              "end": 28,
+              "expanded_url": "https://x.com/Ruters0615/status/1907644229095952436/video/1",
+              "media_key": "7_1907503269368442882",
+              "start": 5,
+              "url": "https://t.co/VMKuSkOPOX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907644229095952436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 434,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁来了？ https://t.co/VMKuSkOPOX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "负面情绪碎碎念垃圾场｜过着一个你一点都不会羡慕的人生｜礼3芙4是我最爱的人🤍我还喜欢农李元芳｜音游｜内蒙古偏僻农村人我很脆弱不要欺负我｜梦想是消除城乡差距｜无论你是谁我都喜欢你｜如果消失就是穷到梯都养不起了 对所有人温良 欢迎互动互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dreamxy_uuup",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dreamxy_uuup",
+                "start": 0,
+                "url": "https://t.co/V4QSiptJcT"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠ltnh（未来最厉害的数学家数学满分版😋）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905913123158298624/ClLLrGxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 278,
+          "like_count": 2342,
+          "listed_count": 2,
+          "media_count": 130,
+          "tweet_count": 1029
+        },
+        "url": "https://t.co/V4QSiptJcT",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-24T10:09:00.000Z",
+        "description": "官方X账户，国安部最高通缉，专注于乳包反共鬼畜作品，投稿请私信or邮箱投稿：Ruters0615@gmail.com\nTelegram：https://t.co/p6qoFVZxgy\nYouTube：小反旗&小池塘（被国安橄榄过三回啊三回）\nRumble / Spotify：Ruters乳透社",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ruters0615",
+                "end": 91,
+                "expanded_url": "http://t.me/Ruters0615",
+                "start": 68,
+                "url": "https://t.co/p6qoFVZxgy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@RutersXiaoFan…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@RutersXiaoFanQi",
+                "start": 0,
+                "url": "https://t.co/fxNkDBFEkL"
+              }
+            ]
+          }
+        },
+        "id": "1153970326604144640",
+        "location": "IP属地：梁家河",
+        "name": "Ruters乳透社",
+        "pinned_tweet_id": "1903416371318300711",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1520784344280748032/gHq_Pfaw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282337,
+          "following_count": 2387,
+          "like_count": 2196,
+          "listed_count": 879,
+          "media_count": 2064,
+          "tweet_count": 2732
+        },
+        "url": "https://t.co/fxNkDBFEkL",
+        "username": "Ruters0615",
+        "verified": true
+      }
+    ]
+  }
+}

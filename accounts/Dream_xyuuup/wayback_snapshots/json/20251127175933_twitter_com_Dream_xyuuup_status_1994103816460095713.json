@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1994103816460095713",
+    "created_at": "2025-11-27T17:59:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T18:59:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994103816460095713"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1751912463774142464",
+          "start": 3,
+          "username": "BeiLa77202"
+        },
+        {
+          "end": 28,
+          "id": "1590939682568736769",
+          "start": 16,
+          "username": "ColesPerson"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994103816460095713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994061961856995585",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BeiLa77202: @ColesPerson 就那个轰焦冻他肯定混ch啊，头发还染个红白他肯定磕日瓷呀 你们傻呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1994103816460095713",
+        "created_at": "2025-11-27T17:59:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T18:59:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994103816460095713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1751912463774142464",
+              "start": 3,
+              "username": "BeiLa77202"
+            },
+            {
+              "end": 28,
+              "id": "1590939682568736769",
+              "start": 16,
+              "username": "ColesPerson"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994103816460095713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994061961856995585",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BeiLa77202: @ColesPerson 就那个轰焦冻他肯定混ch啊，头发还染个红白他肯定磕日瓷呀 你们傻呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751912463774142464",
+        "conversation_id": "1994032348556320898",
+        "created_at": "2025-11-27T15:13:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T16:13:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994061961856995585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1590939682568736769",
+              "start": 0,
+              "username": "ColesPerson"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994061961856995585",
+        "in_reply_to_user_id": "1590939682568736769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 479,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994032348556320898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ColesPerson 就那个轰焦冻他肯定混ch啊，头发还染个红白他肯定磕日瓷呀 你们傻呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "你能想到的坏习惯我都有",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 608,
+          "like_count": 7853,
+          "listed_count": 1,
+          "media_count": 468,
+          "tweet_count": 4260
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-29T10:17:45.000Z",
+        "description": "求赐死，求碎尸，求分尸，求奸尸，求抛尸，求煮尸，求毁尸，求活埋，求淹死，求捂死，求砸死，求毒死，求敲死，求刺死，求捅死",
+        "id": "1751912463774142464",
+        "location": "你猜我在哪",
+        "name": "🗑️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984337872363679744/Ai7TtYhY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 262,
+          "like_count": 11981,
+          "listed_count": 1,
+          "media_count": 115,
+          "tweet_count": 1162
+        },
+        "username": "BeiLa77202",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-11T05:29:24.000Z",
+        "description": "有本事你就来美国杀了我",
+        "id": "1590939682568736769",
+        "location": "Manhattan, NY",
+        "name": "幼女时代",
+        "pinned_tweet_id": "1980605611067756844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983668137922064384/aKdXx6yC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1574,
+          "following_count": 1395,
+          "like_count": 26508,
+          "listed_count": 4,
+          "media_count": 891,
+          "tweet_count": 9681
+        },
+        "username": "ColesPerson",
+        "verified": false
+      }
+    ]
+  }
+}

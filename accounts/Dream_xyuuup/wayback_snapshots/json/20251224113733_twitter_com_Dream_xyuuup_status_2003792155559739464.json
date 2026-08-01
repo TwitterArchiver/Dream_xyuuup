@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2003407272970489856"
+      ],
+      "media_source_tweet_id": [
+        "2003407293250175223"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "2003792155559739464",
+    "created_at": "2025-12-24T11:37:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T12:37:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003792155559739464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1239457591417171973",
+          "start": 3,
+          "username": "GFWfrog"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jM6TDTDX7r",
+          "end": 57,
+          "expanded_url": "https://x.com/GFWfrog/status/2003407293250175223/video/1",
+          "media_key": "7_2003407272970489856",
+          "start": 34,
+          "url": "https://t.co/jM6TDTDX7r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003792155559739464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 49
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003407293250175223",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GFWfrog: 美国斩杀线，中国斩杀熊🐻\n\n😎 匿名投稿 https://t.co/jM6TDTDX7r"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6894,
+        "height": 848,
+        "media_key": "7_2003407272970489856",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2003407272970489856/pu/img/EiwZdQ8RgrvzcFnl.jpg",
+        "public_metrics": {
+          "view_count": 27734
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2003407272970489856/pu/vid/avc1/320x512/MkVyfd952N4uitue.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2003407272970489856/pu/vid/avc1/528x848/48B9RuAVKsGd4M0u.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2003407272970489856/pu/pl/_FRGeT6owWuaK3w_.m3u8"
+          }
+        ],
+        "width": 528
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2003407272970489856"
+          ],
+          "media_source_tweet_id": [
+            "2003407293250175223"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "2003792155559739464",
+        "created_at": "2025-12-24T11:37:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T12:37:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003792155559739464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1239457591417171973",
+              "start": 3,
+              "username": "GFWfrog"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jM6TDTDX7r",
+              "end": 57,
+              "expanded_url": "https://x.com/GFWfrog/status/2003407293250175223/video/1",
+              "media_key": "7_2003407272970489856",
+              "start": 34,
+              "url": "https://t.co/jM6TDTDX7r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003792155559739464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 49
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003407293250175223",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GFWfrog: 美国斩杀线，中国斩杀熊🐻\n\n😎 匿名投稿 https://t.co/jM6TDTDX7r"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2003407272970489856"
+          ]
+        },
+        "author_id": "1239457591417171973",
+        "conversation_id": "2003407293250175223",
+        "created_at": "2025-12-23T10:08:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T11:08:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003407293250175223"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jM6TDTDX7r",
+              "end": 44,
+              "expanded_url": "https://x.com/GFWfrog/status/2003407293250175223/video/1",
+              "media_key": "7_2003407272970489856",
+              "start": 21,
+              "url": "https://t.co/jM6TDTDX7r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003407293250175223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 122,
+          "impression_count": 63566,
+          "like_count": 690,
+          "quote_count": 3,
+          "reply_count": 35,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "美国斩杀线，中国斩杀熊🐻\n\n😎 匿名投稿 https://t.co/jM6TDTDX7r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "你能想到的坏习惯我都有",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998066182315020289/_eUXKzgo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 602,
+          "like_count": 7997,
+          "listed_count": 1,
+          "media_count": 477,
+          "tweet_count": 4375
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-16T07:44:59.000Z",
+        "description": "欢迎私信投稿\n\n新加坡/XJP/习近平粉丝群：https://t.co/BbAyHfnObj\n频道：https://t.co/Evu48wmwfT \n#大自爆运动 ：党政机关、国企、互联网大厂……无论在哪工作，欢迎一切有关审查机器与极权系统运作的投稿，用真实击败独裁！\n\n邮箱：gfwfrog@gmail.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 81,
+                "start": 75,
+                "tag": "大自爆运动"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/SpeedUpCN",
+                "end": 46,
+                "expanded_url": "https://t.me/SpeedUpCN",
+                "start": 23,
+                "url": "https://t.co/BbAyHfnObj"
+              },
+              {
+                "display_url": "t.me/XueXi_China",
+                "end": 73,
+                "expanded_url": "http://t.me/XueXi_China",
+                "start": 50,
+                "url": "https://t.co/Evu48wmwfT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "GFWbao.com",
+                "end": 23,
+                "expanded_url": "http://GFWbao.com",
+                "start": 0,
+                "url": "https://t.co/B3cyU85idW"
+              }
+            ]
+          }
+        },
+        "id": "1239457591417171973",
+        "location": "墙国",
+        "name": "墙国蛙蛤蛤🐸(新加坡/XJP/习近平)",
+        "pinned_tweet_id": "2003731519123439989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001820777713221633/f9HElYyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256146,
+          "following_count": 2135,
+          "like_count": 110115,
+          "listed_count": 870,
+          "media_count": 6125,
+          "tweet_count": 11296
+        },
+        "url": "https://t.co/B3cyU85idW",
+        "username": "GFWfrog",
+        "verified": true
+      }
+    ]
+  }
+}

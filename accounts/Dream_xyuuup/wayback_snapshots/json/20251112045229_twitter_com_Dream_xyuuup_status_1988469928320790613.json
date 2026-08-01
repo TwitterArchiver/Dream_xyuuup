@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988132222038405122"
+      ],
+      "media_source_tweet_id": [
+        "1988132224982749204"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "1988469928320790613",
+    "created_at": "2025-11-12T04:52:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T05:52:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988469928320790613"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1602663153623388161",
+          "start": 3,
+          "username": "knd_8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6MvwanJTra",
+          "end": 43,
+          "expanded_url": "https://x.com/knd_8964/status/1988132224982749204/photo/1",
+          "media_key": "3_1988132222038405122",
+          "start": 20,
+          "url": "https://t.co/6MvwanJTra"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988469928320790613",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988132224982749204",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @knd_8964: ⏰魅力时刻 https://t.co/6MvwanJTra"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1988132222038405122",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5dDuO0bcAIJ665.jpg",
+        "width": 810
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988132222038405122"
+          ],
+          "media_source_tweet_id": [
+            "1988132224982749204"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "1988469928320790613",
+        "created_at": "2025-11-12T04:52:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T05:52:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988469928320790613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1602663153623388161",
+              "start": 3,
+              "username": "knd_8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6MvwanJTra",
+              "end": 43,
+              "expanded_url": "https://x.com/knd_8964/status/1988132224982749204/photo/1",
+              "media_key": "3_1988132222038405122",
+              "start": 20,
+              "url": "https://t.co/6MvwanJTra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988469928320790613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988132224982749204",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @knd_8964: ⏰魅力时刻 https://t.co/6MvwanJTra"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988132222038405122"
+          ]
+        },
+        "author_id": "1602663153623388161",
+        "conversation_id": "1988132224982749204",
+        "created_at": "2025-11-11T06:30:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T07:30:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988132224982749204"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6MvwanJTra",
+              "end": 29,
+              "expanded_url": "https://x.com/knd_8964/status/1988132224982749204/photo/1",
+              "media_key": "3_1988132222038405122",
+              "start": 6,
+              "url": "https://t.co/6MvwanJTra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988132224982749204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 12985,
+          "like_count": 198,
+          "quote_count": 3,
+          "reply_count": 10,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "⏰魅力时刻 https://t.co/6MvwanJTra"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "没法活了，一切都是男的骗我，女的欠我，老的冤枉我，小的欺负我，中国的压迫我，外国的引诱我，身边的霸凌我，网上的取笑我，你们全都对不起我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1985535613857382587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 594,
+          "like_count": 7482,
+          "listed_count": 1,
+          "media_count": 457,
+          "tweet_count": 4121
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-13T13:54:21.000Z",
+        "description": "周而复始，即为历史",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/kanade…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/kanade-8964.bsky.social",
+                "start": 0,
+                "url": "https://t.co/Czvo6RndGT"
+              }
+            ]
+          }
+        },
+        "id": "1602663153623388161",
+        "location": "导流槽雅座",
+        "name": "超级泡面高手小气走",
+        "pinned_tweet_id": "1741502377004576895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907138834435096576/jxo8AWHo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4124,
+          "following_count": 4409,
+          "like_count": 90583,
+          "listed_count": 15,
+          "media_count": 4277,
+          "tweet_count": 12379
+        },
+        "url": "https://t.co/Czvo6RndGT",
+        "username": "knd_8964",
+        "verified": false
+      }
+    ]
+  }
+}

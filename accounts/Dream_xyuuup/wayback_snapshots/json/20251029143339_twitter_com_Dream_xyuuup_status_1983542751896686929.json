@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1983350930805555263",
+    "created_at": "2025-10-29T14:33:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T15:33:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983542751896686929"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1850072961468043264",
+          "start": 0,
+          "username": "Guling_Nijika"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983542751896686929",
+    "in_reply_to_user_id": "1850072961468043264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983350930805555263",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Guling_Nijika 拿去买pr了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1983350930805555263",
+        "created_at": "2025-10-29T14:33:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T15:33:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983542751896686929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1850072961468043264",
+              "start": 0,
+              "username": "Guling_Nijika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983542751896686929",
+        "in_reply_to_user_id": "1850072961468043264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983350930805555263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Guling_Nijika 拿去买pr了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850072961468043264",
+        "conversation_id": "1983350930805555263",
+        "created_at": "2025-10-29T01:51:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T02:51:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983350930805555263"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1983350930805555263",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 14501,
+          "like_count": 103,
+          "quote_count": 2,
+          "reply_count": 23,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "本人董晗 130730200212123830\n弟弟董曄 130730201406133812\n阿姨董玉濤 130730198411143842\n親爹董志強 132529197809153814\n親媽王海雲 132529197605303825\n舅舅王海志 132529197903023813\n\n怕你们不知道我提一嘴"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "我自私，病态，阴暗，偏执。所有大度、不在乎都是我的伪装。我窥探你的生活，揣测你的文案，解读你分享的一切，观察你身边的人，盯着你的照片妄想找到蛛丝马迹。我敏感，善变多疑，斤斤计较你多看别人的一眼。我爱你，你本来就应该乖乖待在我身边。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1953828269977219114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 580,
+          "like_count": 7320,
+          "listed_count": 1,
+          "media_count": 449,
+          "tweet_count": 4042
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-26T07:12:32.000Z",
+        "description": "今天我思考了吗",
+        "id": "1850072961468043264",
+        "location": "Winit420",
+        "name": "牯岭街普通虹夏#天苑四",
+        "pinned_tweet_id": "1977198260264878216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982437648179355648/Gyd20Lbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 222,
+          "like_count": 745,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 507
+        },
+        "username": "Guling_Nijika",
+        "verified": false
+      }
+    ]
+  }
+}

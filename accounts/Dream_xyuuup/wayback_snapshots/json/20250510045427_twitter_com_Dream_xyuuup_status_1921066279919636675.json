@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1920626136020623620",
+    "created_at": "2025-05-10T04:54:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-10T05:54:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921066279919636675"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1027764083565711360",
+          "start": 0,
+          "username": "__Inty__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921066279919636675",
+    "in_reply_to_user_id": "1027764083565711360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920626136020623620",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__Inty__ 我要笑死了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13400,
+        "height": 1280,
+        "media_key": "13_1920626027102896128",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1920626027102896128/img/KiBUMlD0FUMiwArk.jpg",
+        "public_metrics": {
+          "view_count": 43544
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1920626027102896128/vid/avc1/320x568/j14rnQElY6FQEl4Y.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1920626027102896128/vid/avc1/480x852/L3kFh5ykphNLf0zf.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1920626027102896128/vid/avc1/720x1280/ElcdezbOX-4I5xy3.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1920626027102896128/pl/VciDH4ev00lmWku6.m3u8?tag=16"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1920626136020623620",
+        "created_at": "2025-05-10T04:54:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T05:54:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921066279919636675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1027764083565711360",
+              "start": 0,
+              "username": "__Inty__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921066279919636675",
+        "in_reply_to_user_id": "1027764083565711360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920626136020623620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__Inty__ 我要笑死了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1920626027102896128"
+          ]
+        },
+        "author_id": "1027764083565711360",
+        "conversation_id": "1920626136020623620",
+        "created_at": "2025-05-08T23:45:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T00:45:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920626136020623620"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TO9LnSbJKe",
+              "end": 25,
+              "expanded_url": "https://x.com/__Inty__/status/1920626136020623620/video/1",
+              "media_key": "13_1920626027102896128",
+              "start": 2,
+              "url": "https://t.co/TO9LnSbJKe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920626136020623620",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 118,
+          "impression_count": 109106,
+          "like_count": 576,
+          "quote_count": 31,
+          "reply_count": 113,
+          "retweet_count": 79
+        },
+        "reply_settings": "everyone",
+        "text": "😂 https://t.co/TO9LnSbJKe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "废话多｜对所有人友好除了现生｜最可爱的小宝宝@QLing61007 😽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1917423348302467396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905913123158298624/ClLLrGxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 416,
+          "like_count": 4031,
+          "listed_count": 1,
+          "media_count": 194,
+          "tweet_count": 1793
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-10T03:50:27.000Z",
+        "description": "用中文为你分享世界热点新闻 电报主页 https://t.co/evscxyg2xG YouTube主页 https://t.co/QWKpvf4NCB 电报聊天群 https://t.co/mfY4RFysrB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/intynews",
+                "end": 42,
+                "expanded_url": "http://t.me/intynews",
+                "start": 19,
+                "url": "https://t.co/evscxyg2xG"
+              },
+              {
+                "display_url": "youtube.com/@inty",
+                "end": 76,
+                "expanded_url": "http://youtube.com/@inty",
+                "start": 53,
+                "url": "https://t.co/QWKpvf4NCB"
+              },
+              {
+                "display_url": "t.me/Inty_Fanbase",
+                "end": 106,
+                "expanded_url": "https://t.me/Inty_Fanbase",
+                "start": 83,
+                "url": "https://t.co/mfY4RFysrB"
+              }
+            ]
+          }
+        },
+        "id": "1027764083565711360",
+        "location": "USA",
+        "name": "头条热点",
+        "pinned_tweet_id": "1920101401495040502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1683004187951665153/9u75ptcg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 700301,
+          "following_count": 0,
+          "like_count": 1410,
+          "listed_count": 2046,
+          "media_count": 30651,
+          "tweet_count": 88317
+        },
+        "username": "__Inty__",
+        "verified": true
+      }
+    ]
+  }
+}

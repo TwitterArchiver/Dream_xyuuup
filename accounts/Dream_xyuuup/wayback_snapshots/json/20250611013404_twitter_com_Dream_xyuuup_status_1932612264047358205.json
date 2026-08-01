@@ -1,0 +1,494 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1932413924349231104",
+        "3_1932413924340867072",
+        "3_1932413924395323392"
+      ],
+      "media_source_tweet_id": [
+        "1932422529278452013",
+        "1932422529278452013",
+        "1932422529278452013"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "1932612264047358205",
+    "created_at": "2025-06-11T01:34:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T02:34:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932612264047358205"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 64,
+          "normalized_text": "아일릿",
+          "probability": 0.5262,
+          "start": 62,
+          "type": "Person"
+        },
+        {
+          "end": 76,
+          "normalized_text": "_bomb",
+          "probability": 0.3577,
+          "start": 72,
+          "type": "Organization"
+        },
+        {
+          "end": 87,
+          "normalized_text": "STAR_BOMB",
+          "probability": 0.4431,
+          "start": 79,
+          "type": "Organization"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 15,
+          "tag": "ILLIT"
+        },
+        {
+          "end": 65,
+          "start": 61,
+          "tag": "아일릿"
+        },
+        {
+          "end": 77,
+          "start": 66,
+          "tag": "ILLIT_bomb"
+        },
+        {
+          "end": 88,
+          "start": 78,
+          "tag": "STAR_BOMB"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1099907345528713216",
+          "start": 3,
+          "username": "BELIFTLAB"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1UQqpLpPIx",
+          "end": 112,
+          "expanded_url": "https://x.com/BELIFTLAB/status/1932422529278452013/photo/1",
+          "media_key": "3_1932413924349231104",
+          "start": 89,
+          "url": "https://t.co/1UQqpLpPIx"
+        },
+        {
+          "display_url": "pic.x.com/1UQqpLpPIx",
+          "end": 112,
+          "expanded_url": "https://x.com/BELIFTLAB/status/1932422529278452013/photo/1",
+          "media_key": "3_1932413924340867072",
+          "start": 89,
+          "url": "https://t.co/1UQqpLpPIx"
+        },
+        {
+          "display_url": "pic.x.com/1UQqpLpPIx",
+          "end": 112,
+          "expanded_url": "https://x.com/BELIFTLAB/status/1932422529278452013/photo/1",
+          "media_key": "3_1932413924395323392",
+          "start": 89,
+          "url": "https://t.co/1UQqpLpPIx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932612264047358205",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2269
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932422529278452013",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BELIFTLAB: #ILLIT ‘bomb’ Concept Photo (STAR BOMB Ver.)\n\n#아일릿 #ILLIT_bomb #STAR_BOMB https://t.co/1UQqpLpPIx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2731,
+        "media_key": "3_1932413924349231104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtFQOc_awAAzmWj.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2731,
+        "media_key": "3_1932413924340867072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtFQOc9bIAAhxx1.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_1932413924395323392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtFQOdKaEAAaJbx.jpg",
+        "width": 2731
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932413924349231104",
+            "3_1932413924340867072",
+            "3_1932413924395323392"
+          ],
+          "media_source_tweet_id": [
+            "1932422529278452013",
+            "1932422529278452013",
+            "1932422529278452013"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "1932612264047358205",
+        "created_at": "2025-06-11T01:34:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T02:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932612264047358205"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 64,
+              "normalized_text": "아일릿",
+              "probability": 0.5262,
+              "start": 62,
+              "type": "Person"
+            },
+            {
+              "end": 76,
+              "normalized_text": "_bomb",
+              "probability": 0.3577,
+              "start": 72,
+              "type": "Organization"
+            },
+            {
+              "end": 87,
+              "normalized_text": "STAR_BOMB",
+              "probability": 0.4431,
+              "start": 79,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 15,
+              "tag": "ILLIT"
+            },
+            {
+              "end": 65,
+              "start": 61,
+              "tag": "아일릿"
+            },
+            {
+              "end": 77,
+              "start": 66,
+              "tag": "ILLIT_bomb"
+            },
+            {
+              "end": 88,
+              "start": 78,
+              "tag": "STAR_BOMB"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1099907345528713216",
+              "start": 3,
+              "username": "BELIFTLAB"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1UQqpLpPIx",
+              "end": 112,
+              "expanded_url": "https://x.com/BELIFTLAB/status/1932422529278452013/photo/1",
+              "media_key": "3_1932413924349231104",
+              "start": 89,
+              "url": "https://t.co/1UQqpLpPIx"
+            },
+            {
+              "display_url": "pic.x.com/1UQqpLpPIx",
+              "end": 112,
+              "expanded_url": "https://x.com/BELIFTLAB/status/1932422529278452013/photo/1",
+              "media_key": "3_1932413924340867072",
+              "start": 89,
+              "url": "https://t.co/1UQqpLpPIx"
+            },
+            {
+              "display_url": "pic.x.com/1UQqpLpPIx",
+              "end": 112,
+              "expanded_url": "https://x.com/BELIFTLAB/status/1932422529278452013/photo/1",
+              "media_key": "3_1932413924395323392",
+              "start": 89,
+              "url": "https://t.co/1UQqpLpPIx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932612264047358205",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2269
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932422529278452013",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BELIFTLAB: #ILLIT ‘bomb’ Concept Photo (STAR BOMB Ver.)\n\n#아일릿 #ILLIT_bomb #STAR_BOMB https://t.co/1UQqpLpPIx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932413924349231104",
+            "3_1932413924340867072",
+            "3_1932413924395323392"
+          ]
+        },
+        "author_id": "1099907345528713216",
+        "conversation_id": "1932422529278452013",
+        "created_at": "2025-06-10T13:00:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T14:00:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932422529278452013"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 49,
+              "normalized_text": "아일릿",
+              "probability": 0.6024,
+              "start": 47,
+              "type": "Person"
+            },
+            {
+              "end": 61,
+              "normalized_text": "_bomb",
+              "probability": 0.4007,
+              "start": 57,
+              "type": "Organization"
+            },
+            {
+              "end": 72,
+              "normalized_text": "STAR_BOMB",
+              "probability": 0.5122,
+              "start": 64,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "ILLIT"
+            },
+            {
+              "end": 50,
+              "start": 46,
+              "tag": "아일릿"
+            },
+            {
+              "end": 62,
+              "start": 51,
+              "tag": "ILLIT_bomb"
+            },
+            {
+              "end": 73,
+              "start": 63,
+              "tag": "STAR_BOMB"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1UQqpLpPIx",
+              "end": 97,
+              "expanded_url": "https://x.com/BELIFTLAB/status/1932422529278452013/photo/1",
+              "media_key": "3_1932413924349231104",
+              "start": 74,
+              "url": "https://t.co/1UQqpLpPIx"
+            },
+            {
+              "display_url": "pic.x.com/1UQqpLpPIx",
+              "end": 97,
+              "expanded_url": "https://x.com/BELIFTLAB/status/1932422529278452013/photo/1",
+              "media_key": "3_1932413924340867072",
+              "start": 74,
+              "url": "https://t.co/1UQqpLpPIx"
+            },
+            {
+              "display_url": "pic.x.com/1UQqpLpPIx",
+              "end": 97,
+              "expanded_url": "https://x.com/BELIFTLAB/status/1932422529278452013/photo/1",
+              "media_key": "3_1932413924395323392",
+              "start": 74,
+              "url": "https://t.co/1UQqpLpPIx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932422529278452013",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 300,
+          "impression_count": 163952,
+          "like_count": 8377,
+          "quote_count": 204,
+          "reply_count": 17,
+          "retweet_count": 2269
+        },
+        "reply_settings": "everyone",
+        "text": "#ILLIT ‘bomb’ Concept Photo (STAR BOMB Ver.)\n\n#아일릿 #ILLIT_bomb #STAR_BOMB https://t.co/1UQqpLpPIx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "偏远乡村学校在读 重抑中焦 偶尔od歌手 接下来有一个event 成分复杂爱看棒子 对所有人友好 最可爱的小宝宝@QLing61007 😽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 56,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1931176332370813214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932410719250808832/fkyl4o1f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 462,
+          "like_count": 5200,
+          "listed_count": 0,
+          "media_count": 256,
+          "tweet_count": 2350
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-25T05:42:01.000Z",
+        "description": "#BELIFTLAB Official X (Twitter)  \n#빌리프랩 공식 X (트위터)",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "BELIFTLAB"
+              },
+              {
+                "end": 39,
+                "start": 34,
+                "tag": "빌리프랩"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beliftlab.com",
+                "end": 23,
+                "expanded_url": "https://beliftlab.com",
+                "start": 0,
+                "url": "https://t.co/pjaOcmrks6"
+              }
+            ]
+          }
+        },
+        "id": "1099907345528713216",
+        "name": "BELIFT LAB",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1307133454153383940/5S5GBj2F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2424675,
+          "following_count": 9,
+          "like_count": 0,
+          "listed_count": 8611,
+          "media_count": 851,
+          "tweet_count": 3244
+        },
+        "url": "https://t.co/pjaOcmrks6",
+        "username": "BELIFTLAB",
+        "verified": true
+      }
+    ]
+  }
+}

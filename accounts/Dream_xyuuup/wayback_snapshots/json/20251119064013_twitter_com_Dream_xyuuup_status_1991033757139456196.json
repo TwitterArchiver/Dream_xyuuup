@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990873068873433091"
+      ],
+      "media_source_tweet_id": [
+        "1990873074544083317"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "1991033757139456196",
+    "created_at": "2025-11-19T06:40:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T07:40:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991033757139456196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1496182649400008707",
+          "start": 3,
+          "username": "nyaicore"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DqN9FDFlDJ",
+          "end": 49,
+          "expanded_url": "https://x.com/nyaicore/status/1990873074544083317/photo/1",
+          "media_key": "3_1990873068873433091",
+          "start": 26,
+          "url": "https://t.co/DqN9FDFlDJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991033757139456196",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 514
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990873074544083317",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nyaicore: i SEE you.. https://t.co/DqN9FDFlDJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1990873068873433091",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6EAgg8XwAMlGVY.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990873068873433091"
+          ],
+          "media_source_tweet_id": [
+            "1990873074544083317"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "1991033757139456196",
+        "created_at": "2025-11-19T06:40:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T07:40:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991033757139456196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1496182649400008707",
+              "start": 3,
+              "username": "nyaicore"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DqN9FDFlDJ",
+              "end": 49,
+              "expanded_url": "https://x.com/nyaicore/status/1990873074544083317/photo/1",
+              "media_key": "3_1990873068873433091",
+              "start": 26,
+              "url": "https://t.co/DqN9FDFlDJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991033757139456196",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 514
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990873074544083317",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nyaicore: i SEE you.. https://t.co/DqN9FDFlDJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990873068873433091"
+          ]
+        },
+        "author_id": "1496182649400008707",
+        "conversation_id": "1990873074544083317",
+        "created_at": "2025-11-18T20:01:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T21:01:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990873074544083317"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DqN9FDFlDJ",
+              "end": 35,
+              "expanded_url": "https://x.com/nyaicore/status/1990873074544083317/photo/1",
+              "media_key": "3_1990873068873433091",
+              "start": 12,
+              "url": "https://t.co/DqN9FDFlDJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990873074544083317",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 604,
+          "impression_count": 59865,
+          "like_count": 6463,
+          "quote_count": 6,
+          "reply_count": 105,
+          "retweet_count": 514
+        },
+        "reply_settings": "everyone",
+        "text": "i SEE you.. https://t.co/DqN9FDFlDJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "没法活了，一切都是男的骗我，女的欠我，老的冤枉我，小的欺负我，中国的压迫我，外国的引诱我，身边的霸凌我，网上的取笑我，你们全都对不起我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1985535613857382587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 596,
+          "like_count": 7599,
+          "listed_count": 1,
+          "media_count": 464,
+          "tweet_count": 4167
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-22T17:58:47.000Z",
+        "description": "horror catgirl • artist ꒰ 🎀🔪 ꒱ ♡ design : @littlecorpsee ♡ ママ : @saga404 ♱ @emoshimoV ꒰ #nyaicore ꒱ ₊ ☆",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 97,
+                "start": 88,
+                "tag": "nyaicore"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 56,
+                "start": 42,
+                "username": "littlecorpsee"
+              },
+              {
+                "end": 72,
+                "start": 64,
+                "username": "saga404"
+              },
+              {
+                "end": 85,
+                "start": 75,
+                "username": "emoshimoV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/nyaicore",
+                "end": 23,
+                "expanded_url": "http://twitch.tv/nyaicore",
+                "start": 0,
+                "url": "https://t.co/VZzLDeIVUw"
+              }
+            ]
+          }
+        },
+        "id": "1496182649400008707",
+        "location": "i ♡ b: eita_789",
+        "name": "nyami ♡",
+        "pinned_tweet_id": "1885709175063236955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955318784685699072/L52GIiac_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18499,
+          "following_count": 841,
+          "like_count": 12449,
+          "listed_count": 56,
+          "media_count": 487,
+          "tweet_count": 9846
+        },
+        "url": "https://t.co/VZzLDeIVUw",
+        "username": "nyaicore",
+        "verified": false
+      }
+    ]
+  }
+}

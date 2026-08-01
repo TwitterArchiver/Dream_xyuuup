@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1994119321367527743",
+    "created_at": "2025-11-28T06:16:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T07:16:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994289376273289374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1822447334749614080",
+          "start": 0,
+          "username": "chenwai29719"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994289376273289374",
+    "in_reply_to_user_id": "1822447334749614080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994119321367527743",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chenwai29719 我也这样"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1994119308662947840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6yI8iiaQAAfH-e.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1994119309191467010",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6yI8kga0AIYP4g.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1994119308801396739",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6yI8jDa0AMCLLg.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1994119309233475584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6yI8kqb0AAJ93V.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1994119321367527743",
+        "created_at": "2025-11-28T06:16:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T07:16:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994289376273289374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1822447334749614080",
+              "start": 0,
+              "username": "chenwai29719"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994289376273289374",
+        "in_reply_to_user_id": "1822447334749614080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994119321367527743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chenwai29719 我也这样"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994119308662947840",
+            "3_1994119309191467010",
+            "3_1994119308801396739",
+            "3_1994119309233475584"
+          ]
+        },
+        "author_id": "1822447334749614080",
+        "conversation_id": "1994119321367527743",
+        "created_at": "2025-11-27T19:01:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T20:01:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994119321367527743"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8Mq5MN0UE5",
+              "end": 33,
+              "expanded_url": "https://x.com/chenwai29719/status/1994119321367527743/photo/1",
+              "media_key": "3_1994119308662947840",
+              "start": 10,
+              "url": "https://t.co/8Mq5MN0UE5"
+            },
+            {
+              "display_url": "pic.x.com/8Mq5MN0UE5",
+              "end": 33,
+              "expanded_url": "https://x.com/chenwai29719/status/1994119321367527743/photo/1",
+              "media_key": "3_1994119309191467010",
+              "start": 10,
+              "url": "https://t.co/8Mq5MN0UE5"
+            },
+            {
+              "display_url": "pic.x.com/8Mq5MN0UE5",
+              "end": 33,
+              "expanded_url": "https://x.com/chenwai29719/status/1994119321367527743/photo/1",
+              "media_key": "3_1994119308801396739",
+              "start": 10,
+              "url": "https://t.co/8Mq5MN0UE5"
+            },
+            {
+              "display_url": "pic.x.com/8Mq5MN0UE5",
+              "end": 33,
+              "expanded_url": "https://x.com/chenwai29719/status/1994119321367527743/photo/1",
+              "media_key": "3_1994119309233475584",
+              "start": 10,
+              "url": "https://t.co/8Mq5MN0UE5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994119321367527743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 75,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的抖音是不是疯了 https://t.co/8Mq5MN0UE5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "你能想到的坏习惯我都有",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 607,
+          "like_count": 7861,
+          "listed_count": 1,
+          "media_count": 468,
+          "tweet_count": 4262
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-11T01:38:11.000Z",
+        "description": "不懂政治。07INFP/💊🩸/ftx/非二元性别/泛性恋/爱听摇滚金属/adhd+asd /抑郁焦虑但双相存疑\n忘记回fo请私信   小号@waichen187098",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 69,
+                "username": "waichen187098"
+              }
+            ]
+          }
+        },
+        "id": "1822447334749614080",
+        "name": "尘外(普瑞愈美激推)",
+        "pinned_tweet_id": "1990446456315285580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985045271924137985/AfwlOWEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 163,
+          "like_count": 110,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 461
+        },
+        "username": "chenwai29719",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1936690801217884160"
+      ],
+      "media_source_tweet_id": [
+        "1936690888849424689"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1937340866152292385",
+    "created_at": "2025-06-24T02:43:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T03:43:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937340866152292385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1795494696036478978",
+          "start": 3,
+          "username": "mwookna"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xMMramrxQd",
+          "end": 97,
+          "expanded_url": "https://x.com/mwookna/status/1936690888849424689/video/1",
+          "media_key": "13_1936690801217884160",
+          "start": 74,
+          "url": "https://t.co/xMMramrxQd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937340866152292385",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1870
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936690888849424689",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mwookna: 뚜뚜뚜뚜뚜뚜뚜따따따따따따따따랄랄랄랄랄랄라리틀댄스꿍실냐옹뚜뚜뚜뚜뚜뚜뚜따따따따따따따따랄랄랄랄랄랄라리틀댄스둠칫냐옹 https://t.co/xMMramrxQd"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29935,
+        "height": 884,
+        "media_key": "13_1936690801217884160",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1936690801217884160/img/LKS1A6mPXUi_U_1k.jpg",
+        "public_metrics": {
+          "view_count": 117080
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936690801217884160/vid/avc1/1572x884/eFMlNtlb1gBBshxh.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936690801217884160/vid/avc1/480x270/XjX3gTcmlIzdHhXC.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936690801217884160/vid/avc1/640x360/dPYx9DWXV7kngnpB.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1936690801217884160/pl/LrcCXCrQoI5B-nIe.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936690801217884160/vid/avc1/1280x720/d4EHhfYDnlmbnHn8.mp4"
+          }
+        ],
+        "width": 1572
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1936690801217884160"
+          ],
+          "media_source_tweet_id": [
+            "1936690888849424689"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1937340866152292385",
+        "created_at": "2025-06-24T02:43:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T03:43:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937340866152292385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1795494696036478978",
+              "start": 3,
+              "username": "mwookna"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xMMramrxQd",
+              "end": 97,
+              "expanded_url": "https://x.com/mwookna/status/1936690888849424689/video/1",
+              "media_key": "13_1936690801217884160",
+              "start": 74,
+              "url": "https://t.co/xMMramrxQd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937340866152292385",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1870
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936690888849424689",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mwookna: 뚜뚜뚜뚜뚜뚜뚜따따따따따따따따랄랄랄랄랄랄라리틀댄스꿍실냐옹뚜뚜뚜뚜뚜뚜뚜따따따따따따따따랄랄랄랄랄랄라리틀댄스둠칫냐옹 https://t.co/xMMramrxQd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1936690801217884160"
+          ]
+        },
+        "author_id": "1795494696036478978",
+        "conversation_id": "1936690888849424689",
+        "created_at": "2025-06-22T07:41:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T08:41:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936690888849424689"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xMMramrxQd",
+              "end": 84,
+              "expanded_url": "https://x.com/mwookna/status/1936690888849424689/video/1",
+              "media_key": "13_1936690801217884160",
+              "start": 61,
+              "url": "https://t.co/xMMramrxQd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936690888849424689",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 387,
+          "impression_count": 213073,
+          "like_count": 3747,
+          "quote_count": 607,
+          "reply_count": 0,
+          "retweet_count": 1870
+        },
+        "reply_settings": "everyone",
+        "text": "뚜뚜뚜뚜뚜뚜뚜따따따따따따따따랄랄랄랄랄랄라리틀댄스꿍실냐옹뚜뚜뚜뚜뚜뚜뚜따따따따따따따따랄랄랄랄랄랄라리틀댄스둠칫냐옹 https://t.co/xMMramrxQd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "那丑咋了？我不光长丑还没文化，不光没文化，我还没钱，我原生家庭还有问题，导致我人格上有缺陷，而且我老感觉到有一种不安全感。我感觉空气里边有一种焦虑的因素，我一呼一吸之间仿佛把地球上边污秽的东西全都吸到我的身体里边去了，我全给吸收了，我就这么蠢，我就这么笨，那咋了？对不对？我就感觉到吧，活着没啥意思。但是我老爱幻想，我幻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1931176332370813214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933432998864826371/0SiPerD5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 487,
+          "like_count": 5914,
+          "listed_count": 0,
+          "media_count": 304,
+          "tweet_count": 2741
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-28T16:38:00.000Z",
+        "description": "원희는“원”이잖아",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/mwookna",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/mwookna",
+                "start": 0,
+                "url": "https://t.co/cfgag1OGZY"
+              }
+            ]
+          }
+        },
+        "id": "1795494696036478978",
+        "name": "ㄹㅏ모..",
+        "pinned_tweet_id": "1931324425787596958",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915618717037453320/ZIa-JGyw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622,
+          "following_count": 63,
+          "like_count": 504,
+          "listed_count": 5,
+          "media_count": 1963,
+          "tweet_count": 4441
+        },
+        "url": "https://t.co/cfgag1OGZY",
+        "username": "mwookna",
+        "verified": false
+      }
+    ]
+  }
+}

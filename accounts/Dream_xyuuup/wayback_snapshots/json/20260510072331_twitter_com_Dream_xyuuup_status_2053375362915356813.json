@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053044519252226048"
+      ],
+      "media_source_tweet_id": [
+        "2053044528366449006"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "2053375362915356813",
+    "created_at": "2026-05-10T07:23:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T08:23:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053375362915356813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1599708309824897025",
+          "start": 3,
+          "username": "HoshiHiiragi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yK9HDTZ2pQ",
+          "end": 50,
+          "expanded_url": "https://x.com/HoshiHiiragi/status/2053044528366449006/photo/1",
+          "media_key": "3_2053044519252226048",
+          "start": 27,
+          "url": "https://t.co/yK9HDTZ2pQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053375362915356813",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053044528366449006",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HoshiHiiragi: 5月审美积累中： https://t.co/yK9HDTZ2pQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1344,
+        "media_key": "3_2053044519252226048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH3hHN4XcAADMUd.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053044519252226048"
+          ],
+          "media_source_tweet_id": [
+            "2053044528366449006"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "2053375362915356813",
+        "created_at": "2026-05-10T07:23:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T08:23:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053375362915356813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1599708309824897025",
+              "start": 3,
+              "username": "HoshiHiiragi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yK9HDTZ2pQ",
+              "end": 50,
+              "expanded_url": "https://x.com/HoshiHiiragi/status/2053044528366449006/photo/1",
+              "media_key": "3_2053044519252226048",
+              "start": 27,
+              "url": "https://t.co/yK9HDTZ2pQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053375362915356813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053044528366449006",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HoshiHiiragi: 5月审美积累中： https://t.co/yK9HDTZ2pQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053044519252226048"
+          ]
+        },
+        "author_id": "1599708309824897025",
+        "conversation_id": "2053044528366449006",
+        "created_at": "2026-05-09T09:28:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T10:28:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053044528366449006"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yK9HDTZ2pQ",
+              "end": 32,
+              "expanded_url": "https://x.com/HoshiHiiragi/status/2053044528366449006/photo/1",
+              "media_key": "3_2053044519252226048",
+              "start": 9,
+              "url": "https://t.co/yK9HDTZ2pQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053044528366449006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 16900,
+          "like_count": 183,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "5月审美积累中： https://t.co/yK9HDTZ2pQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "弈鸠，是谁？\nmtx,her/they,激女粉红点进就死\n*・x・*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "脚踩你爷爷登顶称王",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052421075716505600/5gcoclAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 629,
+          "like_count": 8316,
+          "listed_count": 1,
+          "media_count": 579,
+          "tweet_count": 5724
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-05T10:12:46.000Z",
+        "description": "—一一—“希望，我的存在能够一直让你幸福。”—一一—\n柊 星:“我们电波系有自己的存活方式，我可能比较不正常一些。”——INTJ-06-中国/双鱼/中-日推-男同/电波/英专/番剧/音游/ボカロ/欧美猪圈/乐队/神椿/25時/不常键政/和有梗或有趣的人唠嗑-——“我有梦想，努力有没有用之后再想。”—私信已关—LINE↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/6ntM5aBnfa",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/6ntM5aBnfa",
+                "start": 0,
+                "url": "https://t.co/z6vqyGfKGb"
+              }
+            ]
+          }
+        },
+        "id": "1599708309824897025",
+        "location": "河北省废物保护协会  ‖   ヰ世界情緒ノ箱庭 ",
+        "name": "'柊 ほし.＇",
+        "pinned_tweet_id": "1972578310497636457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053031301733638147/1hnlCxj6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 721,
+          "following_count": 97,
+          "like_count": 8505,
+          "listed_count": 2,
+          "media_count": 1978,
+          "tweet_count": 7281
+        },
+        "url": "https://t.co/z6vqyGfKGb",
+        "username": "HoshiHiiragi",
+        "verified": false
+      }
+    ]
+  }
+}

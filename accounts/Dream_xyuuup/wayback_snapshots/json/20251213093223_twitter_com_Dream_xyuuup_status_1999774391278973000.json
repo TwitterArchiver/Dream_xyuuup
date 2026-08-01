@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999419640657895424"
+      ],
+      "media_source_tweet_id": [
+        "1999419652615848066"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "1999774391278973000",
+    "created_at": "2025-12-13T09:32:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T10:32:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999774391278973000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1966143937934237696",
+          "start": 3,
+          "username": "Thousandxue"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ubTqJG7hj8",
+          "end": 40,
+          "expanded_url": "https://x.com/Thousandxue/status/1999419652615848066/photo/1",
+          "media_key": "3_1999419640657895424",
+          "start": 17,
+          "url": "https://t.co/ubTqJG7hj8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999774391278973000",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 67
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999419652615848066",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Thousandxue: https://t.co/ubTqJG7hj8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1318,
+        "media_key": "3_1999419640657895424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G79dkd5aYAARXl5.jpg",
+        "width": 846
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999419640657895424"
+          ],
+          "media_source_tweet_id": [
+            "1999419652615848066"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "1999774391278973000",
+        "created_at": "2025-12-13T09:32:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T10:32:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999774391278973000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1966143937934237696",
+              "start": 3,
+              "username": "Thousandxue"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ubTqJG7hj8",
+              "end": 40,
+              "expanded_url": "https://x.com/Thousandxue/status/1999419652615848066/photo/1",
+              "media_key": "3_1999419640657895424",
+              "start": 17,
+              "url": "https://t.co/ubTqJG7hj8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999774391278973000",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 67
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999419652615848066",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Thousandxue: https://t.co/ubTqJG7hj8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999419640657895424"
+          ]
+        },
+        "author_id": "1966143937934237696",
+        "conversation_id": "1999419652615848066",
+        "created_at": "2025-12-12T10:02:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T11:02:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999419652615848066"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ubTqJG7hj8",
+              "end": 23,
+              "expanded_url": "https://x.com/Thousandxue/status/1999419652615848066/photo/1",
+              "media_key": "3_1999419640657895424",
+              "start": 0,
+              "url": "https://t.co/ubTqJG7hj8"
+            },
+            {
+              "display_url": "x.com/jpdogosuc/stat…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/jpdogosuc/status/1999410342343192706",
+              "start": 24,
+              "url": "https://t.co/8pYHtNEXNZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999419652615848066",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 99,
+          "impression_count": 101513,
+          "like_count": 1094,
+          "quote_count": 2,
+          "reply_count": 137,
+          "retweet_count": 67
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999410342343192706",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/ubTqJG7hj8 https://t.co/8pYHtNEXNZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "你能想到的坏习惯我都有",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998066182315020289/_eUXKzgo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 601,
+          "like_count": 7920,
+          "listed_count": 1,
+          "media_count": 475,
+          "tweet_count": 4329
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-11T14:17:10.000Z",
+        "description": "華統民國派，蔣介石主義，三民主義，國家社會主義，文化保守主義｜驅除馬列，回歸憲政｜反共都會回FO",
+        "id": "1966143937934237696",
+        "location": "中華民國國民革命政府",
+        "name": "❂東洋梅花餅❀🇹🇼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999705369233530880/OYAi6jib_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 218,
+          "like_count": 5641,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 485
+        },
+        "username": "Thousandxue",
+        "verified": false
+      }
+    ]
+  }
+}

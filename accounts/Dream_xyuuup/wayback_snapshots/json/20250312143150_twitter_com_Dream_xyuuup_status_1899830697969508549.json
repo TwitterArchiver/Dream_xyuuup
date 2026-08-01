@@ -1,0 +1,572 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1138142402802143232",
+          "name": "Jang Wonyoung"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1138142402802143232",
+          "name": "Jang Wonyoung"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1138142402802143232",
+          "name": "Jang Wonyoung"
+        }
+      }
+    ],
+    "conversation_id": "1899830697969508549",
+    "created_at": "2025-03-12T14:31:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-12T15:31:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1899830697969508549"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wonyoungdollz/…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/wonyoungdollz/status/1899479179281773042",
+          "start": 5,
+          "url": "https://t.co/YeHc27NlBm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899830697969508549",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899479179281773042",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "女王❤️ https://t.co/YeHc27NlBm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3792,
+        "media_key": "3_1899479172067516416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlxOPj1WYAAwZf9.jpg",
+        "width": 2076
+      },
+      {
+        "height": 3054,
+        "media_key": "3_1899479172059148288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlxOPjzWsAAZ9Zw.jpg",
+        "width": 2065
+      },
+      {
+        "height": 3139,
+        "media_key": "3_1899479172071776256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlxOPj2XYAAaiBP.jpg",
+        "width": 2570
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1138142402802143232",
+              "name": "Jang Wonyoung"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1138142402802143232",
+              "name": "Jang Wonyoung"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1138142402802143232",
+              "name": "Jang Wonyoung"
+            }
+          }
+        ],
+        "conversation_id": "1899830697969508549",
+        "created_at": "2025-03-12T14:31:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T15:31:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899830697969508549"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wonyoungdollz/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/wonyoungdollz/status/1899479179281773042",
+              "start": 5,
+              "url": "https://t.co/YeHc27NlBm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899830697969508549",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899479179281773042",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "女王❤️ https://t.co/YeHc27NlBm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1899479172067516416",
+            "3_1899479172059148288",
+            "3_1899479172071776256"
+          ]
+        },
+        "author_id": "1782096708966436864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1138142402802143232",
+              "name": "Jang Wonyoung"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1138142402802143232",
+              "name": "Jang Wonyoung"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1138142402802143232",
+              "name": "Jang Wonyoung"
+            }
+          }
+        ],
+        "conversation_id": "1899479179281773042",
+        "created_at": "2025-03-11T15:15:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-11T16:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899479179281773042"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 26,
+              "normalized_text": "WONYOUNG",
+              "probability": 0.9614,
+              "start": 19,
+              "type": "Person"
+            },
+            {
+              "end": 61,
+              "normalized_text": "WONYOUNGxMIUMIUFW25",
+              "probability": 0.929,
+              "start": 43,
+              "type": "Person"
+            },
+            {
+              "end": 74,
+              "normalized_text": "MiuMiuFW25",
+              "probability": 0.4449,
+              "start": 65,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 62,
+              "start": 42,
+              "tag": "WONYOUNGxMIUMIUFW25"
+            },
+            {
+              "end": 75,
+              "start": 64,
+              "tag": "MiuMiuFW25"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 91,
+              "id": "937294358",
+              "start": 76,
+              "username": "MIUMIUofficial"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EZBoTg73jK",
+              "end": 115,
+              "expanded_url": "https://x.com/wonyoungdollz/status/1899479179281773042/photo/1",
+              "media_key": "3_1899479172067516416",
+              "start": 92,
+              "url": "https://t.co/EZBoTg73jK"
+            },
+            {
+              "display_url": "pic.x.com/EZBoTg73jK",
+              "end": 115,
+              "expanded_url": "https://x.com/wonyoungdollz/status/1899479179281773042/photo/1",
+              "media_key": "3_1899479172059148288",
+              "start": 92,
+              "url": "https://t.co/EZBoTg73jK"
+            },
+            {
+              "display_url": "pic.x.com/EZBoTg73jK",
+              "end": 115,
+              "expanded_url": "https://x.com/wonyoungdollz/status/1899479179281773042/photo/1",
+              "media_key": "3_1899479172071776256",
+              "start": 92,
+              "url": "https://t.co/EZBoTg73jK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899479179281773042",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 685,
+          "impression_count": 169737,
+          "like_count": 7761,
+          "quote_count": 186,
+          "reply_count": 34,
+          "retweet_count": 2236
+        },
+        "reply_settings": "everyone",
+        "text": "Love of my life 🤎\n\nWONYOUNG MIUMIU QUEEN \n#WONYOUNGxMIUMIUFW25 \n#MiuMiuFW25 @MIUMIUofficial https://t.co/EZBoTg73jK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "这是一本日记 喜欢视奸 互fo请赞自介条",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dreamxy_uuup",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dreamxy_uuup",
+                "start": 0,
+                "url": "https://t.co/V4QSiptJcT"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠ltnh",
+        "pinned_tweet_id": "1898320029139214432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896250221824520192/PpwkphAn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 123,
+          "like_count": 656,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 361
+        },
+        "url": "https://t.co/V4QSiptJcT",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-21T17:19:12.000Z",
+        "description": "– for IVE's #장원영 🐰. Forever with IVE OT6 🫂💕. #INHYEONGZ Are My Absolutely Weakness 🩷. Upscaling Pics to 4K 📸. All WY Duos are Love ❤️.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 16,
+                "start": 12,
+                "tag": "장원영"
+              },
+              {
+                "end": 55,
+                "start": 45,
+                "tag": "INHYEONGZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/wonyoungdollz",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/wonyoungdollz",
+                "start": 0,
+                "url": "https://t.co/W3nAV6gpPk"
+              }
+            ]
+          }
+        },
+        "id": "1782096708966436864",
+        "location": "Wonyoungism ✨",
+        "name": "ᥫ᭡ 🪽",
+        "pinned_tweet_id": "1899538030672662543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890962632997224448/DWr5L7nT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22672,
+          "following_count": 266,
+          "like_count": 24927,
+          "listed_count": 108,
+          "media_count": 8968,
+          "tweet_count": 17745
+        },
+        "url": "https://t.co/W3nAV6gpPk",
+        "username": "wonyoungdollz",
+        "verified": true
+      }
+    ]
+  }
+}

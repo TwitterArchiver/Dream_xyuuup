@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026659977562046465"
+      ],
+      "media_source_tweet_id": [
+        "2026659984268743110"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "2026735315994685704",
+    "created_at": "2026-02-25T19:05:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T20:05:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026735315994685704"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 18,
+          "tag": "지우"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1794788923677503488",
+          "start": 3,
+          "username": "picscjiwoo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Oir3OtRIB0",
+          "end": 45,
+          "expanded_url": "https://x.com/picscjiwoo/status/2026659984268743110/photo/1",
+          "media_key": "3_2026659977562046465",
+          "start": 22,
+          "url": "https://t.co/Oir3OtRIB0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026735315994685704",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 48
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026659984268743110",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @picscjiwoo: ☆ #지우 https://t.co/Oir3OtRIB0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2026659977562046465",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCAkgwsWQAEJ0HZ.jpg",
+        "width": 1023
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026659977562046465"
+          ],
+          "media_source_tweet_id": [
+            "2026659984268743110"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "2026735315994685704",
+        "created_at": "2026-02-25T19:05:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T20:05:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026735315994685704"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 18,
+              "tag": "지우"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1794788923677503488",
+              "start": 3,
+              "username": "picscjiwoo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Oir3OtRIB0",
+              "end": 45,
+              "expanded_url": "https://x.com/picscjiwoo/status/2026659984268743110/photo/1",
+              "media_key": "3_2026659977562046465",
+              "start": 22,
+              "url": "https://t.co/Oir3OtRIB0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026735315994685704",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 48
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026659984268743110",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @picscjiwoo: ☆ #지우 https://t.co/Oir3OtRIB0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026659977562046465"
+          ]
+        },
+        "author_id": "1794788923677503488",
+        "conversation_id": "2026659984268743110",
+        "created_at": "2026-02-25T14:06:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T15:06:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026659984268743110"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 2,
+              "tag": "지우"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Oir3OtRIB0",
+              "end": 29,
+              "expanded_url": "https://x.com/picscjiwoo/status/2026659984268743110/photo/1",
+              "media_key": "3_2026659977562046465",
+              "start": 6,
+              "url": "https://t.co/Oir3OtRIB0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026659984268743110",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 6554,
+          "like_count": 708,
+          "quote_count": 6,
+          "reply_count": 0,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "☆ #지우 https://t.co/Oir3OtRIB0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "有负面💊，歌品感人只是一个爱听kpop/cpop/edm的可怜人，性取向你猜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016795361961230336/4zuFQCyR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 611,
+          "like_count": 7853,
+          "listed_count": 1,
+          "media_count": 483,
+          "tweet_count": 4596
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-26T17:53:58.000Z",
+        "description": "— pics account for #지우 leader of hearts2hearts 🍓♡ྀི",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 19,
+                "tag": "지우"
+              }
+            ]
+          }
+        },
+        "id": "1794788923677503488",
+        "location": "turn on notification 🔔",
+        "name": "jiwoo pics",
+        "pinned_tweet_id": "2002300941026910362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023441148631732224/y2Kgw1ZF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31921,
+          "following_count": 133,
+          "like_count": 52211,
+          "listed_count": 113,
+          "media_count": 8272,
+          "tweet_count": 15698
+        },
+        "username": "picscjiwoo",
+        "verified": false
+      }
+    ]
+  }
+}

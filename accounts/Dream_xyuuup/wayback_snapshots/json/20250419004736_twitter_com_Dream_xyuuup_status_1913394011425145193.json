@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1913075877409366016"
+      ],
+      "media_source_tweet_id": [
+        "1913075988688441744"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1913394011425145193",
+    "created_at": "2025-04-19T00:47:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-19T01:47:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913394011425145193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1385979996439814157",
+          "start": 3,
+          "username": "5OL5OdJlYuZ62Wo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XRVD3SnxiO",
+          "end": 50,
+          "expanded_url": "https://x.com/5OL5OdJlYuZ62Wo/status/1913075988688441744/video/1",
+          "media_key": "7_1913075877409366016",
+          "start": 27,
+          "url": "https://t.co/XRVD3SnxiO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913394011425145193",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 852
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913075988688441744",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @5OL5OdJlYuZ62Wo: I I I https://t.co/XRVD3SnxiO"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 31033,
+        "height": 1280,
+        "media_key": "7_1913075877409366016",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1913075877409366016/pu/img/do-gPP0e_v5wSJtd.jpg",
+        "public_metrics": {
+          "view_count": 118176
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1913075877409366016/pu/vid/avc1/320x568/UbPRM4cAJbp4ueBY.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1913075877409366016/pu/vid/avc1/480x852/AOeilA8UIEJoZFDv.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1913075877409366016/pu/vid/avc1/720x1280/NaGo2IchUL41z6UI.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1913075877409366016/pu/pl/RkHRVIZoYJsAlTti.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1913075877409366016"
+          ],
+          "media_source_tweet_id": [
+            "1913075988688441744"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1913394011425145193",
+        "created_at": "2025-04-19T00:47:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T01:47:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913394011425145193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1385979996439814157",
+              "start": 3,
+              "username": "5OL5OdJlYuZ62Wo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XRVD3SnxiO",
+              "end": 50,
+              "expanded_url": "https://x.com/5OL5OdJlYuZ62Wo/status/1913075988688441744/video/1",
+              "media_key": "7_1913075877409366016",
+              "start": 27,
+              "url": "https://t.co/XRVD3SnxiO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913394011425145193",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 852
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913075988688441744",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @5OL5OdJlYuZ62Wo: I I I https://t.co/XRVD3SnxiO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1913075877409366016"
+          ]
+        },
+        "author_id": "1385979996439814157",
+        "conversation_id": "1913075988688441744",
+        "created_at": "2025-04-18T03:43:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T04:43:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913075988688441744"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XRVD3SnxiO",
+              "end": 29,
+              "expanded_url": "https://x.com/5OL5OdJlYuZ62Wo/status/1913075988688441744/video/1",
+              "media_key": "7_1913075877409366016",
+              "start": 6,
+              "url": "https://t.co/XRVD3SnxiO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913075988688441744",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1715,
+          "impression_count": 351322,
+          "like_count": 9271,
+          "quote_count": 205,
+          "reply_count": 77,
+          "retweet_count": 852
+        },
+        "reply_settings": "everyone",
+        "text": "I I I https://t.co/XRVD3SnxiO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "负能多废话多，对所有人友善除了现生。｜最可爱的小宝宝@QLing61007 😽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠ltnh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905913123158298624/ClLLrGxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 379,
+          "like_count": 3518,
+          "listed_count": 1,
+          "media_count": 174,
+          "tweet_count": 1533
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-24T15:32:45.000Z",
+        "description": "",
+        "id": "1385979996439814157",
+        "name": "ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1562517866758320128/DzqQwHLe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17567,
+          "following_count": 19,
+          "like_count": 463,
+          "listed_count": 60,
+          "media_count": 784,
+          "tweet_count": 4004
+        },
+        "username": "5OL5OdJlYuZ62Wo",
+        "verified": false
+      }
+    ]
+  }
+}

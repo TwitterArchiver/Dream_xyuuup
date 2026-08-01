@@ -1,0 +1,136 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1936379646087741645",
+    "created_at": "2025-06-21T11:04:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T12:04:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1936379646087741645"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "哈哈，爸爸？那我得先问问你是不是准备好给我发红包了！😜 说吧，啥事需要你“儿子”帮忙？",
+          "display_url": "x.com/i/grok/share/J…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/grok/share/JOPn2qN2XBRiGf5DdUGYphmKB",
+          "start": 0,
+          "status": 200,
+          "title": "叫我爸爸",
+          "unwound_url": "https://x.com/i/grok/share/JOPn2qN2XBRiGf5DdUGYphmKB",
+          "url": "https://t.co/xEAD51Z6A5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936379646087741645",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/xEAD51Z6A5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1936379646087741645",
+        "created_at": "2025-06-21T11:04:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T12:04:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936379646087741645"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "哈哈，爸爸？那我得先问问你是不是准备好给我发红包了！😜 说吧，啥事需要你“儿子”帮忙？",
+              "display_url": "x.com/i/grok/share/J…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/grok/share/JOPn2qN2XBRiGf5DdUGYphmKB",
+              "start": 0,
+              "status": 200,
+              "title": "叫我爸爸",
+              "unwound_url": "https://x.com/i/grok/share/JOPn2qN2XBRiGf5DdUGYphmKB",
+              "url": "https://t.co/xEAD51Z6A5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936379646087741645",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/xEAD51Z6A5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "【拼多多】获得8元现金券。因购买的喜思平 普瑞巴林胶囊 75mg…可能存在配送延迟，我们赠送您一张现金券以表歉意",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1931176332370813214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933432998864826371/0SiPerD5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 480,
+          "like_count": 5852,
+          "listed_count": 0,
+          "media_count": 293,
+          "tweet_count": 2658
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      }
+    ]
+  }
+}

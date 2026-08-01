@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1959203616184836154",
+    "created_at": "2025-08-23T10:55:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T11:55:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959207853417431162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1888908122947010560",
+          "start": 0,
+          "username": "AFeiSigniFy__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959207853417431162",
+    "in_reply_to_user_id": "1888908122947010560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959203616184836154",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AFeiSigniFy__ 我也在被电"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1959203616184836154",
+        "created_at": "2025-08-23T10:55:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T11:55:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959207853417431162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1888908122947010560",
+              "start": 0,
+              "username": "AFeiSigniFy__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959207853417431162",
+        "in_reply_to_user_id": "1888908122947010560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959203616184836154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AFeiSigniFy__ 我也在被电"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888908122947010560",
+        "conversation_id": "1959203616184836154",
+        "created_at": "2025-08-23T10:38:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T11:38:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959203616184836154"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1959203616184836154",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直在被电 好爽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "yì jīu｜🏳️‍🌈｜谢谢你喜欢我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1953828269977219114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 549,
+          "like_count": 6758,
+          "listed_count": 0,
+          "media_count": 408,
+          "tweet_count": 3577
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-10T11:09:37.000Z",
+        "description": "你好 这里是俊雄 ✨：@falltal979",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "falltal979"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "music.163.com/artist?id=3443…",
+                "end": 23,
+                "expanded_url": "http://music.163.com/artist?id=34439537&userid=2074403262",
+                "start": 0,
+                "url": "https://t.co/ENh964HyAD"
+              }
+            ]
+          }
+        },
+        "id": "1888908122947010560",
+        "location": "乌苏里江里",
+        "name": "俊雄雄雄_AFeiSigniFy🔜住院",
+        "pinned_tweet_id": "1924135154689445896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895779842253340672/ohAX2aGP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1104,
+          "following_count": 1316,
+          "like_count": 24556,
+          "listed_count": 1,
+          "media_count": 516,
+          "tweet_count": 5336
+        },
+        "url": "https://t.co/ENh964HyAD",
+        "username": "AFeiSigniFy__",
+        "verified": false
+      }
+    ]
+  }
+}

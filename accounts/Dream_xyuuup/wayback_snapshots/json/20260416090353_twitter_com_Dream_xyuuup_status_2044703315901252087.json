@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "2044703315901252087",
+    "created_at": "2026-04-16T09:03:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T10:03:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044703315901252087"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/luvwy04/status…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/luvwy04/status/2044596180806717835",
+          "start": 2,
+          "url": "https://t.co/PwBDDjiEN5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044703315901252087",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044596180806717835",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "妈 https://t.co/PwBDDjiEN5"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5706,
+        "height": 1920,
+        "media_key": "13_2044596123424407552",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2044596123424407552/img/84B_5LvYha_Zk12L.jpg",
+        "public_metrics": {
+          "view_count": 68109
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2044596123424407552/pl/F4dg66HWOdWjxdn1.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044596123424407552/vid/avc1/1080x1920/hKxDQvM7T0y_d2SJ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044596123424407552/vid/avc1/480x852/7DDQYRjdIKj49Ode.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044596123424407552/vid/avc1/320x568/cI263f8nKlu-NeU9.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044596123424407552/vid/avc1/720x1280/Lyx62A6Hz7vcmmFF.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "2044703315901252087",
+        "created_at": "2026-04-16T09:03:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T10:03:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044703315901252087"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/luvwy04/status…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/luvwy04/status/2044596180806717835",
+              "start": 2,
+              "url": "https://t.co/PwBDDjiEN5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044703315901252087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044596180806717835",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "妈 https://t.co/PwBDDjiEN5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2044596123424407552"
+          ]
+        },
+        "author_id": "1466352258694942720",
+        "conversation_id": "2044596180806717835",
+        "created_at": "2026-04-16T01:58:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T02:58:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044596180806717835"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XEzFZzD7as",
+              "end": 56,
+              "expanded_url": "https://x.com/luvwy04/status/2044596180806717835/video/1",
+              "media_key": "13_2044596123424407552",
+              "start": 33,
+              "url": "https://t.co/XEzFZzD7as"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044596180806717835",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 454,
+          "impression_count": 256726,
+          "like_count": 5101,
+          "quote_count": 284,
+          "reply_count": 0,
+          "retweet_count": 1705
+        },
+        "reply_settings": "following",
+        "text": "대왕푸덩모찌 ㅇㄸㅎ 😭😭😭😭\n에디터분 손 엄청 떨림;;;; https://t.co/XEzFZzD7as"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "mtx,her/they,kpop,激女粉红点进就死\n*・x・*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041811823687823360/QQkkR0z6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 616,
+          "like_count": 8035,
+          "listed_count": 1,
+          "media_count": 505,
+          "tweet_count": 4936
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-02T10:23:24.000Z",
+        "description": "그러니까 저, 우주 끝까지 닿고 싶어요!",
+        "id": "1466352258694942720",
+        "location": "장원영",
+        "name": "공",
+        "pinned_tweet_id": "2040960503867134270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840579356185473024/CNFVCAWJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40382,
+          "following_count": 227,
+          "like_count": 2540,
+          "listed_count": 208,
+          "media_count": 29035,
+          "tweet_count": 67994
+        },
+        "username": "luvwy04",
+        "verified": true
+      }
+    ]
+  }
+}

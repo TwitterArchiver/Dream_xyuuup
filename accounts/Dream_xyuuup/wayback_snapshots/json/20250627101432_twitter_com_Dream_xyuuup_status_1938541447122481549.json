@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1938010555186614657",
+    "created_at": "2025-06-27T10:14:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T11:14:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938541447122481549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1702824726106984449",
+          "start": 0,
+          "username": "rioke84002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938541447122481549",
+    "in_reply_to_user_id": "1702824726106984449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938010555186614657",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rioke84002 求上门"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1870,
+        "media_key": "3_1938010548668616704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuUyU3RaUAArUgm.jpg",
+        "width": 1124
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1938010555186614657",
+        "created_at": "2025-06-27T10:14:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T11:14:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938541447122481549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1702824726106984449",
+              "start": 0,
+              "username": "rioke84002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938541447122481549",
+        "in_reply_to_user_id": "1702824726106984449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938010555186614657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rioke84002 求上门"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938010548668616704"
+          ]
+        },
+        "author_id": "1702824726106984449",
+        "conversation_id": "1938010555186614657",
+        "created_at": "2025-06-25T23:04:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T00:04:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938010555186614657"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/axm1jkiSMY",
+              "end": 34,
+              "expanded_url": "https://x.com/rioke84002/status/1938010555186614657/photo/1",
+              "media_key": "3_1938010548668616704",
+              "start": 11,
+              "url": "https://t.co/axm1jkiSMY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938010555186614657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 7537,
+          "like_count": 138,
+          "quote_count": 1,
+          "reply_count": 24,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真受不了这些傻逼了 https://t.co/axm1jkiSMY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "淡推三天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "重生在中考考场汗流浃背，数学满分，考上高中的弈鸠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933432998864826371/0SiPerD5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 491,
+          "like_count": 5944,
+          "listed_count": 0,
+          "media_count": 309,
+          "tweet_count": 2774
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-15T23:20:36.000Z",
+        "description": "我是黎屿 查成分回fo",
+        "id": "1702824726106984449",
+        "name": "小鲤鱼当大厨",
+        "pinned_tweet_id": "1920266827055444227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1703683324550737920/FWFWB6r6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1661,
+          "following_count": 150,
+          "like_count": 1108,
+          "listed_count": 4,
+          "media_count": 128,
+          "tweet_count": 575
+        },
+        "username": "rioke84002",
+        "verified": false
+      }
+    ]
+  }
+}

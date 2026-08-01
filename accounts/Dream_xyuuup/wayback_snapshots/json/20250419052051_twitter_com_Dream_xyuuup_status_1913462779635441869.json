@@ -1,0 +1,523 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1913227591076745216",
+        "3_1913227591072538624",
+        "3_1913227591076761600",
+        "3_1913227591064154113"
+      ],
+      "media_source_tweet_id": [
+        "1913227602334232996",
+        "1913227602334232996",
+        "1913227602334232996",
+        "1913227602334232996"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "1913462779635441869",
+    "created_at": "2025-04-19T05:20:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-19T06:20:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913462779635441869"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 28,
+          "tag": "RIKU"
+        },
+        {
+          "end": 40,
+          "start": 34,
+          "tag": "YUSHI"
+        },
+        {
+          "end": 44,
+          "start": 41,
+          "tag": "리쿠"
+        },
+        {
+          "end": 49,
+          "start": 45,
+          "tag": "유우시"
+        },
+        {
+          "end": 53,
+          "start": 50,
+          "tag": "リク"
+        },
+        {
+          "end": 58,
+          "start": 54,
+          "tag": "ユウシ"
+        },
+        {
+          "end": 67,
+          "start": 59,
+          "tag": "NCTWISH"
+        },
+        {
+          "end": 75,
+          "start": 68,
+          "tag": "poppop"
+        },
+        {
+          "end": 91,
+          "start": 76,
+          "tag": "NCTWISH_poppop"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1704058948914163712",
+          "start": 3,
+          "username": "nctwishofficial"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vMTJxkeEqK",
+          "end": 115,
+          "expanded_url": "https://x.com/nctwishofficial/status/1913227602334232996/photo/1",
+          "media_key": "3_1913227591076745216",
+          "start": 92,
+          "url": "https://t.co/vMTJxkeEqK"
+        },
+        {
+          "display_url": "pic.x.com/vMTJxkeEqK",
+          "end": 115,
+          "expanded_url": "https://x.com/nctwishofficial/status/1913227602334232996/photo/1",
+          "media_key": "3_1913227591072538624",
+          "start": 92,
+          "url": "https://t.co/vMTJxkeEqK"
+        },
+        {
+          "display_url": "pic.x.com/vMTJxkeEqK",
+          "end": 115,
+          "expanded_url": "https://x.com/nctwishofficial/status/1913227602334232996/photo/1",
+          "media_key": "3_1913227591076761600",
+          "start": 92,
+          "url": "https://t.co/vMTJxkeEqK"
+        },
+        {
+          "display_url": "pic.x.com/vMTJxkeEqK",
+          "end": 115,
+          "expanded_url": "https://x.com/nctwishofficial/status/1913227602334232996/photo/1",
+          "media_key": "3_1913227591064154113",
+          "start": 92,
+          "url": "https://t.co/vMTJxkeEqK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913462779635441869",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7080
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913227602334232996",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nctwishofficial: 🎙️💬𓏧♡\n\n#RIKU #YUSHI\n#리쿠 #유우시\n#リク #ユウシ\n#NCTWISH #poppop\n#NCTWISH_poppop https://t.co/vMTJxkeEqK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2895,
+        "media_key": "3_1913227591076745216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go0mW3ybEAAeLtX.jpg",
+        "width": 2316
+      },
+      {
+        "height": 2895,
+        "media_key": "3_1913227591072538624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go0mW3xa4AA0ZXJ.jpg",
+        "width": 2316
+      },
+      {
+        "height": 3463,
+        "media_key": "3_1913227591076761600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go0mW3ybUAAUpJO.jpg",
+        "width": 2770
+      },
+      {
+        "height": 3399,
+        "media_key": "3_1913227591064154113",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go0mW3va8AEfApL.jpg",
+        "width": 2719
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913227591076745216",
+            "3_1913227591072538624",
+            "3_1913227591076761600",
+            "3_1913227591064154113"
+          ],
+          "media_source_tweet_id": [
+            "1913227602334232996",
+            "1913227602334232996",
+            "1913227602334232996",
+            "1913227602334232996"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "1913462779635441869",
+        "created_at": "2025-04-19T05:20:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T06:20:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913462779635441869"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 28,
+              "tag": "RIKU"
+            },
+            {
+              "end": 40,
+              "start": 34,
+              "tag": "YUSHI"
+            },
+            {
+              "end": 44,
+              "start": 41,
+              "tag": "리쿠"
+            },
+            {
+              "end": 49,
+              "start": 45,
+              "tag": "유우시"
+            },
+            {
+              "end": 53,
+              "start": 50,
+              "tag": "リク"
+            },
+            {
+              "end": 58,
+              "start": 54,
+              "tag": "ユウシ"
+            },
+            {
+              "end": 67,
+              "start": 59,
+              "tag": "NCTWISH"
+            },
+            {
+              "end": 75,
+              "start": 68,
+              "tag": "poppop"
+            },
+            {
+              "end": 91,
+              "start": 76,
+              "tag": "NCTWISH_poppop"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1704058948914163712",
+              "start": 3,
+              "username": "nctwishofficial"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vMTJxkeEqK",
+              "end": 115,
+              "expanded_url": "https://x.com/nctwishofficial/status/1913227602334232996/photo/1",
+              "media_key": "3_1913227591076745216",
+              "start": 92,
+              "url": "https://t.co/vMTJxkeEqK"
+            },
+            {
+              "display_url": "pic.x.com/vMTJxkeEqK",
+              "end": 115,
+              "expanded_url": "https://x.com/nctwishofficial/status/1913227602334232996/photo/1",
+              "media_key": "3_1913227591072538624",
+              "start": 92,
+              "url": "https://t.co/vMTJxkeEqK"
+            },
+            {
+              "display_url": "pic.x.com/vMTJxkeEqK",
+              "end": 115,
+              "expanded_url": "https://x.com/nctwishofficial/status/1913227602334232996/photo/1",
+              "media_key": "3_1913227591076761600",
+              "start": 92,
+              "url": "https://t.co/vMTJxkeEqK"
+            },
+            {
+              "display_url": "pic.x.com/vMTJxkeEqK",
+              "end": 115,
+              "expanded_url": "https://x.com/nctwishofficial/status/1913227602334232996/photo/1",
+              "media_key": "3_1913227591064154113",
+              "start": 92,
+              "url": "https://t.co/vMTJxkeEqK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913462779635441869",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7080
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913227602334232996",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nctwishofficial: 🎙️💬𓏧♡\n\n#RIKU #YUSHI\n#리쿠 #유우시\n#リク #ユウシ\n#NCTWISH #poppop\n#NCTWISH_poppop https://t.co/vMTJxkeEqK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913227591076745216",
+            "3_1913227591072538624",
+            "3_1913227591076761600",
+            "3_1913227591064154113"
+          ]
+        },
+        "author_id": "1704058948914163712",
+        "conversation_id": "1913227602334232996",
+        "created_at": "2025-04-18T13:46:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T14:46:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913227602334232996"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 7,
+              "tag": "RIKU"
+            },
+            {
+              "end": 19,
+              "start": 13,
+              "tag": "YUSHI"
+            },
+            {
+              "end": 23,
+              "start": 20,
+              "tag": "리쿠"
+            },
+            {
+              "end": 28,
+              "start": 24,
+              "tag": "유우시"
+            },
+            {
+              "end": 32,
+              "start": 29,
+              "tag": "リク"
+            },
+            {
+              "end": 37,
+              "start": 33,
+              "tag": "ユウシ"
+            },
+            {
+              "end": 46,
+              "start": 38,
+              "tag": "NCTWISH"
+            },
+            {
+              "end": 54,
+              "start": 47,
+              "tag": "poppop"
+            },
+            {
+              "end": 70,
+              "start": 55,
+              "tag": "NCTWISH_poppop"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vMTJxkeEqK",
+              "end": 94,
+              "expanded_url": "https://x.com/nctwishofficial/status/1913227602334232996/photo/1",
+              "media_key": "3_1913227591076745216",
+              "start": 71,
+              "url": "https://t.co/vMTJxkeEqK"
+            },
+            {
+              "display_url": "pic.x.com/vMTJxkeEqK",
+              "end": 94,
+              "expanded_url": "https://x.com/nctwishofficial/status/1913227602334232996/photo/1",
+              "media_key": "3_1913227591072538624",
+              "start": 71,
+              "url": "https://t.co/vMTJxkeEqK"
+            },
+            {
+              "display_url": "pic.x.com/vMTJxkeEqK",
+              "end": 94,
+              "expanded_url": "https://x.com/nctwishofficial/status/1913227602334232996/photo/1",
+              "media_key": "3_1913227591076761600",
+              "start": 71,
+              "url": "https://t.co/vMTJxkeEqK"
+            },
+            {
+              "display_url": "pic.x.com/vMTJxkeEqK",
+              "end": 94,
+              "expanded_url": "https://x.com/nctwishofficial/status/1913227602334232996/photo/1",
+              "media_key": "3_1913227591064154113",
+              "start": 71,
+              "url": "https://t.co/vMTJxkeEqK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913227602334232996",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 761,
+          "impression_count": 330472,
+          "like_count": 20790,
+          "quote_count": 728,
+          "reply_count": 98,
+          "retweet_count": 7080
+        },
+        "reply_settings": "everyone",
+        "text": "🎙️💬𓏧♡\n\n#RIKU #YUSHI\n#리쿠 #유우시\n#リク #ユウシ\n#NCTWISH #poppop\n#NCTWISH_poppop https://t.co/vMTJxkeEqK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "废话多 随机掉落负能量｜最近在偷偷幸福😼我成分复杂请慢慢研究我｜对所有人友善除了现生。｜最可爱的小宝宝@QLing61007 😽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 51,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠ltnh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905913123158298624/ClLLrGxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 382,
+          "like_count": 3532,
+          "listed_count": 1,
+          "media_count": 178,
+          "tweet_count": 1553
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-19T09:05:03.000Z",
+        "description": "NCT WISH 【poppop - The 2nd Mini Album】 ➫ 2025.04.14 6PM (KST)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "NCTWISH.lnk.to/poppop",
+                "end": 23,
+                "expanded_url": "https://NCTWISH.lnk.to/poppop",
+                "start": 0,
+                "url": "https://t.co/hmGmSmYrIi"
+              }
+            ]
+          }
+        },
+        "id": "1704058948914163712",
+        "name": "NCT WISH",
+        "pinned_tweet_id": "1911706114884014276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907085583157211136/--jBa4SN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 658676,
+          "following_count": 6,
+          "like_count": 0,
+          "listed_count": 1194,
+          "media_count": 2519,
+          "tweet_count": 3416
+        },
+        "url": "https://t.co/hmGmSmYrIi",
+        "username": "nctwishofficial",
+        "verified": true
+      }
+    ]
+  }
+}

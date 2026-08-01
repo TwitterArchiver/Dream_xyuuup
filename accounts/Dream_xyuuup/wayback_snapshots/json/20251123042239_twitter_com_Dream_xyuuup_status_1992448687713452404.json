@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1992171998647321052",
+    "created_at": "2025-11-23T04:22:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T05:22:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992448687713452404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1606351071206674438",
+          "start": 0,
+          "username": "jiyn91306622"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992448687713452404",
+    "in_reply_to_user_id": "1606351071206674438",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992210002887717093",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiyn91306622 我好喜欢你吧！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1992171998647321052",
+        "created_at": "2025-11-23T04:22:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T05:22:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992448687713452404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1606351071206674438",
+              "start": 0,
+              "username": "jiyn91306622"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992448687713452404",
+        "in_reply_to_user_id": "1606351071206674438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992210002887717093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiyn91306622 我好喜欢你吧！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1606351071206674438",
+        "conversation_id": "1992171998647321052",
+        "created_at": "2025-11-22T12:34:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T13:34:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992210002887717093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1726051028112744448",
+              "start": 0,
+              "username": "Dream_xyuuup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992210002887717093",
+        "in_reply_to_user_id": "1726051028112744448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992171998647321052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dream_xyuuup 宝宝你早发自拍啊后中间忘了我喜欢你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "你能想到的坏习惯我都有",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 597,
+          "like_count": 7768,
+          "listed_count": 1,
+          "media_count": 465,
+          "tweet_count": 4211
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-23T18:08:44.000Z",
+        "description": "ただ病名がほしいだけなの\n我最最最喜欢的人 @Collins1040687",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "Collins1040687"
+              }
+            ]
+          }
+        },
+        "id": "1606351071206674438",
+        "name": "你踩到我的呕吐物了",
+        "pinned_tweet_id": "1991821965750137108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981377745440354304/4OROqmw7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 625,
+          "following_count": 937,
+          "like_count": 22071,
+          "listed_count": 3,
+          "media_count": 236,
+          "tweet_count": 4735
+        },
+        "username": "jiyn91306622",
+        "verified": false
+      }
+    ]
+  }
+}

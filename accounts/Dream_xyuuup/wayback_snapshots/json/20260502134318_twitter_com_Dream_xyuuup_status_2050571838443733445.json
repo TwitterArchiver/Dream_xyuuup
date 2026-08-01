@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "2050569416291819816",
+    "created_at": "2026-05-02T13:43:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T14:43:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050571838443733445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2033556052650975232",
+          "start": 0,
+          "username": "NBabysitte65342"
+        },
+        {
+          "end": 31,
+          "id": "1741807657110147073",
+          "start": 17,
+          "username": "yan_huan92807"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050571838443733445",
+    "in_reply_to_user_id": "2033556052650975232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050569416291819816",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NBabysitte65342 @yan_huan92807 爸爸妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_2050569407429251072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHUWAv0akAA0RdY.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "2050569416291819816",
+        "created_at": "2026-05-02T13:43:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T14:43:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050571838443733445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2033556052650975232",
+              "start": 0,
+              "username": "NBabysitte65342"
+            },
+            {
+              "end": 31,
+              "id": "1741807657110147073",
+              "start": 17,
+              "username": "yan_huan92807"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050571838443733445",
+        "in_reply_to_user_id": "2033556052650975232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050569416291819816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NBabysitte65342 @yan_huan92807 爸爸妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050569407429251072"
+          ]
+        },
+        "author_id": "2033556052650975232",
+        "conversation_id": "2050569416291819816",
+        "created_at": "2026-05-02T13:33:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T14:33:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050569416291819816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 31,
+              "id": "1632831430706475008",
+              "start": 22,
+              "username": "vari2025"
+            },
+            {
+              "end": 41,
+              "id": "1330140802320896003",
+              "start": 32,
+              "username": "IsakTaun"
+            },
+            {
+              "end": 62,
+              "id": "1741807657110147073",
+              "start": 48,
+              "username": "yan_huan92807"
+            },
+            {
+              "end": 82,
+              "id": "1726051028112744448",
+              "start": 69,
+              "username": "Dream_xyuuup"
+            },
+            {
+              "end": 98,
+              "id": "1489468526826082312",
+              "start": 83,
+              "username": "Diamond_Kokoro"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infinitetweet.me/family-tree?la…",
+              "end": 126,
+              "expanded_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2049769251213565952/9CpZFQ5P?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2049769251213565952/9CpZFQ5P?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 103,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "url": "https://t.co/vDVTJnnzZB"
+            },
+            {
+              "display_url": "pic.x.com/bxREgRkdqS",
+              "end": 150,
+              "expanded_url": "https://x.com/NBabysitte65342/status/2050569416291819816/photo/1",
+              "media_key": "3_2050569407429251072",
+              "start": 127,
+              "url": "https://t.co/bxREgRkdqS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050569416291819816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @vari2025 @IsakTaun\n👰 配偶: @yan_huan92807\n👶 孩子: @Dream_xyuuup @Diamond_Kokoro\n\n➡️ https://t.co/vDVTJnnzZB https://t.co/bxREgRkdqS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "弈鸠，是谁？\nenby,her/they,kpop,激女粉红点进就死\n*・x・*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "脚踩你爷爷登顶称王",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041811823687823360/QQkkR0z6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 615,
+          "like_count": 8245,
+          "listed_count": 1,
+          "media_count": 542,
+          "tweet_count": 5375
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-16T14:48:51.000Z",
+        "description": "",
+        "id": "2033556052650975232",
+        "name": "一般路过布莱恩",
+        "pinned_tweet_id": "2048356236962488597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049386856085921793/z60amxMZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 95,
+          "like_count": 20259,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 3728
+        },
+        "username": "NBabysitte65342",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \nany pronouns\n什么圈都搞/enby，ftx🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/查成分互fo喵\n老婆我最爱的母狗婊子宝贝https://t.co/ojLNRKtUJR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/gess828?s=21",
+                "end": 127,
+                "expanded_url": "https://x.com/gess828?s=21",
+                "start": 104,
+                "url": "https://t.co/ojLNRKtUJR"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "小利亚是鳄鱼🐊女权人妖美女骚鸡妓妖景观装置法国新浪潮存在主义黑泽明喜欢困苦的雾都孤儿（私处好痒）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043343874119307264/3Tdu7r0M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 210,
+          "like_count": 4000,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 1591
+        },
+        "username": "yan_huan92807",
+        "verified": false
+      }
+    ]
+  }
+}

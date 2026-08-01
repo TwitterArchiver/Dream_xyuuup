@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "2052012669339910175",
+    "created_at": "2026-05-06T13:42:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T14:42:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052021100851376378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1741807657110147073",
+          "start": 0,
+          "username": "yan_huan92807"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052021100851376378",
+    "in_reply_to_user_id": "1741807657110147073",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052012669339910175",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yan_huan92807 愈美药效下的whiplash好听不？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 76601,
+        "height": 1280,
+        "media_key": "13_2052012450241974273",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2052012450241974273/img/bUad3i_GuiRg0GSc.jpg",
+        "public_metrics": {
+          "view_count": 6
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052012450241974273/vid/avc1/320x568/zrrSbVlYcONefQDA.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052012450241974273/vid/avc1/480x852/w6hjF8VaX_c4DCUU.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052012450241974273/vid/avc1/720x1280/XORoHtQOitPfJDWb.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2052012450241974273/pl/Q6cD7SePfcSh4Vkc.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "2052012669339910175",
+        "created_at": "2026-05-06T13:42:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T14:42:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052021100851376378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1741807657110147073",
+              "start": 0,
+              "username": "yan_huan92807"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052021100851376378",
+        "in_reply_to_user_id": "1741807657110147073",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052012669339910175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yan_huan92807 愈美药效下的whiplash好听不？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2052012450241974273"
+          ]
+        },
+        "author_id": "1741807657110147073",
+        "conversation_id": "2052012669339910175",
+        "created_at": "2026-05-06T13:08:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T14:08:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052012669339910175"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CAFyZ3lmvX",
+              "end": 47,
+              "expanded_url": "https://x.com/yan_huan92807/status/2052012669339910175/video/1",
+              "media_key": "13_2052012450241974273",
+              "start": 24,
+              "url": "https://t.co/CAFyZ3lmvX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052012669339910175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "相册忆往昔，我看着你们表演，吃着烧烤，o着愈美 https://t.co/CAFyZ3lmvX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "弈鸠，是谁？\nenby,her/they,激女粉红点进就死\n*・x・*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "脚踩你爷爷登顶称王",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041811823687823360/QQkkR0z6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 618,
+          "like_count": 8281,
+          "listed_count": 1,
+          "media_count": 565,
+          "tweet_count": 5565
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 🚪22 纯绿聊骚随便你\nany pronouns\n什么圈都搞/🟨⬜️🟪⬛️enby，ftx🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/查成分互fo喵",
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "小利亚是鳄鱼🐊女权人妖美女骚鸡妓妖景观装置法国新浪潮存在主义黑泽明喜欢困苦的雾都孤儿（私处好痒）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043343874119307264/3Tdu7r0M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 217,
+          "like_count": 4253,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1864
+        },
+        "username": "yan_huan92807",
+        "verified": false
+      }
+    ]
+  }
+}

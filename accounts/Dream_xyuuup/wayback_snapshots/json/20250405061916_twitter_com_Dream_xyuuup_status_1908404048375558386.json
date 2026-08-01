@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1908394252742386055",
+    "created_at": "2025-04-05T06:19:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T07:19:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908404048375558386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1710885709643689984",
+          "start": 0,
+          "username": "wu7739303190335"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908404048375558386",
+    "in_reply_to_user_id": "1710885709643689984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908394252742386055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wu7739303190335 都想舔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1908394241396793344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gnv6c5HbYAAxP5y.jpg",
+        "width": 1218
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1908394252742386055",
+        "created_at": "2025-04-05T06:19:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T07:19:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908404048375558386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1710885709643689984",
+              "start": 0,
+              "username": "wu7739303190335"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908404048375558386",
+        "in_reply_to_user_id": "1710885709643689984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908394252742386055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wu7739303190335 都想舔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908394241396793344"
+          ]
+        },
+        "author_id": "1710885709643689984",
+        "conversation_id": "1908394252742386055",
+        "created_at": "2025-04-05T05:40:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T06:40:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908394252742386055"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "郊狼"
+            },
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "薄肌"
+            },
+            {
+              "end": 34,
+              "start": 31,
+              "tag": "少年"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BI83sBzRDN",
+              "end": 58,
+              "expanded_url": "https://x.com/wu7739303190335/status/1908394252742386055/photo/1",
+              "media_key": "3_1908394241396793344",
+              "start": 35,
+              "url": "https://t.co/BI83sBzRDN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908394252742386055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 342,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发个竖版的，问问大家觉得横版好看还是竖版好看？#郊狼 #薄肌 #少年 https://t.co/BI83sBzRDN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "数学满分是假的数学家也是假的数学没及格过最近一次考试32/100嗯你们不要接了 对所有人温良除了现生",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠ltnh（未来最厉害的数学家数学满分版😋）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905913123158298624/ClLLrGxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 322,
+          "like_count": 2972,
+          "listed_count": 1,
+          "media_count": 146,
+          "tweet_count": 1243
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-08T05:12:05.000Z",
+        "description": "欢迎来找我互关扩列聊天！🥹",
+        "id": "1710885709643689984",
+        "location": "china",
+        "name": "zz",
+        "pinned_tweet_id": "1908141014172508507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903350451569037315/x9pEKJwQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 706,
+          "like_count": 1276,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 269
+        },
+        "username": "wu7739303190335",
+        "verified": false
+      }
+    ]
+  }
+}

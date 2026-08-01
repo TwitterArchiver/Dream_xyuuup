@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1950998953425776795",
+    "created_at": "2025-07-31T20:44:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T21:44:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951021106321912051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1735721716461211648",
+          "start": 0,
+          "username": "kakagaga001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951021106321912051",
+    "in_reply_to_user_id": "1735721716461211648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950998953425776795",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kakagaga001 我漏服安眠药就这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1950998953425776795",
+        "created_at": "2025-07-31T20:44:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T21:44:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951021106321912051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1735721716461211648",
+              "start": 0,
+              "username": "kakagaga001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951021106321912051",
+        "in_reply_to_user_id": "1735721716461211648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950998953425776795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kakagaga001 我漏服安眠药就这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1735721716461211648",
+        "conversation_id": "1950998953425776795",
+        "created_at": "2025-07-31T19:16:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T20:16:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950998953425776795"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1950998953425776795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的天啊到底为什么睡一个小时就会自动醒一次…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "yì jīu｜不知道什么圈子，谢谢你的喜欢我也喜欢你喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 541,
+          "like_count": 6586,
+          "listed_count": 0,
+          "media_count": 359,
+          "tweet_count": 3230
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-15T18:01:30.000Z",
+        "description": "🏳️‍🌈/ISFP A/高三史政地/数理化苦手/菠萝好吃我爱吃菠萝🐱🍍🎧",
+        "id": "1735721716461211648",
+        "location": "号有很多nsfw的会选择回fo",
+        "name": "𝗞𝗮𝗴𝗮𝗬𝘂𝗸𝗶",
+        "pinned_tweet_id": "1929227681104646614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949881042870931457/tU5sqJdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 311,
+          "like_count": 11833,
+          "listed_count": 0,
+          "media_count": 652,
+          "tweet_count": 3481
+        },
+        "username": "kakagaga001",
+        "verified": false
+      }
+    ]
+  }
+}

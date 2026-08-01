@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1972605463364825187",
+    "created_at": "2025-11-03T06:12:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T07:12:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985228556918751521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1601599920276140033",
+          "start": 0,
+          "username": "ayanamirei_may"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985228556918751521",
+    "in_reply_to_user_id": "1601599920276140033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972605463364825187",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ayanamirei_may 妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1972605456104460288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2AaNgUakAAzSx-.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1972605463364825187",
+        "created_at": "2025-11-03T06:12:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T07:12:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985228556918751521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1601599920276140033",
+              "start": 0,
+              "username": "ayanamirei_may"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985228556918751521",
+        "in_reply_to_user_id": "1601599920276140033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972605463364825187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayanamirei_may 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972605456104460288"
+          ]
+        },
+        "author_id": "1601599920276140033",
+        "conversation_id": "1972605463364825187",
+        "created_at": "2025-09-29T10:12:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T11:12:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972605463364825187"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fbIvqWvTdb",
+              "end": 23,
+              "expanded_url": "https://x.com/ayanamirei_may/status/1972605463364825187/photo/1",
+              "media_key": "3_1972605456104460288",
+              "start": 0,
+              "url": "https://t.co/fbIvqWvTdb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972605463364825187",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 13278,
+          "like_count": 126,
+          "quote_count": 1,
+          "reply_count": 19,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/fbIvqWvTdb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "没法活了，一切都是男的骗我，女的欠我，老的冤枉我，小的欺负我，中国的压迫我，外国的引诱我，身边的霸凌我，网上的取笑我，你们全都对不起我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1953828269977219114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 585,
+          "like_count": 7387,
+          "listed_count": 1,
+          "media_count": 457,
+          "tweet_count": 4077
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-10T15:29:25.000Z",
+        "description": "生きて",
+        "id": "1601599920276140033",
+        "name": "鳴",
+        "pinned_tweet_id": "1972605463364825187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905053921191788544/4AMTqEhW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25962,
+          "following_count": 158,
+          "like_count": 1165,
+          "listed_count": 56,
+          "media_count": 202,
+          "tweet_count": 2078
+        },
+        "username": "ayanamirei_may",
+        "verified": false
+      }
+    ]
+  }
+}

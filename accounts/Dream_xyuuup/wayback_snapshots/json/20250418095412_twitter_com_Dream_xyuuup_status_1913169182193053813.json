@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1913169172810665984"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "1913169182193053813",
+    "created_at": "2025-04-18T09:54:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-18T10:54:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1913169182193053813"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ruN6ZxpEjI",
+          "end": 35,
+          "expanded_url": "https://x.com/Dream_xyuuup/status/1913169182193053813/photo/1",
+          "media_key": "3_1913169172810665984",
+          "start": 12,
+          "url": "https://t.co/ruN6ZxpEjI"
+        },
+        {
+          "display_url": "x.com/dream_xyuuup/s…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/dream_xyuuup/status/1910679339018182853",
+          "start": 36,
+          "url": "https://t.co/KVg2mxUzYq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913169182193053813",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910679339018182853",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不要训我T T\n我错了 https://t.co/ruN6ZxpEjI https://t.co/KVg2mxUzYq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1913169172810665984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GozxOeybkAA1KoV.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1910679324950487045",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoQYuQtbYAUnDz_.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1910679324950487041",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoQYuQtbYAEFtQw.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1910679324950433792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoQYuQtakAAJVwQ.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913169172810665984"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "1913169182193053813",
+        "created_at": "2025-04-18T09:54:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T10:54:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913169182193053813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ruN6ZxpEjI",
+              "end": 35,
+              "expanded_url": "https://x.com/Dream_xyuuup/status/1913169182193053813/photo/1",
+              "media_key": "3_1913169172810665984",
+              "start": 12,
+              "url": "https://t.co/ruN6ZxpEjI"
+            },
+            {
+              "display_url": "x.com/dream_xyuuup/s…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/dream_xyuuup/status/1910679339018182853",
+              "start": 36,
+              "url": "https://t.co/KVg2mxUzYq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913169182193053813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910679339018182853",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不要训我T T\n我错了 https://t.co/ruN6ZxpEjI https://t.co/KVg2mxUzYq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1910679324950487045",
+            "3_1910679324950487041",
+            "3_1910679324950433792"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1910679339018182853",
+        "created_at": "2025-04-11T13:00:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-11T14:00:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1910679339018182853"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8bkMEiDeh9",
+              "end": 50,
+              "expanded_url": "https://x.com/Dream_xyuuup/status/1910679339018182853/photo/1",
+              "media_key": "3_1910679324950487045",
+              "start": 27,
+              "url": "https://t.co/8bkMEiDeh9"
+            },
+            {
+              "display_url": "pic.x.com/8bkMEiDeh9",
+              "end": 50,
+              "expanded_url": "https://x.com/Dream_xyuuup/status/1910679339018182853/photo/1",
+              "media_key": "3_1910679324950487041",
+              "start": 27,
+              "url": "https://t.co/8bkMEiDeh9"
+            },
+            {
+              "display_url": "pic.x.com/8bkMEiDeh9",
+              "end": 50,
+              "expanded_url": "https://x.com/Dream_xyuuup/status/1910679339018182853/photo/1",
+              "media_key": "3_1910679324950433792",
+              "start": 27,
+              "url": "https://t.co/8bkMEiDeh9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910679339018182853",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 202,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺 https://t.co/8bkMEiDeh9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "负能多废话多，对所有人友善除了现生。｜最可爱的小宝宝@QLing61007 😽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠ltnh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905913123158298624/ClLLrGxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 376,
+          "like_count": 3490,
+          "listed_count": 1,
+          "media_count": 173,
+          "tweet_count": 1520
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      }
+    ]
+  }
+}

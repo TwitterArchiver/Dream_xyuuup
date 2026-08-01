@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1994665596676636672"
+      ],
+      "media_source_tweet_id": [
+        "1994665652855214476"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "1994800154222948672",
+    "created_at": "2025-11-29T16:06:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T17:06:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994800154222948672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1687458077707239425",
+          "start": 3,
+          "username": "mywonh33"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hhY1zlpH7E",
+          "end": 56,
+          "expanded_url": "https://x.com/mywonh33/status/1994665652855214476/video/1",
+          "media_key": "13_1994665596676636672",
+          "start": 33,
+          "url": "https://t.co/hhY1zlpH7E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994800154222948672",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5902
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994665652855214476",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @mywonh33: 안 볼 거야? 오늘 오빠 멋있는데 https://t.co/hhY1zlpH7E"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5555,
+        "height": 884,
+        "media_key": "13_1994665596676636672",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1994665596676636672/img/KLjAFyNsO-Dxsxhf.jpg",
+        "public_metrics": {
+          "view_count": 143232
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994665596676636672/vid/avc1/478x360/sr4EsIHFmg6THq7A.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994665596676636672/vid/avc1/1178x884/4ZCbtCJ-RAngFCc5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1994665596676636672/pl/cSvm7Sd0nWdCoTg-.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994665596676636672/vid/avc1/358x270/565bG3ung5oc5P6k.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994665596676636672/vid/avc1/958x720/mTwoSOR6N-CxBxOx.mp4"
+          }
+        ],
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1994665596676636672"
+          ],
+          "media_source_tweet_id": [
+            "1994665652855214476"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "1994800154222948672",
+        "created_at": "2025-11-29T16:06:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T17:06:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994800154222948672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1687458077707239425",
+              "start": 3,
+              "username": "mywonh33"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hhY1zlpH7E",
+              "end": 56,
+              "expanded_url": "https://x.com/mywonh33/status/1994665652855214476/video/1",
+              "media_key": "13_1994665596676636672",
+              "start": 33,
+              "url": "https://t.co/hhY1zlpH7E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994800154222948672",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5902
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994665652855214476",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @mywonh33: 안 볼 거야? 오늘 오빠 멋있는데 https://t.co/hhY1zlpH7E"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1994665596676636672"
+          ]
+        },
+        "author_id": "1687458077707239425",
+        "conversation_id": "1994665652855214476",
+        "created_at": "2025-11-29T07:12:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T08:12:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994665652855214476"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hhY1zlpH7E",
+              "end": 42,
+              "expanded_url": "https://x.com/mywonh33/status/1994665652855214476/video/1",
+              "media_key": "13_1994665596676636672",
+              "start": 19,
+              "url": "https://t.co/hhY1zlpH7E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994665652855214476",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1144,
+          "impression_count": 387084,
+          "like_count": 11879,
+          "quote_count": 1383,
+          "reply_count": 0,
+          "retweet_count": 5902
+        },
+        "reply_settings": "following",
+        "text": "안 볼 거야? 오늘 오빠 멋있는데 https://t.co/hhY1zlpH7E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "你能想到的坏习惯我都有",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 607,
+          "like_count": 7881,
+          "listed_count": 1,
+          "media_count": 468,
+          "tweet_count": 4275
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-04T13:39:05.000Z",
+        "description": "원희는 아기야",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/mywonh33",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/mywonh33",
+                "start": 0,
+                "url": "https://t.co/i96bpD8D1S"
+              }
+            ]
+          }
+        },
+        "id": "1687458077707239425",
+        "name": "🍥",
+        "pinned_tweet_id": "1982670941739159631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932074262200012800/S3I7NR0q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31264,
+          "following_count": 64,
+          "like_count": 197,
+          "listed_count": 134,
+          "media_count": 5112,
+          "tweet_count": 6617
+        },
+        "url": "https://t.co/i96bpD8D1S",
+        "username": "mywonh33",
+        "verified": true
+      }
+    ]
+  }
+}

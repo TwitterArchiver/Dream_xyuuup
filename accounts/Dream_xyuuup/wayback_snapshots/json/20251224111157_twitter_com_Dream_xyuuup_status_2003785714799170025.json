@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2003552191295160322"
+      ],
+      "media_source_tweet_id": [
+        "2003552296991654262"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2003785714799170025",
+    "created_at": "2025-12-24T11:11:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T12:11:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003785714799170025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1909553877739085825",
+          "start": 3,
+          "username": "heshan258"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XfLfdvslCR",
+          "end": 48,
+          "expanded_url": "https://x.com/heshan258/status/2003552296991654262/video/1",
+          "media_key": "13_2003552191295160322",
+          "start": 25,
+          "url": "https://t.co/XfLfdvslCR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003785714799170025",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003552296991654262",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @heshan258: 一个小孩能有多爱国 https://t.co/XfLfdvslCR"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 35766,
+        "height": 1062,
+        "media_key": "13_2003552191295160322",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2003552191295160322/img/8vee2CHguGQlAicK.jpg",
+        "public_metrics": {
+          "view_count": 20256
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2003552191295160322/vid/avc1/320x472/00WU-tejdZQEpqTO.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2003552191295160322/vid/avc1/480x708/BncqJUyopmOOA9NJ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2003552191295160322/vid/avc1/720x1062/wC7u4VpyARZO1osA.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2003552191295160322/pl/ARnWwAls978GrTEv.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2003552191295160322"
+          ],
+          "media_source_tweet_id": [
+            "2003552296991654262"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2003785714799170025",
+        "created_at": "2025-12-24T11:11:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T12:11:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003785714799170025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1909553877739085825",
+              "start": 3,
+              "username": "heshan258"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XfLfdvslCR",
+              "end": 48,
+              "expanded_url": "https://x.com/heshan258/status/2003552296991654262/video/1",
+              "media_key": "13_2003552191295160322",
+              "start": 25,
+              "url": "https://t.co/XfLfdvslCR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003785714799170025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003552296991654262",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @heshan258: 一个小孩能有多爱国 https://t.co/XfLfdvslCR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2003552191295160322"
+          ]
+        },
+        "author_id": "1909553877739085825",
+        "conversation_id": "2003552296991654262",
+        "created_at": "2025-12-23T19:44:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T20:44:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003552296991654262"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XfLfdvslCR",
+              "end": 33,
+              "expanded_url": "https://x.com/heshan258/status/2003552296991654262/video/1",
+              "media_key": "13_2003552191295160322",
+              "start": 10,
+              "url": "https://t.co/XfLfdvslCR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003552296991654262",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 70,
+          "impression_count": 40676,
+          "like_count": 174,
+          "quote_count": 8,
+          "reply_count": 177,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "一个小孩能有多爱国 https://t.co/XfLfdvslCR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "你能想到的坏习惯我都有",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998066182315020289/_eUXKzgo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 602,
+          "like_count": 7996,
+          "listed_count": 1,
+          "media_count": 477,
+          "tweet_count": 4374
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-08T10:28:26.000Z",
+        "description": "我完全支持社会主义， 支持中国共产党的领导，本人忠于中华人民共和国宪法，维护宪法权威，履行法定职责， 忠于祖国、忠于人民，恪尽职守、廉洁奉公，接受人民监督，为建设富强民主文明和谐美丽的社会主义现代化强国 努力奋斗坚决反对历史虚无主义，拥护中国特色社会主义，坚持社会主义核心价值观， 尊重先驱伟人，向先烈致敬！",
+        "id": "1909553877739085825",
+        "name": "抽象イェーガー",
+        "pinned_tweet_id": "1932095364385153188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996296469574488064/gveR7_YZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8937,
+          "following_count": 677,
+          "like_count": 1202,
+          "listed_count": 38,
+          "media_count": 633,
+          "tweet_count": 1097
+        },
+        "username": "heshan258",
+        "verified": false
+      }
+    ]
+  }
+}

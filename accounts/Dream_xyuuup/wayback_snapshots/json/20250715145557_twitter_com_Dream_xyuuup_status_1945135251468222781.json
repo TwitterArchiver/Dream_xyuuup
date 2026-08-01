@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1945090593996087565",
+    "created_at": "2025-07-15T14:55:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T15:55:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945135251468222781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1825878217183633408",
+          "start": 0,
+          "username": "QLing61007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945135251468222781",
+    "in_reply_to_user_id": "1825878217183633408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945090593996087565",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QLing61007 抽点啥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1945090593996087565",
+        "created_at": "2025-07-15T14:55:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T15:55:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945135251468222781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1825878217183633408",
+              "start": 0,
+              "username": "QLing61007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945135251468222781",
+        "in_reply_to_user_id": "1825878217183633408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945090593996087565",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QLing61007 抽点啥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1825878217183633408",
+        "conversation_id": "1945090593996087565",
+        "created_at": "2025-07-15T11:58:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T12:58:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945090593996087565"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1945090593996087565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哇塞 我居然马上要100fo了😸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "yì jīu｜这里全是负能量没有正能量｜可爱的人@QLing61007",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 24,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933432998864826371/0SiPerD5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 520,
+          "like_count": 6372,
+          "listed_count": 0,
+          "media_count": 345,
+          "tweet_count": 3037
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-20T12:51:26.000Z",
+        "description": "隔绝了脉搏 安静的犯错                                                        可爱的人@Dream_xyuuup     第二个我：@qing_323                                    叫我青青/虾滑都可以",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 71,
+                "username": "Dream_xyuuup"
+              },
+              {
+                "end": 103,
+                "start": 94,
+                "username": "qing_323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/7ing1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/7ing1",
+                "start": 0,
+                "url": "https://t.co/CuE8g2hmVm"
+              }
+            ]
+          }
+        },
+        "id": "1825878217183633408",
+        "name": "青虾滑",
+        "pinned_tweet_id": "1938811239565783051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941431280983269376/6pN6J3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 283,
+          "like_count": 2574,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 826
+        },
+        "url": "https://t.co/CuE8g2hmVm",
+        "username": "QLing61007",
+        "verified": false
+      }
+    ]
+  }
+}

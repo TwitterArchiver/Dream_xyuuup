@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      }
+    ],
+    "conversation_id": "2014639445731922384",
+    "created_at": "2026-01-24T07:22:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T08:22:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014961969472930080"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1634807884268855297",
+          "start": 0,
+          "username": "teaGfx_MikuNET"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014961969472930080",
+    "in_reply_to_user_id": "1634807884268855297",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014639445731922384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@teaGfx_MikuNET 学学化妆"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2014639441529159681",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_Vv5ebWQAEKvBI.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2014639441671856128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_Vv5e9XoAAzLl1.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          }
+        ],
+        "conversation_id": "2014639445731922384",
+        "created_at": "2026-01-24T07:22:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T08:22:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014961969472930080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1634807884268855297",
+              "start": 0,
+              "username": "teaGfx_MikuNET"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014961969472930080",
+        "in_reply_to_user_id": "1634807884268855297",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014639445731922384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@teaGfx_MikuNET 学学化妆"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014639441529159681",
+            "3_2014639441671856128"
+          ]
+        },
+        "author_id": "1634807884268855297",
+        "conversation_id": "2014639445731922384",
+        "created_at": "2026-01-23T10:00:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T11:00:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014639445731922384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6xVMAwzmKX",
+              "end": 83,
+              "expanded_url": "https://x.com/teaGfx_MikuNET/status/2014639445731922384/photo/1",
+              "media_key": "3_2014639441529159681",
+              "start": 60,
+              "url": "https://t.co/6xVMAwzmKX"
+            },
+            {
+              "display_url": "pic.x.com/6xVMAwzmKX",
+              "end": 83,
+              "expanded_url": "https://x.com/teaGfx_MikuNET/status/2014639445731922384/photo/1",
+              "media_key": "3_2014639441671856128",
+              "start": 60,
+              "url": "https://t.co/6xVMAwzmKX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014639445731922384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6008,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "即使我穿上了女装，在镜头前卖萌，但也摆脱不了我是个生理男的事实，我不知道还要多久，我才能真正蜕变，成为一个女孩子... https://t.co/6xVMAwzmKX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "成分复杂，歌品感人，爱听跳楼机离别开出花，最喜欢的歌手是海来阿木，二次元赛高，最喜欢的番是蓝色监狱中二病，最喜欢的角色是三玖神里绫华猫羽雫，号主皮下165cm100kg，自带防弹衣捅一刀发现还没穿过脂肪层，出原味，出带着我后代的卫生纸，🚪8964，纯绿0721",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010631486530322432/50V-akck_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 603,
+          "like_count": 8008,
+          "listed_count": 1,
+          "media_count": 479,
+          "tweet_count": 4488
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-12T06:45:55.000Z",
+        "description": "I'm Steve,A Student,MtF,Play Games:Mai,Chuni,MC | hrt:2025/6/13 | Best sister: @zhi_cheng233 | @RainEngine2024 | 越过高山,即为希望 | 🍥is best! |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 79,
+                "username": "zhi_cheng233"
+              },
+              {
+                "end": 110,
+                "start": 95,
+                "username": "RainEngine2024"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikuhome.ewsn.ltd",
+                "end": 23,
+                "expanded_url": "http://mikuhome.ewsn.ltd",
+                "start": 0,
+                "url": "https://t.co/7FwLwaVPS2"
+              }
+            ]
+          }
+        },
+        "id": "1634807884268855297",
+        "location": "localhost:443",
+        "name": "Steve_Alex🍥",
+        "pinned_tweet_id": "2014639445731922384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006714419158323200/VI_0Cag9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 648,
+          "like_count": 10834,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 770
+        },
+        "url": "https://t.co/7FwLwaVPS2",
+        "username": "teaGfx_MikuNET",
+        "verified": false
+      }
+    ]
+  }
+}

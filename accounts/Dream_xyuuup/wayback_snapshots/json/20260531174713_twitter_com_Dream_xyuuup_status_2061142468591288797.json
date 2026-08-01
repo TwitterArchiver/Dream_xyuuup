@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060755786259746821"
+      ],
+      "media_source_tweet_id": [
+        "2060755789195751494"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "2061142468591288797",
+    "created_at": "2026-05-31T17:47:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T18:47:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061142468591288797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1893409439614676992",
+          "start": 3,
+          "username": "pinky1171709"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yRRFUDRxJY",
+          "end": 41,
+          "expanded_url": "https://x.com/pinky1171709/status/2060755789195751494/photo/1",
+          "media_key": "3_2060755786259746821",
+          "start": 18,
+          "url": "https://t.co/yRRFUDRxJY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061142468591288797",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 851
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060755789195751494",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pinky1171709: https://t.co/yRRFUDRxJY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 502,
+        "media_key": "3_2060755786259746821",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJlGeCDX0AU9vYX.jpg",
+        "width": 593
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060755786259746821"
+          ],
+          "media_source_tweet_id": [
+            "2060755789195751494"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "2061142468591288797",
+        "created_at": "2026-05-31T17:47:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T18:47:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061142468591288797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1893409439614676992",
+              "start": 3,
+              "username": "pinky1171709"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yRRFUDRxJY",
+              "end": 41,
+              "expanded_url": "https://x.com/pinky1171709/status/2060755789195751494/photo/1",
+              "media_key": "3_2060755786259746821",
+              "start": 18,
+              "url": "https://t.co/yRRFUDRxJY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061142468591288797",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 851
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060755789195751494",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pinky1171709: https://t.co/yRRFUDRxJY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060755786259746821"
+          ]
+        },
+        "author_id": "1893409439614676992",
+        "conversation_id": "2060755789195751494",
+        "created_at": "2026-05-30T16:10:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T17:10:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060755789195751494"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yRRFUDRxJY",
+              "end": 23,
+              "expanded_url": "https://x.com/pinky1171709/status/2060755789195751494/photo/1",
+              "media_key": "3_2060755786259746821",
+              "start": 0,
+              "url": "https://t.co/yRRFUDRxJY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060755789195751494",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 230,
+          "impression_count": 81038,
+          "like_count": 6077,
+          "quote_count": 15,
+          "reply_count": 28,
+          "retweet_count": 851
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/yRRFUDRxJY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "mtx,her/they\n我很蠢你们要理解我\n*・x・*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "弈鸠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059924129340592128/ItWjnHnF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 636,
+          "like_count": 8391,
+          "listed_count": 0,
+          "media_count": 642,
+          "tweet_count": 6317
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T21:16:13.000Z",
+        "description": "bi person\nEVIL dt one trick\nmusic nerd\nalk3 no.1 glazer\ngd gooner\nwashed up rl player\ncs2 addict\ndisc: pinkyy2294\npriv: @pinkypriv11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 120,
+                "username": "pinkypriv11"
+              }
+            ]
+          }
+        },
+        "id": "1893409439614676992",
+        "location": "16, she/her ",
+        "name": "pinky :) ✈️👖🧥",
+        "pinned_tweet_id": "1997018642827866425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061130303121313793/gZDqTl59_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3191,
+          "following_count": 1010,
+          "like_count": 52272,
+          "listed_count": 24,
+          "media_count": 2279,
+          "tweet_count": 34154
+        },
+        "username": "pinky1171709",
+        "verified": false
+      }
+    ]
+  }
+}

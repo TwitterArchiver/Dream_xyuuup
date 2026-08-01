@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1917069348767994135",
+    "created_at": "2025-04-29T04:12:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-29T05:12:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917069348767994135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1833942619468218368",
+          "start": 3,
+          "username": "ash1taa"
+        },
+        {
+          "end": 25,
+          "id": "1614826297091592198",
+          "start": 13,
+          "username": "Winter_yoki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917069348767994135",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917046580101910632",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ash1taa: @Winter_yoki 男电话本子眼珠子一转又是一锅新的饭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1917069348767994135",
+        "created_at": "2025-04-29T04:12:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T05:12:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917069348767994135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1833942619468218368",
+              "start": 3,
+              "username": "ash1taa"
+            },
+            {
+              "end": 25,
+              "id": "1614826297091592198",
+              "start": 13,
+              "username": "Winter_yoki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917069348767994135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917046580101910632",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ash1taa: @Winter_yoki 男电话本子眼珠子一转又是一锅新的饭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1833942619468218368",
+        "conversation_id": "1916989577518252104",
+        "created_at": "2025-04-29T02:41:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T03:41:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917046580101910632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1614826297091592198",
+              "start": 0,
+              "username": "Winter_yoki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917046580101910632",
+        "in_reply_to_user_id": "1614826297091592198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916989577518252104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Winter_yoki 男电话本子眼珠子一转又是一锅新的饭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "废话多 随机掉落负能量｜最近在偷偷幸福😼我成分复杂请慢慢研究我｜对所有人友善除了现生。｜最可爱的小宝宝@QLing61007 😽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 51,
+                "username": "QLing61007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠ltnh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905913123158298624/ClLLrGxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 392,
+          "like_count": 3716,
+          "listed_count": 1,
+          "media_count": 187,
+          "tweet_count": 1657
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-11T18:56:43.000Z",
+        "description": "どこへ行こう、どこへ行こう | 置顶是前任作恶瓜条 | 🎒💼🇭🇰&🩵🇳🇿🇲🇻🇯🇵｜插排&洛奶全肯定｜#塔报 #塔饭 #塔歌",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 50,
+                "tag": "塔报"
+              },
+              {
+                "end": 57,
+                "start": 54,
+                "tag": "塔饭"
+              },
+              {
+                "end": 61,
+                "start": 58,
+                "tag": "塔歌"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ashita_ch",
+                "end": 23,
+                "expanded_url": "https://t.me/ashita_ch",
+                "start": 0,
+                "url": "https://t.co/x0k5VAmpQE"
+              }
+            ]
+          }
+        },
+        "id": "1833942619468218368",
+        "name": "あした",
+        "pinned_tweet_id": "1910774457171595762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910356819157143552/pT7jy23h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 135,
+          "like_count": 2191,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 839
+        },
+        "url": "https://t.co/x0k5VAmpQE",
+        "username": "ash1taa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-16T03:26:15.000Z",
+        "description": "男高0.5 | ENFP-T | 也许是清水日常或者是一些碎碎念...   ΣΣ(,,・ω・,,)",
+        "id": "1614826297091592198",
+        "name": "冬麦yoki",
+        "pinned_tweet_id": "1915449696874881037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916881624081334273/vIwh3g4j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6656,
+          "following_count": 727,
+          "like_count": 13468,
+          "listed_count": 7,
+          "media_count": 465,
+          "tweet_count": 7542
+        },
+        "username": "Winter_yoki",
+        "verified": false
+      }
+    ]
+  }
+}

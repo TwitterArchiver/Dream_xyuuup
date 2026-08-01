@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "2051611887042015461",
+    "created_at": "2026-05-05T10:36:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T11:36:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051611887042015461"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/acervodoguinho…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/acervodoguinhos/status/2051430967622136193",
+          "start": 4,
+          "url": "https://t.co/OnKn2g9I3d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051611887042015461",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051430967622136193",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我室友 https://t.co/OnKn2g9I3d"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2051430961875648512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHgll0PWAAAKAIb.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "2051611887042015461",
+        "created_at": "2026-05-05T10:36:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T11:36:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051611887042015461"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/acervodoguinho…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/acervodoguinhos/status/2051430967622136193",
+              "start": 4,
+              "url": "https://t.co/OnKn2g9I3d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051611887042015461",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051430967622136193",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我室友 https://t.co/OnKn2g9I3d"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051430961875648512"
+          ]
+        },
+        "author_id": "1358862422258376704",
+        "conversation_id": "2051430967622136193",
+        "created_at": "2026-05-04T22:37:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T23:37:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051430967622136193"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kaeIe6O3aM",
+              "end": 23,
+              "expanded_url": "https://x.com/acervodoguinhos/status/2051430967622136193/photo/1",
+              "media_key": "3_2051430961875648512",
+              "start": 0,
+              "url": "https://t.co/kaeIe6O3aM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051430967622136193",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 223,
+          "impression_count": 102582,
+          "like_count": 2634,
+          "quote_count": 157,
+          "reply_count": 52,
+          "retweet_count": 471
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/kaeIe6O3aM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "弈鸠，是谁？\nenby,her/they,激女粉红点进就死\n*・x・*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "脚踩你爷爷登顶称王",
+        "pinned_tweet_id": "1983180498538291667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041811823687823360/QQkkR0z6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 618,
+          "like_count": 8274,
+          "listed_count": 1,
+          "media_count": 564,
+          "tweet_count": 5540
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-08T19:37:12.000Z",
+        "description": "🐶 Vídeos de dogs, meus e músicas  🎥 Os vídeos não são meus  📩 DM para créditos ou remoção",
+        "id": "1358862422258376704",
+        "location": "Minas Gerais, Brasil",
+        "name": "acervo doguinhos",
+        "pinned_tweet_id": "1530578062026412033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009074555759824896/QO7vqh88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52135,
+          "following_count": 2208,
+          "like_count": 119885,
+          "listed_count": 38,
+          "media_count": 2404,
+          "tweet_count": 10613
+        },
+        "username": "acervodoguinhos",
+        "verified": true
+      }
+    ]
+  }
+}

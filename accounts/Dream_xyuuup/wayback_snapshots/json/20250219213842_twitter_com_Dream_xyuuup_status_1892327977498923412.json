@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1892276973180735488"
+      ],
+      "media_source_tweet_id": [
+        "1892276977702211918"
+      ]
+    },
+    "author_id": "1726051028112744448",
+    "conversation_id": "1892327977498923412",
+    "created_at": "2025-02-19T21:38:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-19T22:38:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892327977498923412"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1485545739074039808",
+          "start": 3,
+          "username": "FABIT609"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VNS82JtpWE",
+          "end": 37,
+          "expanded_url": "https://x.com/FABIT609/status/1892276977702211918/photo/1",
+          "media_key": "3_1892276973180735488",
+          "start": 14,
+          "url": "https://t.co/VNS82JtpWE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892327977498923412",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 121
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892276977702211918",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FABIT609: https://t.co/VNS82JtpWE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1316,
+        "media_key": "3_1892276973180735488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkK34aMW0AAPLpF.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892276973180735488"
+          ],
+          "media_source_tweet_id": [
+            "1892276977702211918"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "1892327977498923412",
+        "created_at": "2025-02-19T21:38:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T22:38:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892327977498923412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1485545739074039808",
+              "start": 3,
+              "username": "FABIT609"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VNS82JtpWE",
+              "end": 37,
+              "expanded_url": "https://x.com/FABIT609/status/1892276977702211918/photo/1",
+              "media_key": "3_1892276973180735488",
+              "start": 14,
+              "url": "https://t.co/VNS82JtpWE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892327977498923412",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 121
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892276977702211918",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FABIT609: https://t.co/VNS82JtpWE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892276973180735488"
+          ]
+        },
+        "author_id": "1485545739074039808",
+        "conversation_id": "1892276977702211918",
+        "created_at": "2025-02-19T18:16:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T19:16:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892276977702211918"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VNS82JtpWE",
+              "end": 23,
+              "expanded_url": "https://x.com/FABIT609/status/1892276977702211918/photo/1",
+              "media_key": "3_1892276973180735488",
+              "start": 0,
+              "url": "https://t.co/VNS82JtpWE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892276977702211918",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 75,
+          "impression_count": 5183,
+          "like_count": 727,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 121
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/VNS82JtpWE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "一个偏远内蒙厌学b 因为学不会理科所以经常哭泣 求互fo 可以把我视为现充#喵斯#有三次偶像#INFP#🏳️‍🌈0.5",
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠ltnh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892121675938004992/fWCivcy4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 55,
+          "like_count": 127,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 31
+        },
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-24T09:31:25.000Z",
+        "description": "LunaticBinko/月閒小氷",
+        "id": "1485545739074039808",
+        "name": "LunaticBinko",
+        "pinned_tweet_id": "1819019903682433211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830191003300741124/UrIOIjMc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2710,
+          "following_count": 279,
+          "like_count": 266,
+          "listed_count": 27,
+          "media_count": 186,
+          "tweet_count": 227
+        },
+        "username": "FABIT609",
+        "verified": false
+      }
+    ]
+  }
+}

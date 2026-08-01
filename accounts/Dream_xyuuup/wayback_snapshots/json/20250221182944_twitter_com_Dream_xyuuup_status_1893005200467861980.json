@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1726051028112744448",
+    "conversation_id": "1893005200467861980",
+    "created_at": "2025-02-21T18:29:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-21T19:29:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1893005200467861980"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cupidmka/statu…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/cupidmka/status/1892981197912830274",
+          "start": 6,
+          "url": "https://t.co/a9U1BUiaGQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893005200467861980",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892981197912830274",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "草笑死我了 https://t.co/a9U1BUiaGQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1050,
+        "media_key": "3_1892981194863575040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkU4XgZWgAAGVP2.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1893005200467861980",
+        "created_at": "2025-02-21T18:29:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T19:29:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893005200467861980"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cupidmka/statu…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/cupidmka/status/1892981197912830274",
+              "start": 6,
+              "url": "https://t.co/a9U1BUiaGQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893005200467861980",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892981197912830274",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "草笑死我了 https://t.co/a9U1BUiaGQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892981194863575040"
+          ]
+        },
+        "author_id": "1685282797513019393",
+        "conversation_id": "1892981197912830274",
+        "created_at": "2025-02-21T16:54:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T17:54:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892981197912830274"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WIMLNAkhTM",
+              "end": 25,
+              "expanded_url": "https://x.com/cupidmka/status/1892981197912830274/photo/1",
+              "media_key": "3_1892981194863575040",
+              "start": 2,
+              "url": "https://t.co/WIMLNAkhTM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892981197912830274",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 842,
+          "like_count": 109,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "? https://t.co/WIMLNAkhTM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "这是一本日记 可以把我视为现充 喜欢视奸#喵斯#有三次偶像#ISFP#🏳️‍🌈0.5",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dreamxy_uuup",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dreamxy_uuup",
+                "start": 0,
+                "url": "https://t.co/V4QSiptJcT"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠ltnh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892121675938004992/fWCivcy4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 75,
+          "like_count": 169,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 78
+        },
+        "url": "https://t.co/V4QSiptJcT",
+        "username": "Dream_xyuuup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-29T13:35:14.000Z",
+        "description": "moka's pr manager ❥ she her 18 rcbyf • btsillit • noticed by moheetoz! media + bu @mohetoz 𐙚",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 82,
+                "username": "mohetoz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cupidmka.carrd.com",
+                "end": 23,
+                "expanded_url": "http://cupidmka.carrd.com",
+                "start": 0,
+                "url": "https://t.co/saLjIaqYDv"
+              }
+            ]
+          }
+        },
+        "id": "1685282797513019393",
+        "name": "sevie ᰔ",
+        "pinned_tweet_id": "1783247787221516495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890748450490241024/sw9EeCAG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2786,
+          "following_count": 348,
+          "like_count": 104654,
+          "listed_count": 15,
+          "media_count": 4512,
+          "tweet_count": 15789
+        },
+        "url": "https://t.co/saLjIaqYDv",
+        "username": "cupidmka",
+        "verified": false
+      }
+    ]
+  }
+}
